@@ -203,6 +203,24 @@ class SettingsView extends StackedView<SettingsViewModel> {
 
                   // ABOUT
                   const SettingsCategoryTitle(
+                    title: 'PRIVACY',
+                  ),
+                  Divider(
+                    height: 0,
+                    color: context.appColors.divider,
+                  ),
+                  ToggleItem(
+                    label: 'Allow internet access',
+                    value: viewModel.showInternetAccess,
+                    onChanged: viewModel.changeShowInternetAccess,
+                  ),
+                  Divider(
+                    height: 0,
+                    color: context.appColors.divider,
+                  ),
+
+                  // ABOUT
+                  const SettingsCategoryTitle(
                     title: 'ABOUT',
                   ),
                   Divider(

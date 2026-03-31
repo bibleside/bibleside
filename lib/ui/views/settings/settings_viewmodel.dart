@@ -22,6 +22,7 @@ class SettingsViewModel extends FutureViewModel<String> {
   double get textScaling => _settingsService.textScaling;
   bool get showMarks => _settingsService.showMarks;
   bool get showChaptersAndVerses => _settingsService.showChaptersAndVerses;
+  bool get showInternetAccess => _settingsService.showInternetAccess;
   AppTheme get activeTheme => _themeService.activeTheme;
 
   Future<void> onSetAppTheme(AppTheme selectedTheme) async {
@@ -41,6 +42,11 @@ class SettingsViewModel extends FutureViewModel<String> {
 
   void changeShowChaptersAndVerses(bool value) {
     _settingsService.setShowChaptersAndVerses(value);
+    rebuildUi();
+  }
+
+  void changeShowInternetAccess(bool value) {
+    _settingsService.setShowInternetAccess(value);
     rebuildUi();
   }
 
