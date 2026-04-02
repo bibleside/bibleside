@@ -209,6 +209,15 @@ class SettingsView extends StackedView<SettingsViewModel> {
                     height: 0,
                     color: context.appColors.divider,
                   ),
+                  Text(
+                    'WARNING: Privacy features not fully implemented!',
+                    style: TextStyle(
+                      color: context.appColors.primary,
+                      fontSize: 15.0,
+                      fontWeight: FontWeight.w500,
+                      letterSpacing: -0.1,
+                    ),
+                  ),
                   ToggleItem(
                     label: 'Allow internet access',
                     value: viewModel.showInternetAccess,
