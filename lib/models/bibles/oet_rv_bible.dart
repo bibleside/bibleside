@@ -18,113 +18,101 @@ class OETReadersBibleImpl extends JsonToBible {
   ) async {
     String htmlText = '';
     String chapterNumberHtml = '';
+    String chapterNumber = '1';
 
-    String chapterNumber = '';
-    String sectionVerseReference = '';
-    List<dynamic> chapterContents = [];
+    String sectionText = '';
+    bool pendingSection = false;
 
-    List<dynamic> chaptersData = json['chapters'];
+    // State for assembling a verse
+    String currentVerseId = '';
+    String currentVerseNumber = '';
+    String currentVerseText = '';
+    bool hasPendingVerse = false;
 
-    for (Map<String, dynamic> chapter in chaptersData) {
-      chapterNumber = chapter['chapterNumber'];
-      chapterNumberHtml =
-          '''<span class="c" id="${readerArea.name}-$bookCode-$chapterNumber">${showChaptersAndVerses ? chapterNumber : ''}</span>''';
+    void flushVerse() {
+      if (hasPendingVerse) {
+        // Note: we remove numbers and markings related to links for now
+        String formattedText = currentVerseText
+            .replaceAll(RegExp(r'¦([0-9])*\d+'), '')
+            .replaceAll(' +', ' ')
+            .replaceAll('>', ' ')
+            .replaceAll('=', ' ')
+            .replaceAll("'", "’");
 
-      chapterContents = chapter['contents'];
-
-      String sectionText = '';
-
-      // In the current json, the section heading is placed in the verse
-      // before the actual section, so we delay splitting the section with isNext
-      // It means that this is the next verse after the 's1'.
-      bool isNewParagraph = false;
-      bool isNext = false;
-      bool isSection = false;
-      for (Map<String, dynamic> item in chapterContents) {
-        if (isSection == true && isNext == false) {
-          isNext = true;
+        if (pendingSection) {
+          String sectionId =
+              '${readerArea.name}-$bookCode-$chapterNumber-$currentVerseNumber';
+          htmlText +=
+              '''</p><div class="section-box"><p><sup id="$sectionId">$chapterNumber:$currentVerseNumber</sup> ${sectionText.replaceAll('\'', '’')}</p></div><p>''';
+          pendingSection = false;
         }
 
-        for (String key in item.keys) {
-          if (key == 's1') {
-            sectionText = item['s1'];
-            isSection = true;
-          } else if (key == 'contents') {
-            // Handle new paragraphs
-            // We're looking for the indication of a new paragraph: "p" representing /p in the ESFM
-            for (var innerMap in item[key]) {
-              if (innerMap is Map) {
-                if (innerMap.containsKey('s1')) {
-                  if (innerMap['s1'] is String) {
-                    sectionText = innerMap['s1'];
-                    isSection = true;
+        String bookmarkIcon = bookmarkIconHTML(currentVerseId, bookmarks);
+
+        htmlText +=
+            '''<span ondblclick="onCreateBookmark(&quot;$currentVerseId&quot;)" class="p">$chapterNumberHtml$bookmarkIcon<sup id="$currentVerseId">${showChaptersAndVerses ? currentVerseNumber : ''}</sup>&nbsp;$formattedText</span>''';
+
+        chapterNumberHtml = '';
+        hasPendingVerse = false;
+        currentVerseText = '';
+      }
+    }
+
+    if (json['content'] == null) {
+      return htmlText;
+    }
+
+    for (Map item in json['content']) {
+      if (item['type'] == 'chapter') {
+        chapterNumber = item['number'];
+        String chapterId = '${readerArea.name}-$bookCode-$chapterNumber';
+        chapterNumberHtml =
+            '''<span class="c" id="$chapterId">${showChaptersAndVerses ? chapterNumber : ''}</span>''';
+      }
+
+      if (item['type'] == 'para') {
+        if (item['marker'] == 's1' ||
+            item['marker'] == 's2' ||
+            item['marker'] == 's') {
+          String text = '';
+          for (dynamic contentItem in item['content'] ?? []) {
+            if (contentItem is String) text += contentItem;
+          }
+          sectionText = text.trim();
+          pendingSection = true;
+        } else if (item['marker'] == 'p' ||
+            item['marker'] == 'm' ||
+            item['marker'] == 'q') {
+          htmlText += '<p>';
+
+          for (dynamic contentItem in item['content'] ?? []) {
+            if (contentItem is Map) {
+              if (contentItem['type'] == 'verse') {
+                flushVerse();
+                currentVerseNumber = contentItem['number'];
+                currentVerseId =
+                    '${readerArea.name}-$bookCode-$chapterNumber-$currentVerseNumber';
+                hasPendingVerse = true;
+              } else if (contentItem['type'] == 'char') {
+                for (dynamic charItem in contentItem['content'] ?? []) {
+                  if (charItem is String) {
+                    currentVerseText += charItem.replaceAll('≈', "");
                   }
                 }
-
-                if (innerMap.containsKey('p')) {
-                  isNewParagraph = true;
-                }
+              }
+            } else if (contentItem is String) {
+              if (hasPendingVerse) {
+                currentVerseText += contentItem;
               }
             }
           }
 
-          // Handle verse numbers
-          if (key == 'verseNumber') {
-            String verseNumberText = item[key];
-
-            if (verseNumberText != '1') {
-              chapterNumberHtml = '';
-            }
-
-            if (isNewParagraph == true) {
-              // Add a new break between paragraphs
-              isNewParagraph = false;
-              if (verseNumberText == '1') {
-                htmlText += '<p class="c" id="${readerArea.name}-$bookCode-$chapterNumber">';
-              } else {
-                // The end of a paragraph
-                htmlText += '<p/>';
-              }
-            }
-            sectionVerseReference = verseNumberText;
-
-            if (isSection == false) {
-              String verseId = '${readerArea.name}-$bookCode-$chapterNumber-$verseNumberText';
-              String bookmarkIcon = bookmarkIconHTML(verseId, bookmarks);
-              if (isNewParagraph == false) {
-                htmlText +=
-                    '''<span ondblclick=onCreateBookmark("$verseId") class="p">$bookmarkIcon<sup id="$verseId">${showChaptersAndVerses ? verseNumberText : ''}</sup>''';
-              } else {
-                htmlText +=
-                    '''<p ondblclick=onCreateBookmark("$verseId") class="p">$chapterNumberHtml$bookmarkIcon<sup id="$verseId">${showChaptersAndVerses ? verseNumberText : ''}</sup>''';
-              }
-            }
-          } else if (key == 'verseText') {
-            // Note: we remove numbers and markings related to links for now
-            String verseText;
-
-            verseText = item[key]
-                .replaceAll(RegExp(r'¦([0-9])*\d+'), '')
-                .replaceAll(' +', ' ')
-                .replaceAll('>', ' ')
-                .replaceAll('=', ' ');
-
-            if (isSection == true && isNext == true) {
-              String verseId = '${readerArea.name}-$bookCode-$chapterNumber-$sectionVerseReference';
-              String bookmarkIcon = bookmarkIconHTML(verseId, bookmarks);
-              htmlText +=
-                  """<p><div class="section-box"><p><sup id="$verseId">$chapterNumber:$sectionVerseReference</sup> ${sectionText.replaceAll("'", "’")}</p></div><span ondblclick=onCreateBookmark("$verseId") class="p">$chapterNumberHtml$bookmarkIcon<sup>${showChaptersAndVerses ? sectionVerseReference : ''}</sup>&nbsp;${verseText.replaceAll("'", "’")}</span>""";
-
-              isSection = false;
-              isNext = false;
-            } else {
-              htmlText += "&nbsp;${verseText.replaceAll("'", "’")}</span>";
-            }
-          }
+          flushVerse();
+          htmlText += '</p>';
         }
       }
     }
-    //log(htmlText);
+
     return htmlText;
   }
 }
