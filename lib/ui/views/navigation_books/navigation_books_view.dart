@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../common/books.dart';
@@ -82,30 +82,33 @@ class NavigationBooksView extends StackedView<NavigationBooksViewModel> {
                   Map<String, String> booksMapping = BooksMapping.booksMappingFromBibleDivisionCode(bibleDivisionCode);
                   String bookCode = booksMapping.keys.toList()[index];
                   bool isDisabled = viewModel.isItemDisabled(bookCode);
-                  return InkWell(
-                    onTap: () => viewModel.onTapBookItem(bookCode, isDisabled),
-                    child: Opacity(
-                      opacity: isDisabled ? 0.5 : 1.0,
-                      child: Padding(
-                        padding: const EdgeInsets.symmetric(vertical: 14.0, horizontal: 25.0),
-                        child: Row(
-                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                          crossAxisAlignment: CrossAxisAlignment.center,
-                          children: [
-                            Text(
-                              '${booksMapping[bookCode]}',
-                              style: TextStyle(
-                                color: context.theme.appColors.primary,
-                                fontSize: 16.0,
+                  return Material(
+                    type: MaterialType.transparency,
+                    child: InkWell(
+                      onTap: () => viewModel.onTapBookItem(bookCode, isDisabled),
+                      child: Opacity(
+                        opacity: isDisabled ? 0.5 : 1.0,
+                        child: Padding(
+                          padding: const EdgeInsets.symmetric(vertical: 14.0, horizontal: 25.0),
+                          child: Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            crossAxisAlignment: CrossAxisAlignment.center,
+                            children: [
+                              Text(
+                                '${booksMapping[bookCode]}',
+                                style: TextStyle(
+                                  color: context.theme.appColors.primary,
+                                  fontSize: 16.0,
+                                ),
                               ),
-                            ),
-                            PhosphorIcon(
-                              PhosphorIcons.caretRight(PhosphorIconsStyle.bold),
-                              color: context.theme.appColors.primary,
-                              size: 18.0,
-                              semanticLabel: 'Caret right',
-                            ),
-                          ],
+                              PhosphorIcon(
+                                PhosphorIconsBold.caretRight,
+                                color: context.theme.appColors.primary,
+                                size: 18.0,
+                                semanticLabel: 'Caret right',
+                              ),
+                            ],
+                          ),
                         ),
                       ),
                     ),

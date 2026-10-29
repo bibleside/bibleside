@@ -28,7 +28,7 @@ dependencies:
   url_launcher: ^6.3.2
 
   # Icons
-  phosphor_flutter: ^2.1.0
+  phosphoricons_flutter: ^1.1.1
 
 dev_dependencies:
   build_runner: ^2.4.13

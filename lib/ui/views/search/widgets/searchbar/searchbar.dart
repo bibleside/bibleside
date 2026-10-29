@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../../../common/themes.dart';
@@ -27,7 +27,7 @@ class Searchbar extends StackedView<SearchbarModel> {
         decoration: InputDecoration(
           contentPadding: const EdgeInsets.symmetric(horizontal: 16.0),
           prefixIcon: PhosphorIcon(
-            PhosphorIcons.magnifyingGlass(PhosphorIconsStyle.bold),
+            PhosphorIconsBold.magnifyingGlass,
             color: context.theme.appColors.primary,
             size: 18.0,
             semanticLabel: 'Search',

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_themes/stacked_themes.dart';
 
@@ -112,7 +112,7 @@ class SettingsView extends StackedView<SettingsViewModel> {
                           child: Row(
                             children: [
                               PhosphorIcon(
-                                PhosphorIcons.magnifyingGlassMinus(PhosphorIconsStyle.regular),
+                                PhosphorIcons.magnifyingGlassMinus,
                                 color: context.theme.appColors.primary,
                                 size: 20.0,
                               ),
@@ -133,7 +133,7 @@ class SettingsView extends StackedView<SettingsViewModel> {
                                 ),
                               ),
                               PhosphorIcon(
-                                PhosphorIcons.magnifyingGlassPlus(PhosphorIconsStyle.regular),
+                                PhosphorIcons.magnifyingGlassPlus,
                                 color: context.theme.appColors.primary,
                                 size: 20.0,
                               ),
@@ -240,35 +240,38 @@ class SettingsView extends StackedView<SettingsViewModel> {
                     color: context.theme.appColors.divider,
                   ),
                   // Share feedback
-                  InkWell(
-                    onTap: viewModel.shareFeedback,
-                    child: Padding(
-                      padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 16.0),
-                      child: Row(
-                        children: [
-                          Padding(
-                            padding: const EdgeInsets.symmetric(horizontal: 5.0),
-                            child: PhosphorIcon(
-                              PhosphorIcons.envelopeOpen(PhosphorIconsStyle.regular),
-                              color: context.theme.appColors.primary,
-                            ),
-                          ),
-                          const SizedBox(width: 8.0),
-                          Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Text(
-                                'Share feedback with the developer',
-                                style: TextStyle(
-                                  color: context.theme.appColors.primary,
-                                  fontSize: 15.0,
-                                  fontWeight: FontWeight.w500,
-                                  letterSpacing: -0.1,
-                                ),
+                  Material(
+                    type: MaterialType.transparency,
+                    child: InkWell(
+                      onTap: viewModel.shareFeedback,
+                      child: Padding(
+                        padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 16.0),
+                        child: Row(
+                          children: [
+                            Padding(
+                              padding: const EdgeInsets.symmetric(horizontal: 5.0),
+                              child: PhosphorIcon(
+                                PhosphorIcons.envelopeOpen,
+                                color: context.theme.appColors.primary,
                               ),
-                            ],
-                          ),
-                        ],
+                            ),
+                            const SizedBox(width: 8.0),
+                            Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  'Share feedback with the developer',
+                                  style: TextStyle(
+                                    color: context.theme.appColors.primary,
+                                    fontSize: 15.0,
+                                    fontWeight: FontWeight.w500,
+                                    letterSpacing: -0.1,
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ],
+                        ),
                       ),
                     ),
                   ),
@@ -278,35 +281,38 @@ class SettingsView extends StackedView<SettingsViewModel> {
                     color: context.theme.appColors.divider,
                   ),
                   // Visit website
-                  InkWell(
-                    onTap: viewModel.visitWebsite,
-                    child: Padding(
-                      padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 16.0),
-                      child: Row(
-                        children: [
-                          Padding(
-                            padding: const EdgeInsets.symmetric(horizontal: 5.0),
-                            child: PhosphorIcon(
-                              PhosphorIcons.globe(PhosphorIconsStyle.regular),
-                              color: context.theme.appColors.primary,
-                            ),
-                          ),
-                          const SizedBox(width: 8.0),
-                          Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Text(
-                                'Visit app website',
-                                style: TextStyle(
-                                  color: context.theme.appColors.primary,
-                                  fontSize: 15.0,
-                                  fontWeight: FontWeight.w500,
-                                  letterSpacing: -0.1,
-                                ),
+                  Material(
+                    type: MaterialType.transparency,
+                    child: InkWell(
+                      onTap: viewModel.visitWebsite,
+                      child: Padding(
+                        padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 16.0),
+                        child: Row(
+                          children: [
+                            Padding(
+                              padding: const EdgeInsets.symmetric(horizontal: 5.0),
+                              child: PhosphorIcon(
+                                PhosphorIcons.globe,
+                                color: context.theme.appColors.primary,
                               ),
-                            ],
-                          ),
-                        ],
+                            ),
+                            const SizedBox(width: 8.0),
+                            Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(
+                                  'Visit app website',
+                                  style: TextStyle(
+                                    color: context.theme.appColors.primary,
+                                    fontSize: 15.0,
+                                    fontWeight: FontWeight.w500,
+                                    letterSpacing: -0.1,
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ],
+                        ),
                       ),
                     ),
                   ),

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../common/books.dart';
@@ -51,41 +51,44 @@ class NavigationBibleDivisionsView extends StackedView<NavigationBibleDivisionsV
                     itemCount: booksInSectionsMapping.keys.length,
                     itemBuilder: (BuildContext context, int index) {
                       String bibleDivisionCode = BooksMapping.bibleDivisionCodeFromIndex(index);
-                      return InkWell(
-                        onTap: () => viewModel.onTapBibleDivisionItem(bibleDivisionCode),
-                        child: Padding(
-                          padding: const EdgeInsets.symmetric(vertical: 15.0, horizontal: 25.0),
-                          child: Row(
-                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                            crossAxisAlignment: CrossAxisAlignment.center,
-                            children: [
-                              Row(
-                                children: [
-                                  Align(
-                                    alignment: Alignment.topLeft,
-                                    child: Padding(
-                                      padding: const EdgeInsets.only(bottom: 13.0, right: 8),
-                                      child: BibleDivisionIndicator(
-                                        color: BooksMapping.colorFromBibleDivisionCode(bibleDivisionCode),
+                      return Material(
+                        type: MaterialType.transparency,
+                        child: InkWell(
+                          onTap: () => viewModel.onTapBibleDivisionItem(bibleDivisionCode),
+                          child: Padding(
+                            padding: const EdgeInsets.symmetric(vertical: 15.0, horizontal: 25.0),
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                              crossAxisAlignment: CrossAxisAlignment.center,
+                              children: [
+                                Row(
+                                  children: [
+                                    Align(
+                                      alignment: Alignment.topLeft,
+                                      child: Padding(
+                                        padding: const EdgeInsets.only(bottom: 13.0, right: 8),
+                                        child: BibleDivisionIndicator(
+                                          color: BooksMapping.colorFromBibleDivisionCode(bibleDivisionCode),
+                                        ),
                                       ),
                                     ),
-                                  ),
-                                  Text(
-                                    BooksMapping.bibleDivisionNameFromCode(bibleDivisionCode),
-                                    style: TextStyle(
-                                      color: context.theme.appColors.primary,
-                                      fontSize: 16.0,
+                                    Text(
+                                      BooksMapping.bibleDivisionNameFromCode(bibleDivisionCode),
+                                      style: TextStyle(
+                                        color: context.theme.appColors.primary,
+                                        fontSize: 16.0,
+                                      ),
                                     ),
-                                  ),
-                                ],
-                              ),
-                              PhosphorIcon(
-                                PhosphorIcons.caretRight(PhosphorIconsStyle.bold),
-                                color: context.theme.appColors.primary,
-                                size: 18.0,
-                                semanticLabel: 'Caret right',
-                              ),
-                            ],
+                                  ],
+                                ),
+                                PhosphorIcon(
+                                  PhosphorIconsBold.caretRight,
+                                  color: context.theme.appColors.primary,
+                                  size: 18.0,
+                                  semanticLabel: 'Caret right',
+                                ),
+                              ],
+                            ),
                           ),
                         ),
                       );
@@ -102,7 +105,7 @@ class NavigationBibleDivisionsView extends StackedView<NavigationBibleDivisionsV
                       Row(
                         children: [
                           PhosphorIcon(
-                            PhosphorIcons.clockCounterClockwise(PhosphorIconsStyle.regular),
+                            PhosphorIcons.clockCounterClockwise,
                             color: context.theme.appColors.secondary,
                             size: 16.0,
                           ),
@@ -131,17 +134,20 @@ class NavigationBibleDivisionsView extends StackedView<NavigationBibleDivisionsV
                                 ),
                                 itemBuilder: (BuildContext context, int index) {
                                   String bookCode = viewModel.recentBooks.elementAt(index);
-                                  return InkWell(
-                                    borderRadius: BorderRadius.circular(12.0),
-                                    onTap: () => viewModel.onTapRecentBookItem(bookCode),
-                                    child: Center(
-                                      child: Text(
-                                        BooksMapping.bookNameFromBookCode(bookCode),
-                                        maxLines: 1,
-                                        overflow: TextOverflow.ellipsis,
-                                        style: TextStyle(
-                                          color: context.theme.appColors.primary,
-                                          fontSize: 16.0,
+                                  return Material(
+                                    type: MaterialType.transparency,
+                                    child: InkWell(
+                                      borderRadius: BorderRadius.circular(12.0),
+                                      onTap: () => viewModel.onTapRecentBookItem(bookCode),
+                                      child: Center(
+                                        child: Text(
+                                          BooksMapping.bookNameFromBookCode(bookCode),
+                                          maxLines: 1,
+                                          overflow: TextOverflow.ellipsis,
+                                          style: TextStyle(
+                                            color: context.theme.appColors.primary,
+                                            fontSize: 16.0,
+                                          ),
                                         ),
                                       ),
                                     ),

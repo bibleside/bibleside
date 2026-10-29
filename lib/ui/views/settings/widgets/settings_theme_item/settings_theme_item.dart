@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../../../common/enums.dart';
@@ -24,55 +24,58 @@ class SettingsThemeItem extends StackedView<SettingsThemeItemModel> {
     SettingsThemeItemModel viewModel,
     Widget? child,
   ) {
-    return InkWell(
-      onTap: onTap,
-      radius: 7.0,
-      child: Container(
-        width: 100.0,
-        height: 134.0,
-        padding: const EdgeInsets.symmetric(vertical: 12.0, horizontal: 7.0),
-        decoration: BoxDecoration(
-          color: viewModel.getBackgroundColor(theme),
-          border: Border.all(color: context.theme.appColors.divider),
-          borderRadius: BorderRadius.circular(7.0),
-        ),
-        child: Column(
-          children: [
-            Text(
-              viewModel.getThemeName(theme),
-              style: TextStyle(
-                color: viewModel.getForegroundColor(theme),
-                fontSize: 15.0,
-                fontWeight: FontWeight.w500,
-                letterSpacing: -0.1,
+    return Material(
+      type: MaterialType.transparency,
+      child: InkWell(
+        onTap: onTap,
+        radius: 7.0,
+        child: Container(
+          width: 100.0,
+          height: 134.0,
+          padding: const EdgeInsets.symmetric(vertical: 12.0, horizontal: 7.0),
+          decoration: BoxDecoration(
+            color: viewModel.getBackgroundColor(theme),
+            border: Border.all(color: context.theme.appColors.divider),
+            borderRadius: BorderRadius.circular(7.0),
+          ),
+          child: Column(
+            children: [
+              Text(
+                viewModel.getThemeName(theme),
+                style: TextStyle(
+                  color: viewModel.getForegroundColor(theme),
+                  fontSize: 15.0,
+                  fontWeight: FontWeight.w500,
+                  letterSpacing: -0.1,
+                ),
               ),
-            ),
-            const SizedBox(height: 10.0),
-            Divider(
-              height: 1.0,
-              endIndent: 15.0,
-              color: viewModel.getForegroundColor(theme),
-            ),
-            const SizedBox(height: 12.0),
-            Divider(
-              height: 1.0,
-              endIndent: 35.0,
-              color: viewModel.getForegroundColor(theme),
-            ),
-            const SizedBox(height: 12.0),
-            Divider(
-              height: 1.0,
-              endIndent: 23.0,
-              color: viewModel.getForegroundColor(theme),
-            ),
-            const SizedBox(height: 16.0),
-            if (isSelected)
-              PhosphorIcon(
-                PhosphorIcons.checkCircle(PhosphorIconsStyle.regular),
+              const SizedBox(height: 10.0),
+              Divider(
+                height: 1.0,
+                endIndent: 15.0,
                 color: viewModel.getForegroundColor(theme),
-                size: 27.0,
               ),
-          ],
+              const SizedBox(height: 12.0),
+              Divider(
+                height: 1.0,
+                endIndent: 35.0,
+                color: viewModel.getForegroundColor(theme),
+              ),
+              const SizedBox(height: 12.0),
+              Divider(
+                height: 1.0,
+                endIndent: 23.0,
+                color: viewModel.getForegroundColor(theme),
+              ),
+              const SizedBox(height: 16.0),
+              if (isSelected)
+                PhosphorIcon(
+                  PhosphorIcons.checkCircle,
+                  color: viewModel.getForegroundColor(theme),
+                  size: 27.0,
+                ),
+            ],
+          ),
         ),
       ),
     );

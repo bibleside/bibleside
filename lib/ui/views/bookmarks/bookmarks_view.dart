@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../common/colors.dart';
@@ -65,7 +65,7 @@ class BookmarksView extends StackedView<BookmarksViewModel> {
                             spacing: 10.0,
                             children: [
                               PhosphorIcon(
-                                PhosphorIcons.bookmarksSimple(PhosphorIconsStyle.regular),
+                                PhosphorIcons.bookmarksSimple,
                                 color: context.theme.appColors.primary.withValues(alpha: 0.8),
                                 size: 26.0,
                                 semanticLabel: 'Bookmark',
@@ -88,40 +88,43 @@ class BookmarksView extends StackedView<BookmarksViewModel> {
                         itemCount: viewModel.bookmarks.length,
                         itemBuilder: (BuildContext context, int index) {
                           String bookmarkId = viewModel.bookmarks[index];
-                          return InkWell(
-                            onTap: () => viewModel.onTapBookmark(bookmarkId),
-                            child: Padding(
-                              padding: const EdgeInsets.symmetric(vertical: 14.0, horizontal: 25.0),
-                              child: Row(
-                                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                                crossAxisAlignment: CrossAxisAlignment.center,
-                                children: [
-                                  Row(
-                                    crossAxisAlignment: CrossAxisAlignment.center,
-                                    children: [
-                                      PhosphorIcon(
-                                        PhosphorIcons.bookmarkSimple(PhosphorIconsStyle.bold),
-                                        color: viewModel.bookmarks[index].textToColor(),
-                                        size: 20.0,
-                                      ),
-                                      const SizedBox(width: 12.0),
-                                      Text(
-                                        viewModel.bookmarkIdToBookmark(bookmarkId),
-                                        style: TextStyle(
-                                          color: context.theme.appColors.primary,
-                                          fontSize: 16.0,
-                                          fontWeight: FontWeight.w500,
+                          return Material(
+                            type: MaterialType.transparency,
+                            child: InkWell(
+                              onTap: () => viewModel.onTapBookmark(bookmarkId),
+                              child: Padding(
+                                padding: const EdgeInsets.symmetric(vertical: 14.0, horizontal: 25.0),
+                                child: Row(
+                                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                  crossAxisAlignment: CrossAxisAlignment.center,
+                                  children: [
+                                    Row(
+                                      crossAxisAlignment: CrossAxisAlignment.center,
+                                      children: [
+                                        PhosphorIcon(
+                                          PhosphorIconsBold.bookmarkSimple,
+                                          color: viewModel.bookmarks[index].textToColor(),
+                                          size: 20.0,
                                         ),
-                                      ),
-                                    ],
-                                  ),
-                                  PhosphorIcon(
-                                    PhosphorIcons.caretRight(PhosphorIconsStyle.bold),
-                                    color: context.theme.appColors.primary,
-                                    size: 18.0,
-                                    semanticLabel: 'Caret right',
-                                  ),
-                                ],
+                                        const SizedBox(width: 12.0),
+                                        Text(
+                                          viewModel.bookmarkIdToBookmark(bookmarkId),
+                                          style: TextStyle(
+                                            color: context.theme.appColors.primary,
+                                            fontSize: 16.0,
+                                            fontWeight: FontWeight.w500,
+                                          ),
+                                        ),
+                                      ],
+                                    ),
+                                    PhosphorIcon(
+                                      PhosphorIconsBold.caretRight,
+                                      color: context.theme.appColors.primary,
+                                      size: 18.0,
+                                      semanticLabel: 'Caret right',
+                                    ),
+                                  ],
+                                ),
                               ),
                             ),
                           );
