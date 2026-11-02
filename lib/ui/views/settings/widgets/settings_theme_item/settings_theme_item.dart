@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -15,7 +15,7 @@ class SettingsThemeItem extends StackedView<SettingsThemeItemModel> {
   });
 
   final bool isSelected;
-  final CurrentTheme theme;
+  final AppTheme theme;
   final Function() onTap;
 
   @override
@@ -24,57 +24,60 @@ class SettingsThemeItem extends StackedView<SettingsThemeItemModel> {
     SettingsThemeItemModel viewModel,
     Widget? child,
   ) {
-    return Material(
-      type: MaterialType.transparency,
-      child: InkWell(
-        onTap: onTap,
-        radius: 7.0,
-        child: Container(
-          width: 100.0,
-          height: 134.0,
-          padding: const EdgeInsets.symmetric(vertical: 12.0, horizontal: 7.0),
-          decoration: BoxDecoration(
-            color: viewModel.getBackgroundColor(theme),
-            border: Border.all(color: context.theme.appColors.divider),
-            borderRadius: BorderRadius.circular(7.0),
-          ),
-          child: Column(
-            children: [
-              Text(
-                viewModel.getThemeName(theme),
-                style: TextStyle(
-                  color: viewModel.getForegroundColor(theme),
-                  fontSize: 15.0,
-                  fontWeight: FontWeight.w500,
-                  letterSpacing: -0.1,
+    return Padding(
+      padding: const EdgeInsets.symmetric(horizontal: 4.0),
+      child: Material(
+        type: MaterialType.transparency,
+        child: InkWell(
+          onTap: onTap,
+          radius: 7.0,
+          child: Container(
+            width: 100.0,
+            height: 134.0,
+            padding: const EdgeInsets.symmetric(vertical: 12.0, horizontal: 7.0),
+            decoration: BoxDecoration(
+              color: theme.backgroundColor,
+              border: Border.all(color: context.appColors.divider),
+              borderRadius: BorderRadius.circular(7.0),
+            ),
+            child: Column(
+              children: [
+                Text(
+                  theme.displayName,
+                  style: TextStyle(
+                    color: theme.foregroundColor,
+                    fontSize: 15.0,
+                    fontWeight: FontWeight.w500,
+                    letterSpacing: -0.1,
+                  ),
                 ),
-              ),
-              const SizedBox(height: 10.0),
-              Divider(
-                height: 1.0,
-                endIndent: 15.0,
-                color: viewModel.getForegroundColor(theme),
-              ),
-              const SizedBox(height: 12.0),
-              Divider(
-                height: 1.0,
-                endIndent: 35.0,
-                color: viewModel.getForegroundColor(theme),
-              ),
-              const SizedBox(height: 12.0),
-              Divider(
-                height: 1.0,
-                endIndent: 23.0,
-                color: viewModel.getForegroundColor(theme),
-              ),
-              const SizedBox(height: 16.0),
-              if (isSelected)
-                PhosphorIcon(
-                  PhosphorIcons.checkCircle,
-                  color: viewModel.getForegroundColor(theme),
-                  size: 27.0,
+                const SizedBox(height: 10.0),
+                Divider(
+                  height: 1.0,
+                  endIndent: 15.0,
+                  color: theme.foregroundColor,
                 ),
-            ],
+                const SizedBox(height: 12.0),
+                Divider(
+                  height: 1.0,
+                  endIndent: 35.0,
+                  color: theme.foregroundColor,
+                ),
+                const SizedBox(height: 12.0),
+                Divider(
+                  height: 1.0,
+                  endIndent: 23.0,
+                  color: theme.foregroundColor,
+                ),
+                const SizedBox(height: 16.0),
+                if (isSelected)
+                  PhosphorIcon(
+                    PhosphorIcons.checkCircle,
+                    color: theme.foregroundColor,
+                    size: 27.0,
+                  ),
+              ],
+            ),
           ),
         ),
       ),

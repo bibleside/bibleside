@@ -1,5 +1,5 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter/services.dart';
 import 'package:stacked/stacked.dart';
 import 'package:webview_flutter/webview_flutter.dart';
@@ -33,11 +33,11 @@ class ReaderView extends StackedView<ReaderViewModel> {
     SystemChrome.setSystemUIOverlayStyle(SystemUiOverlayStyle(
       statusBarBrightness: Brightness.dark,
       statusBarIconBrightness: Brightness.light,
-      statusBarColor: context.theme.appColors.appbarBackground,
+      statusBarColor: context.appColors.surface,
     ));
     return Scaffold(
       key: _scaffoldKey,
-      backgroundColor: context.theme.appColors.appbarBackground,
+      backgroundColor: context.appColors.surface,
       appBar: viewModel.showSecondaryArea
           ? PreferredSize(
               preferredSize: const Size(double.infinity, kToolbarHeight),
@@ -55,7 +55,7 @@ class ReaderView extends StackedView<ReaderViewModel> {
         child: Stack(
           children: [
             Container(
-              color: context.theme.appColors.background,
+              color: context.appColors.background,
               child: Column(
                 mainAxisSize: MainAxisSize.min,
                 crossAxisAlignment: CrossAxisAlignment.stretch,
@@ -67,13 +67,13 @@ class ReaderView extends StackedView<ReaderViewModel> {
                   ),
                   if (viewModel.primaryAreaBible.startsWith('OET') || viewModel.secondaryAreaBible.startsWith('OET'))
                     Container(
-                      color: context.theme.appColors.background,
+                      color: context.appColors.background,
                       padding: const EdgeInsets.symmetric(vertical: 4.0, horizontal: 12.0),
                       child: Text(
                         'This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public. Found a mistake or have questions about the translation? Please visit www.openenglishtranslation.bible.',
                         style: TextStyle(
                           fontSize: 8.0,
-                          color: context.theme.appColors.readerText,
+                          color: context.appColors.readerText,
                         ),
                       ),
                     ),
@@ -83,7 +83,7 @@ class ReaderView extends StackedView<ReaderViewModel> {
             if (viewModel.isBusy)
               Center(
                 child: CircularProgressIndicator(
-                  color: context.theme.appColors.loadingSpinner,
+                  color: context.appColors.accent,
                 ),
               ),
             if (viewModel.isSecondaryReaderAreaPopupActive)
@@ -119,7 +119,7 @@ class ReaderView extends StackedView<ReaderViewModel> {
       ),
       // floatingActionButton: kDebugMode
       //     ? FloatingActionButton.small(
-      //         backgroundColor: context.theme.appColors.appbarBackground,
+      //         backgroundColor: context.appColors.surface,
       //         onPressed: viewModel.onRefreshDebug,
       //       )
       //     : null,

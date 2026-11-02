@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -21,9 +21,9 @@ class BookmarksView extends StackedView<BookmarksViewModel> {
       canPop: false,
       onPopInvokedWithResult: viewModel.onPopInvoked,
       child: Scaffold(
-        backgroundColor: context.theme.appColors.background,
+        backgroundColor: context.appColors.background,
         appBar: AppBar(
-          backgroundColor: context.theme.appColors.background,
+          backgroundColor: context.appColors.background,
           centerTitle: true,
           scrolledUnderElevation: 0.0,
           title: isPortrait
@@ -31,7 +31,7 @@ class BookmarksView extends StackedView<BookmarksViewModel> {
               : Text(
                   'Your Bookmarks',
                   style: TextStyle(
-                    color: context.theme.appColors.primary,
+                    color: context.appColors.primary,
                     fontSize: 18.0,
                     fontWeight: FontWeight.w500,
                   ),
@@ -49,7 +49,7 @@ class BookmarksView extends StackedView<BookmarksViewModel> {
                   child: Text(
                     'Your Bookmarks',
                     style: TextStyle(
-                      color: context.theme.appColors.primary,
+                      color: context.appColors.primary,
                       fontSize: 26.0,
                       fontWeight: FontWeight.bold,
                     ),
@@ -66,7 +66,7 @@ class BookmarksView extends StackedView<BookmarksViewModel> {
                             children: [
                               PhosphorIcon(
                                 PhosphorIcons.bookmarksSimple,
-                                color: context.theme.appColors.primary.withValues(alpha: 0.8),
+                                color: context.appColors.primary.withValues(alpha: 0.8),
                                 size: 26.0,
                                 semanticLabel: 'Bookmark',
                               ),
@@ -74,7 +74,7 @@ class BookmarksView extends StackedView<BookmarksViewModel> {
                                 'No bookmarks yet. \nDouble-tap on a verse to bookmark it.',
                                 textAlign: TextAlign.center,
                                 style: TextStyle(
-                                  color: context.theme.appColors.primary.withValues(alpha: 0.8),
+                                  color: context.appColors.primary.withValues(alpha: 0.8),
                                   fontSize: 14.0,
                                 ),
                               ),
@@ -110,7 +110,7 @@ class BookmarksView extends StackedView<BookmarksViewModel> {
                                         Text(
                                           viewModel.bookmarkIdToBookmark(bookmarkId),
                                           style: TextStyle(
-                                            color: context.theme.appColors.primary,
+                                            color: context.appColors.primary,
                                             fontSize: 16.0,
                                             fontWeight: FontWeight.w500,
                                           ),
@@ -119,7 +119,7 @@ class BookmarksView extends StackedView<BookmarksViewModel> {
                                     ),
                                     PhosphorIcon(
                                       PhosphorIconsBold.caretRight,
-                                      color: context.theme.appColors.primary,
+                                      color: context.appColors.primary,
                                       size: 18.0,
                                       semanticLabel: 'Caret right',
                                     ),

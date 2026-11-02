@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -23,13 +23,13 @@ class SideNavigationDrawer extends StackedView<SideNavigationDrawerModel> {
       type: MaterialType.transparency,
       child: Container(
         width: 270.0,
-        color: context.theme.appColors.appbarBackground,
+        color: context.appColors.surface,
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           mainAxisSize: MainAxisSize.max,
           children: [
             Container(
-              padding: const EdgeInsets.only(top: 60.0, left: 20.0, bottom: 36.0),
+              padding: const EdgeInsets.only(top: 80.0, left: 20.0, bottom: 36.0),
               child: Row(
                 mainAxisAlignment: MainAxisAlignment.start,
                 mainAxisSize: MainAxisSize.max,
@@ -39,7 +39,7 @@ class SideNavigationDrawer extends StackedView<SideNavigationDrawerModel> {
                     padding: const EdgeInsets.only(left: 2.0, right: 32.0),
                     child: Image.asset(
                       'assets/images/logo.png',
-                      color: context.theme.appColors.appbarIcon,
+                      color: context.appColors.textOnDark,
                       height: 30.0,
                     ),
                   ),
@@ -49,7 +49,7 @@ class SideNavigationDrawer extends StackedView<SideNavigationDrawerModel> {
                       padding: const EdgeInsets.symmetric(horizontal: 13.0, vertical: 14.0),
                       child: PhosphorIcon(
                         PhosphorIconsBold.x,
-                        color: context.theme.appColors.secondaryOnDark,
+                        color: context.appColors.iconOnDark.withAlpha(180),
                         size: 20.0,
                         semanticLabel: 'Close',
                       ),
@@ -67,26 +67,22 @@ class SideNavigationDrawer extends StackedView<SideNavigationDrawerModel> {
                     onTap: () {
                       closeNavigation();
                     },
-                    child: Container(
-                      decoration: BoxDecoration(
-                        color: context.theme.appColors.readerSelectorBackground,
-                        borderRadius: BorderRadius.circular(70.0),
-                      ),
-                      padding: const EdgeInsets.symmetric(vertical: 14.0, horizontal: 14.0),
+                    child: Padding(
+                      padding: const EdgeInsets.symmetric(vertical: 16.0, horizontal: 14.0),
                       child: Row(
                         mainAxisAlignment: MainAxisAlignment.start,
                         mainAxisSize: MainAxisSize.max,
                         children: [
                           PhosphorIcon(
                             PhosphorIcons.bookOpenText,
-                            color: context.theme.appColors.primaryOnDark.withAlpha(220),
+                            color: context.appColors.iconOnDark.withAlpha(220),
                             size: 24.0,
                           ),
                           const SizedBox(width: 12.0),
                           Text(
                             'Reader',
                             style: TextStyle(
-                              color: context.theme.appColors.primaryOnDark,
+                              color: context.appColors.textOnDark,
                               fontSize: 16.0,
                               letterSpacing: 0.0,
                             ),
@@ -108,14 +104,14 @@ class SideNavigationDrawer extends StackedView<SideNavigationDrawerModel> {
                         children: [
                           PhosphorIcon(
                             PhosphorIcons.bookmarksSimple,
-                            color: context.theme.appColors.primaryOnDark.withAlpha(220),
+                            color: context.appColors.iconOnDark.withAlpha(220),
                             size: 24.0,
                           ),
                           const SizedBox(width: 12.0),
                           Text(
                             'Bookmarks',
                             style: TextStyle(
-                              color: context.theme.appColors.primaryOnDark,
+                              color: context.appColors.textOnDark,
                               fontSize: 16.0,
                               letterSpacing: 0.0,
                             ),
@@ -137,14 +133,14 @@ class SideNavigationDrawer extends StackedView<SideNavigationDrawerModel> {
                         children: [
                           PhosphorIcon(
                             PhosphorIcons.magnifyingGlass,
-                            color: context.theme.appColors.primaryOnDark.withAlpha(220),
+                            color: context.appColors.iconOnDark.withAlpha(220),
                             size: 24.0,
                           ),
                           const SizedBox(width: 12.0),
                           Text(
                             'Search',
                             style: TextStyle(
-                              color: context.theme.appColors.primaryOnDark,
+                              color: context.appColors.textOnDark,
                               fontSize: 16.0,
                               letterSpacing: 0.0,
                             ),
@@ -166,14 +162,14 @@ class SideNavigationDrawer extends StackedView<SideNavigationDrawerModel> {
                         children: [
                           PhosphorIcon(
                             PhosphorIcons.gear,
-                            color: context.theme.appColors.primaryOnDark.withAlpha(220),
+                            color: context.appColors.iconOnDark.withAlpha(220),
                             size: 24.0,
                           ),
                           const SizedBox(width: 12.0),
                           Text(
                             'Settings',
                             style: TextStyle(
-                              color: context.theme.appColors.primaryOnDark,
+                              color: context.appColors.textOnDark,
                               fontSize: 16.0,
                               letterSpacing: 0.0,
                             ),

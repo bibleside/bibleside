@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -37,10 +37,10 @@ class SearchFilterItem extends StackedView<SearchFilterItemModel> {
           padding: const EdgeInsets.symmetric(vertical: 4.0, horizontal: 14.0),
           margin: const EdgeInsets.symmetric(horizontal: 3.0, vertical: 7.0),
           decoration: BoxDecoration(
-            color: context.theme.appColors.filterItemBackground,
+            color: context.appColors.inputAccent,
             border: Border.all(
               width: 1.0,
-              color: isSelected == true ? context.theme.appColors.primary : Colors.transparent,
+              color: isSelected == true ? context.appColors.primary : Colors.transparent,
             ),
             borderRadius: const BorderRadius.all(Radius.circular(12.0)),
           ),
@@ -64,14 +64,14 @@ class SearchFilterItem extends StackedView<SearchFilterItemModel> {
                   style: TextStyle(
                     fontSize: 14.0,
                     fontWeight: FontWeight.bold,
-                    color: context.theme.appColors.primary,
+                    color: context.appColors.primary,
                   ),
                 ),
               ),
               if (isSelected)
                 PhosphorIcon(
                   PhosphorIconsBold.x,
-                  color: context.theme.appColors.primary,
+                  color: context.appColors.primary,
                   size: 12.0,
                   semanticLabel: 'Caret right',
                 ),

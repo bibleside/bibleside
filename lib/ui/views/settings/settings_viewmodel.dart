@@ -4,14 +4,17 @@ import 'package:url_launcher/url_launcher.dart';
 
 import '../../../app/app.locator.dart';
 import '../../../app/app.router.dart';
+import '../../../common/enums.dart';
 import '../../../common/toast.dart';
 import '../../../services/app_info_service.dart';
 import '../../../services/settings_service.dart';
+import '../../../services/theme_service.dart';
 
 class SettingsViewModel extends FutureViewModel<String> {
   final _settingsService = locator<SettingsService>();
   final _appInfoService = locator<AppInfoService>();
   final _navigationService = locator<NavigationService>();
+  final _themeService = locator<ThemeService>();
 
   @override
   Future<String> futureToRun() => getAppVersion();
@@ -19,6 +22,12 @@ class SettingsViewModel extends FutureViewModel<String> {
   double get textScaling => _settingsService.textScaling;
   bool get showMarks => _settingsService.showMarks;
   bool get showChaptersAndVerses => _settingsService.showChaptersAndVerses;
+  AppTheme get activeTheme => _themeService.activeTheme;
+
+  Future<void> onSetAppTheme(AppTheme selectedTheme) async {
+    await _themeService.setTheme(selectedTheme);
+    rebuildUi();
+  }
 
   void changeTextScaling(double value) {
     _settingsService.setTextScaling(value);

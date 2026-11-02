@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -28,24 +28,24 @@ class Searchbar extends StackedView<SearchbarModel> {
           contentPadding: const EdgeInsets.symmetric(horizontal: 16.0),
           prefixIcon: PhosphorIcon(
             PhosphorIconsBold.magnifyingGlass,
-            color: context.theme.appColors.primary,
+            color: context.appColors.primary,
             size: 18.0,
             semanticLabel: 'Search',
           ),
-          prefixIconColor: context.theme.appColors.primary,
+          prefixIconColor: context.appColors.primary,
           filled: true,
-          fillColor: context.theme.appColors.inputBackground,
+          fillColor: context.appColors.inputBackground,
           enabledBorder: OutlineInputBorder(
-            borderSide: BorderSide(color: context.theme.appColors.inputBorder),
+            borderSide: BorderSide(color: context.appColors.inputBorder),
             borderRadius: BorderRadius.circular(100.00),
           ),
           focusedBorder: OutlineInputBorder(
-            borderSide: BorderSide(color: context.theme.appColors.primary),
+            borderSide: BorderSide(color: context.appColors.primary),
             borderRadius: BorderRadius.circular(100.00),
           ),
           hintText: 'Search…',
           hintStyle: TextStyle(
-            color: context.theme.appColors.secondary,
+            color: context.appColors.secondary,
             fontSize: 15.0,
             fontWeight: FontWeight.normal,
           ),

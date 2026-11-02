@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -32,7 +32,7 @@ class ReaderSelectorBtn extends StackedView<ReaderSelectorBtnModel> {
       height: 40,
       padding: const EdgeInsets.symmetric(horizontal: 8.0),
       decoration: BoxDecoration(
-        color: context.theme.appColors.readerSelectorBackground,
+        color: context.appColors.readerSelectorBackground,
         borderRadius: BorderRadius.circular(60.0),
       ),
       child: Row(
@@ -41,6 +41,8 @@ class ReaderSelectorBtn extends StackedView<ReaderSelectorBtnModel> {
             type: MaterialType.transparency,
             child: InkWell(
               onTap: onTapBook,
+              splashFactory: NoSplash.splashFactory,
+              highlightColor: Colors.transparent,
               child: Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 4.0, vertical: 7.0),
                 child: Row(
@@ -60,7 +62,7 @@ class ReaderSelectorBtn extends StackedView<ReaderSelectorBtnModel> {
                         BooksMapping.bookNameFromBookCode(viewModel.bookCode),
                         style: TextStyle(
                           fontSize: 15.0,
-                          color: context.theme.appColors.primaryOnDark,
+                          color: context.appColors.textOnDark,
                           fontWeight: FontWeight.bold,
                           letterSpacing: -0.1,
                         ),
@@ -75,6 +77,8 @@ class ReaderSelectorBtn extends StackedView<ReaderSelectorBtnModel> {
             type: MaterialType.transparency,
             child: InkWell(
               onTap: onTapBibleVersion,
+              splashFactory: NoSplash.splashFactory,
+              highlightColor: Colors.transparent,
               child: Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 4.0, vertical: 7.0),
                 child: Row(
@@ -86,17 +90,15 @@ class ReaderSelectorBtn extends StackedView<ReaderSelectorBtnModel> {
                         readerArea == Area.primary ? viewModel.primaryBible : viewModel.secondaryBible,
                         style: TextStyle(
                           fontSize: 14.0,
-                          color: context.theme.appColors.primaryOnDark,
+                          color: context.appColors.textOnDark,
                           fontWeight: FontWeight.bold,
                           letterSpacing: -0.1,
                         ),
                       ),
                     ),
                     PhosphorIcon(
-                      isActive == true
-                          ? PhosphorIconsBold.caretUp
-                          : PhosphorIconsBold.caretDown,
-                      color: context.theme.appColors.primaryOnDark,
+                      isActive == true ? PhosphorIconsBold.caretUp : PhosphorIconsBold.caretDown,
+                      color: context.appColors.iconOnDark,
                       size: 15.0,
                       semanticLabel: isActive == true ? 'Caret up' : 'Caret down',
                     ),

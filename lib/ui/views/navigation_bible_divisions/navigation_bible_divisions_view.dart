@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -26,15 +26,15 @@ class NavigationBibleDivisionsView extends StackedView<NavigationBibleDivisionsV
       canPop: false,
       onPopInvokedWithResult: viewModel.onPopInvoked,
       child: Scaffold(
-        backgroundColor: context.theme.appColors.background,
+        backgroundColor: context.appColors.background,
         appBar: AppBar(
-          backgroundColor: context.theme.appColors.background,
+          backgroundColor: context.appColors.background,
           centerTitle: true,
           scrolledUnderElevation: 0.0,
           title: Text(
             viewModel.getTitle(),
             style: TextStyle(
-              color: context.theme.appColors.primary,
+              color: context.appColors.primary,
               fontSize: 18.0,
               fontWeight: FontWeight.w500,
             ),
@@ -75,7 +75,7 @@ class NavigationBibleDivisionsView extends StackedView<NavigationBibleDivisionsV
                                     Text(
                                       BooksMapping.bibleDivisionNameFromCode(bibleDivisionCode),
                                       style: TextStyle(
-                                        color: context.theme.appColors.primary,
+                                        color: context.appColors.primary,
                                         fontSize: 16.0,
                                       ),
                                     ),
@@ -83,7 +83,7 @@ class NavigationBibleDivisionsView extends StackedView<NavigationBibleDivisionsV
                                 ),
                                 PhosphorIcon(
                                   PhosphorIconsBold.caretRight,
-                                  color: context.theme.appColors.primary,
+                                  color: context.appColors.primary,
                                   size: 18.0,
                                   semanticLabel: 'Caret right',
                                 ),
@@ -96,9 +96,7 @@ class NavigationBibleDivisionsView extends StackedView<NavigationBibleDivisionsV
                   ),
                 ),
                 Container(
-                  color: context.theme.brightness == Brightness.dark
-                      ? context.theme.appColors.appbarBackground
-                      : context.theme.appColors.appbarBackground.withAlpha(8),
+                  color: context.isDark ? context.appColors.surface : context.appColors.surface.withAlpha(8),
                   padding: const EdgeInsets.symmetric(vertical: 10.0, horizontal: 25.0),
                   child: Column(
                     children: [
@@ -106,14 +104,14 @@ class NavigationBibleDivisionsView extends StackedView<NavigationBibleDivisionsV
                         children: [
                           PhosphorIcon(
                             PhosphorIcons.clockCounterClockwise,
-                            color: context.theme.appColors.secondary,
+                            color: context.appColors.secondary,
                             size: 16.0,
                           ),
                           const SizedBox(width: 4),
                           Text(
                             'RECENT',
                             style: TextStyle(
-                              color: context.theme.appColors.secondary,
+                              color: context.appColors.secondary,
                               fontSize: 12.0,
                               fontWeight: FontWeight.w500,
                             ),
@@ -145,7 +143,7 @@ class NavigationBibleDivisionsView extends StackedView<NavigationBibleDivisionsV
                                           maxLines: 1,
                                           overflow: TextOverflow.ellipsis,
                                           style: TextStyle(
-                                            color: context.theme.appColors.primary,
+                                            color: context.appColors.primary,
                                             fontSize: 16.0,
                                           ),
                                         ),
@@ -159,7 +157,7 @@ class NavigationBibleDivisionsView extends StackedView<NavigationBibleDivisionsV
                                 child: Text(
                                   'Your recent books will appear here.',
                                   style: TextStyle(
-                                    color: context.theme.appColors.secondary,
+                                    color: context.appColors.secondary,
                                     fontSize: 13.0,
                                   ),
                                 ),

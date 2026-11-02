@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -29,7 +29,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
     bool isWideLayout = shouldSwitchToWideLayout(context);
     return Container(
       height: 200.0,
-      color: context.theme.appColors.popupBackground,
+      color: context.appColors.surface,
       padding: const EdgeInsets.symmetric(horizontal: 12.0, vertical: 20.0),
       child: Column(
         children: [
@@ -52,7 +52,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                               children: [
                                 PhosphorIcon(
                                   PhosphorIcons.squareSplitVertical,
-                                  color: context.theme.appColors.primaryOnDark,
+                                  color: context.appColors.iconOnDark,
                                   size: 22.0,
                                 ),
                                 Padding(
@@ -60,7 +60,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                                   child: Container(
                                     width: 14.0,
                                     height: 7.0,
-                                    color: context.theme.appColors.primaryOnDark,
+                                    color: context.appColors.textOnDark,
                                   ),
                                 ),
                               ],
@@ -75,7 +75,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                                   Text(
                                     viewModel.secondaryBible,
                                     style: TextStyle(
-                                      color: context.theme.appColors.primaryOnDark,
+                                      color: context.appColors.textOnDark,
                                       fontWeight: FontWeight.bold,
                                       letterSpacing: -0.1,
                                     ),
@@ -84,15 +84,15 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                                   Container(
                                     padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 3.0),
                                     decoration: BoxDecoration(
-                                      color: context.theme.appColors.readerSelectorBackground,
+                                      color: context.appColors.readerSelectorBackground,
                                       borderRadius: BorderRadius.circular(30.0),
                                     ),
                                     child: Text(
                                       viewModel.showSecondaryArea ? 'Secondary' : 'Tap to enable',
                                       style: TextStyle(
                                         color: viewModel.showSecondaryArea
-                                            ? context.theme.appColors.primaryOnDark.withAlpha(220)
-                                            : context.theme.appColors.primaryOnDark,
+                                            ? context.appColors.textOnDark.withAlpha(220)
+                                            : context.appColors.textOnDark,
                                         fontWeight: FontWeight.w500,
                                         fontSize: 9.0,
                                       ),
@@ -103,7 +103,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                               Text(
                                 '${bibleVersionsMapping[viewModel.secondaryBible]}',
                                 style: TextStyle(
-                                  color: context.theme.appColors.primaryOnDark.withAlpha(180),
+                                  color: context.appColors.textOnDark.withAlpha(180),
                                   fontSize: 10.0,
                                   letterSpacing: -0.1,
                                 ),
@@ -114,7 +114,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                       ),
                       PhosphorIcon(
                         PhosphorIconsBold.caretRight,
-                        color: context.theme.appColors.primaryOnDark,
+                        color: context.appColors.iconOnDark,
                         size: 18.0,
                         semanticLabel: 'Caret down',
                       ),
@@ -134,7 +134,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                   viewModel.linkReaderAreaScrolling
                       ? PhosphorIcons.linkSimpleHorizontal
                       : PhosphorIcons.linkSimpleHorizontalBreak,
-                  color: context.theme.appColors.primaryOnDark,
+                  color: context.appColors.iconOnDark,
                   size: 22.0,
                   semanticLabel: 'Link',
                 ),
@@ -160,7 +160,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                             children: [
                               PhosphorIcon(
                                 PhosphorIcons.squareSplitVertical,
-                                color: context.theme.appColors.primaryOnDark,
+                                color: context.appColors.iconOnDark,
                                 size: 22.0,
                               ),
                               Padding(
@@ -168,7 +168,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                                 child: Container(
                                   width: 14.0,
                                   height: 7.0,
-                                  color: context.theme.appColors.primaryOnDark,
+                                  color: context.appColors.iconOnDark,
                                 ),
                               ),
                             ],
@@ -183,7 +183,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                                 Text(
                                   viewModel.primaryBible,
                                   style: TextStyle(
-                                    color: context.theme.appColors.primaryOnDark,
+                                    color: context.appColors.iconOnDark,
                                     fontWeight: FontWeight.bold,
                                     letterSpacing: -0.1,
                                   ),
@@ -192,13 +192,13 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                                 Container(
                                   padding: const EdgeInsets.symmetric(horizontal: 8.0, vertical: 3.0),
                                   decoration: BoxDecoration(
-                                    color: context.theme.appColors.readerSelectorBackground,
+                                    color: context.appColors.readerSelectorBackground,
                                     borderRadius: BorderRadius.circular(30.0),
                                   ),
                                   child: Text(
                                     'Primary',
                                     style: TextStyle(
-                                      color: context.theme.appColors.primaryOnDark.withAlpha(220),
+                                      color: context.appColors.textOnDark.withAlpha(220),
                                       fontWeight: FontWeight.w500,
                                       fontSize: 9.0,
                                     ),
@@ -209,7 +209,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                             Text(
                               '${bibleVersionsMapping[viewModel.primaryBible]}',
                               style: TextStyle(
-                                color: context.theme.appColors.primaryOnDark.withAlpha(180),
+                                color: context.appColors.textOnDark.withAlpha(180),
                                 fontSize: 10.0,
                                 letterSpacing: -0.1,
                               ),
@@ -220,7 +220,7 @@ class ReaderAreaPopup extends StackedView<ReaderAreaPopupModel> {
                     ),
                     PhosphorIcon(
                       PhosphorIconsBold.caretRight,
-                      color: context.theme.appColors.primaryOnDark,
+                      color: context.appColors.iconOnDark,
                       size: 18.0,
                       semanticLabel: 'Caret down',
                     ),

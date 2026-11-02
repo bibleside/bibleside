@@ -9,23 +9,21 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  material_ui: any
 
   # Architecture
   stacked: ^3.4.3
-  stacked_themes:
-    path:
-      './stacked_themes' # Temporary work-around
   stacked_services: ^1.6.0
   stacked_hooks: ^0.2.4
   flutter_hooks: ^0.20.5
 
   # Core
   package_info_plus: ^9.0.0
-  shared_preferences: ^2.5.3
-  webview_flutter: ^4.10.0
-  webview_flutter_android: ^4.9.1
+  shared_preferences: ^2.5.6
+  webview_flutter: ^4.14.1
+  webview_flutter_android: ^4.14.1
   fluttertoast: ^9.0.0
-  url_launcher: ^6.3.2
+  url_launcher: ^6.3.3
 
   # Icons
   phosphoricons_flutter: ^1.1.1

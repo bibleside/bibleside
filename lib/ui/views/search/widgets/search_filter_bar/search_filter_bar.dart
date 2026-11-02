@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:stacked/stacked.dart';
 
 import '../search_filter_item/search_filter_item.dart';

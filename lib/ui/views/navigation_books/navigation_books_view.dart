@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -27,9 +27,9 @@ class NavigationBooksView extends StackedView<NavigationBooksViewModel> {
   ) {
     bool isPortrait = isPortraitOrientation(context);
     return Scaffold(
-      backgroundColor: context.theme.appColors.background,
+      backgroundColor: context.appColors.background,
       appBar: AppBar(
-        backgroundColor: context.theme.appColors.background,
+        backgroundColor: context.appColors.background,
         centerTitle: true,
         scrolledUnderElevation: 0.0,
         title: isPortrait
@@ -37,7 +37,7 @@ class NavigationBooksView extends StackedView<NavigationBooksViewModel> {
             : Text(
                 BooksMapping.bibleDivisionNameFromCode(bibleDivisionCode),
                 style: TextStyle(
-                  color: context.theme.appColors.primary,
+                  color: context.appColors.primary,
                   fontSize: 18.0,
                   fontWeight: FontWeight.w500,
                 ),
@@ -67,7 +67,7 @@ class NavigationBooksView extends StackedView<NavigationBooksViewModel> {
                     Text(
                       BooksMapping.bibleDivisionNameFromCode(bibleDivisionCode),
                       style: TextStyle(
-                        color: context.theme.appColors.primary,
+                        color: context.appColors.primary,
                         fontSize: 26.0,
                         fontWeight: FontWeight.bold,
                       ),
@@ -97,13 +97,13 @@ class NavigationBooksView extends StackedView<NavigationBooksViewModel> {
                               Text(
                                 '${booksMapping[bookCode]}',
                                 style: TextStyle(
-                                  color: context.theme.appColors.primary,
+                                  color: context.appColors.primary,
                                   fontSize: 16.0,
                                 ),
                               ),
                               PhosphorIcon(
                                 PhosphorIconsBold.caretRight,
-                                color: context.theme.appColors.primary,
+                                color: context.appColors.primary,
                                 size: 18.0,
                                 semanticLabel: 'Caret right',
                               ),

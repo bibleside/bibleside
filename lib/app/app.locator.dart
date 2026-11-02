@@ -10,7 +10,6 @@ import 'package:stacked_services/src/bottom_sheet/bottom_sheet_service.dart';
 import 'package:stacked_services/src/dialog/dialog_service.dart';
 import 'package:stacked_services/src/navigation/navigation_service.dart';
 import 'package:stacked_shared/stacked_shared.dart';
-import 'package:stacked_themes/src/theme_service.dart';
 
 import '../services/app_info_service.dart';
 import '../services/bibles_service.dart';
@@ -18,6 +17,7 @@ import '../services/json_service.dart';
 import '../services/reader_service.dart';
 import '../services/search_service.dart';
 import '../services/settings_service.dart';
+import '../services/theme_service.dart';
 
 final locator = StackedLocator.instance;
 
@@ -35,8 +35,8 @@ Future<void> setupLocator({
   locator.registerLazySingleton(() => BiblesService());
   locator.registerLazySingleton(() => SettingsService());
   locator.registerLazySingleton(() => AppInfoService());
-  locator.registerLazySingleton(() => ThemeService());
   locator.registerLazySingleton(() => ReaderService());
   locator.registerLazySingleton(() => JsonService());
   locator.registerLazySingleton(() => SearchService());
+  locator.registerLazySingleton(() => ThemeService());
 }

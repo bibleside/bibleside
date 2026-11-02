@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -62,7 +62,7 @@ class SearchResultItem extends StackedView<SearchResultItemModel> {
                             style: TextStyle(
                               fontSize: 16.0,
                               fontWeight: FontWeight.bold,
-                              color: context.theme.appColors.primary,
+                              color: context.appColors.primary,
                             ),
                           ),
                         ),
@@ -70,7 +70,7 @@ class SearchResultItem extends StackedView<SearchResultItemModel> {
                     ),
                     PhosphorIcon(
                       PhosphorIconsBold.caretRight,
-                      color: context.theme.appColors.primary,
+                      color: context.appColors.primary,
                       size: 16.0,
                       semanticLabel: 'Caret right',
                     ),
@@ -79,7 +79,7 @@ class SearchResultItem extends StackedView<SearchResultItemModel> {
                 Text(
                   verseText,
                   style: TextStyle(
-                    color: context.theme.appColors.secondary,
+                    color: context.appColors.secondary,
                     fontSize: 14.0,
                   ),
                 ),

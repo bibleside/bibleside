@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:stacked/stacked.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import '../../../../../common/enums.dart';
@@ -30,7 +30,7 @@ class PrimaryReaderAppbar extends StackedView<PrimaryReaderAppbarModel> {
   ) {
     return SafeArea(
       child: Container(
-        color: context.theme.appColors.appbarBackground,
+        color: context.appColors.surface,
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
@@ -42,7 +42,7 @@ class PrimaryReaderAppbar extends StackedView<PrimaryReaderAppbarModel> {
                   padding: const EdgeInsets.all(16.0),
                   child: PhosphorIcon(
                     PhosphorIconsBold.magnifyingGlass,
-                    color: context.theme.appColors.appbarIcon,
+                    color: context.appColors.iconOnDark,
                     size: 20.0,
                     semanticLabel: 'Search',
                   ),
@@ -63,7 +63,7 @@ class PrimaryReaderAppbar extends StackedView<PrimaryReaderAppbarModel> {
                   padding: const EdgeInsets.all(16.0),
                   child: PhosphorIcon(
                     PhosphorIconsBold.list,
-                    color: context.theme.appColors.appbarIcon,
+                    color: context.appColors.iconOnDark,
                     size: 20.0,
                     semanticLabel: 'Menu',
                   ),

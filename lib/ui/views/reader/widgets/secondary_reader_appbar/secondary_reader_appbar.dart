@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
@@ -29,7 +29,7 @@ class SecondaryReaderAppbar extends StackedView<SecondaryReaderAppbarModel> {
   ) {
     return Container(
       padding: const EdgeInsets.symmetric(vertical: 10.0),
-      color: context.theme.appColors.appbarBackground,
+      color: context.appColors.surface,
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         crossAxisAlignment: CrossAxisAlignment.center,
@@ -52,7 +52,7 @@ class SecondaryReaderAppbar extends StackedView<SecondaryReaderAppbarModel> {
                 padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 9.0),
                 child: PhosphorIcon(
                   PhosphorIconsBold.x,
-                  color: context.theme.appColors.secondaryOnDark,
+                  color: context.appColors.iconOnDark,
                   size: 20.0,
                   semanticLabel: 'Close',
                 ),

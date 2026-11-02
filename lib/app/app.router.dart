@@ -5,7 +5,7 @@
 // **************************************************************************
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
-import 'package:bible_side/common/enums.dart' as _i12;
+import 'package:bible_side/common/enums.dart' as _i13;
 import 'package:bible_side/ui/views/bibles/bibles_view.dart' as _i5;
 import 'package:bible_side/ui/views/bookmarks/bookmarks_view.dart' as _i10;
 import 'package:bible_side/ui/views/navigation_bible_divisions/navigation_bible_divisions_view.dart' as _i7;
@@ -17,8 +17,9 @@ import 'package:bible_side/ui/views/settings/settings_view.dart' as _i3;
 import 'package:bible_side/ui/views/startup/startup_view.dart' as _i2;
 import 'package:flutter/material.dart' as _i11;
 import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart' as _i12;
 import 'package:stacked/stacked.dart' as _i1;
-import 'package:stacked_services/stacked_services.dart' as _i13;
+import 'package:stacked_services/stacked_services.dart' as _i14;
 
 class Routes {
   static const startupView = '/startup-view';
@@ -168,9 +169,9 @@ class BiblesViewArguments {
     required this.readerArea,
   });
 
-  final _i11.Key? key;
+  final _i12.Key? key;
 
-  final _i12.Area readerArea;
+  final _i13.Area readerArea;
 
   @override
   String toString() {
@@ -195,9 +196,9 @@ class NavigationBibleDivisionsViewArguments {
     required this.readerArea,
   });
 
-  final _i11.Key? key;
+  final _i12.Key? key;
 
-  final _i12.Area readerArea;
+  final _i13.Area readerArea;
 
   @override
   String toString() {
@@ -223,9 +224,9 @@ class NavigationBooksViewArguments {
     required this.bibleDivisionCode,
   });
 
-  final _i11.Key? key;
+  final _i12.Key? key;
 
-  final _i12.Area readerArea;
+  final _i13.Area readerArea;
 
   final String bibleDivisionCode;
 
@@ -253,9 +254,9 @@ class NavigationSectionsChaptersViewArguments {
     required this.bookCode,
   });
 
-  final _i11.Key? key;
+  final _i12.Key? key;
 
-  final _i12.Area readerArea;
+  final _i13.Area readerArea;
 
   final String bookCode;
 
@@ -276,7 +277,7 @@ class NavigationSectionsChaptersViewArguments {
   }
 }
 
-extension NavigatorStateExtension on _i13.NavigationService {
+extension NavigatorStateExtension on _i14.NavigationService {
   Future<dynamic> navigateToStartupView([
     int? routerId,
     bool preventDuplicates = true,
@@ -308,8 +309,8 @@ extension NavigatorStateExtension on _i13.NavigationService {
   }
 
   Future<dynamic> navigateToBiblesView({
-    _i11.Key? key,
-    required _i12.Area readerArea,
+    _i12.Key? key,
+    required _i13.Area readerArea,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
@@ -334,8 +335,8 @@ extension NavigatorStateExtension on _i13.NavigationService {
   }
 
   Future<dynamic> navigateToNavigationBibleDivisionsView({
-    _i11.Key? key,
-    required _i12.Area readerArea,
+    _i12.Key? key,
+    required _i13.Area readerArea,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
@@ -350,8 +351,8 @@ extension NavigatorStateExtension on _i13.NavigationService {
   }
 
   Future<dynamic> navigateToNavigationBooksView({
-    _i11.Key? key,
-    required _i12.Area readerArea,
+    _i12.Key? key,
+    required _i13.Area readerArea,
     required String bibleDivisionCode,
     int? routerId,
     bool preventDuplicates = true,
@@ -367,8 +368,8 @@ extension NavigatorStateExtension on _i13.NavigationService {
   }
 
   Future<dynamic> navigateToNavigationSectionsChaptersView({
-    _i11.Key? key,
-    required _i12.Area readerArea,
+    _i12.Key? key,
+    required _i13.Area readerArea,
     required String bookCode,
     int? routerId,
     bool preventDuplicates = true,
@@ -424,8 +425,8 @@ extension NavigatorStateExtension on _i13.NavigationService {
   }
 
   Future<dynamic> replaceWithBiblesView({
-    _i11.Key? key,
-    required _i12.Area readerArea,
+    _i12.Key? key,
+    required _i13.Area readerArea,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
@@ -450,8 +451,8 @@ extension NavigatorStateExtension on _i13.NavigationService {
   }
 
   Future<dynamic> replaceWithNavigationBibleDivisionsView({
-    _i11.Key? key,
-    required _i12.Area readerArea,
+    _i12.Key? key,
+    required _i13.Area readerArea,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
@@ -466,8 +467,8 @@ extension NavigatorStateExtension on _i13.NavigationService {
   }
 
   Future<dynamic> replaceWithNavigationBooksView({
-    _i11.Key? key,
-    required _i12.Area readerArea,
+    _i12.Key? key,
+    required _i13.Area readerArea,
     required String bibleDivisionCode,
     int? routerId,
     bool preventDuplicates = true,
@@ -483,8 +484,8 @@ extension NavigatorStateExtension on _i13.NavigationService {
   }
 
   Future<dynamic> replaceWithNavigationSectionsChaptersView({
-    _i11.Key? key,
-    required _i12.Area readerArea,
+    _i12.Key? key,
+    required _i13.Area readerArea,
     required String bookCode,
     int? routerId,
     bool preventDuplicates = true,

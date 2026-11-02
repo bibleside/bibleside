@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../common/books.dart';
@@ -24,17 +24,17 @@ class SearchView extends StackedView<SearchViewModel> {
       canPop: false,
       onPopInvokedWithResult: viewModel.onPopInvoked,
       child: Scaffold(
-        backgroundColor: context.theme.appColors.background,
+        backgroundColor: context.appColors.background,
         appBar: isPortrait
             ? AppBar(
-                backgroundColor: context.theme.appColors.background,
+                backgroundColor: context.appColors.background,
                 centerTitle: true,
                 scrolledUnderElevation: 0.0,
                 automaticallyImplyLeading: true,
                 title: Text(
                   'Search',
                   style: TextStyle(
-                    color: context.theme.appColors.primary,
+                    color: context.appColors.primary,
                     fontSize: 18.0,
                     fontWeight: FontWeight.w500,
                   ),
@@ -59,7 +59,7 @@ class SearchView extends StackedView<SearchViewModel> {
                   padding: const EdgeInsets.only(top: 12.0, left: 25.0, right: 25.0),
                   child: Divider(
                     height: 0,
-                    color: context.theme.appColors.divider,
+                    color: context.appColors.divider,
                   ),
                 ),
                 Padding(
@@ -73,7 +73,7 @@ class SearchView extends StackedView<SearchViewModel> {
                             viewModel.currentBible,
                           ),
                     style: TextStyle(
-                      color: context.theme.appColors.secondary,
+                      color: context.appColors.secondary,
                       fontSize: 12.0,
                     ),
                   ),
@@ -83,7 +83,7 @@ class SearchView extends StackedView<SearchViewModel> {
                         child: Padding(
                           padding: const EdgeInsets.symmetric(vertical: 20.0),
                           child: CircularProgressIndicator(
-                            color: context.theme.appColors.loadingSpinner,
+                            color: context.appColors.accent,
                           ),
                         ),
                       )
