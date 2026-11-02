@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:material_ui/material_ui.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../common/books.dart';
@@ -33,9 +33,9 @@ class NavigationSectionsChaptersView extends StackedView<NavigationSectionsChapt
   ) {
     bool isPortrait = isPortraitOrientation(context);
     return Scaffold(
-      backgroundColor: context.theme.appColors.background,
+      backgroundColor: context.appColors.background,
       appBar: AppBar(
-        backgroundColor: context.theme.appColors.background,
+        backgroundColor: context.appColors.background,
         centerTitle: true,
         scrolledUnderElevation: 0.0,
         title: isPortrait
@@ -43,7 +43,7 @@ class NavigationSectionsChaptersView extends StackedView<NavigationSectionsChapt
             : Text(
                 BooksMapping.bookNameFromBookCode(bookCode),
                 style: TextStyle(
-                  color: context.theme.appColors.primary,
+                  color: context.appColors.primary,
                   fontSize: 18.0,
                   fontWeight: FontWeight.w500,
                 ),
@@ -60,7 +60,7 @@ class NavigationSectionsChaptersView extends StackedView<NavigationSectionsChapt
                   Text(
                     'The book of',
                     style: TextStyle(
-                      color: context.theme.appColors.secondary,
+                      color: context.appColors.secondary,
                       fontSize: 12.0,
                     ),
                   ),
@@ -80,7 +80,7 @@ class NavigationSectionsChaptersView extends StackedView<NavigationSectionsChapt
                       Text(
                         BooksMapping.bookNameFromBookCode(bookCode),
                         style: TextStyle(
-                          color: context.theme.appColors.primary,
+                          color: context.appColors.primary,
                           fontSize: 28.0,
                           fontWeight: FontWeight.bold,
                         ),
@@ -103,15 +103,18 @@ class NavigationSectionsChaptersView extends StackedView<NavigationSectionsChapt
                     mainAxisSpacing: 18,
                   ),
                   itemBuilder: (BuildContext context, int index) {
-                    return InkWell(
-                      borderRadius: BorderRadius.circular(12.0),
-                      onTap: () => viewModel.onTapChapterItem(index + 1), // +1 because the chapters start at 1.
-                      child: Center(
-                        child: Text(
-                          viewModel.bookChapters[index],
-                          maxLines: 1,
-                          overflow: TextOverflow.ellipsis,
-                          style: Theme.of(context).textTheme.bodyLarge,
+                    return Material(
+                      type: MaterialType.transparency,
+                      child: InkWell(
+                        borderRadius: BorderRadius.circular(12.0),
+                        onTap: () => viewModel.onTapChapterItem(index + 1), // +1 because the chapters start at 1.
+                        child: Center(
+                          child: Text(
+                            viewModel.bookChapters[index],
+                            maxLines: 1,
+                            overflow: TextOverflow.ellipsis,
+                            style: Theme.of(context).textTheme.bodyLarge,
+                          ),
                         ),
                       ),
                     );
@@ -125,49 +128,52 @@ class NavigationSectionsChaptersView extends StackedView<NavigationSectionsChapt
                 child: ListView.builder(
                   itemCount: viewModel.sections.length,
                   itemBuilder: (BuildContext context, int index) {
-                    return InkWell(
-                      onTap: () => viewModel.onTapSectionItem(index),
-                      child: Padding(
-                        padding: const EdgeInsets.symmetric(vertical: 8.0),
-                        child: Row(
-                          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Expanded(
-                              child: Column(
-                                crossAxisAlignment: CrossAxisAlignment.start,
-                                children: [
-                                  Text(
-                                    viewModel.getFirstSectionHeading(index),
-                                    style: TextStyle(
-                                      color: context.theme.appColors.primary,
-                                      fontSize: 16.0,
-                                    ),
-                                  ),
-                                  for (String alternativeSection in viewModel.getAlternativeSectionHeadings(index))
-                                    Padding(
-                                      padding: const EdgeInsets.only(left: 5.0, top: 2.0),
-                                      child: Text(
-                                        alternativeSection,
-                                        style: TextStyle(
-                                          color: context.theme.appColors.secondary,
-                                          fontSize: 13.0,
-                                        ),
+                    return Material(
+                      type: MaterialType.transparency,
+                      child: InkWell(
+                        onTap: () => viewModel.onTapSectionItem(index),
+                        child: Padding(
+                          padding: const EdgeInsets.symmetric(vertical: 8.0),
+                          child: Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Expanded(
+                                child: Column(
+                                  crossAxisAlignment: CrossAxisAlignment.start,
+                                  children: [
+                                    Text(
+                                      viewModel.getFirstSectionHeading(index),
+                                      style: TextStyle(
+                                        color: context.appColors.primary,
+                                        fontSize: 16.0,
                                       ),
-                                    )
-                                ],
+                                    ),
+                                    for (String alternativeSection in viewModel.getAlternativeSectionHeadings(index))
+                                      Padding(
+                                        padding: const EdgeInsets.only(left: 5.0, top: 2.0),
+                                        child: Text(
+                                          alternativeSection,
+                                          style: TextStyle(
+                                            color: context.appColors.secondary,
+                                            fontSize: 13.0,
+                                          ),
+                                        ),
+                                      )
+                                  ],
+                                ),
                               ),
-                            ),
-                            Padding(
-                              padding: const EdgeInsets.only(top: 4.0),
-                              child: PhosphorIcon(
-                                PhosphorIcons.caretRight(PhosphorIconsStyle.bold),
-                                color: context.theme.appColors.primary,
-                                size: 18.0,
-                                semanticLabel: 'Caret right',
+                              Padding(
+                                padding: const EdgeInsets.only(top: 4.0),
+                                child: PhosphorIcon(
+                                  PhosphorIconsBold.caretRight,
+                                  color: context.appColors.primary,
+                                  size: 18.0,
+                                  semanticLabel: 'Caret right',
+                                ),
                               ),
-                            ),
-                          ],
+                            ],
+                          ),
                         ),
                       ),
                     );

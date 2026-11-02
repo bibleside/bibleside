@@ -1,10 +1,9 @@
 import 'dart:convert';
 import 'dart:developer';
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:flutter/services.dart';
 import 'package:stacked/stacked.dart';
 import 'package:stacked_services/stacked_services.dart';
-import 'package:stacked_themes/stacked_themes.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 import 'package:webview_flutter_android/webview_flutter_android.dart';
 
@@ -16,12 +15,14 @@ import '../../../common/toast.dart';
 import '../../../services/bibles_service.dart';
 import '../../../services/reader_service.dart';
 import '../../../services/settings_service.dart';
+import '../../../services/theme_service.dart';
 
 class ReaderViewModel extends ReactiveViewModel {
   final _biblesService = locator<BiblesService>();
   final _readerService = locator<ReaderService>();
   final _settingsService = locator<SettingsService>();
   final _navigationService = locator<NavigationService>();
+  final _themeService = locator<ThemeService>();
 
   String get primaryAreaBible => _settingsService.primaryBible;
   String get secondaryAreaBible => _settingsService.secondaryBible;
@@ -31,6 +32,7 @@ class ReaderViewModel extends ReactiveViewModel {
 
   ViewBy get viewBy => _biblesService.viewBy;
 
+  AppTheme get activeTheme => _themeService.activeTheme;
   double get textScaling => _settingsService.textScaling;
   bool get showMarks => _settingsService.showMarks;
   bool get showChaptersAndVerses => _settingsService.showChaptersAndVerses;
@@ -86,7 +88,7 @@ class ReaderViewModel extends ReactiveViewModel {
   Future<void> setupWebviewController() async {
     PlatformWebViewControllerCreationParams params = const PlatformWebViewControllerCreationParams();
     webviewController = WebViewController.fromPlatformCreationParams(params)
-      ..setBackgroundColor(context.theme.appColors.background)
+      ..setBackgroundColor(const Color(0x00000000))
       ..enableZoom(false)
       ..setJavaScriptMode(JavaScriptMode.unrestricted)
       ..addJavaScriptChannel(
@@ -133,19 +135,7 @@ class ReaderViewModel extends ReactiveViewModel {
     String fontUri = getFontUri(fontData, 'font/truetype').toString();
 
     // Theme
-    if (!context.mounted) return;
-    var theme = getThemeManager(context).selectedThemeIndex;
-    String themeName = CurrentTheme.light.name;
-    switch (theme) {
-      case 0:
-        themeName = CurrentTheme.light.name;
-      case 1:
-        themeName = CurrentTheme.dark.name;
-      case 2:
-        themeName = CurrentTheme.sepia.name;
-      case 3:
-        themeName = CurrentTheme.contrast.name;
-    }
+    String themeName = activeTheme.displayName.toLowerCase();
 
     // When scrolling is linked, only ``primaryScrollToId`` is used
     // so that even with different contents lengths the primary reader

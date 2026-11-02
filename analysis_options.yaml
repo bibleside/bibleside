@@ -3,6 +3,8 @@ analyzer:
     - 'stacked_themes/**'
     - '**/*.g.dart'
     - 'lib/app/**'
+    - build/**
+    - android/**
 
 linter:
   # The lint rules applied to this project can be customized in the

@@ -1,6 +1,6 @@
 ![Bibleside](/assets/images/logo-banner.jpg)
 
-[Bibleside](https://bibleside.com) is an offline Bible app featuring the OET (Open English Translation).
+[Bibleside](https://bibleside.github.io) is an offline Bible app featuring the OET (Open English Translation).
 
 The [OET (Open English Translation)](https://openenglishtranslation.bible) is a new, open-licensed Bible translation (currently in ``draft`` state) featuring multiple versions intended to be used together. Read it [here](https://openenglishtranslation.bible/Reader). <sup>Please see the OET website for more info on what makes it different than other translations.</sup>
 
@@ -9,7 +9,7 @@ Bibleside implements the OET's "Reader's" version in the main area and a toggle 
 
 ## Try the app
 
-Get Bibleside (alpha version) on [F-droid](https://f-droid.org/en/packages/com.bibleside.bibleside/) or from the GitHub releases page [here](https://github.com/Correct-Syntax/bible_side/releases).
+Get Bibleside (alpha version) on [F-droid](https://f-droid.org/en/packages/com.bibleside.bibleside/) or from the GitHub releases page [here](https://github.com/bibleside/bibleside/releases).
 
 
 ## Bible versions
@@ -37,11 +37,12 @@ Feedback and contributions are welcome. To help out, ask questions, or share fee
 
 Bibleside is built with Flutter using [Stacked Architecture](https://stacked.filledstacks.com/).
 
+- The version found in ``flutter-version.txt`` is the latest Flutter Bibleside has been tested with. 
 - Run ``flutter pub get`` to install the dependencies.
 - Choose an emulator or a connected device.
 - Hit ``F5`` to run the code in the emulator, or open a terminal and run with ``flutter run``.
 
-See the [wiki](https://github.com/Correct-Syntax/bible_side/wiki/) for helpful information.
+See the [wiki](https://github.com/bibleside/bibleside/wiki/) for helpful information.
 
 
 ## Roadmap

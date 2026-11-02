@@ -10,7 +10,7 @@ enum ViewBy {
   section,
 }
 
-enum CurrentTheme {
+enum AppTheme {
   light,
   dark,
   sepia,

@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../../../common/themes.dart';
@@ -21,16 +21,16 @@ class SettingsTextPreview extends StackedView<SettingsTextPreviewModel> {
       padding: const EdgeInsets.symmetric(vertical: 8.0, horizontal: 10.0),
       margin: const EdgeInsets.only(bottom: 24.0),
       decoration: BoxDecoration(
-        color: context.theme.appColors.background,
+        color: context.appColors.background,
         borderRadius: BorderRadius.circular(12.0),
-        border: Border.all(color: context.theme.appColors.divider),
+        border: Border.all(color: context.appColors.divider),
       ),
       child: SingleChildScrollView(
         child: RichText(
           textScaler: TextScaler.linear(viewModel.textScaling),
           text: TextSpan(
             style: TextStyle(
-              color: context.theme.appColors.readerText,
+              color: context.appColors.readerText,
               fontFamily: 'Merriweather',
               fontSize: 16.0,
               letterSpacing: 0.3,

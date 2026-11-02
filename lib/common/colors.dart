@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 // Hash code from https://stackoverflow.com/(CC BY-SA 4.0)
 extension StringColor on String {

@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:material_ui/material_ui.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../../../common/enums.dart';
@@ -29,7 +29,7 @@ class SecondaryReaderAppbar extends StackedView<SecondaryReaderAppbarModel> {
   ) {
     return Container(
       padding: const EdgeInsets.symmetric(vertical: 10.0),
-      color: context.theme.appColors.appbarBackground,
+      color: context.appColors.surface,
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceBetween,
         crossAxisAlignment: CrossAxisAlignment.center,
@@ -44,15 +44,18 @@ class SecondaryReaderAppbar extends StackedView<SecondaryReaderAppbarModel> {
             onTapBook: onTapBook,
             onTapBibleVersion: onTapBibleVersion,
           ),
-          InkWell(
-            onTap: onTapClose,
-            child: Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 9.0),
-              child: PhosphorIcon(
-                PhosphorIcons.x(PhosphorIconsStyle.bold),
-                color: context.theme.appColors.secondaryOnDark,
-                size: 20.0,
-                semanticLabel: 'Close',
+          Material(
+            type: MaterialType.transparency,
+            child: InkWell(
+              onTap: onTapClose,
+              child: Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 9.0),
+                child: PhosphorIcon(
+                  PhosphorIconsBold.x,
+                  color: context.appColors.iconOnDark,
+                  size: 20.0,
+                  semanticLabel: 'Close',
+                ),
               ),
             ),
           ),

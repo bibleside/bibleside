@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../common/bibles.dart';
@@ -26,9 +26,9 @@ class BiblesView extends StackedView<BiblesViewModel> {
       canPop: false,
       onPopInvokedWithResult: viewModel.onPopInvoked,
       child: Scaffold(
-        backgroundColor: context.theme.appColors.background,
+        backgroundColor: context.appColors.background,
         appBar: AppBar(
-          backgroundColor: context.theme.appColors.background,
+          backgroundColor: context.appColors.background,
           centerTitle: true,
           scrolledUnderElevation: 0.0,
           title: isPortrait
@@ -36,7 +36,7 @@ class BiblesView extends StackedView<BiblesViewModel> {
               : Text(
                   viewModel.getTitle(),
                   style: TextStyle(
-                    color: context.theme.appColors.primary,
+                    color: context.appColors.primary,
                     fontSize: 18.0,
                     fontWeight: FontWeight.w500,
                   ),
@@ -53,7 +53,7 @@ class BiblesView extends StackedView<BiblesViewModel> {
                   child: Text(
                     viewModel.getTitle(),
                     style: TextStyle(
-                      color: context.theme.appColors.primary,
+                      color: context.appColors.primary,
                       fontSize: 26.0,
                       fontWeight: FontWeight.bold,
                     ),
@@ -67,7 +67,7 @@ class BiblesView extends StackedView<BiblesViewModel> {
                   title: Text(
                     bibleCode,
                     style: TextStyle(
-                      color: context.theme.appColors.primary,
+                      color: context.appColors.primary,
                       fontSize: 16.0,
                       fontWeight: bibleCode == viewModel.currentBibleCode() ? FontWeight.bold : FontWeight.w500,
                     ),
@@ -75,14 +75,14 @@ class BiblesView extends StackedView<BiblesViewModel> {
                   subtitle: Text(
                     bibleVersionsMapping[bibleCode]!,
                     style: TextStyle(
-                      color: context.theme.appColors.primary,
+                      color: context.appColors.primary,
                       fontSize: 11.0,
                     ),
                   ),
                   trailing: bibleCode == viewModel.currentBibleCode()
                       ? Icon(
                           Icons.check,
-                          color: context.theme.appColors.primary,
+                          color: context.appColors.primary,
                         )
                       : null,
                 ),

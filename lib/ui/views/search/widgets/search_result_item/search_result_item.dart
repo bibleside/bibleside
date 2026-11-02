@@ -1,5 +1,5 @@
-import 'package:flutter/material.dart';
-import 'package:phosphor_flutter/phosphor_flutter.dart';
+import 'package:material_ui/material_ui.dart';
+import 'package:phosphoricons_flutter/phosphoricons_flutter.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../../../common/books.dart';
@@ -31,57 +31,60 @@ class SearchResultItem extends StackedView<SearchResultItemModel> {
   ) {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 10.0),
-      child: InkWell(
-        onTap: onTap,
-        borderRadius: BorderRadius.circular(12.0),
-        child: Padding(
-          padding: const EdgeInsets.symmetric(vertical: 12.0, horizontal: 15.0),
-          child: Column(
-            spacing: 7.0,
-            children: [
-              Row(
-                mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                children: [
-                  Row(
-                    children: [
-                      Align(
-                        alignment: Alignment.topLeft,
-                        child: Padding(
-                          padding: const EdgeInsets.only(bottom: 8.0),
-                          child: BibleDivisionIndicator(
-                            color: BooksMapping.colorFromBookCode(bookCode),
+      child: Material(
+        type: MaterialType.transparency,
+        child: InkWell(
+          onTap: onTap,
+          borderRadius: BorderRadius.circular(12.0),
+          child: Padding(
+            padding: const EdgeInsets.symmetric(vertical: 12.0, horizontal: 15.0),
+            child: Column(
+              spacing: 7.0,
+              children: [
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Row(
+                      children: [
+                        Align(
+                          alignment: Alignment.topLeft,
+                          child: Padding(
+                            padding: const EdgeInsets.only(bottom: 8.0),
+                            child: BibleDivisionIndicator(
+                              color: BooksMapping.colorFromBookCode(bookCode),
+                            ),
                           ),
                         ),
-                      ),
-                      Padding(
-                        padding: const EdgeInsets.only(left: 4.0),
-                        child: Text(
-                          viewModel.getReference(bookCode, chapter, verse),
-                          style: TextStyle(
-                            fontSize: 16.0,
-                            fontWeight: FontWeight.bold,
-                            color: context.theme.appColors.primary,
+                        Padding(
+                          padding: const EdgeInsets.only(left: 4.0),
+                          child: Text(
+                            viewModel.getReference(bookCode, chapter, verse),
+                            style: TextStyle(
+                              fontSize: 16.0,
+                              fontWeight: FontWeight.bold,
+                              color: context.appColors.primary,
+                            ),
                           ),
                         ),
-                      ),
-                    ],
-                  ),
-                  PhosphorIcon(
-                    PhosphorIcons.caretRight(PhosphorIconsStyle.bold),
-                    color: context.theme.appColors.primary,
-                    size: 16.0,
-                    semanticLabel: 'Caret right',
-                  ),
-                ],
-              ),
-              Text(
-                verseText,
-                style: TextStyle(
-                  color: context.theme.appColors.secondary,
-                  fontSize: 14.0,
+                      ],
+                    ),
+                    PhosphorIcon(
+                      PhosphorIconsBold.caretRight,
+                      color: context.appColors.primary,
+                      size: 16.0,
+                      semanticLabel: 'Caret right',
+                    ),
+                  ],
                 ),
-              ),
-            ],
+                Text(
+                  verseText,
+                  style: TextStyle(
+                    color: context.appColors.secondary,
+                    fontSize: 14.0,
+                  ),
+                ),
+              ],
+            ),
           ),
         ),
       ),

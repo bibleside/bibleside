@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../../../common/themes.dart';
@@ -23,7 +23,7 @@ class SettingsCategoryTitle extends StackedView<SettingsCategoryTitleModel> {
       child: Text(
         title,
         style: TextStyle(
-          color: context.theme.appColors.secondary.withValues(alpha: 0.8),
+          color: context.appColors.secondary.withValues(alpha: 0.8),
           fontWeight: FontWeight.w500,
           fontSize: 14.0,
           letterSpacing: -0.1,

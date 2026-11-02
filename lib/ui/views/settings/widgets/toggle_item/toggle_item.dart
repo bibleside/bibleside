@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 import 'package:stacked/stacked.dart';
 
 import '../../../../../common/themes.dart';
@@ -30,25 +30,27 @@ class ToggleItem extends StackedView<ToggleItemModel> {
           Text(
             label,
             style: TextStyle(
-              color: context.theme.appColors.primary,
+              color: context.appColors.primary,
               fontSize: 16.0,
               fontWeight: FontWeight.w500,
             ),
           ),
           Switch(
-            activeThumbColor: context.theme.appColors.background,
-            activeTrackColor: context.theme.appColors.switchBackground,
-            inactiveThumbColor: context.theme.appColors.primary,
-            inactiveTrackColor: context.theme.appColors.background,
+            activeThumbColor: context.appColors.accent == HighContrastPalette.white || context.isDark
+                ? context.appColors.background
+                : context.appColors.textOnDark,
+            activeTrackColor: context.appColors.accent,
+            inactiveThumbColor: context.appColors.primary,
+            inactiveTrackColor: context.isDark ? context.appColors.inputBackground : context.appColors.inputBorder,
             trackOutlineColor: WidgetStateProperty.resolveWith((states) {
               if (states.contains(WidgetState.selected)) {
-                return context.theme.appColors.switchBackground;
+                return context.appColors.accent;
               }
-              return context.theme.appColors.primary;
+              return context.appColors.divider;
             }),
             value: value,
             onChanged: onChanged,
-          ),
+          )
         ],
       ),
     );
