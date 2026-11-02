@@ -43,7 +43,6 @@ import 'package:bible_side/services/theme_service.dart';
     LazySingleton(classType: ReaderService),
     LazySingleton(classType: JsonService),
     LazySingleton(classType: SearchService),
-    LazySingleton(classType: ThemeService),
 // @stacked-service
   ],
   // bottomsheets: [

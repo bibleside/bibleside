@@ -1,4 +1,5 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
+// dart format width=80
 
 // **************************************************************************
 // StackedLocatorGenerator
@@ -21,10 +22,7 @@ import '../services/theme_service.dart';
 
 final locator = StackedLocator.instance;
 
-Future<void> setupLocator({
-  String? environment,
-  EnvironmentFilter? environmentFilter,
-}) async {
+Future<void> setupLocator({String? environment, EnvironmentFilter? environmentFilter}) async {
 // Register environments
   locator.registerEnvironment(environment: environment, environmentFilter: environmentFilter);
 
@@ -35,8 +33,8 @@ Future<void> setupLocator({
   locator.registerLazySingleton(() => BiblesService());
   locator.registerLazySingleton(() => SettingsService());
   locator.registerLazySingleton(() => AppInfoService());
+  locator.registerLazySingleton(() => ThemeService());
   locator.registerLazySingleton(() => ReaderService());
   locator.registerLazySingleton(() => JsonService());
   locator.registerLazySingleton(() => SearchService());
-  locator.registerLazySingleton(() => ThemeService());
 }

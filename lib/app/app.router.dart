@@ -1,10 +1,12 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
+// dart format width=80
 
 // **************************************************************************
 // StackedNavigatorGenerator
 // **************************************************************************
 
 // ignore_for_file: no_leading_underscores_for_library_prefixes
+
 import 'package:bible_side/common/enums.dart' as _i13;
 import 'package:bible_side/ui/views/bibles/bibles_view.dart' as _i5;
 import 'package:bible_side/ui/views/bookmarks/bookmarks_view.dart' as _i10;
@@ -95,20 +97,29 @@ class StackedRouter extends _i1.RouterBase {
 
   final _pagesMap = <Type, _i1.StackedRouteFactory>{
     _i2.StartupView: (data) {
+      final args = data.getArgs<StartupViewArguments>(
+        orElse: () => const StartupViewArguments(),
+      );
       return _i11.MaterialPageRoute<dynamic>(
-        builder: (context) => const _i2.StartupView(),
+        builder: (context) => _i2.StartupView(key: args.key),
         settings: data,
       );
     },
     _i3.SettingsView: (data) {
+      final args = data.getArgs<SettingsViewArguments>(
+        orElse: () => const SettingsViewArguments(),
+      );
       return _i11.MaterialPageRoute<dynamic>(
-        builder: (context) => const _i3.SettingsView(),
+        builder: (context) => _i3.SettingsView(key: args.key),
         settings: data,
       );
     },
     _i4.ReaderView: (data) {
+      final args = data.getArgs<ReaderViewArguments>(
+        orElse: () => const ReaderViewArguments(),
+      );
       return _i11.MaterialPageRoute<dynamic>(
-        builder: (context) => const _i4.ReaderView(),
+        builder: (context) => _i4.ReaderView(key: args.key),
         settings: data,
       );
     },
@@ -120,8 +131,11 @@ class StackedRouter extends _i1.RouterBase {
       );
     },
     _i6.SearchView: (data) {
+      final args = data.getArgs<SearchViewArguments>(
+        orElse: () => const SearchViewArguments(),
+      );
       return _i11.MaterialPageRoute<dynamic>(
-        builder: (context) => const _i6.SearchView(),
+        builder: (context) => _i6.SearchView(key: args.key),
         settings: data,
       );
     },
@@ -149,8 +163,11 @@ class StackedRouter extends _i1.RouterBase {
       );
     },
     _i10.BookmarksView: (data) {
+      final args = data.getArgs<BookmarksViewArguments>(
+        orElse: () => const BookmarksViewArguments(),
+      );
       return _i11.MaterialPageRoute<dynamic>(
-        builder: (context) => const _i10.BookmarksView(),
+        builder: (context) => _i10.BookmarksView(key: args.key),
         settings: data,
       );
     },
@@ -161,6 +178,72 @@ class StackedRouter extends _i1.RouterBase {
 
   @override
   Map<Type, _i1.StackedRouteFactory> get pagesMap => _pagesMap;
+}
+
+class StartupViewArguments {
+  const StartupViewArguments({this.key});
+
+  final _i12.Key? key;
+
+  @override
+  String toString() {
+    return '{"key": "$key"}';
+  }
+
+  @override
+  bool operator ==(covariant StartupViewArguments other) {
+    if (identical(this, other)) return true;
+    return other.key == key;
+  }
+
+  @override
+  int get hashCode {
+    return key.hashCode;
+  }
+}
+
+class SettingsViewArguments {
+  const SettingsViewArguments({this.key});
+
+  final _i12.Key? key;
+
+  @override
+  String toString() {
+    return '{"key": "$key"}';
+  }
+
+  @override
+  bool operator ==(covariant SettingsViewArguments other) {
+    if (identical(this, other)) return true;
+    return other.key == key;
+  }
+
+  @override
+  int get hashCode {
+    return key.hashCode;
+  }
+}
+
+class ReaderViewArguments {
+  const ReaderViewArguments({this.key});
+
+  final _i12.Key? key;
+
+  @override
+  String toString() {
+    return '{"key": "$key"}';
+  }
+
+  @override
+  bool operator ==(covariant ReaderViewArguments other) {
+    if (identical(this, other)) return true;
+    return other.key == key;
+  }
+
+  @override
+  int get hashCode {
+    return key.hashCode;
+  }
 }
 
 class BiblesViewArguments {
@@ -187,6 +270,28 @@ class BiblesViewArguments {
   @override
   int get hashCode {
     return key.hashCode ^ readerArea.hashCode;
+  }
+}
+
+class SearchViewArguments {
+  const SearchViewArguments({this.key});
+
+  final _i12.Key? key;
+
+  @override
+  String toString() {
+    return '{"key": "$key"}';
+  }
+
+  @override
+  bool operator ==(covariant SearchViewArguments other) {
+    if (identical(this, other)) return true;
+    return other.key == key;
+  }
+
+  @override
+  int get hashCode {
+    return key.hashCode;
   }
 }
 
@@ -277,35 +382,72 @@ class NavigationSectionsChaptersViewArguments {
   }
 }
 
+class BookmarksViewArguments {
+  const BookmarksViewArguments({this.key});
+
+  final _i12.Key? key;
+
+  @override
+  String toString() {
+    return '{"key": "$key"}';
+  }
+
+  @override
+  bool operator ==(covariant BookmarksViewArguments other) {
+    if (identical(this, other)) return true;
+    return other.key == key;
+  }
+
+  @override
+  int get hashCode {
+    return key.hashCode;
+  }
+}
+
 extension NavigatorStateExtension on _i14.NavigationService {
-  Future<dynamic> navigateToStartupView([
+  Future<dynamic> navigateToStartupView({
+    _i12.Key? key,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
     Widget Function(BuildContext, Animation<double>, Animation<double>, Widget)? transition,
-  ]) async {
+  }) async {
     return navigateTo<dynamic>(Routes.startupView,
-        id: routerId, preventDuplicates: preventDuplicates, parameters: parameters, transition: transition);
+        arguments: StartupViewArguments(key: key),
+        id: routerId,
+        preventDuplicates: preventDuplicates,
+        parameters: parameters,
+        transition: transition);
   }
 
-  Future<dynamic> navigateToSettingsView([
+  Future<dynamic> navigateToSettingsView({
+    _i12.Key? key,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
     Widget Function(BuildContext, Animation<double>, Animation<double>, Widget)? transition,
-  ]) async {
+  }) async {
     return navigateTo<dynamic>(Routes.settingsView,
-        id: routerId, preventDuplicates: preventDuplicates, parameters: parameters, transition: transition);
+        arguments: SettingsViewArguments(key: key),
+        id: routerId,
+        preventDuplicates: preventDuplicates,
+        parameters: parameters,
+        transition: transition);
   }
 
-  Future<dynamic> navigateToReaderView([
+  Future<dynamic> navigateToReaderView({
+    _i12.Key? key,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
     Widget Function(BuildContext, Animation<double>, Animation<double>, Widget)? transition,
-  ]) async {
+  }) async {
     return navigateTo<dynamic>(Routes.readerView,
-        id: routerId, preventDuplicates: preventDuplicates, parameters: parameters, transition: transition);
+        arguments: ReaderViewArguments(key: key),
+        id: routerId,
+        preventDuplicates: preventDuplicates,
+        parameters: parameters,
+        transition: transition);
   }
 
   Future<dynamic> navigateToBiblesView({
@@ -324,14 +466,19 @@ extension NavigatorStateExtension on _i14.NavigationService {
         transition: transition);
   }
 
-  Future<dynamic> navigateToSearchView([
+  Future<dynamic> navigateToSearchView({
+    _i12.Key? key,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
     Widget Function(BuildContext, Animation<double>, Animation<double>, Widget)? transition,
-  ]) async {
+  }) async {
     return navigateTo<dynamic>(Routes.searchView,
-        id: routerId, preventDuplicates: preventDuplicates, parameters: parameters, transition: transition);
+        arguments: SearchViewArguments(key: key),
+        id: routerId,
+        preventDuplicates: preventDuplicates,
+        parameters: parameters,
+        transition: transition);
   }
 
   Future<dynamic> navigateToNavigationBibleDivisionsView({
@@ -384,44 +531,64 @@ extension NavigatorStateExtension on _i14.NavigationService {
         transition: transition);
   }
 
-  Future<dynamic> navigateToBookmarksView([
+  Future<dynamic> navigateToBookmarksView({
+    _i12.Key? key,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
     Widget Function(BuildContext, Animation<double>, Animation<double>, Widget)? transition,
-  ]) async {
+  }) async {
     return navigateTo<dynamic>(Routes.bookmarksView,
-        id: routerId, preventDuplicates: preventDuplicates, parameters: parameters, transition: transition);
+        arguments: BookmarksViewArguments(key: key),
+        id: routerId,
+        preventDuplicates: preventDuplicates,
+        parameters: parameters,
+        transition: transition);
   }
 
-  Future<dynamic> replaceWithStartupView([
+  Future<dynamic> replaceWithStartupView({
+    _i12.Key? key,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
     Widget Function(BuildContext, Animation<double>, Animation<double>, Widget)? transition,
-  ]) async {
+  }) async {
     return replaceWith<dynamic>(Routes.startupView,
-        id: routerId, preventDuplicates: preventDuplicates, parameters: parameters, transition: transition);
+        arguments: StartupViewArguments(key: key),
+        id: routerId,
+        preventDuplicates: preventDuplicates,
+        parameters: parameters,
+        transition: transition);
   }
 
-  Future<dynamic> replaceWithSettingsView([
+  Future<dynamic> replaceWithSettingsView({
+    _i12.Key? key,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
     Widget Function(BuildContext, Animation<double>, Animation<double>, Widget)? transition,
-  ]) async {
+  }) async {
     return replaceWith<dynamic>(Routes.settingsView,
-        id: routerId, preventDuplicates: preventDuplicates, parameters: parameters, transition: transition);
+        arguments: SettingsViewArguments(key: key),
+        id: routerId,
+        preventDuplicates: preventDuplicates,
+        parameters: parameters,
+        transition: transition);
   }
 
-  Future<dynamic> replaceWithReaderView([
+  Future<dynamic> replaceWithReaderView({
+    _i12.Key? key,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
     Widget Function(BuildContext, Animation<double>, Animation<double>, Widget)? transition,
-  ]) async {
+  }) async {
     return replaceWith<dynamic>(Routes.readerView,
-        id: routerId, preventDuplicates: preventDuplicates, parameters: parameters, transition: transition);
+        arguments: ReaderViewArguments(key: key),
+        id: routerId,
+        preventDuplicates: preventDuplicates,
+        parameters: parameters,
+        transition: transition);
   }
 
   Future<dynamic> replaceWithBiblesView({
@@ -440,14 +607,19 @@ extension NavigatorStateExtension on _i14.NavigationService {
         transition: transition);
   }
 
-  Future<dynamic> replaceWithSearchView([
+  Future<dynamic> replaceWithSearchView({
+    _i12.Key? key,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
     Widget Function(BuildContext, Animation<double>, Animation<double>, Widget)? transition,
-  ]) async {
+  }) async {
     return replaceWith<dynamic>(Routes.searchView,
-        id: routerId, preventDuplicates: preventDuplicates, parameters: parameters, transition: transition);
+        arguments: SearchViewArguments(key: key),
+        id: routerId,
+        preventDuplicates: preventDuplicates,
+        parameters: parameters,
+        transition: transition);
   }
 
   Future<dynamic> replaceWithNavigationBibleDivisionsView({
@@ -500,13 +672,18 @@ extension NavigatorStateExtension on _i14.NavigationService {
         transition: transition);
   }
 
-  Future<dynamic> replaceWithBookmarksView([
+  Future<dynamic> replaceWithBookmarksView({
+    _i12.Key? key,
     int? routerId,
     bool preventDuplicates = true,
     Map<String, String>? parameters,
     Widget Function(BuildContext, Animation<double>, Animation<double>, Widget)? transition,
-  ]) async {
+  }) async {
     return replaceWith<dynamic>(Routes.bookmarksView,
-        id: routerId, preventDuplicates: preventDuplicates, parameters: parameters, transition: transition);
+        arguments: BookmarksViewArguments(key: key),
+        id: routerId,
+        preventDuplicates: preventDuplicates,
+        parameters: parameters,
+        transition: transition);
   }
 }
