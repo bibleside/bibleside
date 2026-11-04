@@ -1,5 +1,3 @@
-import 'dart:developer';
-
 String text = """
 So¦106620 there's no excuse for anyone who judges others because¦106639 you're; condemning¦106637 yourselves¦106636 if you're doing¦106641 those same things that you're judging other for.
 
