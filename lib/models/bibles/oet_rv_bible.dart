@@ -68,6 +68,8 @@ class OETReadersBibleImpl extends JsonToBible {
               .replaceAll(RegExp(r'¦([0-9])*\d+'), '')
               .replaceAll(' +', ' ')
               .replaceAll('>', ' ')
+              // A raw '<' would start an HTML tag and swallow the rest of the verse.
+              .replaceAll('<', '')
               .replaceAll('=', ' ')
               .replaceAll("'", "’")
               .replaceAll("≈", "")
