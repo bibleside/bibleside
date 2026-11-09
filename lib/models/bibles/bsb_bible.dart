@@ -9,6 +9,18 @@ import '../search_result.dart';
 class BSBBibleImpl extends JsonToBible {
   BSBBibleImpl(Map<String, dynamic> json) : super(json: json);
 
+  /// Paragraph markers that carry verse text (not headings, titles or blank lines).
+  static bool _isTextPara(String marker) {
+    return marker == 'p' ||
+        marker == 'm' ||
+        marker == 'pmo' ||
+        marker == 'pc' ||
+        marker == 'd' ||
+        marker == 'qr' ||
+        (marker.startsWith('q') && marker != 'qa') ||
+        marker.startsWith('li');
+  }
+
   @override
   Future<String> getBook(
     Area readerArea,
@@ -45,14 +57,18 @@ class BSBBibleImpl extends JsonToBible {
           // or the end of the book.
           
           // Starting a new paragraph, so emit any verse text stored in tempHTML from the previous paragraph before processing the new paragraph.
+          // Keep a space at the paragraph break so words on either side don't run together.
+          if (!tempHTML.endsWith(' ') && !tempHTML.endsWith('\n')) {
+            tempHTML += ' ';
+          }
           htmlText += tempHTML;
           tempHTML = '';
         }
         
         for (dynamic paraItem in item['content']) {
           if (paraItem is String) {
-            // The BSB json has some q1 and q2 markers, in addition to p markers, so we want to include those as well.
-            if (item['marker'] == 'p' || item['marker'] == 'q1' || item['marker'] == 'q2') {
+            // Include text from every verse-text paragraph type (p, q1, q2, li1, li2, pmo, d, qr, ...).
+            if (_isTextPara(item['marker'].toString())) {
               tempHTML += '$paraItem ';
             }
           } else if (paraItem is Map) {
