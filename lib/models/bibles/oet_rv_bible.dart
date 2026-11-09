@@ -7,6 +7,34 @@ import '../json_to_bible.dart';
 class OETReadersBibleImpl extends JsonToBible {
   OETReadersBibleImpl(Map<String, dynamic> json) : super(json: json);
 
+  /// Collects the text of a USJ node, including text nested inside `char`
+  /// items (e.g. `wj` containing `add` or `nd`). Notes are skipped.
+  static String _textOf(dynamic node) {
+    if (node is String) return node;
+    if (node is Map && node['type'] != 'note') {
+      String text = '';
+      for (dynamic child in node['content'] ?? []) {
+        text += _textOf(child);
+      }
+      return text;
+    }
+    return '';
+  }
+
+  /// Paragraph markers that carry verse text.
+  static bool _isTextPara(String marker) {
+    return marker == 'p' ||
+        marker == 'm' ||
+        marker == 'nb' ||
+        marker == 'mi' ||
+        marker == 'pc' ||
+        marker == 'd' ||
+        marker == 'sp' ||
+        marker.startsWith('q') ||
+        marker.startsWith('li') ||
+        marker.startsWith('pi');
+  }
+
   // TODO: currently replaces all ' marks with ’.
   @override
   Future<String> getBook(
@@ -99,14 +127,11 @@ class OETReadersBibleImpl extends JsonToBible {
             item['marker'] == 's') {
           String text = '';
           for (dynamic contentItem in item['content'] ?? []) {
-            if (contentItem is String) text += contentItem;
+            text += _textOf(contentItem);
           }
           sectionText = text.trim();
           pendingSection = true;
-        } else if (item['marker'] == 'p' ||
-            item['marker'] == 'm' ||
-            item['marker'].toString().startsWith('q') ||
-            item['marker'] == 'sp') {
+        } else if (_isTextPara(item['marker'].toString())) {
           htmlText += '<p>';
 
           for (dynamic contentItem in item['content'] ?? []) {
@@ -118,11 +143,7 @@ class OETReadersBibleImpl extends JsonToBible {
                     '${readerArea.name}-$bookCode-$chapterNumber-$currentVerseNumber';
                 hasPendingVerse = true;
               } else if (contentItem['type'] == 'char') {
-                for (dynamic charItem in contentItem['content'] ?? []) {
-                  if (charItem is String) {
-                    currentVerseText += charItem.replaceAll('≈', "");
-                  }
-                }
+                currentVerseText += _textOf(contentItem).replaceAll('≈', '');
               }
             } else if (contentItem is String) {
               if (hasPendingVerse) {
