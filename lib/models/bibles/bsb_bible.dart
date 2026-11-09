@@ -9,14 +9,18 @@ import '../search_result.dart';
 class BSBBibleImpl extends JsonToBible {
   BSBBibleImpl(Map<String, dynamic> json) : super(json: json);
 
-  /// Paragraph markers that carry verse text (not headings, titles or blank lines).
-  static bool _isTextPara(String marker) {
+  /// Whether a paragraph carries verse text (not headings or blank lines). A title
+  /// (`d`) only counts when it contains a verse, so labels like "Psalms 42–72"
+  /// don't attach to the previous psalm.
+  static bool _isTextPara(Map item) {
+    final String marker = item['marker'].toString();
+    if (marker == 'd') {
+      return (item['content'] ?? []).any((c) => c is Map && c['type'] == 'verse');
+    }
     return marker == 'p' ||
         marker == 'm' ||
         marker == 'pmo' ||
         marker == 'pc' ||
-        marker == 'd' ||
-        marker == 'qr' ||
         (marker.startsWith('q') && marker != 'qa') ||
         marker.startsWith('li');
   }
@@ -68,7 +72,7 @@ class BSBBibleImpl extends JsonToBible {
         for (dynamic paraItem in item['content']) {
           if (paraItem is String) {
             // Include text from every verse-text paragraph type (p, q1, q2, li1, li2, pmo, d, qr, ...).
-            if (_isTextPara(item['marker'].toString())) {
+            if (_isTextPara(item)) {
               tempHTML += '$paraItem ';
             }
           } else if (paraItem is Map) {

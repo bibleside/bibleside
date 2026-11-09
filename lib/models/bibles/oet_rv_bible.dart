@@ -21,16 +21,18 @@ class OETReadersBibleImpl extends JsonToBible {
     return '';
   }
 
-  /// Paragraph markers that carry verse text.
-  static bool _isTextPara(String marker) {
+  /// Whether a paragraph carries verse text. Acrostic headings (`qa`) are not
+  /// verse text.
+  static bool _isTextPara(Map item) {
+    final String marker = item['marker'].toString();
     return marker == 'p' ||
+        marker == 'd' ||
         marker == 'm' ||
         marker == 'nb' ||
         marker == 'mi' ||
         marker == 'pc' ||
-        marker == 'd' ||
         marker == 'sp' ||
-        marker.startsWith('q') ||
+        (marker.startsWith('q') && marker != 'qa') ||
         marker.startsWith('li') ||
         marker.startsWith('pi');
   }
@@ -133,7 +135,7 @@ class OETReadersBibleImpl extends JsonToBible {
           }
           sectionText = text.trim();
           pendingSection = true;
-        } else if (_isTextPara(item['marker'].toString())) {
+        } else if (_isTextPara(item)) {
           htmlText += '<p>';
 
           for (dynamic contentItem in item['content'] ?? []) {
