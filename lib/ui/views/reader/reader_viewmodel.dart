@@ -1,4 +1,3 @@
-import 'dart:convert';
 import 'dart:developer';
 import 'package:material_ui/material_ui.dart';
 import 'package:flutter/services.dart';
@@ -146,7 +145,7 @@ class ReaderViewModel extends ReactiveViewModel {
 
     log('Primary ID->: $primaryScrollToId | Secondary ID->: $secondaryScrollToId');
 
-    Uri htmlUri = Uri.dataFromString("""
+    String html = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -453,9 +452,12 @@ class ReaderViewModel extends ReactiveViewModel {
   </script>
 </body>
 </html>
-""", mimeType: 'text/html', encoding: Encoding.getByName('utf-8'));
+""";
 
-    await webviewController.loadRequest(htmlUri);
+    // Load the page as an HTML string rather than a data: URL. Android WebView
+    // rejects URLs over 2 MB, and the page carries both reader areas' full book
+    // HTML plus the embedded font, so larger books (e.g. Luke) loaded blank.
+    await webviewController.loadHtmlString(html);
 
     rebuildUi();
   }
