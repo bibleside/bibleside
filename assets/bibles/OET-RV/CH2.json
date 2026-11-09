@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "2CH",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.11"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.1.12"
    ]
   },
   {
@@ -330,7 +330,7 @@
       "≈worship place¦200756"
      ]
     },
-    " at¦200758 Gibeon¦200758 because the ",
+    " at¦200758 Gibeon¦200758 because¦200759 the ",
     {
      "type": "char",
      "marker": "add",
@@ -338,7 +338,7 @@
       "≈sacred¦200763 tent¦200763"
      ]
     },
-    " was there¦200761 that¦200757 Yahweh’s servant¦200769 Mosheh¦200768 ",
+    " was there¦200761 that¦200757 Yahweh’s¦200771 servant¦200769 Mosheh¦200768 ",
     {
      "type": "char",
      "marker": "add",
@@ -538,7 +538,7 @@
       "≈as"
      ]
     },
-    " I come and go in front¦200879 of these people, because who could make ",
+    " I come and go in front¦200879 of these people, because¦200884 who could make ",
     {
      "type": "char",
      "marker": "add",
@@ -1032,7 +1032,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈We want to build an impressive building, because our god is more powerful"
+      "≈We want to build an impressive building, because¦201167 our god is more powerful"
      ]
     },
     " than all ",
@@ -1163,7 +1163,7 @@
       "there in"
      ]
     },
-    " Lebanon, because I myself know that¦201248 your servants know how to cut the trees from Lebanon’s ",
+    " Lebanon, because¦201246 I myself know that¦201248 your servants know how to cut the trees from Lebanon’s ",
     {
      "type": "char",
      "marker": "add",
@@ -1423,7 +1423,7 @@
      "number": "1",
      "sid": "2CH 3:1"
     },
-    "Then¦201472 Shelomoh began¦201472 to build¦201474 Yahweh’s temple on¦201480 Mt¦201481. Moriyah in¦201480 Yerushalem¦201480, where ",
+    "Then¦201472 Shelomoh began¦201472 to build¦201474 Yahweh’s¦201479 temple on¦201480 Mt¦201481. Moriyah in¦201480 Yerushalem¦201480, where ",
     {
      "type": "char",
      "marker": "add",
@@ -2247,7 +2247,7 @@
      "number": "9",
      "sid": "2CH 4:9"
     },
-    "He made the courtyard for the priests¦201914, as well as the large courtyard with its doors overlaid¦201920 with bronze¦201921,\n",
+    "He made the courtyard for the priests¦201914, as well as the large¦201916 courtyard with its doors overlaid¦201920 with bronze¦201921,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2370,7 +2370,7 @@
    "type": "para",
    "marker": "p",
    "content": [
-    "Those were all items made of polished¦202052 bronze¦202051 that Huram¦202045-Abi made for King¦202047 Shelomoh for Yahweh’s temple.\n"
+    "Those were all items made of polished¦202052 bronze¦202051 that Huram¦202045-Abi made for King¦202047 Shelomoh for Yahweh’s¦202050 temple.\n"
    ]
   },
   {
@@ -2456,7 +2456,7 @@
      "number": "22",
      "sid": "2CH 4:22"
     },
-    "the pure¦202128 gold lamp trimmers, the basins¦202119 and spoons, and fire pans. Also the temple entrance¦202124, its inner¦202127 doors into the very sacred¦202128 room¦202128, and the ",
+    "the pure¦202128 gold lamp trimmers, the basins¦202119 and spoons, and fire pans. Also¦202118 the temple entrance¦202124, its inner¦202127 doors into the very sacred¦202128 room¦202128, and the ",
     {
      "type": "char",
      "marker": "add",
@@ -2505,7 +2505,7 @@
       "≈After"
      ]
     },
-    " all the work¦202138 which¦202139 Solomon did for Yahweh’s temple was completed¦202135, Solomon brought¦202146 in the sacred¦202150 things¦202150 of his father¦202153 David¦202152: the gold¦202159 and silver¦202156, and all the items, he placed in the temple treasuries¦202166.",
+    " all the work¦202138 which¦202139 Solomon did¦202141 for Yahweh’s¦202144 temple was completed¦202135, Solomon brought¦202146 in the sacred¦202150 things¦202150 of his father¦202153 David¦202152: the gold¦202159 and silver¦202156, and all the items, he placed in the temple treasuries¦202166.",
     {
      "type": "note",
      "marker": "x",
@@ -2584,7 +2584,7 @@
       "≈containing"
      ]
     },
-    " Yahweh’s agreement up ",
+    " Yahweh’s¦202197 agreement¦202195 up ",
     {
      "type": "char",
      "marker": "add",
@@ -2704,7 +2704,7 @@
       "≈containing"
      ]
     },
-    " Yahweh’s agreement, in to its¦202278 place¦202286 in the inner¦202281 sanctuary of the house¦202282 (the holy of holies¦202286)—to under¦202289 the winged creatures\n",
+    " Yahweh’s¦202275 agreement¦202273, in to its¦202278 place¦202286 in the inner¦202281 sanctuary of the house¦202282 (the holy of holies¦202286)—to under¦202289 the winged creatures\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2925,21 +2925,21 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because his loyal¦202418 commitment continues forever¦202417.”\n"
+    "because¦202414 his loyal¦202418 commitment continues forever¦202417.”\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "Then¦202394 Yahweh’s temple filled with a cloud¦202421\n",
+    "Then¦202394 Yahweh’s¦202405 temple filled with a cloud¦202421\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "2CH 5:14"
     },
-    "and the priests¦202428 weren’t able to stay on their feet and continue ministering¦202430 because Yahweh’s brilliance had filled¦202435 the temple.\n"
+    "and the priests¦202428 weren’t able to stay on their feet and continue ministering¦202430 because¦202433 Yahweh’s¦202438 brilliance had filled¦202435 the temple.\n"
    ]
   },
   {
@@ -3236,7 +3236,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈reputation"
+      "≈reputation¦202589"
      ]
     },
     ".’\n"
@@ -3283,7 +3283,7 @@
       "@the box"
      ]
     },
-    " that contains the agreement that Yahweh¦202627 made with Yisrael’s¦202633 descendants.”\n"
+    " that contains the agreement¦202626 that Yahweh¦202627 made with Yisrael’s¦202633 descendants.”\n"
    ]
   },
   {
@@ -3370,7 +3370,7 @@
      "number": "14",
      "sid": "2CH 6:14"
     },
-    "and said, “Yahweh¦202681, God¦202682 of Yisrael¦202683, there¦202684 isn’t¦202684 any god like you in¦202688 the heavens¦202688 or on¦202688 the earth¦202689—one who keeps¦202690 his agreement and ",
+    "and said, “Yahweh¦202681, God¦202682 of Yisrael¦202683, there¦202684 isn’t¦202684 any god like you in¦202688 the heavens¦202688 or on¦202688 the earth¦202689—one who keeps¦202690 his agreement¦202691 and ",
     {
      "type": "char",
      "marker": "add",
@@ -3604,7 +3604,7 @@
      "number": "22",
      "sid": "2CH 6:22"
     },
-    "“If someone ",
+    "“If someone¦202869 ",
     {
      "type": "char",
      "marker": "add",
@@ -3661,7 +3661,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈defeated¦202908 by their enemies because they’ve disobeyed"
+      "≈defeated¦202908 by their enemies because¦202913 they’ve disobeyed"
      ]
     },
     " you, but¦202906 they return¦202917 ",
@@ -3806,7 +3806,7 @@
       "≈Reward"
      ]
     },
-    " each person¦203067 according¦203068 to their behaviour, because you know ",
+    " each person¦203067 according¦203068 to their behaviour, because¦203076 you know ",
     {
      "type": "char",
      "marker": "add",
@@ -3888,7 +3888,7 @@
       "as well"
      ]
     },
-    " from where you live there in the heavens¦203137. Do whatever that foreigner¦203146 requests from you and that all the people groups in the world will learn about your reputation, and ",
+    " from where you live there in the heavens¦203137. Do whatever that foreigner¦203146 requests from you and that all the people groups in the world will learn about your reputation¦203155, and ",
     {
      "type": "char",
      "marker": "add",
@@ -4148,7 +4148,7 @@
       "(Solomon¦203351)"
      ]
     },
-    " finished¦203350 praying, fire¦203353 came¦203354 down from the skies¦203355 and consumed the burnt¦203357 offering¦203357 and the sacrifices¦203358, and Yahweh’s ",
+    " finished¦203350 praying, fire¦203353 came¦203354 down from the skies¦203355 and consumed the burnt¦203357 offering¦203357 and the sacrifices¦203358, and Yahweh’s¦203360 ",
     {
      "type": "char",
      "marker": "add",
@@ -4193,7 +4193,7 @@
       "≈temple"
      ]
     },
-    " because of Yahweh’s ",
+    " because¦203374 of Yahweh’s ",
     {
      "type": "char",
      "marker": "add",
@@ -4398,7 +4398,7 @@
       "≈in front¦203486"
      ]
     },
-    " of Yahweh’s ",
+    " of Yahweh’s¦203489 ",
     {
      "type": "char",
      "marker": "add",
@@ -4406,7 +4406,7 @@
       "≈temple building"
      ]
     },
-    " so he could offer burnt offerings and the fat of the peace¦203497 offerings there¦203493, because the bronze¦203501 altar¦203500 that¦203485 ",
+    " so he could offer burnt offerings and the fat of the peace¦203497 offerings there¦203493, because¦203490 the bronze¦203501 altar¦203500 that¦203485 ",
     {
      "type": "char",
      "marker": "add",
@@ -4482,7 +4482,7 @@
       "≈had a solemn service"
      ]
     },
-    ", because they’d observed¦203549 seven days of celebration for the altar¦203548 ",
+    ", because¦203545 they’d observed¦203549 seven days of celebration for the altar¦203548 ",
     {
      "type": "char",
      "marker": "add",
@@ -4584,7 +4584,7 @@
       "≈So¦203580"
      ]
     },
-    " Shelomoh finished Yahweh’s ",
+    " Shelomoh finished Yahweh’s¦203585 ",
     {
      "type": "char",
      "marker": "add",
@@ -4739,10 +4739,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also, if you’ll obey"
+      "≈Also¦203703, if you’ll obey"
      ]
     },
-    " me like your father David¦203710 did, and do everything that I’ve instructed¦203715 you, and keep my rules and regulations¦203716,\n",
+    " me like your father David¦203710 did, and do¦203712 everything that I’ve instructed¦203715 you, and keep my rules and regulations¦203716,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4787,7 +4787,7 @@
       "≈However,"
      ]
     },
-    " if you all turn¦203739 away, and abandon¦203741 my rules and instructions that¦203744 I gave you all, and ",
+    " if you all turn¦203739 away, and abandon¦203741 my rules and instructions¦203742 that¦203744 I gave you all, and ",
     {
      "type": "char",
      "marker": "add",
@@ -4815,7 +4815,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also this temple"
+      "≈Also¦203754 this temple"
      ]
     },
     " that I consecrated¦203765 for ",
@@ -4887,7 +4887,7 @@
       "≈ask"
      ]
     },
-    ", ‘Why did Yahweh¦203790 do ",
+    ", ‘Why did¦203789 Yahweh¦203790 do¦203789 ",
     {
      "type": "char",
      "marker": "add",
@@ -4986,7 +4986,7 @@
       "≈After"
      ]
     },
-    " the twenty¦203832 years that¦203834 it took Shelomoh to build Yahweh’s ",
+    " the twenty¦203832 years that¦203834 it took Shelomoh to build Yahweh’s¦203840 ",
     {
      "type": "char",
      "marker": "add",
@@ -5157,7 +5157,7 @@
       "≈However,"
      ]
     },
-    " Shelomoh didn’t¦203973 make the Israelis¦203970 become labourers, because they¦203981 became his ",
+    " Shelomoh didn’t¦203973 make the Israelis¦203970 become labourers, because¦203979 they¦203981 became his ",
     {
      "type": "char",
      "marker": "add",
@@ -5184,7 +5184,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Israelis"
+      "Israelis¦204003"
      ]
     },
     " were ",
@@ -5240,7 +5240,7 @@
       "≈palace"
      ]
     },
-    " of Yisrael’s King¦204028 David, because the places¦204035 where¦204035 Yahweh’s box has been are sacred¦204033.”\n"
+    " of Yisrael’s King¦204028 David, because the places¦204035 where¦204035 Yahweh’s¦204040 box has been are sacred¦204033.”\n"
    ]
   },
   {
@@ -5384,7 +5384,7 @@
       "≈So¦204125 now,"
      ]
     },
-    " all of Shelomoh’s work¦204128 on Yahweh’s ",
+    " all of Shelomoh’s work¦204128 on Yahweh’s¦204136 ",
     {
      "type": "char",
      "marker": "add",
@@ -5784,7 +5784,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also"
+      "≈Also¦204393"
      ]
     },
     ", ",
@@ -5810,7 +5810,7 @@
      "number": "11",
      "sid": "2CH 9:11"
     },
-    "The king made the algum¦204416 wood into staircases for Yahweh’s ",
+    "The king made the algum¦204416 wood into staircases for Yahweh’s¦204420 ",
     {
      "type": "char",
      "marker": "add",
@@ -5993,7 +5993,7 @@
      "number": "17",
      "sid": "2CH 9:17"
     },
-    "Then the king¦204532 made a large, ivory¦204535 throne¦204533 and overlaid¦204537 it with pure gold¦204538.\n",
+    "Then the king¦204532 made a large¦204536, ivory¦204535 throne¦204533 and overlaid¦204537 it with pure gold¦204538.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -6362,7 +6362,7 @@
      "number": "28",
      "sid": "2CH 9:28"
     },
-    "Horses were brought in from Egpyt ",
+    "Horses were brought in from Egypt¦204725 ",
     {
      "type": "char",
      "marker": "add",
@@ -7021,7 +7021,7 @@
       "≈took no notice of the people’s¦205053 request"
      ]
     },
-    ", because ",
+    ", because¦205054 ",
     {
      "type": "char",
      "marker": "add",
@@ -7054,7 +7054,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈the Israelis"
+      "≈the Israelis¦205088"
      ]
     },
     " saw that the king hadn’t listened¦205084 to them, and the people¦205088 ",
@@ -7354,7 +7354,7 @@
      "number": "4",
      "sid": "2CH 11:4"
     },
-    "Yahweh says that you mustn’t go and fight with your relatives. Everyone should just go home¦205233 again because everything¦205232 that’s happened, came from me.” ",
+    "Yahweh says that you mustn’t go and fight with your relatives. Everyone should just go home¦205233 again because¦205234 everything¦205232 that’s happened, came from me.” ",
     {
      "type": "char",
      "marker": "add",
@@ -7565,7 +7565,7 @@
      "number": "14",
      "sid": "2CH 11:14"
     },
-    "The Levites¦205362 abandoned¦205361 their property¦205366 and their pastureland¦205365 and moved to Yerushalem¦205369 and across the rest of Yehudah¦205368, because Yaraveam and his sons¦205374 rejected¦205372 them from serving¦205375 as priests¦205375 to Yahweh¦205376.\n",
+    "The Levites¦205362 abandoned¦205361 their property¦205366 and their pastureland¦205365 and moved to Yerushalem¦205369 and across the rest of Yehudah¦205368, because¦205370 Yaraveam and his sons¦205374 rejected¦205372 them from serving¦205375 as priests¦205375 to Yahweh¦205376.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -7817,7 +7817,7 @@
       "older and¦205517 younger"
      ]
     },
-    " brothers¦205527, because ",
+    " brothers¦205527, because¦205528 ",
     {
      "type": "char",
      "marker": "add",
@@ -7942,7 +7942,7 @@
       "≈and all the people"
      ]
     },
-    " abandoned¦205557 Yahweh’s instructions.\n",
+    " abandoned¦205557 Yahweh’s¦205561 instructions.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -8180,7 +8180,7 @@
       "≈invaded"
      ]
     },
-    " Yerushalem¦205709, he took the treasures from Yahweh’s ",
+    " Yerushalem¦205709, he took the treasures from Yahweh’s¦205716 ",
     {
      "type": "char",
      "marker": "add",
@@ -8276,7 +8276,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈After that, whenever the king went to Yahweh’s temple, the guards went with him carrying¦205761 those bronze shields. Then¦205752 when the king left again, they’d return¦205762 them to the guardroom"
+      "≈After that, whenever the king went to Yahweh’s¦205758 temple, the guards went with him carrying¦205761 those bronze shields. Then¦205752 when the king left again, they’d return¦205762 them to the guardroom"
      ]
     },
     ".\n",
@@ -8366,7 +8366,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈reputation"
+      "≈reputation¦205811"
      ]
     },
     ". (",
@@ -8399,7 +8399,7 @@
       "things"
      ]
     },
-    " because he didn’t¦205824 ",
+    " because¦205823 he didn’t¦205824 ",
     {
      "type": "char",
      "marker": "add",
@@ -8652,7 +8652,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈made a formal agreement"
+      "≈made a formal agreement¦205959"
      ]
     },
     " that the kingdom of Yisrael was given¦205950 forever¦205956 to David¦205952 and¦205958 his descendants¦205958?\n",
@@ -8761,7 +8761,7 @@
      "number": "9",
      "sid": "2CH 13:9"
     },
-    "Didn’t you all drive¦206025 out the Levites¦206034, as well as Yahweh’s priests who were Aharon’s descendants¦206032? Then you all ",
+    "Didn’t you all drive¦206025 out the Levites¦206034, as well as Yahweh’s¦206029 priests who were Aharon’s descendants¦206032? Then you all ",
     {
      "type": "char",
      "marker": "add",
@@ -8836,7 +8836,7 @@
       "≈display"
      ]
     },
-    " table¦206086, and the lamps in¦206073 the gold¦206089 lampstand give light¦206091 every evening because we¦206097 are following the instructions of our¦206102 god¦206102 Yahweh, ",
+    " table¦206086, and the lamps in¦206073 the gold¦206089 lampstand give light¦206091 every evening because¦206094 we¦206097 are following the instructions of our¦206102 god¦206102 Yahweh, ",
     {
      "type": "char",
      "marker": "add",
@@ -8874,7 +8874,7 @@
       "≡Listen"
      ]
     },
-    " you Israelis¦206117: don’t¦206119 fight against Yahweh¦206124, the god¦206125 of your ancestors¦206127, because you won’t¦206119 succeed¦206131.”\n"
+    " you Israelis¦206117: don’t¦206119 fight against Yahweh¦206124, the god¦206125 of your ancestors¦206127, because¦206128 you won’t¦206119 succeed¦206131.”\n"
    ]
   },
   {
@@ -9078,7 +9078,7 @@
       "≈So¦206205"
      ]
     },
-    " the Israelis¦206208 were subdued¦206205 at¦206209 that time, and¦206205 the people from Yehudah¦206213 were victorious¦206211 because they ",
+    " the Israelis¦206208 were subdued¦206205 at¦206209 that time, and¦206205 the people from Yehudah¦206213 were victorious¦206211 because¦206214 they ",
     {
      "type": "char",
      "marker": "add",
@@ -9352,7 +9352,7 @@
      "number": "6",
      "sid": "2CH 14:6"
     },
-    "He fortified Yehudah’s¦206388 cities¦206393 as the place was quiet without war during those years, because Yahweh¦206407 had given¦206410 him¦206409 ",
+    "He fortified Yehudah’s¦206388 cities¦206393 as the place was quiet without war during those years, because¦206403 Yahweh¦206407 had given¦206410 him¦206409 ",
     {
      "type": "char",
      "marker": "add",
@@ -9655,7 +9655,7 @@
       "≈couldn’t save themselves"
      ]
     },
-    ", because they had been ",
+    ", because¦206558 they had been ",
     {
      "type": "char",
      "marker": "add",
@@ -9886,7 +9886,7 @@
       "≈safe to travel away"
      ]
     },
-    " because there¦206656 was ",
+    " because¦206660 there¦206656 was ",
     {
      "type": "char",
      "marker": "add",
@@ -9925,7 +9925,7 @@
       "≡crushed"
      ]
     },
-    " city, because God¦206677 ",
+    " city, because¦206675 God¦206677 ",
     {
      "type": "char",
      "marker": "add",
@@ -9956,7 +9956,7 @@
       "≈striving"
      ]
     },
-    ", because your¦206692 ",
+    ", because¦206689 your¦206692 ",
     {
      "type": "char",
      "marker": "add",
@@ -10025,7 +10025,7 @@
       "stood"
      ]
     },
-    " in front¦206723 of Yahweh’s temple.\n"
+    " in front¦206723 of Yahweh’s¦206721 temple.\n"
    ]
   },
   {
@@ -10204,7 +10204,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈celebrated that promise because they were totally sincere and committed. They asked Yahweh¦206842 to give them guidance which he did, and he enabled them to have peace throughout their country"
+      "≈celebrated that promise because¦206830 they were totally sincere and committed. They asked Yahweh¦206842 to give them guidance which he did, and he enabled them to have peace throughout their country"
      ]
     },
     ".\n"
@@ -10485,7 +10485,7 @@
       "and"
      ]
     },
-    " break¦206968 your agreement with Yisrael’s King¦206973 Baasha¦206972, ",
+    " break¦206968 your agreement¦206955 with Yisrael’s King¦206973 Baasha¦206972, ",
     {
      "type": "char",
      "marker": "add",
@@ -10710,7 +10710,7 @@
      "number": "9",
      "sid": "2CH 16:9"
     },
-    "because Yahweh¦207110 ",
+    "because¦207126 Yahweh¦207110 ",
     {
      "type": "char",
      "marker": "add",
@@ -10917,7 +10917,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈a large bonfire"
+      "≈a large¦207224 bonfire"
      ]
     },
     " ",
@@ -11030,7 +11030,7 @@
       "≈helped"
      ]
     },
-    " Yehoshafat¦207262 because he followed his ancestor David’s¦207266 ways¦207265 at¦207265 the beginning, and¦207258 didn’t¦207269 ",
+    " Yehoshafat¦207262 because¦207263 he followed his ancestor David’s¦207266 ways¦207265 at¦207265 the beginning, and¦207258 didn’t¦207269 ",
     {
      "type": "char",
      "marker": "add",
@@ -11156,7 +11156,7 @@
      "number": "9",
      "sid": "2CH 17:9"
     },
-    "They ",
+    "They¦207363 ",
     {
      "type": "char",
      "marker": "add",
@@ -11169,7 +11169,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈with¦207354 Yahweh’s instructions written on¦207354 it"
+      "≈with¦207354 Yahweh’s¦207358 instructions written on¦207354 it"
      ]
     },
     ", and¦207353 went¦207359 around¦207359 Yehudah’s¦207354 cities¦207362 teaching the people¦207365.\n"
@@ -11260,7 +11260,7 @@
       "≈including¦207391 lots of"
      ]
     },
-    " silver¦207391. Also, the Arabians¦207394 brought him flocks¦207397 ",
+    " silver¦207391. Also¦207385, the Arabians¦207394 brought him flocks¦207397 ",
     {
      "type": "char",
      "marker": "add",
@@ -11688,7 +11688,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈But¦207579 we should get Yahweh’s advice first"
+      "≈But¦207579 we should get Yahweh’s¦207592 advice first"
      ]
     },
     ".”\n"
@@ -11831,7 +11831,7 @@
       "≈but¦207632"
      ]
     },
-    " I myself hate him because ",
+    " I myself hate him because¦207651 ",
     {
      "type": "char",
      "marker": "add",
@@ -12334,7 +12334,7 @@
      "number": "19",
      "sid": "2CH 18:19"
     },
-    "and Yahweh¦207914 said, ‘Who’ll entice Yisrael’s King¦207920 Ahab¦207919 so he’ll ",
+    "and Yahweh¦207914 said¦207929, ‘Who’ll entice Yisrael’s King¦207920 Ahab¦207919 so he’ll ",
     {
      "type": "char",
      "marker": "add",
@@ -12427,7 +12427,7 @@
       "≈That’ll work"
      ]
     },
-    ". Go and do it.’\n"
+    ". Go and do¦207963 it.’\n"
    ]
   },
   {
@@ -12498,7 +12498,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Since when did Yahweh’s spirit¦207999 leave me and start speaking¦208003 to"
+      "≈Since when did Yahweh’s¦208001 spirit¦207999 leave me and start speaking¦208003 to"
      ]
     },
     " you¦208004?”\n"
@@ -12837,7 +12837,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈because"
+      "≈because¦208160"
      ]
     },
     " when the chariot¦208159 commanders¦208158 ",
@@ -12918,7 +12918,7 @@
       "≈around¦208184 and get me out of here"
      ]
     },
-    ", because I’ve¦208192 been seriously wounded¦208192.”\n",
+    ", because¦208191 I’ve¦208192 been seriously wounded¦208192.”\n",
     {
      "type": "verse",
      "marker": "v",
@@ -13011,7 +13011,7 @@
       "≈confronted"
      ]
     },
-    " him, “Should you have helped the wicked¦208238, and¦208224 befriended those¦208240 that Yahweh hates? Yahweh’s angry with¦208243 you because of what you’ve done.\n",
+    " him, “Should you have helped the wicked¦208238, and¦208224 befriended those¦208240 that Yahweh hates? Yahweh’s¦208241 angry with¦208243 you because of what you’ve done.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -13025,7 +13025,7 @@
       "≈However, you have some good¦208251 points"
      ]
     },
-    " because you removed¦208256 the Asherah¦208257 ",
+    " because¦208254 you removed¦208256 the Asherah¦208257 ",
     {
      "type": "char",
      "marker": "add",
@@ -13119,7 +13119,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Take¦208308 care in¦208313 what you all do, because you’re not serving men as judges¦208300, but¦208297 serving Yahweh¦208311 when you make judicial decisions"
+      "≈Take¦208308 care in¦208313 what you all do, because¦208306 you’re not serving men as judges¦208300, but¦208297 serving Yahweh¦208311 when you make judicial decisions"
      ]
     },
     ".\n",
@@ -13133,7 +13133,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈So¦208316 revere Yahweh and¦208316 judge cases carefully, because our¦208330 god¦208330 Yahweh doesn’t tolerate injustice¦208331, partiality¦208332, or bribery¦208336"
+      "≈So¦208316 revere Yahweh and¦208316 judge cases carefully, because¦208324 our¦208330 god¦208330 Yahweh doesn’t tolerate injustice¦208331, partiality¦208332, or bribery¦208336"
      ]
     },
     ".”\n"
@@ -13162,7 +13162,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈on¦208339 Yahweh’s behalf based in"
+      "≈on¦208339 Yahweh’s¦208350 behalf based in"
      ]
     },
     " Yerushalem,\n",
@@ -13208,7 +13208,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈involving violent crime, interpreting laws or regulations¦208386, etc., you must¦208371 caution them so they¦208391 won’t sin against Yahweh¦208392 and induce his anger¦208395 to come¦208371 on¦208376 you all or them, so do that¦208369 and you won’t be guilty"
+      "≈involving violent crime, interpreting laws or regulations¦208386, etc., you must¦208371 caution them so they¦208391 won’t sin against Yahweh¦208392 and induce his anger¦208395 to come¦208371 on¦208376 you all or them, so do¦208401 that¦208369 and you won’t be guilty"
      ]
     },
     ".\n",
@@ -13255,7 +13255,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also"
+      "≈Also¦208405"
      ]
     },
     " you have the Levite¦208427 officials¦208426 to assist you all. ",
@@ -13424,7 +13424,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈request¦208493 Yahweh’s help"
+      "≈request¦208493 Yahweh’s¦208494 help"
      ]
     },
     "—they¦208500 came¦208500 to Yerushalem from all of Yehudah’s¦208492 cities¦208498 to ",
@@ -13600,7 +13600,7 @@
       "≈in front of"
      ]
     },
-    " you, because your¦208583 name¦208585 is ",
+    " you, because¦208584 your¦208583 name¦208585 is ",
     {
      "type": "char",
      "marker": "add",
@@ -13712,7 +13712,7 @@
       "≈please punish"
      ]
     },
-    " them, because ",
+    " them, because¦208635 ",
     {
      "type": "char",
      "marker": "add",
@@ -13725,7 +13725,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈We simply don’t¦208631 know¦208647 what to do, so we’re looking to you to rescue us"
+      "≈We simply don’t¦208631 know¦208647 what to do¦208650, so we’re looking to you to rescue us"
      ]
     },
     ".”\n"
@@ -13763,7 +13763,7 @@
      "number": "14",
      "sid": "2CH 20:14"
     },
-    "and Yahweh’s spirit¦208688 came on Yahaziel. (Yahaziel was the son of Zekaryah, son of Benayah¦208674, son of Yeiel¦208677, son of Mattanyah¦208680 the Levite¦208681 and a descendant¦208684 of Asaf¦208685.) In the middle¦208690 of the assembly¦208691\n",
+    "and Yahweh’s¦208689 spirit¦208688 came on Yahaziel. (Yahaziel was the son of Zekaryah, son of Benayah¦208674, son of Yeiel¦208677, son of Mattanyah¦208680 the Levite¦208681 and a descendant¦208684 of Asaf¦208685.) In the middle¦208690 of the assembly¦208691\n",
     {
      "type": "verse",
      "marker": "v",
@@ -13778,7 +13778,7 @@
       "≈Pay"
      ]
     },
-    " attention¦208694, all Yehudah¦208697 and inhabitants¦208698 of Yerushalem¦208699 and King¦208700 Yehoshafat¦208701. Yahweh¦208705 has this to say to you all, ‘Don’t be afraid¦208710, and don’t¦208708 be dismayed¦208713 by this ",
+    " attention¦208694, all Yehudah¦208697 and inhabitants¦208698 of Yerushalem¦208699 and King¦208700 Yehoshafat¦208701. Yahweh¦208705 has this to say to you all, ‘Don’t¦208708 be afraid¦208710, and don’t¦208708 be dismayed¦208713 by this ",
     {
      "type": "char",
      "marker": "add",
@@ -13786,7 +13786,7 @@
       "≈huge¦208716 force"
      ]
     },
-    ", because it’s not your battle¦208721 but¦208693 God’s.",
+    ", because¦208718 it’s not your battle¦208721 but¦208693 God’s.",
     {
      "type": "note",
      "marker": "x",
@@ -13846,12 +13846,12 @@
       "≈Just take¦208744 your positions all of you from Yerushalem¦208753 and wider Yehudah¦208752, and watch Yahweh save you"
      ]
     },
-    ". Don’t ",
+    ". Don’t¦208754 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈be afraid¦208756 or discouraged"
+      "≈be afraid¦208756 or discouraged¦208759"
      ]
     },
     ". Go out ",
@@ -14028,7 +14028,7 @@
       "enemy"
      ]
     },
-    " army, and they were saying¦208834, “Give thanks¦208835 to Yahweh, because his loyal¦208839 commitment ",
+    " army, and they were saying¦208834, “Give thanks¦208835 to Yahweh, because¦208837 his loyal¦208839 commitment ",
     {
      "type": "char",
      "marker": "add",
@@ -14200,7 +14200,7 @@
       "≈leading them"
      ]
     },
-    "—celebrating because Yahweh¦208972 had enabled them to defeat their enemies¦208973.\n",
+    "—celebrating because¦208969 Yahweh¦208972 had enabled them to defeat their enemies¦208973.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -14576,7 +14576,7 @@
       "≈handed"
      ]
     },
-    " the kingdom¦209188 over to Yehoram¦209190 because he was the oldest ",
+    " the kingdom¦209188 over to Yehoram¦209190 because¦209191 he was the oldest ",
     {
      "type": "char",
      "marker": "add",
@@ -14641,7 +14641,7 @@
       "many of the evil things"
      ]
     },
-    " that Yisrael’s kings¦209230 had done, because ",
+    " that Yisrael’s kings¦209230 had done¦209233, because¦209236 ",
     {
      "type": "char",
      "marker": "add",
@@ -14866,7 +14866,7 @@
       "≈also did the same"
      ]
     },
-    ", because ",
+    ", because¦209321 ",
     {
      "type": "char",
      "marker": "add",
@@ -15011,7 +15011,7 @@
       "≈family did"
      ]
     },
-    ". Also, you’ve killed¦209399 ",
+    ". Also¦209375, you’ve killed¦209399 ",
     {
      "type": "char",
      "marker": "add",
@@ -15225,7 +15225,7 @@
      ],
      "caller": "+"
     },
-    " king in his place¦209539, because all ",
+    " king in his place¦209539, because¦209540 all ",
     {
      "type": "char",
      "marker": "add",
@@ -15324,7 +15324,7 @@
       "King"
      ]
     },
-    " Ahav’s family had done because his mother¦209584 ",
+    " Ahav’s family had done because¦209583 his mother¦209584 ",
     {
      "type": "char",
      "marker": "add",
@@ -15354,7 +15354,7 @@
       "≈what Yahweh¦209592 had said was evil¦209590"
      ]
     },
-    " just like Ahav’s¦209594 family, because after¦209602 his father’s¦209604 death¦209603, they had become ",
+    " just like Ahav’s¦209594 family, because¦209595 after¦209602 his father’s¦209604 death¦209603, they had become ",
     {
      "type": "char",
      "marker": "add",
@@ -15400,7 +15400,7 @@
      "number": "6",
      "sid": "2CH 22:6"
     },
-    "Yehoram¦209652 returned¦209635 to Yizreel to recover because he’d been wounded¦209639 at¦209637 Ramah¦209642 in¦209637 the battle against Aram’s¦209648 King Hazael¦209646. So¦209635 Yehudah’s¦209654 King Ahazyah¦209649 went¦209655 ",
+    "Yehoram¦209652 returned¦209635 to Yizreel to recover because¦209638 he’d been wounded¦209639 at¦209637 Ramah¦209642 in¦209637 the battle against Aram’s¦209648 King Hazael¦209646. So¦209635 Yehudah’s¦209654 King Ahazyah¦209649 went¦209655 ",
     {
      "type": "char",
      "marker": "add",
@@ -15474,7 +15474,7 @@
       "(Samaria¦209723) city"
      ]
     },
-    ". They captured¦209720 him and took him to Yehu, and killed him. They did bury him, because they said¦209731, “He was ",
+    ". They captured¦209720 him and took him to Yehu, and killed him. They did bury him, because¦209730 they said¦209731, “He was ",
     {
      "type": "char",
      "marker": "add",
@@ -15725,7 +15725,7 @@
       "≈took¦209832 courage"
      ]
     },
-    " and made an agreement with¦209828 the commanders¦209835 of units of one hundred¦209836 ",
+    " and made an agreement¦209862 with¦209828 the commanders¦209835 of units of one hundred¦209836 ",
     {
      "type": "char",
      "marker": "add",
@@ -15776,7 +15776,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈made an agreement"
+      "≈made an agreement¦209886"
      ]
     },
     " with the ",
@@ -15847,7 +15847,7 @@
       "Now"
      ]
     },
-    " this is what all of you need to do: one third¦209911 of you priests¦209915 and¦209916 Levites¦209916 who are on duty on the Rest Day, must¦209910 guard the ",
+    " this is what all of you need to do¦209910: one third¦209911 of you priests¦209915 and¦209916 Levites¦209916 who are on duty on the Rest Day, must¦209910 guard the ",
     {
      "type": "char",
      "marker": "add",
@@ -15917,7 +15917,7 @@
      "number": "6",
      "sid": "2CH 23:6"
     },
-    "Don’t let anyone¦209935 enter Yahweh’s ",
+    "Don’t¦209933 let anyone¦209935 enter Yahweh’s ",
     {
      "type": "char",
      "marker": "add",
@@ -15925,7 +15925,7 @@
       "≈temple"
      ]
     },
-    " other than the priests¦209942 and¦209933 the Levites¦209944 who are on duty, because they’re consecrated. ",
+    " other than the priests¦209942 and¦209933 the Levites¦209944 who are on duty, because¦209939 they’re consecrated. ",
     {
      "type": "char",
      "marker": "add",
@@ -16014,7 +16014,7 @@
       "≈everything"
      ]
     },
-    " that Yehoyada the priest had instructed¦209987. Each ",
+    " that Yehoyada the priest¦209989 had instructed¦209987. Each ",
     {
      "type": "char",
      "marker": "add",
@@ -16030,7 +16030,7 @@
       "≈finishing their duties that day"
      ]
     },
-    ", because Yehoyada ",
+    ", because¦210000 Yehoyada ",
     {
      "type": "char",
      "marker": "add",
@@ -16226,7 +16226,7 @@
      "number": "14",
      "sid": "2CH 23:14"
     },
-    "The Yehoyada the priest instructed the commanders¦210137, “",
+    "The Yehoyada the priest¦210134 instructed the commanders¦210137, “",
     {
      "type": "char",
      "marker": "add",
@@ -16242,7 +16242,7 @@
       "here"
      ]
     },
-    " at¦210152 Yahweh’s temple. ",
+    " at¦210152 Yahweh’s¦210159 temple. ",
     {
      "type": "char",
      "marker": "add",
@@ -16649,7 +16649,7 @@
       "≈decided it would be good"
      ]
     },
-    " to repair Yahweh’s residence,\n",
+    " to repair Yahweh’s¦210360 residence,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -16758,7 +16758,7 @@
       "≈to collect the annual tax¦210411 instituted"
      ]
     },
-    " by Yahweh’s servant¦210413 Mosheh¦210412 ",
+    " by Yahweh’s¦210415 servant¦210413 Mosheh¦210412 ",
     {
      "type": "char",
      "marker": "add",
@@ -17093,7 +17093,7 @@
       "≈time¦210599"
      ]
     },
-    ", they were offering regular burnt sacrifices in Yahweh’s ",
+    ", they were offering regular burnt sacrifices in Yahweh’s¦210583 ",
     {
      "type": "char",
      "marker": "add",
@@ -17151,7 +17151,7 @@
      "number": "16",
      "sid": "2CH 24:16"
     },
-    "and they buried¦210615 him¦210615 with¦210616 the kings¦210621 in¦210616 ‘The City of David¦210618’, because he’d done ",
+    "and they buried¦210615 him¦210615 with¦210616 the kings¦210621 in¦210616 ‘The City of David¦210618’, because¦210622 he’d done¦210624 ",
     {
      "type": "char",
      "marker": "add",
@@ -17538,7 +17538,7 @@
       "King"
      ]
     },
-    " Yoash¦210801, because they had abandoned¦210793 Yahweh, the god¦210797 of their fathers.\n",
+    " Yoash¦210801, because¦210792 they had abandoned¦210793 Yahweh, the god¦210797 of their fathers.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -17561,7 +17561,7 @@
       "@Yoash"
      ]
     },
-    " with severe wounds¦210811, and then¦210805 his servants¦210816 conspired¦210814 against him because he’d killed the ",
+    " with severe wounds¦210811, and then¦210805 his servants¦210816 conspired¦210814 against him because¦210807 he’d killed the ",
     {
      "type": "char",
      "marker": "add",
@@ -17711,7 +17711,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈mostly followed Yahweh’s instructions, but¦210887 not whole-heartedly"
+      "≈mostly followed Yahweh’s¦210890 instructions, but¦210887 not whole-heartedly"
      ]
     },
     ".\n"
@@ -17772,7 +17772,7 @@
       "≈However,"
      ]
     },
-    " he didn’t¦210914 order their sons to be executed because he obeyed Yahweh’s instructions¦210923 that¦210921 had been written¦210917 down by Mosheh¦210920 ",
+    " he didn’t¦210914 order their sons to be executed because he obeyed Yahweh’s¦210924 instructions¦210923 that¦210921 had been written¦210917 down by Mosheh¦210920 ",
     {
      "type": "char",
      "marker": "add",
@@ -17952,7 +17952,7 @@
       "≈soldiers"
      ]
     },
-    " go¦210999 with you¦211000, because Yahweh¦211005 isn’t¦210997 with Yisrael—those Efrayimites.",
+    " go¦210999 with you¦211000, because¦211003 Yahweh¦211005 isn’t¦210997 with Yisrael—those Efrayimites.",
     {
      "type": "note",
      "marker": "f",
@@ -18013,7 +18013,7 @@
       "≈to be defeated"
      ]
     },
-    " by the enemy¦211024, because God has the power to help¦211030 and ",
+    " by the enemy¦211024, because¦211025 God has the power to help¦211030 and ",
     {
      "type": "char",
      "marker": "add",
@@ -18400,7 +18400,7 @@
       "back"
      ]
     },
-    " their ",
+    " their¦211154 ",
     {
      "type": "char",
      "marker": "add",
@@ -18714,7 +18714,7 @@
       "≈took no notice"
      ]
     },
-    ", because God¦211302 ",
+    ", because¦211301 God¦211302 ",
     {
      "type": "char",
      "marker": "add",
@@ -19036,7 +19036,7 @@
       "≈the things that Yahweh¦211524 said were good, like"
      ]
     },
-    " his father¦211530 Amatsyah had done.\n",
+    " his father¦211530 Amatsyah had done¦211528.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -19157,7 +19157,7 @@
       "≈fame spread"
      ]
     },
-    " as far as the Egyptian border because he was becoming more powerful.\n"
+    " as far as the Egyptian border because¦211594 he was becoming more powerful.\n"
    ]
   },
   {
@@ -19200,7 +19200,7 @@
       "≈also"
      ]
     },
-    " built¦211617 towers¦211618 in the wilderness¦211619 and dug many wells¦211621 because he had a lot of cattle—both in the lowlands and in the plains¦211630. He was ",
+    " built¦211617 towers¦211618 in the wilderness¦211619 and dug¦211620 many wells¦211621 because¦211623 he had a lot of cattle—both in the lowlands and in the plains¦211630. He was ",
     {
      "type": "char",
      "marker": "add",
@@ -19343,7 +19343,7 @@
       "≈spread widely"
      ]
     },
-    " because he’d received a lot of help that had made him very powerful.\n",
+    " because¦211733 he’d received a lot of help that had made him very powerful.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -19409,7 +19409,7 @@
      "number": "17",
      "sid": "2CH 26:17"
     },
-    "The¦211769 high priest Azaryah¦211764 and¦211762 eighty¦211770 other ",
+    "The¦211769 high priest¦211765 Azaryah¦211764 and¦211762 eighty¦211770 other ",
     {
      "type": "char",
      "marker": "add",
@@ -19448,7 +19448,7 @@
       "permitted"
      ]
     },
-    " for you, Uzziyah, to sacrifice to Yahweh, only for Aharon’s descendants¦211790 the priests¦211789—the ones consecrated¦211793 to sacrifice. Leave the sanctuary¦211798, because you’ve¦211800 ",
+    " for you, Uzziyah, to sacrifice to Yahweh, only for Aharon’s descendants¦211790 the priests¦211789—the ones consecrated¦211793 to sacrifice. Leave the sanctuary¦211798, because¦211788 you’ve¦211800 ",
     {
      "type": "char",
      "marker": "add",
@@ -19562,7 +19562,7 @@
       "now also"
      ]
     },
-    " in¦211840 a hurry because Yahweh¦211850 had afflicted¦211849 him.\n"
+    " in¦211840 a hurry because¦211848 Yahweh¦211850 had afflicted¦211849 him.\n"
    ]
   },
   {
@@ -19666,7 +19666,7 @@
       "≈When¦211895 Uzziyah died"
      ]
     },
-    ", because of his leprosy they¦211910 buried¦211900 him with¦211905 his ancestors¦211899 in a grave¦211906 in the countryside¦211905 for kings¦211908, and¦211895 his son Yotam replaced him as king¦211913.",
+    ", because¦211909 of his leprosy they¦211910 buried¦211900 him with¦211905 his ancestors¦211899 in a grave¦211906 in the countryside¦211905 for kings¦211908, and¦211895 his son Yotam replaced him as king¦211913.",
     {
      "type": "note",
      "marker": "x",
@@ -19766,7 +19766,7 @@
       "≈the things that Yahweh said were good"
      ]
     },
-    " like his father¦211948 Uzziyah had done (except that he didn’t¦211950 ",
+    " like his father¦211948 Uzziyah had done¦211946 (except that he didn’t¦211950 ",
     {
      "type": "char",
      "marker": "add",
@@ -19774,7 +19774,7 @@
       "≈trespass"
      ]
     },
-    " in Yahweh’s temple¦211955), ",
+    " in Yahweh’s¦211942 temple¦211955), ",
     {
      "type": "char",
      "marker": "add",
@@ -19856,7 +19856,7 @@
      "number": "6",
      "sid": "2CH 27:6"
     },
-    "Yotham¦212025 became more powerful because he’d established ",
+    "Yotham¦212025 became more powerful because¦212026 he’d established ",
     {
      "type": "char",
      "marker": "add",
@@ -20132,7 +20132,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈In addition,"
+      "≈In addition¦212141,"
      ]
     },
     " ",
@@ -20365,7 +20365,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "because"
+      "because¦212296"
      ]
     },
     " ",
@@ -20436,7 +20436,7 @@
       "@the ones returning"
      ]
     },
-    ", “Don’t bring¦212337 those captives¦212340 here, because ",
+    ", “Don’t¦212335 bring¦212337 those captives¦212340 here, because¦212342 ",
     {
      "type": "char",
      "marker": "add",
@@ -20449,7 +20449,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Yahweh’s already"
+      "Yahweh’s¦212344 already"
      ]
     },
     " angry at ",
@@ -20630,7 +20630,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also"
+      "≈Also¦212438"
      ]
     },
     " the Philistines had raided the lowland cities¦212440 and the Negev¦212442, and they’d captured¦212444 Beyt-Shemesh¦212449, Ayyalon, Gederoth¦212455, as well as Sokoh, Timnah¦212462, and Gimzo¦212466 with¦212440 their surrounding villages¦212469\n",
@@ -20640,7 +20640,7 @@
      "number": "19",
      "sid": "2CH 28:19"
     },
-    "because Yahweh was humbling¦212475 King¦212482 Ahaz¦212481 as he’d ",
+    "because¦212485 Yahweh was humbling¦212475 King¦212482 Ahaz¦212481 as he’d ",
     {
      "type": "char",
      "marker": "add",
@@ -20762,7 +20762,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈because Aram¦212543 had defeated¦212536 him"
+      "≈because¦212539 Aram¦212543 had defeated¦212536 him"
      ]
     },
     "). He ",
@@ -21010,7 +21010,7 @@
       "King"
      ]
     },
-    " David¦212670 had done.\n",
+    " David¦212670 had done¦212669.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -21272,7 +21272,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈I sincerely want to make an agreement"
+      "≈I sincerely want to make an agreement¦212792"
      ]
     },
     " with Yisrael’s god¦212794 Yahweh¦212793, ",
@@ -21305,7 +21305,7 @@
       "≈mess around"
      ]
     },
-    " because Yahweh¦212810 has chosen¦212809 you all to stand¦212811 in¦212808 his¦212812 presence¦212812 to serve¦212813 him, and to be ministering and burning incense¦212817.\n"
+    " because¦212806 Yahweh¦212810 has chosen¦212809 you all to stand¦212811 in¦212808 his¦212812 presence¦212812 to serve¦212813 him, and to be ministering and burning incense¦212817.\n"
    ]
   },
   {
@@ -21408,7 +21408,7 @@
      "number": "15",
      "sid": "2CH 29:15"
     },
-    "They assembled their¦212891 relatives¦212891 and¦212888 consecrated¦212892 themselves¦212892, then¦212888 they¦212893 entered the ",
+    "They¦212901 assembled their¦212891 relatives¦212891 and¦212888 consecrated¦212892 themselves¦212892, then¦212888 they¦212893 entered the ",
     {
      "type": "char",
      "marker": "add",
@@ -21416,7 +21416,7 @@
       "≈temple"
      ]
     },
-    " to purify it as the king¦212896 had ordered as a result of Yahweh’s message¦212897.\n",
+    " to purify it as the king¦212896 had ordered as a result of Yahweh’s¦212898 message¦212897.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -21552,7 +21552,7 @@
       "≈reported"
      ]
     },
-    " to King¦212962 Hizkiyah, “We’ve purified all of Yahweh’s ",
+    " to King¦212962 Hizkiyah, “We’ve purified all of Yahweh’s¦212970 ",
     {
      "type": "char",
      "marker": "add",
@@ -21599,7 +21599,7 @@
       "back"
      ]
     },
-    " in front¦213003 of Yahweh’s altar¦213004.”\n"
+    " in front¦213003 of Yahweh’s¦213005 altar¦213004.”\n"
    ]
   },
   {
@@ -21633,7 +21633,7 @@
       "≈Early the next"
      ]
     },
-    " morning, King¦213010 Hizkiyah assembled the city¦213014 officials¦213013, and went to Yahweh’s ",
+    " morning, King¦213010 Hizkiyah assembled the city¦213014 officials¦213013, and went to Yahweh’s¦213017 ",
     {
      "type": "char",
      "marker": "add",
@@ -22064,7 +22064,7 @@
       "≡until"
      ]
     },
-    " all the priests had consecrated themselves, because the Levites ",
+    " all the priests had consecrated themselves, because¦213276 the Levites ",
     {
      "type": "char",
      "marker": "add",
@@ -22083,7 +22083,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈In addition to the"
+      "≈In addition¦213283 to the"
      ]
     },
     " burnt¦213285 offerings, there was the fat from the peace¦213288 offerings, and¦213283 there were drink¦213289 offerings.\n"
@@ -22100,7 +22100,7 @@
       "≈So¦213283"
      ]
     },
-    " the service¦213292 of Yahweh’s ",
+    " the service¦213292 of Yahweh’s¦213295 ",
     {
      "type": "char",
      "marker": "add",
@@ -22115,7 +22115,7 @@
      "number": "36",
      "sid": "2CH 29:36"
     },
-    "and Hizkiyah and all the people celebrated about what God had prepared¦213303 for the people, because it had all happened¦213308 fairly quickly¦213307.\n"
+    "and Hizkiyah and all the people celebrated about what God had prepared¦213303 for the people, because¦213306 it had all happened¦213308 fairly quickly¦213307.\n"
    ]
   },
   {
@@ -22171,7 +22171,7 @@
       "invitations"
      ]
     },
-    " to all Yisrael¦213318 and Yehudah (including¦213312 Efrayim and Menashsheh) to come¦213328 to Yahweh’s ",
+    " to all Yisrael¦213318 and Yehudah (including¦213312 Efrayim and Menashsheh) to come¦213328 to Yahweh’s¦213331 ",
     {
      "type": "char",
      "marker": "add",
@@ -22254,7 +22254,7 @@
       "proper"
      ]
     },
-    " time¦213355 because the priests¦213358 hadn’t consecrated¦213361 themselves¦213361 sufficiently¦213363 then, and¦213365 so the people¦213365 hadn’t gathered¦213368 in¦213355 Yerushalem¦213370.)\n",
+    " time¦213355 because¦213357 the priests¦213358 hadn’t consecrated¦213361 themselves¦213361 sufficiently¦213363 then, and¦213365 so the people¦213365 hadn’t gathered¦213368 in¦213355 Yerushalem¦213370.)\n",
     {
      "type": "verse",
      "marker": "v",
@@ -22370,7 +22370,7 @@
      "number": "7",
      "sid": "2CH 30:7"
     },
-    "Don’t be like your fathers¦213445 and¦213442 brothers¦213446 who weren’t faithful to Yahweh¦213449, the god¦213450 of their¦213451 ancestors¦213451, ",
+    "Don’t¦213442 be like your fathers¦213445 and¦213442 brothers¦213446 who weren’t faithful to Yahweh¦213449, the god¦213450 of their¦213451 ancestors¦213451, ",
     {
      "type": "char",
      "marker": "add",
@@ -22439,7 +22439,7 @@
       "be able to"
      ]
     },
-    " return to this land, because your god¦213501 Yahweh is gracious¦213498 and compassionate¦213490, and he won’t¦213502 ",
+    " return to this land, because¦213496 your god¦213501 Yahweh is gracious¦213498 and compassionate¦213490, and he won’t¦213502 ",
     {
      "type": "char",
      "marker": "add",
@@ -22525,7 +22525,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "?≈and Yahweh’s instructions"
+      "?≈and Yahweh’s¦213556 instructions"
      ]
     },
     ".\n"
@@ -22730,7 +22730,7 @@
       "instructions"
      ]
     },
-    ", because Hizkiyah had prayed¦213661 to Yahweh for them, “May Yahweh who is good¦213666, ",
+    ", because¦213652 Hizkiyah had prayed¦213661 to Yahweh for them, “May Yahweh who is good¦213666, ",
     {
      "type": "char",
      "marker": "add",
@@ -22996,7 +22996,7 @@
      "number": "26",
      "sid": "2CH 30:26"
     },
-    "Everyone in Yerushalem was very happy, because nothing like that had happened in Yerushalem since¦213816 the time¦213816 when David’s¦213820 son Shelomoh ",
+    "Everyone in Yerushalem was very happy, because¦213815 nothing like that had happened in Yerushalem since¦213816 the time¦213816 when David’s¦213820 son Shelomoh ",
     {
      "type": "char",
      "marker": "add",
@@ -23414,7 +23414,7 @@
       "≈temple"
      ]
     },
-    ", we’ve been eating well and even had left-overs because Yahweh¦214033 has blessed¦214042 his people, and ",
+    ", we’ve been eating well and even had left-overs because¦214040 Yahweh¦214033 has blessed¦214042 his people, and ",
     {
      "type": "char",
      "marker": "add",
@@ -23678,7 +23678,7 @@
      "number": "18",
      "sid": "2CH 31:18"
     },
-    "as well as their wives¦214175 and young children¦214174, and sons¦214176 and daughters¦214177 whose names were on¦214182 the genealogies¦214171, because they¦214183 had also faithfully¦214182 consecrated¦214183 themselves¦214183 for the ",
+    "as well as their wives¦214175 and young children¦214174, and sons¦214176 and daughters¦214177 whose names were on¦214182 the genealogies¦214171, because¦214181 they¦214183 had also faithfully¦214182 consecrated¦214183 themselves¦214183 for the ",
     {
      "type": "char",
      "marker": "add",
@@ -23693,7 +23693,7 @@
      "number": "19",
      "sid": "2CH 31:19"
     },
-    "Also, Aharon’s descendants¦214187 the priests who had pasture¦214191 land around their¦214192 cities¦214192 and¦214187 who were named, were given a portion¦214202 for each male, as well as each Levite included on¦214190 the genealogical¦214209 records.\n"
+    "Also¦214187, Aharon’s descendants¦214187 the priests who had pasture¦214191 land around their¦214192 cities¦214192 and¦214187 who were named, were given a portion¦214202 for each male, as well as each Levite included on¦214190 the genealogical¦214209 records.\n"
    ]
   },
   {
@@ -23733,7 +23733,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Whatever he did"
+      "≈Whatever he did¦214244"
      ]
     },
     " for the ",
@@ -23992,7 +23992,7 @@
      "number": "7",
      "sid": "2CH 32:7"
     },
-    "“Be strong¦214366 and be courageous¦214367. Don’t be scared or discouraged because of the Assyrian king¦214375, or by his massive army, because we have someone on our side who’s ",
+    "“Be strong¦214366 and be courageous¦214367. Don’t¦214368 be scared¦214373 or discouraged¦214373 because of the Assyrian king¦214375, or by his massive army, because we have someone on our side who’s ",
     {
      "type": "char",
      "marker": "add",
@@ -24119,7 +24119,7 @@
      "number": "11",
      "sid": "2CH 32:11"
     },
-    "Hizkiyah tells you, ‘Our god¦214466 Yahweh¦214465 will rescue us from the Assyrian king¦214469,’ but¦214463 he’s misleading¦214457 you and you’ll all die¦214461 of hunger¦214462 and thirst¦214463!\n",
+    "Hizkiyah tells you, ‘Our god¦214466 Yahweh¦214465 will rescue¦214467 us from the Assyrian king¦214469,’ but¦214463 he’s misleading¦214457 you and you’ll all die¦214461 of hunger¦214462 and thirst¦214463!\n",
     {
      "type": "verse",
      "marker": "v",
@@ -24149,14 +24149,14 @@
      "number": "13",
      "sid": "2CH 32:13"
     },
-    "Don’t you people know¦214495 what my ancestors¦214499 and I have done to the peoples from other countries¦214506? Were any of their¦214511 gods¦214505 able to save them from me?\n",
+    "Don’t you people know¦214495 what my ancestors¦214499 and I have done¦214497 to the peoples from other countries¦214506? Were any of their¦214511 gods¦214505 able to save them from me?\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "2CH 32:14"
     },
-    "Which one out of the gods¦214517 of those nations¦214518 which my ancestors¦214522 destroyed¦214521 shows a precedent that¦214520 your god¦214532 can rescue anyone¦214523 from me?\n",
+    "Which one out of the gods¦214517 of those nations¦214518 which my ancestors¦214522 destroyed¦214521 shows a precedent that¦214520 your god¦214532 can rescue¦214525 anyone¦214523 from me?\n",
     {
      "type": "verse",
      "marker": "v",
@@ -24170,7 +24170,7 @@
       "≈So"
      ]
     },
-    " don’t¦214543 let Hizkiyah deceive¦214540 you or mislead¦214545 you like this. Don’t believe¦214550 him because no god of any nation¦214561 or kingdom¦214562 has been able to save his people¦214564 from my ancestors¦214567 or from me. ",
+    " don’t¦214543 let Hizkiyah deceive¦214540 you or mislead¦214545 you like this. Don’t¦214538 believe¦214550 him because¦214552 no god of any nation¦214561 or kingdom¦214562 has been able to save his people¦214564 from my ancestors¦214567 or from me. ",
     {
      "type": "char",
      "marker": "add",
@@ -24542,12 +24542,12 @@
      "number": "26",
      "sid": "2CH 32:26"
     },
-    "Then¦214765 Hezekiah¦214766 and Yerushalem’s¦214771 inhabitants¦214770 humbled¦214765 themselves, and so Yahweh’s anger¦214776 didn’t¦214772 ",
+    "Then¦214765 Hezekiah¦214766 and Yerushalem’s¦214771 inhabitants¦214770 humbled¦214765 themselves, and so Yahweh’s¦214777 anger¦214776 didn’t¦214772 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈affect them during Hizkiyah’s lifetime"
+      "≈affect them during Hizkiyah’s¦214779 lifetime"
      ]
     },
     ".\n"
@@ -24653,7 +24653,7 @@
       "≈sheep and goats, and also cattle"
      ]
     },
-    ", because God¦214826 had ",
+    ", because¦214822 God¦214826 had ",
     {
      "type": "char",
      "marker": "add",
@@ -24915,7 +24915,7 @@
      "number": "4",
      "sid": "2CH 33:4"
     },
-    "He built¦214967 altars¦214968 in Yahweh’s ",
+    "He built¦214967 altars¦214968 in Yahweh’s¦214970 ",
     {
      "type": "char",
      "marker": "add",
@@ -24928,7 +24928,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈always be associated with¦214974"
+      "≈always¦214978 be associated with¦214974"
      ]
     },
     ".",
@@ -24975,7 +24975,7 @@
       "≈connected"
      ]
     },
-    " with¦214997 mediums and spirits¦215007. He did so much evil¦215010 in Yahweh’s eyes¦215011 that it provoked¦215013 him into getting angry.\n"
+    " with¦214997 mediums and spirits¦215007. He did so much evil¦215010 in Yahweh’s¦215012 eyes¦215011 that it provoked¦215013 him into getting angry.\n"
    ]
   },
   {
@@ -25241,7 +25241,7 @@
      "number": "16",
      "sid": "2CH 33:16"
     },
-    "Then¦215215 he rebuilt¦215215 Yahweh’s altar¦215219 and sacrificed¦215221 peace¦215224 offering and thank¦215225 offerings¦215224 on it, and he told Yehudah¦215227 to serve¦215228 Yisrael’s god¦215232 Yahweh.\n",
+    "Then¦215215 he rebuilt¦215215 Yahweh’s¦215220 altar¦215219 and sacrificed¦215221 peace¦215224 offering and thank¦215225 offerings¦215224 on it, and he told Yehudah¦215227 to serve¦215228 Yisrael’s god¦215232 Yahweh.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -25866,7 +25866,7 @@
       "work in"
      ]
     },
-    " Yahweh’s ",
+    " Yahweh’s¦215578 ",
     {
      "type": "char",
      "marker": "add",
@@ -25995,7 +25995,7 @@
       "high"
      ]
     },
-    " priest¦215659 found¦215657 a scroll¦215662 containing Yahweh’s instructions that¦215654 had ",
+    " priest¦215659 found¦215657 a scroll¦215662 containing Yahweh’s¦215656 instructions that¦215654 had ",
     {
      "type": "char",
      "marker": "add",
@@ -26080,7 +26080,7 @@
      "number": "17",
      "sid": "2CH 34:17"
     },
-    "They’ve taken the cash that¦215720 was in Yahweh’s residence, and¦215716 ",
+    "They’ve taken the cash¦215719 that¦215720 was in Yahweh’s¦215723 residence, and¦215716 ",
     {
      "type": "char",
      "marker": "add",
@@ -26238,7 +26238,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈followed all of Yahweh’s instructions as they’re"
+      "≈followed all of Yahweh’s¦215795 instructions as they’re"
      ]
     },
     " written¦215829 on that scroll.”\n",
@@ -26372,7 +26372,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈ask for Yahweh’s direction"
+      "≈ask for Yahweh’s¦215937 direction"
      ]
     },
     ", so tell him, ‘Yisrael’s god¦215946 Yahweh says¦215944 that¦215949 ",
@@ -26608,10 +26608,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈made an agreement"
+      "≈made an agreement¦216072"
      ]
     },
-    " with Yahweh: to obey Yahweh and follow his instructions and his regulations¦216083 and statutes, ",
+    " with Yahweh: to obey Yahweh and follow his instructions¦216083 and his regulations¦216083 and statutes, ",
     {
      "type": "char",
      "marker": "add",
@@ -27175,7 +27175,7 @@
       "@the Levites¦216389"
      ]
     },
-    " prepared the meal for themselves and for the priests (Aharon’s descendants), because the priests had been busy sacrificing the burnt¦216384 offerings¦216383 and the fat portions right through to the evening.\n",
+    " prepared the meal for themselves and for the priests (Aharon’s descendants), because¦216379 the priests had been busy sacrificing the burnt¦216384 offerings¦216383 and the fat portions right through to the evening.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -27198,7 +27198,7 @@
       "≈men guarding the gates didn’t¦216414 have to leave their posts"
      ]
     },
-    " because their fellow Levites¦216422 prepared¦216423 ",
+    " because¦216419 their fellow Levites¦216422 prepared¦216423 ",
     {
      "type": "char",
      "marker": "add",
@@ -27447,7 +27447,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈because we’re in a different fight"
+      "≈because¦216544 we’re in a different fight"
      ]
     },
     ", and God told me to hurry¦216551. ",
@@ -27455,7 +27455,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Don’t oppose¦216555"
+      "≈Don’t¦216539 oppose¦216555"
      ]
     },
     " God who’s with me, and don’t¦216539 ",
@@ -27525,7 +27525,7 @@
       "≈Get me away from here"
      ]
     },
-    " because I’m badly wounded¦216596.”\n",
+    " because¦216595 I’m badly wounded¦216596.”\n",
     {
      "type": "verse",
      "marker": "v",
@@ -27591,7 +27591,7 @@
       "The prophet"
      ]
     },
-    " Yermeyah ",
+    " Yirmeyah ",
     {
      "type": "char",
      "marker": "add",
@@ -27649,7 +27649,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈to following Yahweh’s instructions"
+      "≈to following Yahweh’s¦216662 instructions"
      ]
     },
     ",\n",
@@ -27958,7 +27958,7 @@
      "number": "7",
      "sid": "2CH 36:7"
     },
-    "along with¦216783 some items from Yahweh’s ",
+    "along with¦216783 some items from Yahweh’s¦216778 ",
     {
      "type": "char",
      "marker": "add",
@@ -28258,7 +28258,7 @@
       "even"
      ]
     },
-    " humble¦216870 himself¦216870 when the prophet¦216873 Yermeyah ",
+    " humble¦216870 himself¦216870 when the prophet¦216873 Yirmeyah ",
     {
      "type": "char",
      "marker": "add",
@@ -28379,7 +28379,7 @@
       "≈became more and more unfaithful¦216906 and doing disgusting things often done in other"
      ]
     },
-    " nations¦216913, then they defiled Yahweh’s residence which¦216919 he had consecrated¦216920 in Yerushalem¦216921.\n",
+    " nations¦216913, then they defiled Yahweh’s¦216918 residence which¦216919 he had consecrated¦216920 in Yerushalem¦216921.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -28414,7 +28414,7 @@
       "≈sent¦216923 many messages via his prophets"
      ]
     },
-    " because he felt compassion¦216934 on his people¦216937, and¦216923 on his residence,\n",
+    " because¦216932 he felt compassion¦216934 on his people¦216937, and¦216923 on his residence,\n",
     {
      "type": "verse",
      "marker": "v",

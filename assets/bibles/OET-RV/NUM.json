@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "NUM",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.03"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.1.04"
    ]
   },
   {
@@ -981,7 +981,7 @@
      "number": "49",
      "sid": "NUM 1:49"
     },
-    "“Don’t list the Levites ",
+    "“Don’t¦61659 list the Levites ",
     {
      "type": "char",
      "marker": "add",
@@ -1694,7 +1694,7 @@
       "≈following"
      ]
     },
-    " Yahweh’s instructions¦62154, the Levites weren’t listed among them.\n"
+    " Yahweh’s¦62155 instructions¦62154, the Levites weren’t listed among them.\n"
    ]
   },
   {
@@ -2246,7 +2246,7 @@
       "*it"
      ]
     },
-    ". Also the ropes¦62540 ",
+    ". Also¦62524 the ropes¦62540 ",
     {
      "type": "char",
      "marker": "add",
@@ -2289,7 +2289,7 @@
      "number": "29",
      "sid": "NUM 3:29"
     },
-    "The Kohatite clans¦62574 were to camp of the southern¦62582 side of the ",
+    "The Kohatite clans¦62574 were to camp of the southern¦62582 side¦62580 of the ",
     {
      "type": "char",
      "marker": "add",
@@ -2375,7 +2375,7 @@
      "number": "35",
      "sid": "NUM 3:35"
     },
-    "and¦62646 their leader¦62646 was Avihayil’s son Tsuriel¦62652. They were to camp on the northern¦62660 side of the ",
+    "and¦62646 their leader¦62646 was Avihayil’s son Tsuriel¦62652. They were to camp on the northern¦62660 side¦62657 of the ",
     {
      "type": "char",
      "marker": "add",
@@ -2496,12 +2496,12 @@
      "number": "39",
      "sid": "NUM 3:39"
     },
-    "Mosheh¦62714 and Aharon listed 22,000 Levite¦62711 males that were at least a month¦62727 old, listing them by their¦62721 clans¦62721 as ",
+    "Mosheh¦62714 and Aharon¦62715 listed 22,000 Levite¦62711 males that were at least a month¦62727 old, listing them by their¦62721 clans¦62721 as ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈per Yahweh’s instructions"
+      "≈per Yahweh’s¦62720 instructions"
      ]
     },
     ".\n"
@@ -3159,7 +3159,7 @@
      "number": "18",
      "sid": "NUM 4:18"
     },
-    "“Don’t allow the Kohatite Levites¦63264 to ",
+    "“Don’t¦63255 allow the Kohatite¦63262 Levites¦63264 to ",
     {
      "type": "char",
      "marker": "add",
@@ -3210,7 +3210,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈correct and proper way to do his duties"
+      "≈correct and proper way to do¦63268 his duties"
      ]
     },
     ".\n",
@@ -3742,7 +3742,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈following Yahweh’s instructions¦63755"
+      "≈following Yahweh’s¦63738 instructions¦63755"
      ]
     },
     ". Each man’s name was listed by Mosheh, along with¦63741 his duties and what was his responsibility to carry¦63751.\n"
@@ -3903,7 +3903,7 @@
       "≈disobedience"
      ]
     },
-    ". Then¦63860 that¦63864 person must make full reparation to whoever they wronged¦63869, along with¦63870 an extra twenty percent ",
+    ". Then¦63860 that¦63864 person must make full reparation to whoever they wronged¦63869, along with¦63870 an extra twenty¦63871 percent¦63872 ",
     {
      "type": "char",
      "marker": "add",
@@ -3941,7 +3941,7 @@
       "for some reason"
      ]
     },
-    ", then¦63879 it must¦63895 be paid to Yahweh¦63889 via a priest¦63890, in addition to the ram ",
+    ", then¦63879 it must¦63895 be paid to Yahweh¦63889 via a priest¦63890, in addition¦63879 to the ram ",
     {
      "type": "char",
      "marker": "add",
@@ -4081,7 +4081,7 @@
       "≈spices mixed into it"
      ]
     },
-    " because it’s a grain offering for suspicion—",
+    " because¦64027 it’s a grain offering for suspicion—",
     {
      "type": "char",
      "marker": "add",
@@ -4232,7 +4232,7 @@
      "number": "21",
      "sid": "NUM 5:21"
     },
-    "Then¦64136 the priest will make the woman¦64140 take that curse as an oath, and ",
+    "Then¦64136 the priest¦64137 will make the woman¦64140 take that curse as an oath, and ",
     {
      "type": "char",
      "marker": "add",
@@ -4636,7 +4636,7 @@
      "number": "7",
      "sid": "NUM 6:7"
     },
-    "even if it’s their father¦64430 or mother¦64431, or brother¦64432 or sister¦64433. They mustn’t defile themselves with¦64438 death, because their consecration¦64440 to their god¦64441 is on¦64438 their head¦64444.\n",
+    "even if it’s their father¦64430 or mother¦64431, or brother¦64432 or sister¦64433. They mustn’t defile themselves with¦64438 death, because¦64439 their consecration¦64440 to their god¦64441 is on¦64438 their head¦64444.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4725,7 +4725,7 @@
       "≈won’t count"
      ]
     },
-    " because they were made ‘unclean¦64525’.)\n"
+    " because¦64524 they were made ‘unclean¦64525’.)\n"
    ]
   },
   {
@@ -4874,7 +4874,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈They must¦64691 do exactly what they promised"
+      "≈They must¦64691 do¦64707 exactly what they promised"
      ]
     },
     " as per these instructions.”\n"
@@ -5114,7 +5114,7 @@
      "number": "3",
      "sid": "NUM 7:3"
     },
-    "They brought¦64817 their¦64820 gifts to Yahweh’s ",
+    "They brought¦64817 their¦64820 gifts to Yahweh’s¦64822 ",
     {
      "type": "char",
      "marker": "add",
@@ -5202,7 +5202,7 @@
       "≈However,"
      ]
     },
-    " the Kohaties weren’t given any because they¦64924 were responsible for carrying¦64924 the very holy objects, and¦64914 those had to be carried¦64924 on¦64923 their shoulders¦64923.\n"
+    " the Kohaties weren’t given any because¦64918 they¦64924 were responsible for carrying¦64924 the very holy objects, and¦64914 those had to be carried¦64924 on¦64923 their shoulders¦64923.\n"
    ]
   },
   {
@@ -5890,7 +5890,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈innocent in Yahweh’s eyes"
+      "≈innocent in Yahweh’s¦66290 eyes"
      ]
     },
     ".\n"
@@ -6063,7 +6063,7 @@
       "≈Israelis¦66432"
      ]
     },
-    " did to the Levites¦66435 ",
+    " did¦66447 to the Levites¦66435 ",
     {
      "type": "char",
      "marker": "add",
@@ -6083,7 +6083,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈make them innocent in Yahweh’s eyes"
+      "≈make them innocent in Yahweh’s¦66461 eyes"
      ]
     },
     ".\n",
@@ -6122,7 +6122,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈The Israelis did exactly what Yahweh¦66484 told¦66483 Mosheh¦66487 to do with¦66476"
+      "≈The Israelis did¦66492 exactly what Yahweh¦66484 told¦66483 Mosheh¦66487 to do with¦66476"
      ]
     },
     " the Levites.\n"
@@ -6267,7 +6267,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈following all the instructions that you’ve all been given previously"
+      "≈following all the instructions¦66585 that you’ve all been given previously"
      ]
     },
     ".”\n",
@@ -6487,7 +6487,7 @@
      "number": "10",
      "sid": "NUM 9:10"
     },
-    "“Tell the ",
+    "“Tell¦66693 the ",
     {
      "type": "char",
      "marker": "add",
@@ -6519,7 +6519,7 @@
       "≈observe¦66711"
      ]
     },
-    " Yahweh’s ‘pass-over¦66712’.\n",
+    " Yahweh’s¦66713 ‘pass-over¦66712’.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -6865,7 +6865,7 @@
      "number": "19",
      "sid": "NUM 9:19"
     },
-    "Whenever the cloud¦66879 remained above the residence for a ",
+    "Whenever¦66888 the cloud¦66879 remained above the residence for a ",
     {
      "type": "char",
      "marker": "add",
@@ -6889,7 +6889,7 @@
       "≈follow"
      ]
     },
-    " Yahweh’s ",
+    " Yahweh’s¦66892 ",
     {
      "type": "char",
      "marker": "add",
@@ -7028,7 +7028,7 @@
       "≈obeyed"
      ]
     },
-    " Yahweh’s ",
+    " Yahweh’s¦66966 ",
     {
      "type": "char",
      "marker": "add",
@@ -7233,7 +7233,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈permanent"
+      "≈permanent¦67069"
      ]
     },
     " regulation¦67068.\n"
@@ -7598,7 +7598,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈and join us, and we’ll look after you, because Yahweh has promised to look after"
+      "≈and join us, and we’ll look after you, because¦67365 Yahweh has promised to look after"
      ]
     },
     " Yisrael¦67373.”\n"
@@ -7667,7 +7667,7 @@
       "≈insisted"
      ]
     },
-    ", “because you’re ",
+    ", “because¦67396 you’re ",
     {
      "type": "char",
      "marker": "add",
@@ -7742,7 +7742,7 @@
       "≈containing"
      ]
     },
-    " Yahweh’s agreement ",
+    " Yahweh’s agreement¦67431 ",
     {
      "type": "char",
      "marker": "add",
@@ -7940,7 +7940,7 @@
      "number": "3",
      "sid": "NUM 11:3"
     },
-    "and¦67512 they named that place¦67515 Taverah ",
+    "and¦67512 they named that place¦67515 Taverah¦67517 ",
     {
      "type": "char",
      "marker": "add",
@@ -7948,7 +7948,7 @@
       "(which means ‘burning¦67522’)"
      ]
     },
-    " because Yahweh’s fire¦67522 had burnt¦67520 among¦67521 them.\n"
+    " because¦67518 Yahweh’s¦67523 fire¦67522 had burnt¦67520 among¦67521 them.\n"
    ]
   },
   {
@@ -8249,7 +8249,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Don’t you approve of me?"
+      "≈Don’t¦67640 you approve of me?"
      ]
     },
     ". ",
@@ -8437,7 +8437,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also,"
+      "≈Also¦67793,"
      ]
     },
     " tell the people¦67795 that because they wept in my hearing¦67803 about not having meat to eat like you all did in Egypt¦67813, they must¦67796 ",
@@ -8494,7 +8494,7 @@
       "≈in¦67857 front of him, complaining"
      ]
     },
-    ", ‘Why did we ever leave Egypt¦67864?’ ”\n"
+    ", ‘Why did¦67863 we ever leave Egypt¦67864?’ ”\n"
    ]
   },
   {
@@ -8590,7 +8590,7 @@
       "Do you think that"
      ]
     },
-    " Yahweh’s ",
+    " Yahweh’s¦67906 ",
     {
      "type": "char",
      "marker": "add",
@@ -8650,7 +8650,7 @@
       "≈passed on"
      ]
     },
-    " Yahweh’s message¦67928 to the people. Then¦67921 he gathered¦67930 seventy¦67931 men from the ",
+    " Yahweh’s¦67929 message¦67928 to the people. Then¦67921 he gathered¦67930 seventy¦67931 men from the ",
     {
      "type": "char",
      "marker": "add",
@@ -8963,7 +8963,7 @@
       "(which means ‘Graves of the cravers’)"
      ]
     },
-    ", because that was where they¦68128 buried¦68128 the people¦68131 who had craved ",
+    ", because¦68125 that was where they¦68128 buried¦68128 the people¦68131 who had craved ",
     {
      "type": "char",
      "marker": "add",
@@ -9042,7 +9042,7 @@
       "≈One day,"
      ]
     },
-    " Miryam and Aharon spoke¦68143 out against¦68146 Mosheh¦68146 because he’d taken an ",
+    " Miryam and Aharon spoke¦68143 out against¦68146 Mosheh¦68146 because¦68154 he’d taken an ",
     {
      "type": "char",
      "marker": "add",
@@ -9579,10 +9579,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈at Yahweh’s command"
+      "≈at Yahweh’s¦68424 command"
      ]
     },
-    ", Mosheh¦68418 sent¦68416 them off from the Paran¦68420 wilderness¦68419. They were all ",
+    ", Mosheh¦68418 sent¦68416 them off from the Paran¦68420 wilderness¦68419. They¦68430 were all ",
     {
      "type": "char",
      "marker": "add",
@@ -10078,7 +10078,7 @@
       "#them"
      ]
     },
-    ", “We went¦68741 to the land where you sent¦68746 us, and it is indeed flowing¦68748 with milk and honey¦68750, and this is its fruit¦68754.\n",
+    ", “We went¦68741 to the land where you sent¦68746 us, and it is indeed flowing¦68748 with milk¦68749 and honey¦68750, and this is its fruit¦68754.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -10145,7 +10145,7 @@
       "≈and stated"
      ]
     },
-    ", “We’ll certainly go in there and take it over, because we’re capable of ",
+    ", “We’ll certainly go in there and take it over, because¦68805 we’re capable of ",
     {
      "type": "char",
      "marker": "add",
@@ -10205,7 +10205,7 @@
       "battle"
      ]
     },
-    " against¦68820 them because ",
+    " against¦68820 them because¦68823 ",
     {
      "type": "char",
      "marker": "add",
@@ -10241,7 +10241,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈In addition,"
+      "≈In addition¦68829,"
      ]
     },
     " all the people we saw in there were ",
@@ -10512,7 +10512,7 @@
       "*it"
      ]
     },
-    " and give¦69010 it to us—that¦69013 land flowing¦69016 with milk and honey¦69018.\n",
+    " and give¦69010 it to us—that¦69013 land flowing¦69016 with milk¦69017 and honey¦69018.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -10527,7 +10527,7 @@
       "≈area"
      ]
     },
-    " because they’ll ",
+    " because¦69033 they’ll ",
     {
      "type": "char",
      "marker": "add",
@@ -10566,7 +10566,7 @@
       "≈mass of people¦69061 talked about killing them by throwing rocks¦69051 at¦69051 them, but¦69045"
      ]
     },
-    " Yahweh’s ",
+    " Yahweh’s¦69053 ",
     {
      "type": "char",
      "marker": "add",
@@ -10722,7 +10722,7 @@
       "@Kanaan"
      ]
     },
-    ", because those ",
+    ", because¦69124 those ",
     {
      "type": "char",
      "marker": "add",
@@ -10774,7 +10774,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈exterminate all the Israelis"
+      "≈exterminate all the Israelis¦69155"
      ]
     },
     ", those nations¦69160 who’ve heard¦69163 about your fame will say,\n",
@@ -10952,7 +10952,7 @@
       "≈however,"
      ]
     },
-    " as surely¦69244 as I live and¦69244 as all the land is filled¦69248 with Yahweh’s ",
+    " as surely¦69244 as I live and¦69244 as all the land is filled¦69248 with Yahweh’s¦69251 ",
     {
      "type": "char",
      "marker": "add",
@@ -10998,7 +10998,7 @@
       "≈miracles"
      ]
     },
-    " that¦69269 I did ",
+    " that¦69269 I did¦69271 ",
     {
      "type": "char",
      "marker": "add",
@@ -11224,7 +11224,7 @@
       "≈your own words that I heard are exactly what"
      ]
     },
-    " I’ll¦69379 do to you all.\n",
+    " I’ll¦69379 do¦69379 to you all.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -11398,7 +11398,7 @@
      "number": "35",
      "sid": "NUM 14:35"
     },
-    "I, Yahweh¦69490, have spoken¦69491 that I’ll¦69497 certainly do that to this evil¦69501 community¦69500 that joined together¦69503 against¦69504 me. They’ll meet their¦69507 end¦69507 and¦69508 die¦69509 there¦69508 in¦69505 the wilderness¦69505.’ ”\n"
+    "I, Yahweh¦69490, have spoken¦69491 that I’ll¦69497 certainly do¦69497 that to this evil¦69501 community¦69500 that joined together¦69503 against¦69504 me. They’ll meet their¦69507 end¦69507 and¦69508 die¦69509 there¦69508 in¦69505 the wilderness¦69505.’ ”\n"
    ]
   },
   {
@@ -11585,7 +11585,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Don’t go against Yahweh’s instructions because"
+      "≈Don’t¦69613 go against Yahweh’s¦69611 instructions because"
      ]
     },
     " ",
@@ -11603,7 +11603,7 @@
      "number": "42",
      "sid": "NUM 14:42"
     },
-    "Don’t ",
+    "Don’t¦69616 ",
     {
      "type": "char",
      "marker": "add",
@@ -11611,7 +11611,7 @@
       "≈continue onwards"
      ]
     },
-    " because Yahweh¦69621 ",
+    " because¦69619 Yahweh¦69621 ",
     {
      "type": "char",
      "marker": "add",
@@ -11634,7 +11634,7 @@
      "number": "43",
      "sid": "NUM 14:43"
     },
-    "because ",
+    "because¦69635 ",
     {
      "type": "char",
      "marker": "add",
@@ -11702,7 +11702,7 @@
       "≈containing"
      ]
     },
-    " the agreement with Yahweh¦69658, left the camp¦69664.\n",
+    " the agreement¦69656 with Yahweh¦69658, left the camp¦69664.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -11853,7 +11853,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also"
+      "≈Also¦69742"
      ]
     },
     " about a quarter of a litre of wine for the drink¦69743 offering ",
@@ -11928,7 +11928,7 @@
      "number": "11",
      "sid": "NUM 15:11"
     },
-    "That’s what must¦69822 be done for each bull¦69823 or ram or lamb or young goat.\n",
+    "That’s what must¦69822 be done¦69822 for each bull¦69823 or ram or lamb or young goat.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -11982,7 +11982,7 @@
       "Israeli"
      ]
     },
-    " must¦69846 do that when presenting a gift, all to be presented as a pleasing¦69856 aroma¦69854 to Yahweh¦69857.\n"
+    " must¦69846 do¦69846 that when presenting a gift, all to be presented as a pleasing¦69856 aroma¦69854 to Yahweh¦69857.\n"
    ]
   },
   {
@@ -12046,7 +12046,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈That will always apply—foreigners in front¦69892 of Yahweh¦69893 must¦69891 do the same"
+      "≈That will always¦69887 apply—foreigners in front¦69892 of Yahweh¦69893 must¦69891 do the same"
      ]
     },
     " as all of you.\n",
@@ -12311,7 +12311,7 @@
       "≈any foreigner living among¦70058 them"
      ]
     },
-    " because it¦70050 accidentally affected the entire community.\n"
+    " because¦70059 it¦70050 accidentally affected the entire community.\n"
    ]
   },
   {
@@ -12422,7 +12422,7 @@
      "number": "31",
      "sid": "NUM 15:31"
     },
-    "because they’ve despised¦70135 Yahweh’s message¦70132 and disobeyed his instructions. That person must¦70142 be ",
+    "because they’ve despised¦70135 Yahweh’s¦70134 message¦70132 and disobeyed his instructions. That person must¦70142 be ",
     {
      "type": "char",
      "marker": "add",
@@ -12510,7 +12510,7 @@
      "number": "34",
      "sid": "NUM 15:34"
     },
-    "They put him into custody¦70180, because it hadn’t been decided¦70183 what to do with¦70180 him,\n",
+    "They put him into custody¦70180, because¦70181 it hadn’t been decided¦70183 what to do with¦70180 him,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -12769,7 +12769,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈You think you’re great but¦70352 the entire¦70365 community is sacred¦70369 and has Yahweh among¦70370 us, so why do you consider yourselves¦70373 more important than Yahweh’s community?"
+      "≈You think you’re great but¦70352 the entire¦70365 community is sacred¦70369 and has Yahweh among¦70370 us, so why do¦70373 you consider yourselves¦70373 more important than Yahweh’s¦70371 community?"
      ]
     },
     "”\n"
@@ -12889,7 +12889,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Yahweh’s presence"
+      "≈Yahweh’s¦70436 presence"
      ]
     },
     " tomorrow¦70437. Then¦70428 the man¦70439 that Yahweh chooses¦70442 will be the sacred¦70445 one. ",
@@ -12936,7 +12936,7 @@
       "rest of"
      ]
     },
-    " the Israeli¦70468 community to present you to him to serve¦70485 in Yahweh’s residence and to stand¦70482 in front¦70483 of the gatherings to minister to them?\n",
+    " the Israeli¦70468 community to present you to him to serve¦70485 in Yahweh’s¦70481 residence and to stand¦70482 in front¦70483 of the gatherings to minister to them?\n",
     {
      "type": "verse",
      "marker": "v",
@@ -13055,7 +13055,7 @@
       "out"
      ]
     },
-    " of a land flowing¦70536 with¦70540 milk and honey¦70538, to kill us ",
+    " of a land flowing¦70536 with¦70540 milk¦70537 and honey¦70538, to kill us ",
     {
      "type": "char",
      "marker": "add",
@@ -13077,7 +13077,7 @@
       "≈What’s more"
      ]
     },
-    ", you didn’t¦70550 bring us into a land flowing¦70554 with milk and honey¦70556 or give us an inheritance¦70561 of land and vineyards¦70563. Will you gouge¦70567 out the eyes¦70564 of those¦70566 ",
+    ", you didn’t¦70550 bring us into a land flowing¦70554 with milk¦70555 and honey¦70556 or give us an inheritance¦70561 of land and vineyards¦70563. Will you gouge¦70567 out the eyes¦70564 of those¦70566 ",
     {
      "type": "char",
      "marker": "add",
@@ -13118,10 +13118,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "That made"
+      "That¦70590 made"
      ]
     },
-    " Mosheh¦70572 very angry and¦70571 he told Yahweh¦70577, “Don’t ",
+    " Mosheh¦70572 very angry and¦70571 he told Yahweh¦70577, “Don’t¦70578 ",
     {
      "type": "char",
      "marker": "add",
@@ -13150,7 +13150,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈or done anything bad to any of"
+      "≈or done¦70590 anything bad to any of"
      ]
     },
     " them.”\n"
@@ -13289,7 +13289,7 @@
       "≈sacred¦70660"
      ]
     },
-    " tent¦70660. Then¦70649 Yahweh’s ",
+    " tent¦70660. Then¦70649 Yahweh’s¦70665 ",
     {
      "type": "char",
      "marker": "add",
@@ -13628,7 +13628,7 @@
       "≈their grave"
      ]
     },
-    ", then you’ll all know¦70848 that it was because these¦70852 men¦70851 rejected Yahweh.”\n"
+    ", then you’ll all know¦70848 that it was because¦70849 these¦70852 men¦70851 rejected Yahweh.”\n"
    ]
   },
   {
@@ -13730,7 +13730,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈screaming because they were afraid of getting swallowed¦70917 by the earth¦70918 as well"
+      "≈screaming because¦70913 they were afraid of getting swallowed¦70917 by the earth¦70918 as well"
      ]
     },
     ".\n"
@@ -14566,7 +14566,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Israelis"
+      "≈Israelis¦71163"
      ]
     },
     " ",
@@ -14962,7 +14962,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈permanent income"
+      "≈permanent¦71628 income"
      ]
     },
     ".\n",
@@ -15021,7 +15021,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈In¦71682 addition,"
+      "≈In¦71682 addition¦71673,"
      ]
     },
     " the ",
@@ -15243,7 +15243,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈irrevocable agreement with"
+      "≈irrevocable agreement¦71844 with"
      ]
     },
     " Yahweh¦71835 for you and your ",
@@ -15552,7 +15552,7 @@
       "≈Israelis¦72020"
      ]
     },
-    ", it must¦72009 then be given as Yahweh’s contribution to the priest¦72029 Aharon. DOUBLE-CHECK\n",
+    ", it must¦72009 then be given as Yahweh’s¦72014 contribution to the priest¦72029 Aharon. DOUBLE-CHECK\n",
     {
      "type": "verse",
      "marker": "v",
@@ -15828,7 +15828,7 @@
      "number": "7",
      "sid": "NUM 19:7"
     },
-    "Then¦72207 the priest must¦72207 wash his clothes¦72208 and¦72207 bathe¦72210. After that, he can return to the camp¦72217, ",
+    "Then¦72207 the priest¦72209 must¦72207 wash his clothes¦72208 and¦72207 bathe¦72210. After that, he can return to the camp¦72217, ",
     {
      "type": "char",
      "marker": "add",
@@ -15986,7 +15986,7 @@
      "number": "13",
      "sid": "NUM 19:13"
     },
-    "if they’ve touched¦72314 a dead¦72315, human¦72317 body¦72316 and don’t¦72321 purify¦72322 themselves, that would defile Yahweh’s residence, and ",
+    "if they’ve touched¦72314 a dead¦72315, human¦72317 body¦72316 and don’t¦72321 purify¦72322 themselves, that would defile Yahweh’s¦72326 residence, and ",
     {
      "type": "char",
      "marker": "add",
@@ -16002,7 +16002,7 @@
       "?≈permanently removed from the camp"
      ]
     },
-    ". If the purifying water¦72333 wasn’t sprinkled¦72337 on them, that ‘uncleanness¦72342’ will remain on them.)\n"
+    ". If¦72331 the purifying water¦72333 wasn’t sprinkled¦72337 on them, that ‘uncleanness¦72342’ will remain on them.)\n"
    ]
   },
   {
@@ -16125,7 +16125,7 @@
       "?≈permanently removed from the camp"
      ]
     },
-    " because they’ve made Yahweh’s sanctuary¦72480 ‘unclean’. They didn’t¦72470 sprinkle¦72487 that purifying water¦72483 on themself, so they ",
+    " because¦72477 they’ve made Yahweh’s¦72481 sanctuary¦72480 ‘unclean’. They didn’t¦72470 sprinkle¦72487 that purifying water¦72483 on themself, so they ",
     {
      "type": "char",
      "marker": "add",
@@ -16145,7 +16145,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈permanent"
+      "≈permanent¦72496"
      ]
     },
     " regulation¦72495. The person who’s had the purifying water sprinkled on¦72504 them must¦72492 wash their clothes¦72502, and¦72492 any person who ",
@@ -16331,7 +16331,7 @@
      "number": "4",
      "sid": "NUM 20:4"
     },
-    "Why did you two bring¦72576 Yahweh’s people here to die¦72585 in this wilderness¦72583, along with our¦72588 livestock¦72588?\n",
+    "Why did¦72576 you two bring¦72576 Yahweh’s¦72580 people here to die¦72585 in this wilderness¦72583, along with our¦72588 livestock¦72588?\n",
     {
      "type": "verse",
      "marker": "v",
@@ -16361,7 +16361,7 @@
      "number": "6",
      "sid": "NUM 20:6"
     },
-    "Then¦72611 Mosheh¦72612 and Aharon went¦72611 from ",
+    "Then¦72611 Mosheh¦72612 and Aharon¦72613 went¦72611 from ",
     {
      "type": "char",
      "marker": "add",
@@ -16385,7 +16385,7 @@
       "≈to their knees with their faces¦72624 to the ground"
      ]
     },
-    ", and Yahweh’s brilliance appeared¦72625 to them.\n"
+    ", and Yahweh’s¦72628 brilliance appeared¦72625 to them.\n"
    ]
   },
   {
@@ -17311,7 +17311,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Israelis promised"
+      "≈Israelis¦73082 promised"
      ]
     },
     " Yahweh¦73074, “If you help us defeat ",
@@ -17458,7 +17458,7 @@
       "just"
      ]
     },
-    " to die¦73135 in¦73130 the wilderness¦73136, because there’s¦73138 no bread and no water¦73141, and our¦73142 ",
+    " to die¦73135 in¦73130 the wilderness¦73136, because¦73137 there’s¦73138 no bread and no water¦73141, and our¦73142 ",
     {
      "type": "char",
      "marker": "add",
@@ -17753,7 +17753,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "the north side of"
+      "the north side¦73262 of"
      ]
     },
     " the Arnon ",
@@ -17771,7 +17771,7 @@
      "number": "14",
      "sid": "NUM 21:14"
     },
-    "That’s why it¦73282 says in the book about Yahweh’s battles:\n"
+    "That’s why it¦73282 says in the book about Yahweh’s¦73285 battles:\n"
    ]
   },
   {
@@ -18503,7 +18503,7 @@
      "number": "34",
      "sid": "NUM 21:34"
     },
-    "Yahweh¦73584 said¦73583 to Mosheh¦73587, “Don’t be afraid of him because I’ve¦73594 given¦73594 him and all his people¦73600 and his land to you, and you’ll ",
+    "Yahweh¦73584 said¦73583 to Mosheh¦73587, “Don’t¦73588 be afraid of him because¦73592 I’ve¦73594 given¦73594 him and all his people¦73600 and his land to you, and you’ll ",
     {
      "type": "char",
      "marker": "add",
@@ -18511,7 +18511,7 @@
       "be able to"
      ]
     },
-    " do to him what you did to the Amorite¦73610 King¦73609 Sihon¦73608 who lived at¦73593 Heshbon¦73613.”\n",
+    " do to him what you did¦73607 to the Amorite¦73610 King¦73609 Sihon¦73608 who lived at¦73593 Heshbon¦73613.”\n",
     {
      "type": "verse",
      "marker": "v",
@@ -18613,7 +18613,7 @@
       "Moabite King"
      ]
     },
-    " Balak¦73649 (Tsipor’s son), saw¦73648 everything that Yisrael¦73659 had done to the ",
+    " Balak¦73649 (Tsipor’s son), saw¦73648 everything that Yisrael¦73659 had done¦73658 to the ",
     {
      "type": "char",
      "marker": "add",
@@ -19043,7 +19043,7 @@
      "number": "12",
      "sid": "NUM 22:12"
     },
-    "Then¦73858 God¦73859 told Bileam, “Don’t go¦73864 with them—you mustn’t curse¦73867 ",
+    "Then¦73858 God¦73859 told Bileam¦73862, “Don’t¦73863 go¦73864 with them—you mustn’t curse¦73867 ",
     {
      "type": "char",
      "marker": "add",
@@ -19051,7 +19051,7 @@
       "&those"
      ]
     },
-    " people¦73870, because they’re blessed¦73872.”\n",
+    " people¦73870, because¦73871 they’re blessed¦73872.”\n",
     {
      "type": "verse",
      "marker": "v",
@@ -19090,7 +19090,7 @@
       "≈place"
      ]
     },
-    ", because Yahweh¦73889 has refused¦73888 to ",
+    ", because¦73887 Yahweh¦73889 has refused¦73888 to ",
     {
      "type": "char",
      "marker": "add",
@@ -19202,7 +19202,7 @@
      "number": "17",
      "sid": "NUM 22:17"
     },
-    "because I’ll¦73945 honour you highly and do anything that you tell me to. ",
+    "because I’ll¦73945 honour you highly and do¦73945 anything that you tell me to. ",
     {
      "type": "char",
      "marker": "add",
@@ -19244,7 +19244,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈against Yahweh’s instructions, even if it was just to do something"
+      "≈against Yahweh’s¦73979 instructions, even if it was just to do something"
      ]
     },
     " small¦73982.\n",
@@ -19376,7 +19376,7 @@
       "≈got angry"
      ]
     },
-    " because he’d gone, and¦74044 Yahweh’s messenger¦74053 ",
+    " because¦74048 he’d gone, and¦74044 Yahweh’s¦74054 messenger¦74053 ",
     {
      "type": "char",
      "marker": "add",
@@ -19407,7 +19407,7 @@
      "number": "23",
      "sid": "NUM 22:23"
     },
-    "the donkey saw Yahweh’s messenger¦74071 ",
+    "the donkey saw Yahweh’s¦74072 messenger¦74071 ",
     {
      "type": "char",
      "marker": "add",
@@ -19423,7 +19423,7 @@
       "≈So¦74067"
      ]
     },
-    " Bileam whacked the donkey and forced it back onto the road.\n",
+    " Bileam¦74086 whacked the donkey and forced it back onto the road.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -19444,7 +19444,7 @@
       "≈When¦74103"
      ]
     },
-    " the donkey¦74104 saw¦74103 Yahweh’s messenger¦74107, it ",
+    " the donkey¦74104 saw¦74103 Yahweh’s¦74108 messenger¦74107, it ",
     {
      "type": "char",
      "marker": "add",
@@ -19468,7 +19468,7 @@
       "≈squashed"
      ]
     },
-    " Bileam’s foot¦74116 against the wall, ",
+    " Bileam’s¦74117 foot¦74116 against the wall, ",
     {
      "type": "char",
      "marker": "add",
@@ -19630,7 +19630,7 @@
      "number": "31",
      "sid": "NUM 22:31"
     },
-    "Then¦74217 Yahweh uncovered¦74217 Bileam’s eyes¦74221 and he saw¦74223 Yahweh’s messenger¦74226 standing¦74228 ",
+    "Then¦74217 Yahweh uncovered¦74217 Bileam’s eyes¦74221 and he saw¦74223 Yahweh’s¦74218 messenger¦74226 standing¦74228 ",
     {
      "type": "char",
      "marker": "add",
@@ -19661,7 +19661,7 @@
      "number": "32",
      "sid": "NUM 22:32"
     },
-    "Yahweh’s angel ",
+    "Yahweh’s¦74240 angel ",
     {
      "type": "char",
      "marker": "add",
@@ -19674,10 +19674,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Why did you strike¦74244 you donkey¦74247 those three¦74249 times? Listen, I came¦74253 personally to oppose you"
+      "≈Why did¦74244 you strike¦74244 you donkey¦74247 those three¦74249 times? Listen, I came¦74253 personally to oppose you"
      ]
     },
-    " because ",
+    " because¦74255 ",
     {
      "type": "char",
      "marker": "add",
@@ -19737,7 +19737,7 @@
       "≈done wrong"
      ]
     },
-    ",” Bileam said¦74280 to Yahweh’s messenger¦74284, “because I didn’t¦74288 know that you were ",
+    ",” Bileam said¦74280 to Yahweh’s¦74285 messenger¦74284, “because¦74287 I didn’t¦74288 know that you were ",
     {
      "type": "char",
      "marker": "add",
@@ -19798,7 +19798,7 @@
       "≈Continue on"
      ]
     },
-    " with those men¦74312,” Yahweh’s angel told Bileam, “",
+    " with those men¦74312,” Yahweh’s¦74305 angel told Bileam, “",
     {
      "type": "char",
      "marker": "add",
@@ -20636,7 +20636,7 @@
       "≈demanded from"
      ]
     },
-    " Bileam, “What have you done to me? I brought¦74600 you ",
+    " Bileam, “What have you done¦74596 to me? I brought¦74600 you ",
     {
      "type": "char",
      "marker": "add",
@@ -21256,7 +21256,7 @@
       "saying look"
      ]
     },
-    " what God¦74779 has done.\n"
+    " what God¦74779 has done¦74778.\n"
    ]
   },
   {
@@ -21676,7 +21676,7 @@
      "number": "4",
      "sid": "NUM 24:4"
     },
-    "The declaration of someone who heard God’s message,\n"
+    "The declaration of someone who heard God’s message¦74948,\n"
    ]
   },
   {
@@ -22514,7 +22514,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and your nest is set in¦75211 the cliffs.\n"
+    "≈and your nest¦75212 is set in¦75211 the cliffs.\n"
    ]
   },
   {
@@ -22726,7 +22726,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈the Israelis settled down"
+      "≈the Israelis¦75265 settled down"
      ]
     },
     " at¦75263 Shittim¦75263, and ",
@@ -22734,7 +22734,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈their men started sleeping with¦75263 women from Moav"
+      "≈their men started sleeping with¦75263 women¦75269 from Moav"
      ]
     },
     "\n",
@@ -22772,7 +22772,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "@the Israelis"
+      "@the Israelis¦75273"
      ]
     },
     " bowed¦75278 down ",
@@ -22806,7 +22806,7 @@
       "when"
      ]
     },
-    " Yisrael¦75283 consecrated themselves to Baal¦75284-Peor¦75285, Yahweh’s anger¦75288 burned towards ",
+    " Yisrael¦75283 consecrated themselves to Baal¦75284-Peor¦75285, Yahweh’s¦75289 anger¦75288 burned towards ",
     {
      "type": "char",
      "marker": "add",
@@ -22837,7 +22837,7 @@
       "≈display their bodies in broad daylight"
      ]
     },
-    ", and then¦75292 Yahweh’s ",
+    ", and then¦75292 Yahweh’s¦75293 ",
     {
      "type": "char",
      "marker": "add",
@@ -23138,14 +23138,14 @@
       "≈making"
      ]
     },
-    " a peace¦75453 agreement with him.\n",
+    " a peace¦75453 agreement¦75452 with him.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "NUM 25:13"
     },
-    "It’s¦75470 an agreement that gives him and his ",
+    "It’s¦75470 an agreement¦75459 that gives him and his ",
     {
      "type": "char",
      "marker": "add",
@@ -23390,7 +23390,7 @@
       "≈listing all those by their¦75590 clans"
      ]
     },
-    " who’re twenty¦75586 and over, and ",
+    " who are twenty¦75586 and over, and ",
     {
      "type": "char",
      "marker": "add",
@@ -23467,7 +23467,7 @@
       "men"
      ]
     },
-    " who came¦75622 out from Egypt¦75624 who’re twenty¦75611 years old or older.\n"
+    " who came¦75622 out from Egypt¦75624 who are twenty¦75611 years old or older.\n"
    ]
   },
   {
@@ -24543,7 +24543,7 @@
       "≈included in the above nation-wide count"
      ]
     },
-    " because they ",
+    " because¦76301 they ",
     {
      "type": "char",
      "marker": "add",
@@ -24632,7 +24632,7 @@
      "number": "65",
      "sid": "NUM 26:65"
     },
-    "because Yahweh¦76356 had told them that they’d certainly die ",
+    "because¦76366 Yahweh¦76356 had told them that they’d certainly die ",
     {
      "type": "char",
      "marker": "add",
@@ -24805,7 +24805,7 @@
       "just"
      ]
     },
-    " because he had no sons? ",
+    " because¦76458 he had no sons? ",
     {
      "type": "char",
      "marker": "add",
@@ -25808,7 +25808,7 @@
      "number": "15",
      "sid": "NUM 28:15"
     },
-    "In addition to those burnt¦76990 offerings and¦76993 drink¦76993 offerings, a male¦76983 goat¦76983 must¦76992 ",
+    "In addition¦76983 to those burnt¦76990 offerings and¦76993 drink¦76993 offerings, a male¦76983 goat¦76983 must¦76992 ",
     {
      "type": "char",
      "marker": "add",
@@ -25850,7 +25850,7 @@
      "number": "16",
      "sid": "NUM 28:16"
     },
-    "“Yahweh’s ‘passover¦77002’ ",
+    "“Yahweh’s¦77003 ‘passover¦77002’ ",
     {
      "type": "char",
      "marker": "add",
@@ -26011,7 +26011,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also,"
+      "≈Also¦77067,"
      ]
     },
     " bring one male¦77067 goat¦77067 as a sin¦77068 offering¦77068 to make ",
@@ -26340,7 +26340,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also"
+      "Also¦77248"
      ]
     },
     " for your sins, sacrifice one male¦77248 goat¦77248 to make ",
@@ -26421,7 +26421,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Don’t eat any food or do any regular work¦77286 on that day"
+      "≈Don’t¦77287 eat any food or do¦77288 any regular work¦77286 on that day"
      ]
     },
     ".",
@@ -26657,7 +26657,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also"
+      "Also¦77416"
      ]
     },
     " for your sins, sacrifice one male¦77416 goat¦77416 to make ",
@@ -26731,7 +26731,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also"
+      "Also¦77454"
      ]
     },
     " for your sins, sacrifice one male¦77454 goat¦77454 to make ",
@@ -26805,7 +26805,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also"
+      "Also¦77490"
      ]
     },
     " for your sins, sacrifice one male¦77490 goat¦77490 to make ",
@@ -26879,7 +26879,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also"
+      "Also¦77522"
      ]
     },
     " for your sins, sacrifice one male¦77522 goat¦77522 to make ",
@@ -26953,7 +26953,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also"
+      "Also¦77556"
      ]
     },
     " for your sins, sacrifice one male¦77556 goat¦77556 to make ",
@@ -27027,7 +27027,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also"
+      "Also¦77588"
      ]
     },
     " for your sins, sacrifice one male¦77588 goat¦77588 to make ",
@@ -27101,7 +27101,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also"
+      "Also¦77620"
      ]
     },
     " for your sins, sacrifice one male¦77620 goat¦77620 to make ",
@@ -27206,7 +27206,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also"
+      "Also¦77667"
      ]
     },
     " for your sins, sacrifice one male¦77667 goat¦77667 to make ",
@@ -27418,7 +27418,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "<to do something"
+      "<to do¦77744 something"
      ]
     },
     ",\n",
@@ -27861,7 +27861,7 @@
       "≈execute¦78074"
      ]
     },
-    " Yahweh’s vengeance¦78075 on¦78078 ",
+    " Yahweh’s¦78077 vengeance¦78075 on¦78078 ",
     {
      "type": "char",
      "marker": "add",
@@ -27924,7 +27924,7 @@
       "Among them,"
      ]
     },
-    " they killed five Midyan kings: Evi, Rekem¦78151, Tsur¦78154, Hur¦78157, and¦78138 Reva, in¦78170 addition to Beor’s¦78168 son Bileam ",
+    " they killed five Midyan kings: Evi, Rekem¦78151, Tsur¦78154, Hur¦78157, and¦78138 Reva, in¦78170 addition¦78138 to Beor’s¦78168 son Bileam ",
     {
      "type": "char",
      "marker": "add",
@@ -28125,7 +28125,7 @@
       "that struck"
      ]
     },
-    " Yahweh’s ",
+    " Yahweh’s¦78306 ",
     {
      "type": "char",
      "marker": "add",
@@ -28212,7 +28212,7 @@
      "number": "19",
      "sid": "NUM 31:19"
     },
-    "“Then¦78344 everyone¦78351 who’s killed¦78351 someone or touched¦78355 a dead body must stay outside¦78346 the camp for seven days¦78349. On the third¦78359 day, you all must purify¦78357 yourselves¦78357, and¦78344 ",
+    "“Then¦78344 everyone¦78351 who’s killed¦78351 someone¦78352 or touched¦78355 a dead body must stay outside¦78346 the camp for seven days¦78349. On the third¦78359 day, you all must purify¦78357 yourselves¦78357, and¦78344 ",
     {
      "type": "char",
      "marker": "add",
@@ -28239,7 +28239,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also,"
+      "Also¦78365,"
      ]
     },
     " you¦78382 all must¦78382 purify¦78382 all your clothes, plus¦78368 anything ",
@@ -28529,7 +28529,7 @@
       "≈sheep¦78551 and goats"
      ]
     },
-    " and other animals. That’s to be given to the Levites¦78557 because they’re the ones who look after Yahweh’s residence.”\n",
+    " and other animals. That’s¦78531 to be given to the Levites¦78557 because they’re the ones who look after Yahweh’s¦78561 residence.”\n",
     {
      "type": "verse",
      "marker": "v",
@@ -28660,7 +28660,7 @@
       "≈less"
      ]
     },
-    " Yahweh’s tribute¦78664 of sixty-one.\n",
+    " Yahweh’s¦78665 tribute¦78664 of sixty-one.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -28697,7 +28697,7 @@
       "≈So¦78680"
      ]
     },
-    " Mosheh gave¦78680 Yahweh’s contribution¦78685 to the priest¦78688 Eleazar¦78687 as Yahweh had ",
+    " Mosheh gave¦78680 Yahweh’s¦78686 contribution¦78685 to the priest¦78688 Eleazar¦78687 as Yahweh had ",
     {
      "type": "char",
      "marker": "add",
@@ -28785,7 +28785,7 @@
       "≈community"
      ]
     },
-    ", Mosheh took¦78741 one from every fifty¦78753 people¦78744 and animals, and gave¦78760 it to the Levites¦78762 who serve in Yahweh’s tent¦78765, just as Yahweh had ",
+    ", Mosheh took¦78741 one from every fifty¦78753 people¦78744 and animals, and gave¦78760 it to the Levites¦78762 who serve in Yahweh’s¦78766 tent¦78765, just as Yahweh had ",
     {
      "type": "char",
      "marker": "add",
@@ -29300,7 +29300,7 @@
       "≈So¦78999"
      ]
     },
-    " why do you¦79000 discourage¦79000 ",
+    " why do¦79000 you¦79000 discourage¦79000 ",
     {
      "type": "char",
      "marker": "add",
@@ -29315,7 +29315,7 @@
      "number": "8",
      "sid": "NUM 32:8"
     },
-    "Your parents did that at¦79020 Kadesh-Barnea when I sent¦79020 them ",
+    "Your parents did¦79018 that at¦79020 Kadesh-Barnea when I sent¦79020 them ",
     {
      "type": "char",
      "marker": "add",
@@ -29430,7 +29430,7 @@
       "(Jacob)"
      ]
     },
-    ", because they’re not ",
+    ", because¦79082 they’re not ",
     {
      "type": "char",
      "marker": "add",
@@ -29476,7 +29476,7 @@
       "will enter"
      ]
     },
-    " because they¦79099 ",
+    " because¦79098 they¦79099 ",
     {
      "type": "char",
      "marker": "add",
@@ -29527,7 +29527,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈been evil¦79119 as per Yahweh’s judgement"
+      "≈been evil¦79119 as per Yahweh’s¦79106 judgement"
      ]
     },
     ".\n",
@@ -29728,7 +29728,7 @@
       "river"
      ]
     },
-    " or beyond¦79206 because this ",
+    " or beyond¦79206 because¦79207 this ",
     {
      "type": "char",
      "marker": "add",
@@ -29754,7 +29754,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈going to do that"
+      "≈going to do¦79221 that"
      ]
     },
     ",” Mosheh¦79218 ",
@@ -29915,7 +29915,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈do what you’ve committed to"
+      "≈do¦79291 what you’ve committed to"
      ]
     },
     ".”\n"
@@ -29931,7 +29931,7 @@
      "number": "25",
      "sid": "NUM 32:25"
     },
-    "“Your servants¦79303 will do what you’ve said¦79293,” ",
+    "“Your servants¦79303 will do¦79304 what you’ve said¦79293,” ",
     {
      "type": "char",
      "marker": "add",
@@ -30156,7 +30156,7 @@
       "&his"
      ]
     },
-    " servants¦79412, that’s what we’ll do,” the ",
+    " servants¦79412, that’s what we’ll do¦79414,” the ",
     {
      "type": "char",
      "marker": "add",
@@ -30195,7 +30195,7 @@
       "here"
      ]
     },
-    " on this side of the Yarden ",
+    " on this side¦79426 of the Yarden ",
     {
      "type": "char",
      "marker": "add",
@@ -31078,7 +31078,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈following Yahweh’s instructions"
+      "≈following Yahweh’s¦79912 instructions"
      ]
     },
     ", and¦79902 then¦79902 died¦79913 there¦79914 on¦79923 the 5th of the first¦79925 month, forty¦79916 years after¦79917 the ",
@@ -31456,7 +31456,7 @@
      "number": "53",
      "sid": "NUM 33:53"
     },
-    "Take the land from there and¦80079 start to live there, because I’ve¦80088 given¦80088 ",
+    "Take the land from there and¦80079 start to live there, because¦80086 I’ve¦80088 given¦80088 ",
     {
      "type": "char",
      "marker": "add",
@@ -31970,7 +31970,7 @@
       "other¦80383"
      ]
     },
-    " two¦80377 and¦80379 a half tribes¦80378 have taken¦80381 up their¦80382 inheritance¦80382 on the eastern¦80386 side of the Yarden ",
+    " two¦80377 and¦80379 a half tribes¦80378 have taken¦80381 up their¦80382 inheritance¦80382 on the eastern¦80386 side¦80383 of the Yarden ",
     {
      "type": "char",
      "marker": "add",
@@ -32948,7 +32948,7 @@
       "If the one who killed is declared innocent"
      ]
     },
-    ", then¦80925 the community must rescue them from the avenger¦80931 and return¦80933 them to the refuge¦80939 city¦80938 that they’d fled to, and ",
+    ", then¦80925 the community must rescue¦80925 them from the avenger¦80931 and return¦80933 them to the refuge¦80939 city¦80938 that they’d fled to, and ",
     {
      "type": "char",
      "marker": "add",
@@ -33143,7 +33143,7 @@
       "by tolerating murder"
      ]
     },
-    ", because ",
+    ", because¦81080 ",
     {
      "type": "char",
      "marker": "add",
@@ -33174,7 +33174,7 @@
      "number": "34",
      "sid": "NUM 35:34"
     },
-    "You mustn’t profane the land that¦81107 you’ll all be living in because I’ll also be living in it¦81114, as I will live among ",
+    "You mustn’t profane the land that¦81107 you’ll all be living in because¦81115 I’ll also be living in it¦81114, as I will live among ",
     {
      "type": "char",
      "marker": "add",
@@ -33420,7 +33420,7 @@
      "number": "6",
      "sid": "NUM 36:6"
     },
-    "Yahweh’s ",
+    "Yahweh’s¦81241 ",
     {
      "type": "char",
      "marker": "add",
@@ -33428,7 +33428,7 @@
       "≈command¦81240"
      ]
     },
-    " to Tselofehad’s daughters¦81242 is that¦81238 ",
+    " to Tselofehad’s¦81243 daughters¦81242 is that¦81238 ",
     {
      "type": "char",
      "marker": "add",
@@ -33459,7 +33459,7 @@
       "≈move"
      ]
     },
-    " from tribe to tribe, because ",
+    " from tribe to tribe, because¦81266 ",
     {
      "type": "char",
      "marker": "add",

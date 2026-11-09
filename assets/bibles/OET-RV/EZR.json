@@ -322,7 +322,7 @@
      "number": "4",
      "sid": "EZR 1:4"
     },
-    "Those who live near these people¦217227 but¦217215 who are not going themselves, should¦217226 donate gold¦217230 and silver¦217229, and goods¦217231 and livestock¦217232, plus¦217230 cash as a voluntary offering¦217235 for God’s temple in¦217229 Yerushalem¦217239.\n"
+    "Those who live near these people¦217227 but¦217215 who are not going themselves, should¦217226 donate gold¦217230 and silver¦217229, and goods¦217231 and livestock¦217232, plus¦217230 cash¦217229 as a voluntary offering¦217235 for God’s temple in¦217229 Yerushalem¦217239.\n"
    ]
   },
   {
@@ -366,7 +366,7 @@
       "≈donating"
      ]
     },
-    " gold¦217271 and silver¦217270 utensils, goods¦217272 and livestock, and expensive gifts¦217274, as well as the voluntary offerings¦217280 of cash.\n"
+    " gold¦217271 and silver¦217270 utensils, goods¦217272 and livestock, and expensive gifts¦217274, as well as the voluntary offerings¦217280 of cash¦217270.\n"
    ]
   },
   {
@@ -379,7 +379,7 @@
      "number": "7",
      "sid": "EZR 1:7"
     },
-    "Then King¦217283 Koresh brought out the equipment from Yahweh’s temple that¦217292 Nevukadnetstsar¦217294 ",
+    "Then King¦217283 Koresh brought out the equipment from Yahweh’s¦217291 temple that¦217292 Nevukadnetstsar¦217294 ",
     {
      "type": "char",
      "marker": "add",
@@ -1445,7 +1445,7 @@
      "number": "60",
      "sid": "EZR 2:60"
     },
-    "There were 652 people who were descendants of Delayah¦217922, Toviyyah, and¦217931 Nekoda¦217927,\n",
+    "There were 652 people who were descendants of Delayah¦217922, Toviyah, and¦217931 Nekoda¦217927,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1525,7 +1525,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also"
+      "≈Also¦217964"
      ]
     },
     " the governor¦217965 told them that they¦217970 mustn’t eat¦217970 any of the holiest food until¦217973 a priest¦217975 ",
@@ -1533,7 +1533,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈could use the Urim and¦217977 Thummim¦217977"
+      "≈could use the Urim¦217976 and¦217977 Thummim¦217977"
      ]
     },
     " ",
@@ -1642,7 +1642,7 @@
      "number": "68",
      "sid": "EZR 2:68"
     },
-    "When some of the ",
+    "When¦218038 some of the ",
     {
      "type": "char",
      "marker": "add",
@@ -1650,7 +1650,7 @@
       "≈heads¦218029 of families¦218030"
      ]
     },
-    " got to Yahweh’s temple in¦218031 Yerushalem¦218035, they freely donated ",
+    " got to Yahweh’s¦218033 temple in¦218031 Yerushalem¦218035, they freely donated ",
     {
      "type": "char",
      "marker": "add",
@@ -2016,7 +2016,7 @@
      "number": "7",
      "sid": "EZR 3:7"
     },
-    "They donated cash to the stone-workers and carpenters¦218193, and food, drink¦218195, and oil¦218196 to the workers from Tsidon ",
+    "They donated cash¦218191 to the stone-workers and carpenters¦218193, and food, drink¦218195, and oil¦218196 to the workers from Tsidon ",
     {
      "type": "char",
      "marker": "add",
@@ -2108,7 +2108,7 @@
       "rebuilding"
      ]
     },
-    " Yahweh’s ",
+    " Yahweh’s¦218260 ",
     {
      "type": "char",
      "marker": "add",
@@ -2182,7 +2182,7 @@
       "≈When¦218287 the builders¦218288 had"
      ]
     },
-    " laid the foundation¦218287 of Yahweh’s temple¦218291, they ",
+    " laid the foundation¦218287 of Yahweh’s¦218292 temple¦218291, they ",
     {
      "type": "char",
      "marker": "add",
@@ -2266,7 +2266,7 @@
    "type": "para",
    "marker": "p",
    "content": [
-    "Then all the people¦218329 shouted a great¦218333 shout in praise¦218334 to Yahweh because the foundation¦218337 of Yahweh’s ",
+    "Then all the people¦218329 shouted a great¦218333 shout in praise¦218334 to Yahweh because the foundation¦218337 of Yahweh’s¦218317 ",
     {
      "type": "char",
      "marker": "add",
@@ -2350,7 +2350,7 @@
      "number": "13",
      "sid": "EZR 3:13"
     },
-    "So¦218368 the people couldn’t differentiate the happy sounds from the sound of the people weeping¦218375, because the people were shouting¦218379 ",
+    "So¦218368 the people couldn’t differentiate the happy sounds from the sound of the people weeping¦218375, because¦218377 the people were shouting¦218379 ",
     {
      "type": "char",
      "marker": "add",
@@ -2444,7 +2444,7 @@
       "≈help you with the building¦218413 work"
      ]
     },
-    ", because like you, we ",
+    ", because¦218415 like you, we ",
     {
      "type": "char",
      "marker": "add",
@@ -3609,7 +3609,7 @@
       "≈temple"
      ]
     },
-    " of the great¦219043 God¦219042, and it is being built¦219045 with¦219050 large stones¦219046, and timber¦219048 is being placed in¦219050 the walls¦219050. This work¦219051 is being done ",
+    " of the great¦219043 God¦219042, and it is being built¦219045 with¦219050 large¦219043 stones¦219046, and timber¦219048 is being placed in¦219050 the walls¦219050. This work¦219051 is being done¦219054 ",
     {
      "type": "char",
      "marker": "add",
@@ -4107,7 +4107,7 @@
      "number": "5",
      "sid": "EZR 6:5"
     },
-    "Also, the gold¦219372 and silver¦219373 containers from the house of God that¦219374 Nevukadnetstsar had taken out from the Yerushalem temple and had brought¦219376 to Babylon¦219384, must be returned to their places¦219391 in the temple in Yerushalem. ",
+    "Also¦219366, the gold¦219372 and silver¦219373 containers from the house of God that¦219374 Nevukadnetstsar had taken out from the Yerushalem temple and had brought¦219376 to Babylon¦219384, must be returned to their places¦219391 in the temple in Yerushalem. ",
     {
      "type": "char",
      "marker": "add",
@@ -4249,7 +4249,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also I"
+      "≈Also¦219514 I"
      ]
     },
     " decree¦219516 that any man who changes this edict¦219523 should have a beam pulled¦219525 from his house, and ",
@@ -4701,7 +4701,7 @@
      "number": "22",
      "sid": "EZR 6:22"
     },
-    "Then¦219743 they¦219743 happily enjoyed the Flat Bread Celebration for seven¦219747 days¦219748, because Yahweh¦219753 had ",
+    "Then¦219743 they¦219743 happily enjoyed the Flat Bread Celebration for seven¦219747 days¦219748, because¦219750 Yahweh¦219753 had ",
     {
      "type": "char",
      "marker": "add",
@@ -4773,7 +4773,7 @@
       "(Artaxerxes¦219774)"
      ]
     },
-    ", Ezra¦219778 (son of Serayah¦219781, son of Azaryah¦219784, son of Hilkiyyah,\n",
+    ", Ezra¦219778 (son of Serayah¦219781, son of Azaryah¦219784, son of Hilkiyah,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4999,7 +4999,7 @@
      "number": "11",
      "sid": "EZR 7:11"
     },
-    "King¦219935 Artahshasta ",
+    "King¦219935 Artahshasta¦219948 ",
     {
      "type": "char",
      "marker": "add",
@@ -5015,7 +5015,7 @@
       "≈expert"
      ]
     },
-    " in Yahweh’s commands¦219942 and instructions ",
+    " in Yahweh’s¦219944 commands¦219942 and instructions¦219945 ",
     {
      "type": "char",
      "marker": "add",
@@ -5234,7 +5234,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also, make sure that"
+      "≈Also¦220081, make sure that"
      ]
     },
     " you deliver all those ",
@@ -5353,7 +5353,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also, it should be made clear"
+      "≈Also¦220187, it should be made clear"
      ]
     },
     " that there is no authority¦220205 to ",
@@ -5467,7 +5467,7 @@
      "number": "27",
      "sid": "EZR 7:27"
     },
-    "Blessed be Yahweh, the god¦220273 of our¦220274 fathers¦220274 who put it into the king’s heart¦220278 to honour¦220280 Yahweh’s house¦220283 in¦220278 Yerushalem¦220286,\n",
+    "Blessed be Yahweh, the god¦220273 of our¦220274 fathers¦220274 who put it into the king’s heart¦220278 to honour¦220280 Yahweh’s¦220272 house¦220283 in¦220278 Yerushalem¦220286,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -6149,7 +6149,7 @@
      "number": "22",
      "sid": "EZR 8:22"
     },
-    "because I was ashamed¦220615 to request¦220637 an army and horsemen¦220621 from the king to help us from ",
+    "because¦220625 I was ashamed¦220615 to request¦220637 an army and horsemen¦220621 from the king to help us from ",
     {
      "type": "char",
      "marker": "add",
@@ -6349,7 +6349,7 @@
       "≈in front¦220743"
      ]
     },
-    " of the leaders of the priests¦220745 and Levites¦220746 and the leaders of the Israeli¦220750 elders in the chambers¦220752 of Yahweh’s house¦220753 in Yerushalem¦220751.”\n",
+    " of the leaders of the priests¦220745 and Levites¦220746 and the leaders of the Israeli¦220750 elders in the chambers¦220752 of Yahweh’s¦220754 house¦220753 in Yerushalem¦220751.”\n",
     {
      "type": "verse",
      "marker": "v",
@@ -6460,7 +6460,7 @@
       "≈being handed over to"
      ]
     },
-    " Uriyyah’s son Meremot¦220809, the priest¦220813, and with him¦220814 was Pinhas’s son Eleazar¦220815 (and with them were Yeshua’s¦220823 son Yozavad, and Binnuy’s son Noadyah¦220824, the Levites¦220828).\n",
+    " Uriyah’s son Meremot¦220809, the priest¦220813, and with him¦220814 was Pinhas’s son Eleazar¦220815 (and with them were Yeshua’s¦220823 son Yozavad, and Binnuy’s son Noadyah¦220824, the Levites¦220828).\n",
     {
      "type": "verse",
      "marker": "v",
@@ -6594,7 +6594,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈taken¦220925 women from those peoples as wives"
+      "≈taken¦220925 women¦220926 from those peoples as wives"
      ]
     },
     " for themselves¦220929 and their sons¦220928, so they’ve ",
@@ -6755,7 +6755,7 @@
       "≈prayed"
      ]
     },
-    ", “My god¦220997, I’m ashamed¦220998 and humiliated to raise my face¦221002 to you¦221003, my god, because our sins have multiplied ",
+    ", “My god¦220997, I’m ashamed¦220998 and humiliated to raise my face¦221002 to you¦221003, my god, because¦221004 our sins have multiplied ",
     {
      "type": "char",
      "marker": "add",
@@ -7280,7 +7280,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈large number of Israeli¦221250"
+      "≈large¦221252 number of Israeli¦221250"
      ]
     },
     " men and women¦221256 and children¦221257 gathered¦221248 around him ",
@@ -7349,7 +7349,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈make an agreement"
+      "≈make an agreement¦221297"
      ]
     },
     " with our god to ",
@@ -7387,7 +7387,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈So take action because this is now in your¦221316 hands, but¦221318"
+      "≈So take action because¦221314 this is now in your¦221316 hands, but¦221318"
      ]
     },
     " we’re with you¦221319. ",
@@ -7464,7 +7464,7 @@
       "≈continued"
      ]
     },
-    " mourning¦221364 because of the unfaithfulness¦221367 of the exiles¦221368.\n"
+    " mourning¦221364 because¦221363 of the unfaithfulness¦221367 of the exiles¦221368.\n"
    ]
   },
   {
@@ -7606,7 +7606,7 @@
       "≈however"
      ]
     },
-    ", praise¦221449 Yahweh¦221450, the god¦221451 of your¦221453 ancestors¦221453, and do ",
+    ", praise¦221449 Yahweh¦221450, the god¦221451 of your¦221453 ancestors¦221453, and do¦221454 ",
     {
      "type": "char",
      "marker": "add",
@@ -7679,7 +7679,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈it’s the rainy season¦221480 now, and there’s¦221482 so many people¦221478 who can’t¦221487 stand¦221484 outside¦221485 for several days¦221492 while we try to work all this out, because we’ve done so much wrong"
+      "≈it’s the rainy season¦221480 now, and there’s¦221482 so many people¦221478 who can’t¦221487 stand¦221484 outside¦221485 for several days¦221492 while we try to work all this out, because¦221493 we’ve done so much wrong"
      ]
     },
     ".\n",
@@ -7951,7 +7951,7 @@
    "type": "para",
    "marker": "li1",
    "content": [
-    "From Far’osh’s descendants: Ramyah¦221674, Yizziyyah¦221675, Malkiyyah, Miyyamin, Eleazar¦221678, Malkiyyah, and Benayah¦221680.\n"
+    "From Far’osh’s descendants: Ramyah¦221674, Yizziyyah¦221675, Malkiyah, Miyyamin, Eleazar¦221678, Malkiyah, and Benayah¦221680.\n"
    ]
   },
   {
@@ -8029,7 +8029,7 @@
      "number": "31",
      "sid": "EZR 10:31"
     },
-    "From Harim’s¦221736 descendants: Eliezer¦221737, Yishshiyyah¦221738, Malkiyyah, Shemayah¦221740, Shimeon,\n",
+    "From Harim’s¦221736 descendants: Eliezer¦221737, Yishshiyyah¦221738, Malkiyah¦221739, Shemayah¦221740, Shimeon,\n",
     {
      "type": "verse",
      "marker": "v",
