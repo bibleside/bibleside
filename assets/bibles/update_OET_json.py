@@ -19,6 +19,22 @@ LV_NT_SOURCE_URL = "https://raw.githubusercontent.com/Freely-Given-org/OpenEngli
 DOWNLOAD_DIR = "/.temp"
 TEMP_FILEPATH = "/.temp/.temp"
 
+# usfm_grammar reports parse errors in these books. They were checked on 2026-11-13 against the
+# JSON committed on 2026-04-01 and 2026-04-18, and none of them lose verse text:
+# - OET-LV book titles: \sup inside the \h, \toc1, \toc2 and \mt1 lines. The title is cut off at \sup
+#   (e.g. "1 Shəmū" instead of "1 Shəmūʼēl/(Samuel)"); the app doesn't show these lines.
+# - OET-RV JOB: the \sr section-range lines, e.g. "(4:1–14:22)", are dropped; the app doesn't show \sr.
+# - OET-RV NUM 26:51 and CH1 24:23: an \xt inside a footnote has no closing \xt*. All the text is kept.
+# Any other error stops the conversion (see unreviewed_errors).
+_LV_TITLE_LINES = {'h', 'toc1', 'toc2', 'mt1'}
+KNOWN_ERRORS = {
+  "OET-RV_NUM.ESFM": {'messages': {'Missing \\xt*'}},
+  "OET-RV_CH1.ESFM": {'messages': {'Missing \\xt*'}},
+  "OET-RV_JOB.ESFM": {'markers': {'sr'}},
+  **{f"OET-LV_{book}.ESFM": {'markers': _LV_TITLE_LINES}
+     for book in ('SA1', 'SA2', 'NEH', 'ISA', 'JER', 'DAN', 'JOL', 'OBA', 'ZEP', 'ZEC')},
+}
+
 RV_LOCAL_PATH = "/OET-RV/"
 LV_LOCAL_PATH = "/OET-LV/"
 
@@ -233,13 +249,18 @@ def convert_esfm_to_json(filename, esfm_source_url, local_path, FILE_MAPPING):
 
     parser = USFMParser(input_esfm)
 
-    # Convert to (USJ) JSON.
-    print(f"Converting parsed {filename} to json...")
-    converted_json = parser.to_usj(ignore_errors=True)
+    # Stop on any parse error that hasn't been reviewed, instead of writing partial JSON.
+    unexpected = unreviewed_errors(filename, input_esfm, parser.errors)
+    if unexpected:
+      raise SystemExit(f"Stopping: usfm_grammar found errors in {filename} that haven't been reviewed, "
+                       f"so its JSON could be missing text. Fix the source or review them and add them to KNOWN_ERRORS:\n"
+                       + '\n'.join(f"  {location}: {message}" for location, message in unexpected))
+    if parser.errors:
+      print(f"{len(parser.errors)} known (reviewed) errors in {filename}; see KNOWN_ERRORS.")
 
-    errors = parser.errors
-    if errors != []:
-      print(f"The following errors were encountered when converting the ESFM to json:\n {errors}")
+    # Convert to (USJ) JSON. ignore_errors is only set when every error is a known one.
+    print(f"Converting parsed {filename} to json...")
+    converted_json = parser.to_usj(ignore_errors=bool(parser.errors))
 
     # Change all \no markers back to \untr.
     if 'LV' in filename:
@@ -266,6 +287,19 @@ def convert_esfm_to_json(filename, esfm_source_url, local_path, FILE_MAPPING):
   else:
     print("Converting ESFM to json failed.")
 
+
+def unreviewed_errors(filename, input_esfm, errors):
+  """Return the parse errors that KNOWN_ERRORS doesn't cover for this book."""
+  known = KNOWN_ERRORS.get(filename, {})
+  lines = input_esfm.split('\n')
+  unexpected = []
+  for location, message in errors:
+    row = re.search(r'row=(\d+)', location)
+    line = lines[int(row.group(1))] if row and int(row.group(1)) < len(lines) else ''
+    marker = line.split(' ', 1)[0][1:]  # USFM marker without the backslash
+    if message not in known.get('messages', set()) and marker not in known.get('markers', set()):
+      unexpected.append((location, message))
+  return unexpected
 
 def replace_untr_with_no(input_esfm):
   return re.sub(r"(\\untr)", "\\no", input_esfm)
