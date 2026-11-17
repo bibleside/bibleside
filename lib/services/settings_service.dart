@@ -42,6 +42,9 @@ class SettingsService with ListenableServiceMixin {
   static const _kShowChaptersAndVerses = 'SHOW_CHAPTERS_AND_VERSES';
   static const _kLinkReaderAreaScrolling = 'LINK_READER_AREA_SCROLLING';
 
+  // Privacy
+  static const _kAllowInternetAccess = 'ALLOW_INTERNET_ACCESS';
+
   bool _showSecondaryArea = true;
   bool get showSecondaryArea => _showSecondaryArea;
 
@@ -72,6 +75,9 @@ class SettingsService with ListenableServiceMixin {
   bool _linkReaderAreaScrolling = true;
   bool get linkReaderAreaScrolling => _linkReaderAreaScrolling;
 
+  bool _allowInternetAccess = true;
+  bool get allowInternetAccess => _allowInternetAccess;
+
   Future<void> initilize() async {
     _showSecondaryArea = await getShowSecondaryArea();
     _primaryAreaBible = await getPrimaryAreaBible();
@@ -86,6 +92,7 @@ class SettingsService with ListenableServiceMixin {
     _showMarks = await getShowMarks();
     _showChaptersAndVerses = await getShowChaptersAndVerses();
     _linkReaderAreaScrolling = await getLinkReaderAreaScrolling();
+    _allowInternetAccess = await getAllowInternetAccess();
 
     await setShowSecondaryArea(_showSecondaryArea);
     await setPrimaryAreaBible(_primaryAreaBible);
@@ -99,6 +106,7 @@ class SettingsService with ListenableServiceMixin {
     await setShowMarks(_showMarks);
     await setShowChaptersAndVerses(_showChaptersAndVerses);
     await setLinkReaderAreaScrolling(_linkReaderAreaScrolling);
+    await setAllowInternetAccess(_allowInternetAccess);
   }
 
   // Show secondary area
@@ -284,5 +292,20 @@ class SettingsService with ListenableServiceMixin {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     _linkReaderAreaScrolling = prefs.getBool(_kLinkReaderAreaScrolling) ?? true;
     return _linkReaderAreaScrolling;
+  }
+
+  // Allow internet access
+  // Includes whether to allow fetching online resources and launching web URLs.
+  Future<void> setAllowInternetAccess(bool value) async {
+    _allowInternetAccess = value;
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+    prefs.setBool(_kAllowInternetAccess, value);
+    notifyListeners();
+  }
+
+  Future<bool> getAllowInternetAccess() async {
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+    _allowInternetAccess = prefs.getBool(_kAllowInternetAccess) ?? true;
+    return _allowInternetAccess;
   }
 }

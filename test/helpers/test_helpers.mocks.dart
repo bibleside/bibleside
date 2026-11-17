@@ -1091,6 +1091,13 @@ class MockSettingsService extends _i1.Mock implements _i10.SettingsService {
       ) as bool);
 
   @override
+  bool get allowInternetAccess => (super.noSuchMethod(
+        Invocation.getter(#allowInternetAccess),
+        returnValue: false,
+        returnValueForMissingStub: false,
+      ) as bool);
+
+  @override
   int get listenersCount => (super.noSuchMethod(
         Invocation.getter(#listenersCount),
         returnValue: 0,
@@ -1397,6 +1404,26 @@ class MockSettingsService extends _i1.Mock implements _i10.SettingsService {
   _i6.Future<bool> getLinkReaderAreaScrolling() => (super.noSuchMethod(
         Invocation.method(
           #getLinkReaderAreaScrolling,
+          [],
+        ),
+        returnValue: _i6.Future<bool>.value(false),
+        returnValueForMissingStub: _i6.Future<bool>.value(false),
+      ) as _i6.Future<bool>);
+
+  @override
+  _i6.Future<void> setAllowInternetAccess(bool? value) => (super.noSuchMethod(
+        Invocation.method(
+          #setAllowInternetAccess,
+          [value],
+        ),
+        returnValue: _i6.Future<void>.value(),
+        returnValueForMissingStub: _i6.Future<void>.value(),
+      ) as _i6.Future<void>);
+
+  @override
+  _i6.Future<bool> getAllowInternetAccess() => (super.noSuchMethod(
+        Invocation.method(
+          #getAllowInternetAccess,
           [],
         ),
         returnValue: _i6.Future<bool>.value(false),
