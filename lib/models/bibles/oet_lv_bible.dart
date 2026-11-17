@@ -28,17 +28,19 @@ class OETLiteralBibleImpl extends JsonToBible {
     void flushVerse() {
       if (hasPendingVerse) {
         String formattedText = currentVerseText
-            // Hide untranslated words: an opening `untr ` marker (not part of a word like "country") up to its `untr*`.
-            .replaceAll(RegExp(r'(?<![A-Za-z])untr .*?untr\* ?'), '')
-            // A closing marker whose opening marker is missing from the data: hide just the marked word.
-            .replaceAll(RegExp(r'\S*untr\* ?'), '')
             .replaceAll(RegExp(r'¦([0-9])*\d+'), '')
             .replaceAll(RegExp(r' +'), ' ')
             .replaceAll('>', '')
             // A raw '<' would start an HTML tag and swallow the rest of the verse.
             .replaceAll('<', '')
             .replaceAll('=', ' ')
-            .replaceAll("'", "’");
+            .replaceAll("'", "’")
+            // De-emphasize untranslated words (ESFM `untr`): an opening `untr ` marker (not part of a word like
+            // "country") up to its `untr*`. This runs after the '<', '=' and "'" handling above, which would
+            // otherwise strip the span.
+            .replaceAllMapped(RegExp(r'(?<![A-Za-z])untr (.*?)untr\*'), (m) => '<span class="untr">${m[1]}</span>')
+            // A closing marker whose opening marker is missing from the data: de-emphasize just the marked word.
+            .replaceAllMapped(RegExp(r'(\S*)untr\*'), (m) => '<span class="untr">${m[1]}</span>');
 
         if (!showSpecialMarks) {
           formattedText = formattedText.replaceAll('_', ' ');
