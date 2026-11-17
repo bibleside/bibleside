@@ -1,4 +1,3 @@
-import 'dart:convert';
 import 'dart:developer';
 import 'package:material_ui/material_ui.dart';
 import 'package:flutter/services.dart';
@@ -146,7 +145,7 @@ class ReaderViewModel extends ReactiveViewModel {
 
     log('Primary ID->: $primaryScrollToId | Secondary ID->: $secondaryScrollToId');
 
-    Uri htmlUri = Uri.dataFromString("""
+    String html = """
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -453,9 +452,9 @@ class ReaderViewModel extends ReactiveViewModel {
   </script>
 </body>
 </html>
-""", mimeType: 'text/html', encoding: Encoding.getByName('utf-8'));
+""";
 
-    await webviewController.loadRequest(htmlUri);
+    await webviewController.loadHtmlString(html);
 
     rebuildUi();
   }
