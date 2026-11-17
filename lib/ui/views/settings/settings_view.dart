@@ -220,8 +220,8 @@ class SettingsView extends StackedView<SettingsViewModel> {
                   ),
                   ToggleItem(
                     label: 'Allow internet access',
-                    value: viewModel.showInternetAccess,
-                    onChanged: viewModel.changeShowInternetAccess,
+                    value: viewModel.allowInternetAccess,
+                    onChanged: viewModel.changeAllowInternetAccess,
                   ),
                   Divider(
                     height: 0,

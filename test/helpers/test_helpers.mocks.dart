@@ -1091,8 +1091,8 @@ class MockSettingsService extends _i1.Mock implements _i10.SettingsService {
       ) as bool);
 
   @override
-  bool get showInternetAccess => (super.noSuchMethod(
-        Invocation.getter(#showInternetAccess),
+  bool get allowInternetAccess => (super.noSuchMethod(
+        Invocation.getter(#allowInternetAccess),
         returnValue: false,
         returnValueForMissingStub: false,
       ) as bool);
@@ -1411,9 +1411,9 @@ class MockSettingsService extends _i1.Mock implements _i10.SettingsService {
       ) as _i6.Future<bool>);
 
   @override
-  _i6.Future<void> setShowInternetAccess(bool? value) => (super.noSuchMethod(
+  _i6.Future<void> setAllowInternetAccess(bool? value) => (super.noSuchMethod(
         Invocation.method(
-          #setShowInternetAccess,
+          #setAllowInternetAccess,
           [value],
         ),
         returnValue: _i6.Future<void>.value(),
@@ -1421,9 +1421,9 @@ class MockSettingsService extends _i1.Mock implements _i10.SettingsService {
       ) as _i6.Future<void>);
 
   @override
-  _i6.Future<bool> getShowInternetAccess() => (super.noSuchMethod(
+  _i6.Future<bool> getAllowInternetAccess() => (super.noSuchMethod(
         Invocation.method(
-          #getShowInternetAccess,
+          #getAllowInternetAccess,
           [],
         ),
         returnValue: _i6.Future<bool>.value(false),
