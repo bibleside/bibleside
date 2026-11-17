@@ -294,7 +294,8 @@ class SettingsService with ListenableServiceMixin {
     return _linkReaderAreaScrolling;
   }
 
-  //Privacy
+  // Allow internet access
+  // Includes whether to allow fetching online resources and launching web URLs.
   Future<void> setAllowInternetAccess(bool value) async {
     _allowInternetAccess = value;
     SharedPreferences prefs = await SharedPreferences.getInstance();
