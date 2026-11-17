@@ -454,9 +454,6 @@ class ReaderViewModel extends ReactiveViewModel {
 </html>
 """;
 
-    // Load the page as an HTML string rather than a data: URL. Android WebView
-    // rejects URLs over 2 MB, and the page carries both reader areas' full book
-    // HTML plus the embedded font, so larger books (e.g. Luke) loaded blank.
     await webviewController.loadHtmlString(html);
 
     rebuildUi();
