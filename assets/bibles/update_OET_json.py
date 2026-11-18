@@ -250,6 +250,9 @@ def convert_esfm_to_json(filename, esfm_source_url, local_path, FILE_MAPPING):
                     .replace('⇔','') # Not required for a display app
                     .replace("'",'’') # Convert apostrophes to the correct Unicode character
       )
+      input_esfm = unnest_selah_add(input_esfm)
+      if 'PSA' in filename:
+        input_esfm = remove_psalm_colouring(input_esfm)
 
     parser = USFMParser(input_esfm)
 
@@ -304,6 +307,14 @@ def unreviewed_errors(filename, input_esfm, errors):
     if message not in known.get('messages', set()) and marker not in known.get('markers', set()):
       unexpected.append((location, message))
   return unexpected
+
+# usfm_grammar 3.2.0 can't parse \+add nested inside the \qs Selah notes.
+def unnest_selah_add(input_esfm):
+  return input_esfm.replace("\\qs (\\+add ", "\\qs (\\qs*\\add ").replace("\\+add*.)\\qs*", "\\add*\\qs .)\\qs*")
+
+# Psalm colouring markers aren't used by the app (Robert's USFM export removes them too).
+def remove_psalm_colouring(input_esfm):
+  return re.sub(r"\\z[r1-4](hilite)?[ *]", "", input_esfm)
 
 def replace_untr_with_no(input_esfm):
   return re.sub(r"(\\untr)", "\\no", input_esfm)
