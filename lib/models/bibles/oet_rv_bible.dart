@@ -16,6 +16,10 @@ class OETReadersBibleImpl extends JsonToBible {
       for (dynamic child in node['content'] ?? []) {
         text += _textOf(child);
       }
+      // Remove the OET-RV edit marks at the start of an added phrase, e.g. '!(Jesus)', '$metres'.
+      if (node['marker'] == 'add') {
+        text = text.replaceFirst(RegExp(r'^[?!#$%&*^≈≡@]+'), '');
+      }
       return text;
     }
     return '';
@@ -77,6 +81,7 @@ class OETReadersBibleImpl extends JsonToBible {
               .replaceAll("≈", "")
               .replaceAll("≡", "")
               .replaceAll("@", "")
+              .replaceAll("^", "")
               .replaceAll("→", "");
 
           if (pendingSection) {
