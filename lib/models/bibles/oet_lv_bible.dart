@@ -89,9 +89,15 @@ class OETLiteralBibleImpl extends JsonToBible {
                     '${readerArea.name}-$bookCode-$chapterNumber-$currentVerseNumber';
                 hasPendingVerse = true;
               } else if (contentItem['type'] == 'char') {
+                String charText = '';
                 for (dynamic charItem in contentItem['content'] ?? []) {
-                  if (charItem is String) currentVerseText += charItem;
+                  if (charItem is String) charText += charItem;
                 }
+                // Remove the edit mark at the start of an added word, e.g. '+the', '&his'.
+                if (contentItem['marker'] == 'add') {
+                  charText = charText.replaceFirst(RegExp(r'^[+&]'), '');
+                }
+                currentVerseText += charText;
               }
             } else if (contentItem is String) {
               if (hasPendingVerse) {
