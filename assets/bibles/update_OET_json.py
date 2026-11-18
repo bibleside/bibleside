@@ -12,9 +12,11 @@ import requests
 from usfm_grammar import USFMParser, Filter
 
 
-RV_SOURCE_URL = "https://raw.githubusercontent.com/Freely-Given-org/OpenEnglishTranslation--OET/main/translatedTexts/ReadersVersion/"
-LV_OT_SOURCE_URL = "https://raw.githubusercontent.com/Freely-Given-org/OpenEnglishTranslation--OET/main/derivedTexts/auto_edited_OT_ESFM/"
-LV_NT_SOURCE_URL = "https://raw.githubusercontent.com/Freely-Given-org/OpenEnglishTranslation--OET/main/derivedTexts/auto_edited_VLT_ESFM/"
+OET_COMMIT = "1547cde0e153a96ed06f2eb4a74f69d8ef13a429" # 2026-11-18
+OET_BASE_URL = f"https://raw.githubusercontent.com/Freely-Given-org/OpenEnglishTranslation--OET/{OET_COMMIT}/"
+RV_SOURCE_URL = OET_BASE_URL + "translatedTexts/ReadersVersion/"
+LV_OT_SOURCE_URL = OET_BASE_URL + "derivedTexts/auto_edited_OT_ESFM/"
+LV_NT_SOURCE_URL = OET_BASE_URL + "derivedTexts/auto_edited_VLT_ESFM/"
 
 DOWNLOAD_DIR = "/.temp"
 TEMP_FILEPATH = "/.temp/.temp"
@@ -24,12 +26,14 @@ TEMP_FILEPATH = "/.temp/.temp"
 # - OET-LV book titles: \sup inside the \h, \toc1, \toc2 and \mt1 lines. The title is cut off at \sup
 #   (e.g. "1 Shəmū" instead of "1 Shəmūʼēl/(Samuel)"); the app doesn't show these lines.
 # - OET-RV JOB: the \sr section-range lines, e.g. "(4:1–14:22)", are dropped; the app doesn't show \sr.
-# - OET-RV NUM 26:51 and CH1 24:23: an \xt inside a footnote has no closing \xt*. All the text is kept.
+# - OET-RV NUM 26:51, CH1 24:23 (and ISA 24:5, ISA 29:14, MRK 1:1, checked 2026-11-18): an \xt inside a footnote has no closing \xt*. All the text is kept.
 # Any other error stops the conversion (see unreviewed_errors).
 _LV_TITLE_LINES = {'h', 'toc1', 'toc2', 'mt1'}
 KNOWN_ERRORS = {
   "OET-RV_NUM.ESFM": {'messages': {'Missing \\xt*'}},
   "OET-RV_CH1.ESFM": {'messages': {'Missing \\xt*'}},
+  "OET-RV_ISA.ESFM": {'messages': {'Missing \\xt*'}},
+  "OET-RV_MRK.ESFM": {'messages': {'Missing \\xt*'}},
   "OET-RV_JOB.ESFM": {'markers': {'sr'}},
   **{f"OET-LV_{book}.ESFM": {'markers': _LV_TITLE_LINES}
      for book in ('SA1', 'SA2', 'NEH', 'ISA', 'JER', 'DAN', 'JOL', 'OBA', 'ZEP', 'ZEC')},
