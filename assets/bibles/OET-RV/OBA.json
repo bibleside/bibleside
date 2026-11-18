@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "OBA",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.06"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.3"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "type": "para",
    "marker": "ip",
    "content": [
-    "This short document was written by the prophet Ovadyah (three syllables, traditionally spelt as ‘Obadiah’) and is about God’s judgement and punishment of Edom—the nation made up of Esau’s descendants. Esau was Yacob’s twin-brother—the sons of Yitshak (‘Isaac’), however the two sets of descendants ended up as enemies. So that’s why Edom’s people were very glad when the Babylonian army destroyed Yerushalem in 586 before Yeshua/Jesus (B.C.), and not just that, they took advantage of the invasion to join in looting the city and help the invaders. Here, God passes on through Ovadyah the declaration that Edom will be punished and defeated and their warriors would be slaughtered without any survivors, thus allowing Yisrael/Israel to recapture their lands.\n"
+    "This short document was written by the prophet Ovadyah (three syllables, traditionally spelt as ‘Obadiah’) and is about God’s judgement and punishment of Edom—the nation made up of Esav’s descendants. Esav was Ya’akov’s twin-brother—the sons of Yitshak (‘Isaac’), however the two sets of descendants ended up as enemies. So that’s why Edom’s people were very glad when the Babylonian army destroyed Yerushalem in 586 before Yeshua/Jesus (B.C.), and not just that, they took advantage of the invasion to join in looting the city and help the invaders. Here, God passes on through Ovadyah the declaration that Edom will be punished and defeated and their warriors would be slaughtered without any survivors, thus allowing Yisrael/Israel to recapture their lands.\n"
    ]
   },
   {
@@ -126,7 +126,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -164,7 +164,15 @@
       "This is"
      ]
     },
-    " the vision¦370208 of Obadiah¦370209 ",
+    " the¦370208 vision¦370208 of¦370208 Ovadyah¦370209 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Obadiah¦370209)"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -172,7 +180,7 @@
       "given"
      ]
     },
-    " by the master¦370213 Yahweh concerning¦370215 ",
+    " by the master¦370213 Yahweh¦370214 concerning ",
     {
      "type": "char",
      "marker": "add",
@@ -201,7 +209,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "We have heard¦370217 from Yahweh and a messenger has been sent¦370222 to the nations¦370221, ",
+    "We¦370217 have¦370217 heard¦370217 from¦370218 Yahweh¦370219 and¦370220 a messenger has¦370222 been¦370222 sent¦370222 to the nations¦370221, ",
     {
      "type": "char",
      "marker": "add",
@@ -223,7 +231,7 @@
       "≈Get everything ready"
      ]
     },
-    " then go¦370224 into battle¦370229 against ",
+    " then¦370224 go into battle¦370229 against ",
     {
      "type": "char",
      "marker": "add",
@@ -265,14 +273,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "I will make you into an insignificant nation¦370234.\n"
+    "I¦370233 will¦370233 make¦370233 you¦370233 into an insignificant nation¦370234.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈You’ll become utterly despised¦370235.\n"
+    "≈You’ll¦370236 become utterly despised¦370235.\n"
    ]
   },
   {
@@ -285,7 +293,7 @@
      "number": "3",
      "sid": "OBA 1:3"
     },
-    "Your¦370249 ",
+    "Your¦370240 ",
     {
      "type": "char",
      "marker": "add",
@@ -293,28 +301,28 @@
       "≈inner"
      ]
     },
-    " pride has deceived¦370241 you,\n"
+    " pride has¦370241 deceived¦370241 you¦370241,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "you who live on¦370243 the rocky cliffs,\n"
+    "you¦370242 who¦370242 live¦370242 on the¦370246 rocky cliffs,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "≈with¦370243 your¦370249 homes up there so high.\n"
+    "≈with your homes up there so high¦370246.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "You¦370242 say ",
+    "You say¦370248 ",
     {
      "type": "char",
      "marker": "add",
@@ -337,7 +345,15 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "no one can bring¦370251 you down to the ground¦370252.\n"
+    "no one can bring¦370251 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you¦370251"
+     ]
+    },
+    " down¦370251 to the¦370252 ground¦370252.\n"
    ]
   },
   {
@@ -350,21 +366,29 @@
      "number": "4",
      "sid": "OBA 1:4"
     },
-    "If¦370265 you go up high¦370256 like an eagle¦370257,\n"
+    "If¦370254 you¦370256 go up high¦370256 like¦370257 an eagle¦370257,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈even if your nest was up between¦370260 the stars¦370261,\n"
+    "≈even if¦370258 your¦370263 nest¦370263 was up between¦370260 the¦370261 stars¦370261,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Yahweh¦370268 declares that his ",
+    "Yahweh¦370268 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈declares¦370266"
+     ]
+    },
+    " that his ",
     {
      "type": "char",
      "marker": "add",
@@ -372,12 +396,19 @@
       "≈command"
      ]
     },
-    " can bring¦370265 you down from there¦370264.\n"
+    " can bring¦370265 you¦370265 down¦370265 from¦370264 there¦370264.\n"
    ]
   },
   {
    "type": "para",
    "marker": "b"
+  },
+  {
+   "type": "para",
+   "marker": "rem",
+   "content": [
+    "/s1 Pillage and Slaughter Will Repay Edom’s Cruelty\n"
+   ]
   },
   {
    "type": "para",
@@ -389,7 +420,7 @@
      "number": "5",
      "sid": "OBA 1:5"
     },
-    "If ",
+    "If¦370270 ",
     {
      "type": "char",
      "marker": "add",
@@ -397,35 +428,28 @@
       "it was"
      ]
     },
-    " thieves¦370272 who came to destroy you in the night¦370279,\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Pillage and Slaughter Will Repay Edom’s Cruelty\n"
+    " thieves¦370272 who came¦370273 to¦370275 destroy¦370278 you in the night¦370279,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "(and yes, you’re going to be destroyed)\n"
+    "(and yes, you’re¦370281 going to be¦370281 destroyed¦370281)\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "they would only steal¦370283 what they wanted¦370284.\n"
+    "they¦370283 would only steal¦370283 what they wanted.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Or if ",
+    "Or if¦370285 ",
     {
      "type": "char",
      "marker": "add",
@@ -433,7 +457,7 @@
       "it was"
      ]
     },
-    " grape-pickers who came to you,\n"
+    " grape-pickers¦370287 who came¦370288 to¦370289 you¦370289,\n"
    ]
   },
   {
@@ -447,7 +471,7 @@
       "at least"
      ]
     },
-    " they’d leave¦370291 behind ",
+    " they’d¦370291 leave¦370291 behind ",
     {
      "type": "char",
      "marker": "add",
@@ -468,7 +492,15 @@
      "number": "6",
      "sid": "OBA 1:6"
     },
-    "How Esau’s¦370296 ",
+    "How¦370294 Esav’s¦370296 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Esau’s¦370296)"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -476,7 +508,7 @@
       "descendants"
      ]
     },
-    " will be looted.\n"
+    " will¦370295 be¦370295 looted¦370295.\n"
    ]
   },
   {
@@ -491,7 +523,7 @@
       "#Their"
      ]
     },
-    " hidden¦370298 treasures¦370298 will be ",
+    " hidden¦370298 treasures¦370298 will¦370297 be¦370297 ",
     {
      "type": "char",
      "marker": "add",
@@ -527,7 +559,7 @@
       "≈Those who have treaties¦370306 with you"
      ]
     },
-    " will force you to the border¦370302.\n"
+    " will force you to the¦370302 border¦370302.\n"
    ]
   },
   {
@@ -557,7 +589,7 @@
       "≈Those who eat meals with you"
      ]
     },
-    " will set a trap for you.\n"
+    " will set¦370313 a¦370314 trap¦370314 for you.\n"
    ]
   },
   {
@@ -588,14 +620,14 @@
      "number": "8",
      "sid": "OBA 1:8"
     },
-    "Yahweh¦370325 will make a declaration on that day¦370321.\n"
+    "Yahweh¦370325 will make a declaration¦370323 on that¦370322 day¦370321.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The wise ",
+    "The wise¦370327 ",
     {
      "type": "char",
      "marker": "add",
@@ -603,14 +635,22 @@
       "people"
      ]
     },
-    " of Edom¦370328 will be destroyed¦370326.\n"
+    " of Edom¦370328 will¦370326 be destroyed¦370326.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Understanding will disappear from Esau’s¦370331 hill.\n"
+    "≈Understanding¦370329 will disappear from¦370330 Esav’s¦370331 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Esau’s¦370331)"
+     ]
+    },
+    " hill¦370330.\n"
    ]
   },
   {
@@ -623,22 +663,22 @@
      "number": "9",
      "sid": "OBA 1:9"
     },
-    "And you ",
+    "And¦370333 you Teyman¦370335 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "the city of"
+      "region"
      ]
     },
-    " Teyman, your¦370334 warriors¦370334 will be shattered¦370333,\n"
+    ", your warriors¦370334 will be shattered,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈so that everyone¦370339 from Esau’s¦370341 hill country ",
+    "≈so¦370336 that¦370336 everyone¦370339 from¦370340 Esav’s¦370341 hill¦370340 country ",
     {
      "type": "char",
      "marker": "add",
@@ -673,7 +713,15 @@
      "number": "10",
      "sid": "OBA 1:10"
     },
-    "Because¦370344 of your violence¦370344 against your brother¦370345 Yacob’s¦370346 ",
+    "Because of your violence¦370344 against your¦370345 brother¦370345 Ya’akov’s¦370346 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jacob’s¦370346)"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -688,7 +736,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "shame¦370348 will ",
+    "shame¦370348 will¦370347 ",
     {
      "type": "char",
      "marker": "add",
@@ -703,7 +751,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦370349 you’ll be ",
+    "and¦370349 you’ll¦370349 be¦370349 ",
     {
      "type": "char",
      "marker": "add",
@@ -740,7 +788,7 @@
       "≈stood¦370353 and watched"
      ]
     },
-    " on that day when strangers¦370357 ",
+    " on¦370355 that day¦370355 when strangers¦370357 ",
     {
      "type": "char",
      "marker": "add",
@@ -755,15 +803,23 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈When foreigners¦370359 entered their gates¦370361 and ",
+    "≈When¦370359 foreigners¦370359 entered their gates¦370361 and ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈took possession"
+      "≈took¦370356 possession"
      ]
     },
-    " of Yerushalem¦370365, you ",
+    " of Yerushalem¦370365 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦370365)"
+     ]
+    },
+    ", you ",
     {
      "type": "char",
      "marker": "add",
@@ -789,7 +845,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈shouldn’t have gloated"
+      "≈shouldn’t¦370374 have gloated"
      ]
     },
     " over your ",
@@ -800,12 +856,12 @@
       "≈cousins"
      ]
     },
-    " on¦370377 the day of ",
+    " on¦370377 the¦370377 day¦370377 of¦370377 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "#their¦370389"
+      "#their"
      ]
     },
     " misfortune¦370381.\n"
@@ -815,15 +871,31 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈And you ",
+    "≈And¦370382 you ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈shouldn’t have celebrated"
+      "≈shouldn’t¦370382 have celebrated"
      ]
     },
-    " about the destruction¦370389 of the people¦370385 of Yehudah¦370387.\n"
+    " about the ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈destruction¦370389"
+     ]
+    },
+    " of the¦370385 people¦370385 of¦370385 Yehudah¦370387 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Judah¦370387)"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -838,7 +910,7 @@
       "≈bragged"
      ]
     },
-    " in¦370377 ",
+    " in¦370388 ",
     {
      "type": "char",
      "marker": "add",
@@ -846,7 +918,7 @@
       "their"
      ]
     },
-    " time of distress.\n"
+    " time¦370388 of¦370393 distress¦370395.\n"
    ]
   },
   {
@@ -864,38 +936,38 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈shouldn’t have"
+      "≈shouldn’t¦370397 have"
      ]
     },
-    " gone into their city at¦370400 the ",
+    " gone¦370399 into¦370400 their city at the¦370400 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈time"
+      "≈time¦370403"
      ]
     },
-    " of their calamity¦370411.\n"
+    " of¦370404 their¦370404 calamity¦370411.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "You ",
+    "≈You ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈shouldn’t have gloated"
+      "≈shouldn’t¦370405 have gloated"
      ]
     },
-    "—yes, you—over their misery¦370411 in¦370400 their ",
+    "—yes, you¦370410—over their misery¦370411 in¦370412 their ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈time"
+      "≈time¦370412"
      ]
     },
     " of disaster.\n"
@@ -905,7 +977,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "And you ",
+    "≈And¦370414 you ",
     {
      "type": "char",
      "marker": "add",
@@ -918,10 +990,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈shouldn’t have"
+      "≈shouldn’t¦370414 have"
      ]
     },
-    " grabbed their wealth¦370417 on¦370400 the day of their catastrophe.\n"
+    " grabbed their wealth¦370417 on¦370418 the day¦370418 of¦370419 their catastrophe.\n"
    ]
   },
   {
@@ -939,18 +1011,49 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈shouldn’t have"
+      "≈shouldn’t¦370421 have"
      ]
     },
-    " stood at the crossroads¦370426 to ",
+    " stood¦370423 at¦370424 the¦370426 crossroads to¦370427 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈kill those trying to escape"
+      "≈kill¦370427 those trying to escape¦370430"
      ]
     },
-    ",",
+    ",\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "≈And¦370431 you ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈shouldn’t¦370431 have handed-over"
+     ]
+    },
+    " any survivors¦370434 that you’d captured in¦370435 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "their"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈time¦370435"
+     ]
+    },
+    " of trouble¦370436.",
     {
      "type": "note",
      "marker": "x",
@@ -977,37 +1080,6 @@
   },
   {
    "type": "para",
-   "marker": "q1",
-   "content": [
-    "And you ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈shouldn’t have handed-over"
-     ]
-    },
-    " any survivors¦370434 that you’d captured in ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "their"
-     ]
-    },
-    " ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈time"
-     ]
-    },
-    " of trouble¦370436.\n"
-   ]
-  },
-  {
-   "type": "para",
    "marker": "s1",
    "content": [
     "The punishment of nations\n"
@@ -1030,14 +1102,14 @@
      "number": "15",
      "sid": "OBA 1:15"
     },
-    "For all the nations¦370448, Yahweh’s day¦370441 is near,\n"
+    "For¦370438 all¦370446 the¦370448 nations¦370448, Yahweh’s¦370443 day¦370441 is¦370440 near¦370440,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Just as you’ve¦370450 done, ",
+    "Just¦370449 as¦370449 you’ve¦370450 done¦370450, ",
     {
      "type": "char",
      "marker": "add",
@@ -1045,14 +1117,14 @@
       "≈the same"
      ]
     },
-    " will be done to you.\n"
+    " will¦370451 be¦370451 done¦370451 to¦370452 you¦370452.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Your actions will return¦370454 onto your own head¦370455.\n"
+    "≈Your¦370453 actions will¦370454 return¦370454 onto your¦370455 own¦370455 head¦370455.\n"
    ]
   },
   {
@@ -1065,7 +1137,7 @@
      "number": "16",
      "sid": "OBA 1:16"
     },
-    "Because just like how all you ",
+    "Because¦370457 just¦370458 like¦370458 how all you¦370459 ",
     {
      "type": "char",
      "marker": "add",
@@ -1095,7 +1167,7 @@
      ],
      "caller": "+"
     },
-    " drank ",
+    " drank¦370459 ",
     {
      "type": "char",
      "marker": "add",
@@ -1103,28 +1175,28 @@
       "suffering"
      ]
     },
-    " on my holy mountain¦370462,\n"
+    " on¦370460 my holy mountain¦370462,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "all the nations¦370467 will drink continually¦370468.\n"
+    "all¦370465 the¦370467 nations¦370467 will¦370464 drink¦370464 continually¦370468.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "They will drink and swallow¦370470 it down.\n"
+    "They¦370469 will¦370469 drink¦370469 and¦370470 swallow¦370470 it down.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "They’ll become as if they’d never¦370472 ",
+    "They’ll¦370471 become as¦370472 if they’d¦370473 never ",
     {
      "type": "char",
      "marker": "add",
@@ -1173,14 +1245,22 @@
       "≈But¦370475"
      ]
     },
-    " on¦370475 Mt¦370475. Tsiyyon¦370476 (‘Zion’), there’ll be deliverance¦370478,\n"
+    " on¦370475 Mt¦370475. Tsiyon¦370476 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Zion¦370476)"
+     ]
+    },
+    ", there’ll be¦370477 deliverance¦370478,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "and¦370475 it will be holy,\n"
+    "and¦370479 it¦370479 will be¦370479 holy¦370480,\n"
    ]
   },
   {
@@ -1192,10 +1272,26 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Yisrael’s people"
+      "≈Yisrael’s"
      ]
     },
-    " will ",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Israel’s)"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈people"
+     ]
+    },
+    " will¦370481 ",
     {
      "type": "char",
      "marker": "add",
@@ -1203,7 +1299,7 @@
       "≈reclaim"
      ]
     },
-    " their¦370485 possessions¦370481.\n"
+    " their¦370485 possessions¦370485.\n"
    ]
   },
   {
@@ -1223,14 +1319,22 @@
       "≈Yisrael’s people"
      ]
     },
-    " will be a fire¦370492,\n"
+    " will be¦370488 a¦370492 fire¦370492,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and Yosef’s¦370494 ",
+    "≈and¦370493 Yosef’s¦370494 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Joseph’s¦370494)"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -1238,14 +1342,22 @@
       "≈descendants"
      ]
     },
-    " will be a flame¦370495.\n"
+    " will¦370495 be¦370495 a¦370495 flame¦370495.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "None of Esau’s¦370497 ",
+    "None of¦370496 Esav’s¦370497 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Esau’s¦370497)"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -1260,7 +1372,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because Yahweh¦370511 has spoken¦370512.\n"
+    "because¦370510 Yahweh¦370511 has¦370512 spoken¦370512.\n"
    ]
   },
   {
@@ -1284,22 +1396,22 @@
       "The people from"
      ]
     },
-    " the Negev¦370515 will ",
+    " the¦370515 Negev¦370515 will¦370514 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈take ownership"
+      "≈take¦370514 ownership¦370514"
      ]
     },
-    " of Esau’s¦370519 mountain¦370518,\n"
+    " of¦370514 Esav’s¦370519 mountain¦370518,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and ",
+    "≈and¦370520 ",
     {
      "type": "char",
      "marker": "add",
@@ -1312,10 +1424,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≡will take ownership of"
+      "≡will¦370514 take¦370514 ownership¦370514 of¦370514"
      ]
     },
-    " the Philistines’ ",
+    " the Pelishtim’¦370523 ",
     {
      "type": "char",
      "marker": "add",
@@ -1330,14 +1442,30 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "They will recapture the Efrayim¦370528 and Samarian countrysides,\n"
+    "They¦370524 will¦370524 recapture the¦370527 Efrayim¦370528 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ephraim¦370528)"
+     ]
+    },
+    " and¦370529 Shomroni¦370531 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Samaritan¦370531)"
+     ]
+    },
+    " countrysides,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and ",
+    "≈and¦370532 ",
     {
      "type": "char",
      "marker": "add",
@@ -1366,7 +1494,15 @@
      "number": "20",
      "sid": "OBA 1:20"
     },
-    "Yisrael’s¦370542 exiles ",
+    "Yisrael’s¦370542 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Israel’s¦370542)"
+     ]
+    },
+    " exiles ",
     {
      "type": "char",
      "marker": "add",
@@ -1374,7 +1510,15 @@
       "≡will take ownership of"
      ]
     },
-    " the Canaanites’ ",
+    " the¦370545 Kena’anim’¦370545 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Canaanites’¦370545)"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -1382,14 +1526,22 @@
       "land"
      ]
     },
-    " as far as Tsarefat,\n"
+    " as far as Tserefat¦370548,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and¦370537 the exiles from Yerushalem¦370550 (who are in¦370552 Sefarad¦370552) ",
+    "≈and¦370549 the¦370549 exiles¦370549 from Yerushalem¦370550 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦370550)"
+     ]
+    },
+    " (who¦370551 are¦370552 in¦370552 Sefarad¦370552) ",
     {
      "type": "char",
      "marker": "add",
@@ -1397,7 +1549,7 @@
       "≡will take ownership of"
      ]
     },
-    " the cities¦370555 of the Negev¦370556.\n"
+    " the¦370555 cities¦370555 of¦370555 the¦370556 Negev¦370556.\n"
    ]
   },
   {
@@ -1410,7 +1562,15 @@
      "number": "21",
      "sid": "OBA 1:21"
     },
-    "The rescuers will go¦370558 up Mt¦370565. Tsiyyon¦370561/Zion¦370561 to judge Esau’s¦370566 mountain¦370560.\n"
+    "The rescuers will¦370558 go¦370558 up¦370558 Mt¦370560. Tsiyon¦370561 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Zion¦370561)"
+     ]
+    },
+    " to¦370562 judge Esav’s¦370566 mountain.\n"
    ]
   },
   {
@@ -1422,7 +1582,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈will be their king"
+      "≈will be their king¦370569"
      ]
     },
     ".\n"

@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 13:25 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "Acts\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -1193,7 +1188,7 @@
      "number": "27",
      "sid": "ACT 2:27"
     },
-    "because¦82826 you¦82828_˓will¦82828˒_ not¦82827 _be¦82828_abandoning¦82828 the¦82829 soul¦82830 of¦82831_me¦82831 into¦82832 Haidaʸs¦82835, nor¦82836 ˓will¦82837˒_you¦82837_be¦82837_giving¦82837 the¦82838 devout¦82839 ",
+    "because¦82826 you¦82828_˓will¦82828˒_ not¦82827 _be¦82828_abandoning¦82828 the¦82829 soul¦82830 of¦82831_me¦82831 into¦82832 Haᵢdaʸs¦82835, nor¦82836 ˓will¦82837˒_you¦82837_be¦82837_giving¦82837 the¦82838 devout¦82839 ",
     {
      "type": "char",
      "marker": "add",
@@ -1277,7 +1272,7 @@
       "chosen¦82925_one¦82925/messiah¦82925"
      ]
     },
-    " that¦82926 neither¦82927 was¦82929_abandoned¦82929 into¦82934 Haidaʸs¦82936, nor¦82937 the¦82939 flesh¦82940 of¦82941_him¦82941 saw¦82942 decay¦82944.\n",
+    " that¦82926 neither¦82927 was¦82929_abandoned¦82929 into¦82934 Haᵢdaʸs¦82936, nor¦82937 the¦82939 flesh¦82940 of¦82941_him¦82941 saw¦82942 decay¦82944.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1307,7 +1302,7 @@
      "number": "33",
      "sid": "ACT 2:33"
     },
-    "Therefore¦82963 having¦82966_been¦82966_exalted¦82966 by¦82961_the¦82961 right¦82962 ",
+    "Therefore¦82963 having¦82966_been¦82966_elevated¦82966 by¦82961_the¦82961 right¦82962 ",
     {
      "type": "char",
      "marker": "add",
@@ -1842,7 +1837,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^our¦83626"
+      "&our¦83626"
      ]
     },
     "_own¦83626 power¦83627 or¦83628 devoutness¦83629 having¦83632_made¦83632 him¦83637 untr which¦83635untr* to¦83636_be¦83636_walking¦83636?\n",
@@ -2784,7 +2779,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^their¦84491"
+      "&their¦84491"
      ]
     },
     "_voice¦84491 to¦84492 untr the¦84493untr* ",
@@ -2888,7 +2883,7 @@
      "number": "27",
      "sid": "ACT 4:27"
     },
-    "For/Because¦84563 both¦84581 Haʸrōdaʸs¦84580 and¦84582 Pontios¦84583 Pilatos¦84584 were¦84562_gathered¦84562_together¦84562 in¦84564 truth¦84565 in¦84566 untr the¦84567untr* this¦84570 city¦84568 with¦84585 ",
+    "For/Because¦84563 both¦84581 Haʸrōᵢdaʸs¦84580 and¦84582 Pontios¦84583 Pilatos¦84584 were¦84562_gathered¦84562_together¦84562 in¦84564 truth¦84565 in¦84566 untr the¦84567untr* this¦84570 city¦84568 with¦84585 ",
     {
      "type": "char",
      "marker": "add",
@@ -3008,7 +3003,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦84712"
+      "&his¦84712"
      ]
     },
     "_own¦84712, but¦84714 was¦84715 all¦84717 ",
@@ -3548,7 +3543,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦85235"
+      "+a¦85235"
      ]
     },
     "_messenger¦85235 of¦85238_",
@@ -3747,7 +3742,7 @@
       "god¦85515"
      ]
     },
-    " exalted¦85519 This¦85513 ",
+    " elevated¦85519 This¦85513 ",
     {
      "type": "char",
      "marker": "add",
@@ -4298,7 +4293,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦86189"
+      "+a¦86189"
      ]
     },
     "_messenger¦86189.\n"
@@ -4848,7 +4843,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦86868"
+      "+a¦86868"
      ]
     },
     "_messenger¦86868 was¦86859_seen¦86859 to¦86860_him¦86860 in¦86861 the¦86862 wilderness¦86863 of¦86865_ untr the¦86864untr* _Mount¦86865 Sina/(Şīnay)¦86867, in¦86870 ",
@@ -5738,7 +5733,7 @@
       "+a¦87719"
      ]
     },
-    "_ loud¦87720 _voice¦87719, they¦87722_were¦87722_coming¦87722_out¦87722, and¦87724 many¦87723 having¦87725_been¦87725_paralyzed¦87725 and¦87726 lame¦87727 were¦87728_healed¦87728.\n",
+    "_ loud¦87720 _voice¦87719, they¦87722_were¦87722_coming¦87722_out¦87722, and¦87724 many¦87723 having¦87725_been¦87725_paralysed¦87725 and¦87726 lame¦87727 were¦87728_healed¦87728.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -6044,7 +6039,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦88099"
+      "+a¦88099"
      ]
     },
     "_messenger¦88099 of¦88101_",
@@ -6573,7 +6568,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦88686"
+      "&his¦88686"
      ]
     },
     "_hands¦88686 on¦88683_him¦88683, so¦88687_that¦88687 he¦88688_may¦88688_receive¦88688_sight¦88688.\n",
@@ -7011,7 +7006,7 @@
       "+a¦89138"
      ]
     },
-    "_pallet¦89138, who¦89139 was¦89140 having¦89141_been¦89141_paralyzed¦89141.\n",
+    "_pallet¦89138, who¦89139 was¦89140 having¦89141_been¦89141_paralysed¦89141.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -7056,7 +7051,7 @@
      "number": "36",
      "sid": "ACT 9:36"
     },
-    "And¦89181 in¦89179 Yoppaʸ¦89180 was¦89183 ",
+    "And¦89181 in¦89179 Yoppaᵢʸ¦89180 was¦89183 ",
     {
      "type": "char",
      "marker": "add",
@@ -7110,7 +7105,7 @@
      "number": "38",
      "sid": "ACT 9:38"
     },
-    "And¦89219 Ludda¦89221 being¦89220 near¦89218 to¦89224_ untr the¦89223untr* _Yoppaʸ¦89224, the¦89225 apprentices/followers¦89226 having¦89227_heard¦89227 that¦89228 Petros¦89229 is¦89230 in¦89231 it¦89232, they¦89233_sent¦89233_out¦89233 two¦89234 men¦89235 to¦89236 him¦89237 imploring¦89238: You¦89241_may¦89241_ not¦89239 _delay¦89241 to¦89242_pass¦89242_through¦89242 to¦89243 us¦89244.\n",
+    "And¦89219 Ludda¦89221 being¦89220 near¦89218 to¦89224_ untr the¦89223untr* _Yoppaᵢʸ¦89224, the¦89225 apprentices/followers¦89226 having¦89227_heard¦89227 that¦89228 Petros¦89229 is¦89230 in¦89231 it¦89232, they¦89233_sent¦89233_out¦89233 two¦89234 men¦89235 to¦89236 him¦89237 imploring¦89238: You¦89241_may¦89241_ not¦89239 _delay¦89241 to¦89242_pass¦89242_through¦89242 to¦89243 us¦89244.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -7144,7 +7139,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦89322"
+      "&his¦89322"
      ]
     },
     "_hand¦89322 to¦89321_her¦89321, he¦89323_raised¦89323_ her¦89324 _up¦89323, and¦89327 having¦89326_called¦89326 the¦89328 holy¦89329 ",
@@ -7162,7 +7157,7 @@
      "number": "42",
      "sid": "ACT 9:42"
     },
-    "And¦89340 it¦89341_became¦89341 known¦89339 throughout¦89342 all¦89343 of¦89345_Yoppaʸ¦89345, and¦89346 many¦89349 believed¦89348 on¦89350 the¦89351 ",
+    "And¦89340 it¦89341_became¦89341 known¦89339 throughout¦89342 all¦89343 of¦89345_Yoppaᵢʸ¦89345, and¦89346 many¦89349 believed¦89348 on¦89350 the¦89351 ",
     {
      "type": "char",
      "marker": "nd",
@@ -7177,7 +7172,7 @@
      "number": "43",
      "sid": "ACT 9:43"
     },
-    "And¦89354 it¦89353_became¦89353 many¦89358 days¦89356 to¦89359_remain¦89359 in¦89361 Yoppaʸ¦89362, with¦89363 ",
+    "And¦89354 it¦89353_became¦89353 many¦89358 days¦89356 to¦89359_remain¦89359 in¦89361 Yoppaᵢʸ¦89362, with¦89363 ",
     {
      "type": "char",
      "marker": "add",
@@ -7295,7 +7290,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦89414"
+      "+a¦89414"
      ]
     },
     "_messenger¦89414 of¦89416_ untr the¦89415untr* _",
@@ -7336,7 +7331,7 @@
      "number": "5",
      "sid": "ACT 10:5"
     },
-    "And¦89453 now¦89454 send¦89455 men¦89456 to¦89457 Yoppaʸ¦89458, and¦89460 send¦89461_for¦89461 ",
+    "And¦89453 now¦89454 send¦89455 men¦89456 to¦89457 Yoppaᵢʸ¦89458, and¦89460 send¦89461_for¦89461 ",
     {
      "type": "char",
      "marker": "add",
@@ -7421,7 +7416,7 @@
       ">things¦89516"
      ]
     },
-    " to¦89517_them¦89517, he¦89518_sent¦89518_ them¦89519 _out¦89518 to¦89520 untr the¦89521untr* Yoppaʸ¦89522.\n",
+    " to¦89517_them¦89517, he¦89518_sent¦89518_ them¦89519 _out¦89518 to¦89520 untr the¦89521untr* Yoppaᵢʸ¦89522.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -7686,7 +7681,7 @@
       "day¦89826"
      ]
     },
-    " of¦89828_next¦89828 having¦89829_risen¦89829_up¦89829, he¦89832_came¦89832_out¦89832 with¦89833 them¦89834, and¦89835 some¦89836 of¦89837_the¦89837 brothers¦89838 untr which¦89839untr* from¦89840 Yoppaʸ¦89842 came¦89844_together¦89844 with¦89845_him¦89845.\n",
+    " of¦89828_next¦89828 having¦89829_risen¦89829_up¦89829, he¦89832_came¦89832_out¦89832 with¦89833 them¦89834, and¦89835 some¦89836 of¦89837_the¦89837 brothers¦89838 untr which¦89839untr* from¦89840 Yoppaᵢʸ¦89842 came¦89844_together¦89844 with¦89845_him¦89845.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -7829,7 +7824,7 @@
      "number": "32",
      "sid": "ACT 10:32"
     },
-    "Therefore¦90048 send¦90047 to¦90049 Yoppaʸ¦90050 and¦90051 summon¦90052 Simōn¦90053, who¦90054 is¦90055_being¦90055_called¦90055 Petros¦90056, this¦90057 ",
+    "Therefore¦90048 send¦90047 to¦90049 Yoppaᵢʸ¦90050 and¦90051 summon¦90052 Simōn¦90053, who¦90054 is¦90055_being¦90055_called¦90055 Petros¦90056, this¦90057 ",
     {
      "type": "char",
      "marker": "add",
@@ -8371,7 +8366,7 @@
       "+the¦90553"
      ]
     },
-    "_city¦90553 of¦90554_Yoppaʸ¦90554 praying¦90556, and¦90557 in¦90559 ",
+    "_city¦90553 of¦90554_Yoppaᵢʸ¦90554 praying¦90556, and¦90557 in¦90559 ",
     {
      "type": "char",
      "marker": "add",
@@ -8523,7 +8518,7 @@
      "number": "13",
      "sid": "ACT 11:13"
     },
-    "He¦90713_reported¦90713 and¦90714 to¦90716_us¦90716 how¦90717 he¦90718_saw¦90718 the¦90719 messenger¦90720 in¦90721 the¦90722 house¦90723 of¦90724_him¦90724, having¦90725_been¦90725_stood¦90725 and¦90726 having¦90727_said¦90727: Send¦90729_out¦90729 to¦90731 Yoppaʸ¦90732, and¦90734 send¦90735_for¦90735 Simōn¦90736, the¦90737 ",
+    "He¦90713_reported¦90713 and¦90714 to¦90716_us¦90716 how¦90717 he¦90718_saw¦90718 the¦90719 messenger¦90720 in¦90721 the¦90722 house¦90723 of¦90724_him¦90724, having¦90725_been¦90725_stood¦90725 and¦90726 having¦90727_said¦90727: Send¦90729_out¦90729 to¦90731 Yoppaᵢʸ¦90732, and¦90734 send¦90735_for¦90735 Simōn¦90736, the¦90737 ",
     {
      "type": "char",
      "marker": "add",
@@ -8957,12 +8952,12 @@
      "number": "1",
      "sid": "ACT 12:1"
     },
-    "And¦91148 concerning¦91146 that¦91147 untr the¦91149untr* time¦91150, Haʸrōdaʸs¦91154 the¦91155 king¦91156 laid¦91151_on¦91151 untr the¦91158untr* ",
+    "And¦91148 concerning¦91146 that¦91147 untr the¦91149untr* time¦91150, Haʸrōᵢdaʸs¦91154 the¦91155 king¦91156 laid¦91151_on¦91151 untr the¦91158untr* ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦91159"
+      "&his¦91159"
      ]
     },
     "_hands¦91159 to¦91160_mistreat¦91160 some¦91161 of¦91162_the¦91162 ",
@@ -9056,7 +9051,7 @@
      "number": "6",
      "sid": "ACT 12:6"
     },
-    "And¦91257 when¦91256 untr the¦91265untr* Haʸrōdaʸs¦91266 was¦91258_going¦91258 to¦91262_bring¦91262_ him¦91264 _forth¦91262 untr the¦91267untr* on¦91268_ that¦91269 _night¦91268, untr the¦91271untr* Petros¦91272 was¦91270 being¦91273_fallen¦91273_asleep¦91273 between¦91274 two¦91275 soldiers¦91276, having¦91277_been¦91277_bound¦91277 with¦91278_ two¦91279 _chains¦91278, and¦91282 guards¦91280 before¦91283 the¦91285 door¦91287 were¦91289_guarding¦91289 the¦91290 prison¦91291.\n",
+    "And¦91257 when¦91256 untr the¦91265untr* Haʸrōᵢdaʸs¦91266 was¦91258_going¦91258 to¦91262_bring¦91262_ him¦91264 _forth¦91262 untr the¦91267untr* on¦91268_ that¦91269 _night¦91268, untr the¦91271untr* Petros¦91272 was¦91270 being¦91273_fallen¦91273_asleep¦91273 between¦91274 two¦91275 soldiers¦91276, having¦91277_been¦91277_bound¦91277 with¦91278_ two¦91279 _chains¦91278, and¦91282 guards¦91280 before¦91283 the¦91285 door¦91287 were¦91289_guarding¦91289 the¦91290 prison¦91291.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -9068,7 +9063,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦91294"
+      "+a¦91294"
      ]
     },
     "_messenger¦91294 of¦91295_",
@@ -9171,7 +9166,7 @@
       "+the¦91442"
      ]
     },
-    "_hand¦91442 of¦91443_Haʸrōdaʸs¦91443 and¦91444 all¦91445 the¦91446 expectation¦91447 of¦91448_the¦91448 people¦91449 of¦91450_the¦91450 Youdaiōns¦91451.\n",
+    "_hand¦91442 of¦91443_Haʸrōᵢdaʸs¦91443 and¦91444 all¦91445 the¦91446 expectation¦91447 of¦91448_the¦91448 people¦91449 of¦91450_the¦91450 Youdaiōns¦91451.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -9216,7 +9211,7 @@
      "number": "14",
      "sid": "ACT 12:14"
     },
-    "And¦91493 having¦91494_recognized¦91494 the¦91495 voice¦91496 of¦91498_ untr the¦91497untr* _Petros¦91498, from¦91499 untr the¦91500untr* joy¦91501 she¦91503_ not¦91502 _opened¦91503_up¦91503 the¦91504 gate¦91505, but¦91508 having¦91507_run¦91507_in¦91507 she¦91509_reported¦91509 untr the¦91511untr* Petros¦91512 to¦91510_have¦91510_stood¦91510 before¦91513 the¦91514 gate¦91515.\n",
+    "And¦91493 having¦91494_recognised¦91494 the¦91495 voice¦91496 of¦91498_ untr the¦91497untr* _Petros¦91498, from¦91499 untr the¦91500untr* joy¦91501 she¦91503_ not¦91502 _opened¦91503_up¦91503 the¦91504 gate¦91505, but¦91508 having¦91507_run¦91507_in¦91507 she¦91509_reported¦91509 untr the¦91511untr* Petros¦91512 to¦91510_have¦91510_stood¦91510 before¦91513 the¦91514 gate¦91515.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -9275,7 +9270,7 @@
      "number": "19",
      "sid": "ACT 12:19"
     },
-    "And¦91613 Haʸrōdaʸs¦91611 having¦91614_sought¦91614_after¦91614 him¦91615 and¦91616 not¦91617 having¦91618_found¦91618 ",
+    "And¦91613 Haʸrōᵢdaʸs¦91611 having¦91614_sought¦91614_after¦91614 him¦91615 and¦91616 not¦91617 having¦91618_found¦91618 ",
     {
      "type": "char",
      "marker": "add",
@@ -9337,7 +9332,7 @@
       "+the¦91684"
      ]
     },
-    "_appointed¦91684 day¦91686, untr the¦91687untr* Haʸrōdaʸs¦91688, having¦91689_dressed¦91689_in¦91689 ",
+    "_appointed¦91684 day¦91686, untr the¦91687untr* Haʸrōᵢdaʸs¦91688, having¦91689_dressed¦91689_in¦91689 ",
     {
      "type": "char",
      "marker": "add",
@@ -9396,7 +9391,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦91722"
+      "+a¦91722"
      ]
     },
     "_messenger¦91722 of¦91723_",
@@ -9472,7 +9467,7 @@
      "number": "1",
      "sid": "ACT 13:1"
     },
-    "And¦91776 there¦91775_were¦91775 prophets¦91784 and¦91785 teachers¦91786 in¦91778 Antioⱪeia¦91779, in¦91780 the¦91781 assembly¦91783 being¦91782: untr the¦91789untr* both¦91790 Barnabas¦91791, and¦91792 Sumeōn/(Shimˊōn)¦91793 who¦91794 being¦91796_called¦91796 Niger¦91797, and¦91798 Loukios¦91799 the¦91800 from¦91801_Kuraʸnaʸ¦91801, And¦91803 Manaaʸn¦91802 raised¦91808_with¦91808 of¦91804_Haʸrōdaʸs¦91804 of¦91806_the¦91806 quarter¦91807_ruler¦91807, and¦91809 Saulos¦91810.\n",
+    "And¦91776 there¦91775_were¦91775 prophets¦91784 and¦91785 teachers¦91786 in¦91778 Antioⱪeia¦91779, in¦91780 the¦91781 assembly¦91783 being¦91782: untr the¦91789untr* both¦91790 Barnabas¦91791, and¦91792 Sumeōn/(Shimˊōn)¦91793 who¦91794 being¦91796_called¦91796 Niger¦91797, and¦91798 Loukios¦91799 the¦91800 from¦91801_Kuraʸnaʸ¦91801, And¦91803 Manaaʸn¦91802 raised¦91808_with¦91808 of¦91804_Haʸrōᵢdaʸs¦91804 of¦91806_the¦91806 quarter¦91807_ruler¦91807, and¦91809 Saulos¦91810.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -9848,7 +9843,7 @@
       "ʼēl"
      ]
     },
-    ")¦92176 chose¦92177 the¦92178 fathers¦92179 of¦92180_us¦92180, and¦92182 exalted¦92185 the¦92183 people¦92184 in¦92186 the¦92187 sojourn¦92188 in¦92189 ",
+    ")¦92176 chose¦92177 the¦92178 fathers¦92179 of¦92180_us¦92180, and¦92182 elevated¦92185 the¦92183 people¦92184 in¦92186 the¦92187 sojourn¦92188 in¦92189 ",
     {
      "type": "char",
      "marker": "add",
@@ -9861,7 +9856,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦92196"
+      "&his¦92196"
      ]
     },
     "_arm¦92196 high¦92197, he¦92198_led¦92198_out¦92198 them¦92199 out¦92200_of¦92200 it¦92201,\n",
@@ -10330,7 +10325,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦92607"
+      "&his¦92607"
      ]
     },
     "_own¦92607 generation¦92608, was¦92614_fallen¦92614_asleep¦92614 and¦92615 was¦92616_added¦92616 to¦92617 the¦92618 fathers¦92619 of¦92620_him¦92620, and¦92621 saw¦92622 decay¦92623.\n",
@@ -11791,7 +11786,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦94693"
+      "&his¦94693"
      ]
     },
     "_father¦94693 ",
@@ -11907,7 +11902,7 @@
      "number": "8",
      "sid": "ACT 16:8"
     },
-    "and¦94840 having¦94839_passed¦94839_by¦94839 untr the¦94841untr* Musia¦94842, they¦94844_came¦94844_down¦94844 to¦94845 Trōias¦94846.\n",
+    "and¦94840 having¦94839_passed¦94839_by¦94839 untr the¦94841untr* Musia¦94842, they¦94844_came¦94844_down¦94844 to¦94845 Trōᵢas¦94846.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -11960,7 +11955,7 @@
      "number": "11",
      "sid": "ACT 16:11"
     },
-    "therefore¦94914 having¦94911_been¦94911_launched¦94911 from¦94917 Trōias¦94919, we¦94920_ran¦94920_straight¦94920 to¦94921 Samothrakaʸ¦94922, and¦94925 on¦94924_the¦94924_ following¦94927 _",
+    "therefore¦94914 having¦94911_been¦94911_launched¦94911 from¦94917 Trōᵢas¦94919, we¦94920_ran¦94920_straight¦94920 to¦94921 Samothraᵢkaʸ¦94922, and¦94925 on¦94924_the¦94924_ following¦94927 _",
     {
      "type": "char",
      "marker": "add",
@@ -12430,7 +12425,7 @@
       "us¦95578"
      ]
     },
-    " into¦95579 prison¦95580 and¦95581 now¦95582 secretly¦95583 they¦95585_are¦95585_throwing¦95585_ us¦95584 _out¦95585? For/Because¦95587 no¦95586, but¦95588 having¦95589_come¦95589 themselves¦95590, them¦95592_let¦95592_lead¦95592_ us¦95591 _out¦95592.\n",
+    " into¦95579 prison¦95580 and¦95581 now¦95582 secretly¦95583 they¦95585_are¦95585_casting¦95585_ us¦95584 _out¦95585? For/Because¦95587 no¦95586, but¦95588 having¦95589_come¦95589 themselves¦95590, them¦95592_let¦95592_lead¦95592_ us¦95591 _out¦95592.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -13968,7 +13963,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦97460"
+      "&his¦97460"
      ]
     },
     "_hands¦97460, the¦97464 untr the¦97466untr* holy¦97467 ",
@@ -14340,7 +14335,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^our¦98018"
+      "&our¦98018"
      ]
     },
     "_hands¦98018 becoming¦98019 they¦98014_are¦98014 not¦98013 gods¦98015.\n",
@@ -14455,7 +14450,7 @@
      "number": "34",
      "sid": "ACT 19:34"
     },
-    "But¦98204 having¦98202_recognized¦98202 that¦98205 he¦98207_is¦98207 ",
+    "But¦98204 having¦98202_recognised¦98202 that¦98205 he¦98207_is¦98207 ",
     {
      "type": "char",
      "marker": "add",
@@ -14704,7 +14699,7 @@
      "number": "5",
      "sid": "ACT 20:5"
     },
-    "And¦98478 these¦98477 having¦98479_approached¦98479 were¦98481_remaining¦98481 with¦98483_us¦98483 in¦98484 Trōias¦98485.\n",
+    "And¦98478 these¦98477 having¦98479_approached¦98479 were¦98481_remaining¦98481 with¦98483_us¦98483 in¦98484 Trōᵢas¦98485.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -14719,7 +14714,7 @@
       "bread¦98493"
      ]
     },
-    ", and¦98496 until¦98503 five¦98506 days¦98505 came¦98497 to¦98498 them¦98499 at¦98500 untr the¦98501untr* Trōias¦98502, where¦98511 we¦98513_stayed¦98513 seven¦98515 days¦98514.\n",
+    ", and¦98496 until¦98503 five¦98506 days¦98505 came¦98497 to¦98498 them¦98499 at¦98500 untr the¦98501untr* Trōᵢas¦98502, where¦98511 we¦98513_stayed¦98513 seven¦98515 days¦98514.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -16224,7 +16219,7 @@
      "number": "23",
      "sid": "ACT 22:23"
     },
-    "and¦100753 them¦100755 Crying¦100752_out¦100752, and¦100756 throwing¦100757_down¦100757 their¦100758 clothes¦100759, and¦100760 throwing¦100762 dust¦100761 into¦100763 the¦100764 air¦100766,\n",
+    "and¦100753 them¦100755 Crying¦100752_out¦100752, and¦100756 throwing¦100757_down¦100757 their¦100758 clothes¦100759, and¦100760 casting¦100762 dust¦100761 into¦100763 the¦100764 air¦100766,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -16594,7 +16589,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦101117"
+      "+a¦101117"
      ]
     },
     "_messenger¦101117, nor¦101118 ",
@@ -16665,7 +16660,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦101158"
+      "+a¦101158"
      ]
     },
     "_messenger¦101158?\n",
@@ -17066,7 +17061,7 @@
      "number": "35",
      "sid": "ACT 23:35"
     },
-    "he¦101754_was¦101754_saying¦101754 I¦101752_will¦101752_be¦101752_thoroughly¦101752_hearing¦101752 from¦101753_you¦101753: whenever¦101755 also¦101756 the¦101757 accusers¦101758 of¦101759_you¦101759 may¦101760_arrive¦101760, having¦101763_commanded¦101763 for¦101773_him¦101773 to¦101772_be¦101772_being¦101772_guarded¦101772 in¦101766 the¦101767 residence¦101768_of¦101768_the¦101768_governor¦101768 untr the¦101769untr* of¦101771_Haʸrōdaʸs¦101771.\n"
+    "he¦101754_was¦101754_saying¦101754 I¦101752_will¦101752_be¦101752_thoroughly¦101752_hearing¦101752 from¦101753_you¦101753: whenever¦101755 also¦101756 the¦101757 accusers¦101758 of¦101759_you¦101759 may¦101760_arrive¦101760, having¦101763_commanded¦101763 for¦101773_him¦101773 to¦101772_be¦101772_being¦101772_guarded¦101772 in¦101766 the¦101767 residence¦101768_of¦101768_the¦101768_governor¦101768 untr the¦101769untr* of¦101771_Haʸrōᵢdaʸs¦101771.\n"
    ]
   },
   {
@@ -19013,7 +19008,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^their¦103910"
+      "&their¦103910"
      ]
     },
     "_own¦103910_hands¦103910.\n",
@@ -19065,7 +19060,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦104005"
+      "+a¦104005"
      ]
     },
     "_messenger¦104005 of¦103998_ untr the¦103997untr* _",
@@ -19309,7 +19304,7 @@
      "number": "38",
      "sid": "ACT 27:38"
     },
-    "And¦104265 having¦104264_been¦104264_satiated¦104264 of¦104267_food¦104267, they¦104268_were¦104268_lightening¦104268 the¦104269 ship¦104270, throwing¦104271_out¦104271 the¦104272 wheat¦104273 into¦104274 the¦104275 sea¦104276.\n",
+    "And¦104265 having¦104264_been¦104264_satiated¦104264 of¦104267_food¦104267, they¦104268_were¦104268_lightening¦104268 the¦104269 ship¦104270, casting¦104271_out¦104271 the¦104272 wheat¦104273 into¦104274 the¦104275 sea¦104276.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -19929,7 +19924,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦105094"
+      "&his¦105094"
      ]
     },
     "_own¦105094 rental¦105095, and¦105096 was¦105097_welcoming¦105097 all¦105098 the¦105099 ",

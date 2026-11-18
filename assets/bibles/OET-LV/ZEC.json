@@ -47,14 +47,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file created 2026-04-01 09:25 by extract_glossed_OSHB_OT_to_ESFM v1.0\n"
+    "ESFM file created 2026-11-16 07:45 by extract_glossed_OSHB_OT_to_ESFM v1.0.8\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedOTUpdates\n"
    ]
   },
   {
@@ -93,11 +93,6 @@
    ]
   },
   {
-   "type": "para",
-   "marker": "ie",
-   "content": []
-  },
-  {
    "type": "chapter",
    "marker": "c",
    "number": "1",
@@ -113,7 +108,7 @@
      "number": "1",
      "sid": "Zec 1:1"
     },
-    "In¦376324÷month¦376324 (the)¦376325÷eighth¦376325 in¦376326=year¦376326 two¦376327 of¦376328÷Dārəyāvesh¦376328 the¦376330_message¦376330_of¦376330 it¦376329_came¦376329 of¦376332_",
+    "In¦376324÷month¦376324 (the)¦376325÷eighth¦376325 in¦376326=year¦376326 two¦376327 of¦376328÷Dārəyāvesh¦376328 the¦376330_message¦376330_of¦376330 ",
     {
      "type": "char",
      "marker": "nd",
@@ -121,7 +116,7 @@
       "YHWH¦376332"
      ]
     },
-    " to¦376333 Zəkar",
+    " it¦376329_came¦376329 to¦376333 Zəkar",
     {
      "type": "char",
      "marker": "sup",
@@ -151,7 +146,7 @@
       "YHWH¦376346"
      ]
     },
-    " He¦376345_was¦376345_angry¦376345 towards¦376347 ancestors¦376349_of¦376349÷your(pl)¦376349 anger¦376350.\n",
+    " he¦376345_was¦376345_angry¦376345 towards¦376347 ancestors¦376349_of¦376349÷your(pl)¦376349 anger¦376350.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -166,7 +161,7 @@
       "YHWH¦376356"
      ]
     },
-    " he¦376355_says¦376355 hosts¦376357 return¦376358 to¦376359=me¦376359 the¦376360_utterance¦376360_of¦376360 ",
+    " soldiers/messengers¦376357 he¦376355_says¦376355 return¦376358 to¦376359=me¦376359 the¦376360_utterance¦376360_of¦376360 ",
     {
      "type": "char",
      "marker": "nd",
@@ -174,7 +169,7 @@
       "YHWH¦376361"
      ]
     },
-    " hosts¦376362 and¦376363÷I¦376363_will¦376363_return¦376363 to¦376364÷you(pl)¦376364 ",
+    " soldiers/messengers¦376362 and¦376363÷I¦376363_will¦376363_return¦376363 to¦376364÷you(pl)¦376364 ",
     {
      "type": "char",
      "marker": "nd",
@@ -182,14 +177,14 @@
       "YHWH¦376366"
      ]
     },
-    " he¦376365_says¦376365 hosts¦376367.\n",
+    " soldiers/messengers¦376367 he¦376365_says¦376365.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "Zec 1:4"
     },
-    "Do¦376369_not¦376369 be¦376371 like¦376372÷your(pl)¦376372_of¦376372÷ancestors¦376372 whom¦376373 they¦376374_proclaimed¦376374 to¦376376÷them¦376376 the¦376377÷prophets¦376377 (the)¦376378÷former¦376378 to¦376379=say¦376379 thus¦376380 he¦376381_says¦376381 ",
+    "Do¦376369_not¦376369 be¦376371 like¦376372÷ancestors¦376372_of¦376372÷your(pl)¦376372 whom¦376373 they¦376374_proclaimed¦376374 to¦376376÷them¦376376 the¦376377÷prophets¦376377 (the)¦376378÷former¦376378 to¦376379=say¦376379 thus¦376380 ",
     {
      "type": "char",
      "marker": "nd",
@@ -197,7 +192,7 @@
       "YHWH¦376382"
      ]
     },
-    " hosts¦376383 turn¦376384_back¦376384 please¦376385 from¦376386÷your(pl)¦376386_of¦376386÷ways¦376386 (the)¦376387÷evil¦376387 and¦376388÷your(pl)¦376388_of¦376388÷deeds¦376388",
+    " soldiers/messengers¦376383 he¦376381_says¦376381 turn¦376384_back¦376384 please¦376385 from¦376386÷ways¦376386_of¦376386÷your(pl)¦376386 (the)¦376387÷evil¦376387 and¦376388",
     {
      "type": "note",
      "marker": "f",
@@ -272,7 +267,7 @@
      "number": "6",
      "sid": "Zec 1:6"
     },
-    "Nevertheless¦376410 words/messages¦376412_of¦376412÷my¦376412 and¦376413÷my¦376413_of¦376413÷regulations¦376413 which¦376414 I¦376415_commanded¦376415 untr DOM¦376416untr* servants¦376418_of¦376418÷my¦376418 the¦376419÷prophets¦376419 am¦376420=not¦376420 did¦376421_they¦376421_overtake¦376421 ancestors¦376422_of¦376422÷your(pl)¦376422 and¦376423÷they¦376423_repented¦376423 and¦376424=they¦376424_said¦376424 just¦376425=as¦376425 he¦376426_planned¦376426 ",
+    "Nevertheless¦376410 words/messages¦376412_of¦376412÷my¦376412 and¦376413÷regulations¦376413_of¦376413÷my¦376413 which¦376414 I¦376415_commanded¦376415 untr DOM¦376416untr* servants¦376418_of¦376418÷my¦376418 the¦376419÷prophets¦376419 am¦376420=not¦376420 did¦376421_they¦376421_overtake¦376421 ancestors¦376422_of¦376422÷your(pl)¦376422 and¦376423÷they¦376423_repented¦376423 and¦376424=they¦376424_said¦376424 just¦376425=as¦376425 ",
     {
      "type": "char",
      "marker": "nd",
@@ -280,14 +275,14 @@
       "YHWH¦376427"
      ]
     },
-    " hosts¦376428 for¦376429=doing¦376429 to/for¦376430=us¦376430 according¦376431÷to¦376431_of¦376431÷our¦376431_ways¦376431 and¦376432÷according¦376432÷to¦376432_of¦376432÷our¦376432_deeds¦376432 so¦376433 he¦376434_has¦376434_done¦376434 with¦376435÷us¦376435.\n",
+    " soldiers/messengers¦376428 he¦376426_planned¦376426 for¦376429=doing¦376429 to/for¦376430=us¦376430 according¦376431÷to¦376431_of¦376431÷our¦376431_ways¦376431 and¦376432÷according¦376432÷to¦376432_of¦376432÷our¦376432_deeds¦376432 so¦376433 he¦376434_has¦376434_done¦376434 with¦376435÷us¦376435.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "Zec 1:7"
     },
-    "in/on¦376438=day¦376438 twenty¦376439 and¦376440÷four¦376440 of¦376441÷one¦376441_plus¦376441_of¦376441 ten¦376443 month¦376444 it¦376445 ",
+    "In/on¦376438=day¦376438 twenty¦376439 and¦376440÷four¦376440 of¦376441÷one¦376441_plus¦376441_of¦376441 ten¦376443 month¦376444 it¦376445 ",
     {
      "type": "char",
      "marker": "add",
@@ -295,7 +290,7 @@
       "+was¦376447"
      ]
     },
-    "_the¦376447_month¦376447_of¦376447 Shebat¦376448 in¦376449=year¦376449 two¦376450 of¦376451÷Dārəyāvesh¦376451 the¦376453_message¦376453_of¦376453 it¦376452_came¦376452 of¦376455_",
+    "_the¦376447_month¦376447_of¦376447 Shebat¦376448 in¦376449=year¦376449 two¦376450 of¦376451÷Dārəyāvesh¦376451 the¦376453_message¦376453_of¦376453 ",
     {
      "type": "char",
      "marker": "nd",
@@ -303,7 +298,7 @@
       "YHWH¦376455"
      ]
     },
-    " to¦376456 Zəkar",
+    " it¦376452_came¦376452 to¦376456 Zəkar",
     {
      "type": "char",
      "marker": "sup",
@@ -326,7 +321,7 @@
      "number": "8",
      "sid": "Zec 1:8"
     },
-    "I¦376468_saw¦376468 the¦376470=night¦376470 and¦376471=see/lo/see¦376471 a¦376473_man¦376473 ",
+    "I¦376468_saw¦376468 the¦376470=night¦376470 and¦376471=BEHOLD/LO/SEE¦376471 a¦376473_man¦376473 ",
     {
      "type": "char",
      "marker": "add",
@@ -396,7 +391,7 @@
      "number": "10",
      "sid": "Zec 1:10"
     },
-    "And¦376508÷he¦376508_answered¦376508 the¦376509=man¦376509 ",
+    "And¦376508= the¦376509=man¦376509 ",
     {
      "type": "char",
      "marker": "add",
@@ -404,7 +399,7 @@
       "who¦376510÷was¦376510"
      ]
     },
-    "_standing¦376510 between¦376511 the¦376513_myrtle¦376513÷trees¦376513",
+    "_standing¦376510 between¦376511 the¦376513_myrtle¦376513÷trees¦376513 =he¦376508_answered¦376508",
     {
      "type": "note",
      "marker": "f",
@@ -443,7 +438,7 @@
       "+those¦376517"
      ]
     },
-    "_whom¦376517 he¦376518_has¦376518_sent¦376518 ",
+    "_whom¦376517 ",
     {
      "type": "char",
      "marker": "nd",
@@ -451,7 +446,7 @@
       "YHWH¦376519"
      ]
     },
-    " to¦376520÷go¦376520_about¦376520 on¦376521_the¦376521=earth¦376521.\n",
+    " he¦376518_has¦376518_sent¦376518 to¦376520÷go¦376520_about¦376520 on¦376521_the¦376521=earth¦376521.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -474,7 +469,7 @@
       "who¦376528÷was¦376528"
      ]
     },
-    "_standing¦376528 between¦376529 the¦376530_myrtle¦376530÷trees¦376530 and¦376531=they¦376531_said¦376531 we¦376532_have¦376532_gone¦376532_about¦376532 in/on¦376533_the¦376533=earth¦376533 and¦376534=see/lo/see¦376534 all¦376535_of¦376535 the¦376537=earth/land¦376537 ",
+    "_standing¦376528 between¦376529 the¦376530_myrtle¦376530÷trees¦376530 and¦376531=they¦376531_said¦376531 we¦376532_have¦376532_gone¦376532_about¦376532 in/on¦376533_the¦376533=earth¦376533 and¦376534=BEHOLD/LO/SEE¦376534 all¦376535_of¦376535 the¦376537=earth/land¦376537 ",
     {
      "type": "char",
      "marker": "add",
@@ -497,7 +492,7 @@
      "number": "12",
      "sid": "Zec 1:12"
     },
-    "And¦376541= the¦376542_messenger¦376542_of¦376542 =he¦376541_answered¦376541 of¦376544_",
+    "And¦376541= the¦376542_messenger¦376542_of¦376542 ",
     {
      "type": "char",
      "marker": "nd",
@@ -505,7 +500,7 @@
       "YHWH¦376544"
      ]
     },
-    " and¦376545÷he¦376545_said¦376545 Oh¦376546_",
+    " =he¦376541_answered¦376541 and¦376545÷he¦376545_said¦376545 Oh¦376546_",
     {
      "type": "char",
      "marker": "nd",
@@ -513,7 +508,7 @@
       "YHWH¦376546"
      ]
     },
-    " hosts¦376547 until¦376548 when¦376550 you¦376551 not¦376552 will¦376554_you¦376554_have¦376554_compassion¦376554_on¦376554 untr DOM¦376555untr* Yərūshālam/(Jerusalem)¦376557 and¦376558=untr DOM¦376558untr* the¦376559_cities¦376559_of¦376559 Yəhūdāh/(Judah)¦376560 which¦376561 you¦376562_have¦376562_been¦376562_indignant¦376562 this¦376563 seventy¦376564 year[s]¦376565.\n",
+    " soldiers/messengers¦376547 until¦376548 when¦376550 you¦376551 not¦376552 will¦376554_you¦376554_have¦376554_compassion¦376554_on¦376554 untr DOM¦376555untr* Yərūshālaim/(Jerusalem)¦376557 and¦376558=untr DOM¦376558untr* the¦376559_cities¦376559_of¦376559 Yəhūdāh/(Judah)¦376560 which¦376561 you¦376562_have¦376562_been¦376562_indignant¦376562 this¦376563 seventy¦376564 year[s]¦376565.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -559,7 +554,7 @@
       "YHWH¦376588"
      ]
     },
-    " he¦376587_says¦376587 hosts¦376589 I¦376590_am¦376590_jealous¦376590 for¦376591÷Yərūshālam/(Jerusalem)¦376591 and¦376592÷for¦376592÷Tsiyyōn/(Zion)¦376592 jealousy¦376593 great¦376594.\n",
+    " soldiers/messengers¦376589 he¦376587_says¦376587 I¦376590_am¦376590_jealous¦376590 for¦376591÷Yərūshālaim/(Jerusalem)¦376591 and¦376592÷for¦376592÷Tsiyyōn/(Zion)¦376592 jealousy¦376593 great¦376594.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -589,7 +584,7 @@
       "YHWH¦376616"
      ]
     },
-    " he¦376615_says¦376615 I¦376617_have¦376617_returned¦376617 to¦376618÷Yərūshālam/(Jerusalem)¦376618 with¦376619÷compassion(s)¦376619 house¦376620_of¦376620÷my¦376620 it¦376621_will¦376621_be¦376621_rebuilt¦376621 in¦376622÷it¦376622 the¦376623_utterance¦376623_of¦376623 ",
+    " he¦376615_says¦376615 I¦376617_have¦376617_returned¦376617 to¦376618÷Yərūshālaim/(Jerusalem)¦376618 with¦376619÷compassion(s)¦376619 house¦376620_of¦376620÷my¦376620 it¦376621_will¦376621_be¦376621_rebuilt¦376621 in¦376622÷it¦376622 the¦376623_utterance¦376623_of¦376623 ",
     {
      "type": "char",
      "marker": "nd",
@@ -597,7 +592,7 @@
       "YHWH¦376624"
      ]
     },
-    " hosts¦376625 and¦376626÷a¦376626_measuring-line¦376626",
+    " soldiers/messengers¦376625 and¦376626",
     {
      "type": "note",
      "marker": "f",
@@ -620,7 +615,7 @@
      ],
      "caller": "+"
     },
-    " it¦376628_will¦376628_be¦376628_stretched¦376628_out¦376628 over¦376629 Yərūshālam/(Jerusalem)¦376631.\n",
+    " it¦376628_will¦376628_be¦376628_stretched¦376628_out¦376628 over¦376629 Yərūshālaim/(Jerusalem)¦376631.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -635,7 +630,7 @@
       "YHWH¦376639"
      ]
     },
-    " he¦376638_says¦376638 hosts¦376640 again¦376641 cities¦376643_of¦376643÷my¦376643 they¦376642_will¦376642_overflow¦376642 from¦376644÷good¦376644 and¦376645= ",
+    " soldiers/messengers¦376640 he¦376638_says¦376638 again¦376641 cities¦376643_of¦376643÷my¦376643 they¦376642_will¦376642_overflow¦376642 from¦376644÷good¦376644 and¦376645= ",
     {
      "type": "char",
      "marker": "nd",
@@ -643,7 +638,7 @@
       "YHWH¦376646"
      ]
     },
-    " =he¦376645_will¦376645_comfort¦376645 again¦376647 untr DOM¦376648untr* Tsiyyōn¦376650 and¦376651÷he¦376651_will¦376651_choose¦376651 again¦376652 (in)¦376653÷Yərūshālam/(Jerusalem)¦376653.\n"
+    " =he¦376645_will¦376645_comfort¦376645 again¦376647 untr DOM¦376648untr* Tsiyyōn¦376650 and¦376651÷he¦376651_will¦376651_choose¦376651 again¦376652 (in)¦376653÷Yərūshālaim/(Jerusalem)¦376653.\n"
    ]
   },
   {
@@ -684,7 +679,7 @@
      ],
      "caller": "+"
     },
-    " and¦376657÷I¦376657_lifted¦376657_up¦376657 untr DOM¦376658untr* eyes¦376660_of¦376660÷my¦376660 and¦376661÷I¦376661_saw¦376661 and¦376662=see/lo/see¦376662 four¦376663 horns¦376664.\n",
+    " And¦376657÷I¦376657_lifted¦376657_up¦376657 untr DOM¦376658untr* eyes¦376660_of¦376660÷my¦376660 and¦376661÷I¦376661_saw¦376661 and¦376662=BEHOLD/LO/SEE¦376662 four¦376663 horns¦376664.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -713,7 +708,7 @@
      ],
      "caller": "+"
     },
-    " and¦376667÷I¦376667_said¦376667 to¦376668 the¦376670÷messenger¦376670 ",
+    " And¦376667÷I¦376667_said¦376667 to¦376668 the¦376670÷messenger¦376670 ",
     {
      "type": "char",
      "marker": "add",
@@ -745,7 +740,7 @@
       "ʼēl"
      ]
     },
-    "/(Israel)¦376687 and¦376688÷Yərūshālam/(Jerusalem)¦376688.",
+    "/(Israel)¦376687 and¦376688÷Yərūshālaim/(Jerusalem)¦376688.",
     {
      "type": "note",
      "marker": "f",
@@ -797,7 +792,7 @@
      ],
      "caller": "+"
     },
-    " and¦376693÷he¦376693÷showed¦376693_me¦376693 ",
+    " And¦376693÷he¦376693÷showed¦376693_me¦376693 ",
     {
      "type": "char",
      "marker": "nd",
@@ -834,7 +829,7 @@
      ],
      "caller": "+"
     },
-    " and¦376699÷I¦376699_said¦376699 what¦376700 ",
+    " And¦376699÷I¦376699_said¦376699 what¦376700 ",
     {
      "type": "char",
      "marker": "add",
@@ -858,7 +853,7 @@
       "+the¦376714"
      ]
     },
-    "_mouth¦376714_of¦376714 a¦376716_man¦376716 not¦376717 he¦376719_lifted¦376719_up¦376719 his/its¦376720=head¦376720 and¦376721=they¦376721_came¦376721 these¦376722_",
+    "_mouth¦376714_of¦376714 a¦376716_man¦376716 not¦376717 he¦376719_lifted¦376719_up¦376719 his/its¦376720=head¦376720 and¦376721= these¦376722_",
     {
      "type": "char",
      "marker": "add",
@@ -866,7 +861,7 @@
       ">craftsmen¦376722"
      ]
     },
-    " to¦376723÷terrify¦376723 untr DOM¦376724untr*=them¦376724 to¦376725÷throw¦376725_down¦376725 untr DOM¦376726untr* the¦376728_horns¦376728_of¦376728 the¦376729=nations¦376729 ",
+    " =they¦376721_came¦376721 to¦376723÷terrify¦376723 untr DOM¦376724untr*=them¦376724 to¦376725÷throw¦376725_down¦376725 untr DOM¦376726untr* the¦376728_horns¦376728_of¦376728 the¦376729=nations¦376729 ",
     {
      "type": "char",
      "marker": "add",
@@ -874,7 +869,7 @@
       "which¦376730"
      ]
     },
-    "_lifted¦376730= a¦376731_horn¦376731 =up¦376730 against¦376732 the¦376734_land¦376734_of¦376734 Yəhūdāh¦376735 to¦376736÷scatter¦376736÷it¦376736.\n",
+    "_lifted¦376730÷up¦376730 a¦376731_horn¦376731 against¦376732 the¦376734_land¦376734_of¦376734 Yəhūdāh¦376735 to¦376736÷scatter¦376736÷it¦376736.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -903,7 +898,7 @@
      ],
      "caller": "+"
     },
-    " and¦376740÷I¦376740_lifted¦376740_up¦376740 eyes¦376741_of¦376741÷my¦376741 and¦376742÷I¦376742_saw¦376742 and¦376743=see/lo/see¦376743 a¦376745_man¦376745 and¦376746_",
+    " And¦376740÷I¦376740_lifted¦376740_up¦376740 eyes¦376741_of¦376741÷my¦376741 and¦376742÷I¦376742_saw¦376742 and¦376743=BEHOLD/LO/SEE¦376743 a¦376745_man¦376745 and¦376746_",
     {
      "type": "char",
      "marker": "add",
@@ -911,7 +906,7 @@
       "+was¦376746"
      ]
     },
-    "÷in¦376746÷his¦376746_of¦376746÷hand¦376746 a¦376747_cord¦376747_of¦376747 measurement¦376748.\n",
+    "÷in¦376746÷hand¦376746_of¦376746÷his¦376746 a¦376747_cord¦376747_of¦376747 measurement¦376748.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -940,7 +935,7 @@
      ],
      "caller": "+"
     },
-    " and¦376751÷I¦376751_said¦376751 where¦376752 ",
+    " And¦376751÷I¦376751_said¦376751 where¦376752 ",
     {
      "type": "char",
      "marker": "add",
@@ -948,7 +943,7 @@
       "+are¦376753"
      ]
     },
-    "_you¦376753 going¦376754 and¦376755=he/it¦376755_said¦376755 to¦376756=me¦376756 to¦376757÷measure¦376757 untr DOM¦376758untr* Yərūshālam/(Jerusalem)¦376760 to¦376761=see¦376761 how¦376762÷much¦376762 breadth¦376764_of¦376764÷",
+    "_you¦376753 going¦376754 and¦376755=he/it¦376755_said¦376755 to¦376756=me¦376756 to¦376757÷measure¦376757 untr DOM¦376758untr* Yərūshālaim/(Jerusalem)¦376760 to¦376761=see¦376761 how¦376762÷much¦376762 breadth¦376764_of¦376764÷",
     {
      "type": "char",
      "marker": "add",
@@ -993,7 +988,7 @@
      ],
      "caller": "+"
     },
-    " and¦376769=see/lo/see¦376769 the¦376770÷messenger¦376770 ",
+    " And¦376769=BEHOLD/LO/SEE¦376769 the¦376770÷messenger¦376770 ",
     {
      "type": "char",
      "marker": "add",
@@ -1046,7 +1041,7 @@
      ],
      "caller": "+"
     },
-    " and¦376780=he/it¦376780_said¦376780 to¦376781÷him¦376781",
+    " And¦376780=he/it¦376780_said¦376780 to¦376781÷him¦376781",
     {
      "type": "note",
      "marker": "f",
@@ -1091,7 +1086,7 @@
      ],
      "caller": "+"
     },
-    " run¦376784 speak¦376785 to¦376786 the¦376788_young¦376788÷man¦376788 this¦376789 to¦376790=say¦376790 unwalled¦376791_villages¦376791 Yərūshālam/(Jerusalem)¦376793 it¦376792_will¦376792_remain¦376792 from¦376794_",
+    " run¦376784 speak¦376785 to¦376786 the¦376788_young¦376788÷man¦376788 this¦376789 to¦376790=say¦376790 unwalled¦376791_villages¦376791 Yərūshālaim/(Jerusalem)¦376793 it¦376792_will¦376792_remain¦376792 from¦376794_",
     {
      "type": "char",
      "marker": "add",
@@ -1128,7 +1123,7 @@
      ],
      "caller": "+"
     },
-    " and¦376800÷I¦376800 I¦376801_will¦376801_be¦376801 to¦376803÷it¦376803 the¦376804_utterance¦376804_of¦376804 ",
+    " And¦376800÷I¦376800 I¦376801_will¦376801_be¦376801 to¦376803÷it¦376803 the¦376804_utterance¦376804_of¦376804 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1165,7 +1160,7 @@
      ],
      "caller": "+"
     },
-    " alas¦376816 alas¦376817 (and)¦376818÷flee¦376818 from¦376819_",
+    " Alas¦376816 alas¦376817 (and)¦376818÷flee¦376818 from¦376819_",
     {
      "type": "char",
      "marker": "add",
@@ -1226,7 +1221,7 @@
      ],
      "caller": "+"
     },
-    " alas¦376835 Oh¦376836_Tsiyyōn/(Zion)¦376836 escape¦376837 Oh¦376838_inhabitant[s]¦376838 of¦376839_the¦376839_daughter¦376839_of¦376839 of¦376841_Bāⱱel¦376841.\n",
+    " Alas¦376835 Oh¦376836_Tsiyyōn/(Zion)¦376836 escape¦376837 Oh¦376838_inhabitant[s]¦376838 of¦376839_the¦376839_daughter¦376839_of¦376839 of¦376841_Bāⱱel¦376841.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1255,7 +1250,7 @@
      ],
      "caller": "+"
     },
-    " if/because¦376845 thus¦376846 he¦376847_says¦376847 ",
+    " If/because¦376845 thus¦376846 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1263,7 +1258,7 @@
       "YHWH¦376848"
      ]
     },
-    " hosts¦376849 after¦376850 honour¦376851 he¦376852÷has¦376852_sent¦376852_me¦376852 to¦376853 the¦376855=nations¦376855 ",
+    " soldiers/messengers¦376849 he¦376847_says¦376847 after¦376850 honour¦376851 he¦376852÷has¦376852_sent¦376852_me¦376852 to¦376853 the¦376855=nations¦376855 ",
     {
      "type": "char",
      "marker": "add",
@@ -1287,7 +1282,7 @@
       "+is¦376861"
      ]
     },
-    "_touching¦376861 (in)¦376862_the¦376862÷pupil¦376862_of¦376862 his¦376863_eye¦376863_of¦376863÷of¦376863.\n",
+    "_touching¦376861 (in)¦376862_the¦376862÷pupil¦376862_of¦376862 his¦376863_eye¦376863_of¦376863÷his¦376863.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1316,7 +1311,7 @@
      ],
      "caller": "+"
     },
-    " if/because¦376866 here¦376867÷I¦376867 ",
+    " If/because¦376866 HERE¦376867÷I¦376867 ",
     {
      "type": "char",
      "marker": "add",
@@ -1355,7 +1350,7 @@
       "YHWH¦376880"
      ]
     },
-    " hosts¦376881 he¦376882÷has¦376882_sent¦376882_me¦376882.\n",
+    " soldiers/messengers¦376881 he¦376882÷has¦376882_sent¦376882_me¦376882.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1384,7 +1379,7 @@
      ],
      "caller": "+"
     },
-    " shout¦376886_for¦376886_joy¦376886 and¦376887÷rejoice¦376887 Oh¦376888_daughter¦376888_of¦376888 Tsiyyōn¦376890 if/because¦376891 here¦376892÷I¦376892 ",
+    " Shout¦376886_for¦376886_joy¦376886 and¦376887÷rejoice¦376887 Oh¦376888_daughter¦376888_of¦376888 Tsiyyōn¦376890 if/because¦376891 HERE¦376892÷I¦376892 ",
     {
      "type": "char",
      "marker": "add",
@@ -1429,7 +1424,7 @@
      ],
      "caller": "+"
     },
-    " and¦376902= nations¦376903 =they¦376902_will¦376902_join¦376902_themselves¦376902 many¦376904 to¦376905 ",
+    " And¦376902= nations¦376903 many¦376904 =they¦376902_will¦376902_join¦376902_themselves¦376902 to¦376905 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1445,7 +1440,7 @@
       "YHWH¦376918"
      ]
     },
-    " hosts¦376919 he¦376920÷has¦376920_sent¦376920_me¦376920 to¦376921÷you¦376921.\n",
+    " soldiers/messengers¦376919 he¦376920÷has¦376920_sent¦376920_me¦376920 to¦376921÷you¦376921.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1474,7 +1469,7 @@
      ],
      "caller": "+"
     },
-    " and¦376924= ",
+    " And¦376924= ",
     {
      "type": "char",
      "marker": "nd",
@@ -1482,7 +1477,7 @@
       "YHWH¦376925"
      ]
     },
-    " =he¦376924_will¦376924_inherit¦376924 untr DOM¦376926untr* Yəhūdāh/(Judah)¦376928 portion¦376929_of¦376929÷his¦376929 on¦376930 the¦376931_land¦376931_of¦376931 (the)¦376932÷holiness¦376932 and¦376933÷he¦376933_will¦376933_choose¦376933 again¦376934 (in)¦376935÷Yərūshālam/(Jerusalem)¦376935.\n",
+    " =he¦376924_will¦376924_inherit¦376924 untr DOM¦376926untr* Yəhūdāh/(Judah)¦376928 portion¦376929_of¦376929÷his¦376929 on¦376930 the¦376931_land¦376931_of¦376931 (the)¦376932÷holiness¦376932 and¦376933÷he¦376933_will¦376933_choose¦376933 again¦376934 (in)¦376935÷Yərūshālaim/(Jerusalem)¦376935.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1511,7 +1506,7 @@
      ],
      "caller": "+"
     },
-    " hush¦376938 Oh¦376939_all¦376939_of¦376939 flesh¦376941 from¦376942=face/in¦376942_front¦376942_of¦376942 ",
+    " Hush¦376938 Oh¦376939_all¦376939_of¦376939 flesh¦376941 from¦376942=face/in¦376942_front¦376942_of¦376942 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1519,7 +1514,7 @@
       "YHWH¦376943"
      ]
     },
-    " if/because¦376944 he¦376945_has¦376945_roused¦376945_himself¦376945 from¦376946÷the¦376946_dwelling¦376946_place¦376946_of¦376946 his¦376947_holiness¦376947_of¦376947÷of¦376947.\n"
+    " if/because¦376944 he¦376945_has¦376945_roused¦376945_himself¦376945 from¦376946÷the¦376946_dwelling¦376946_place¦376946_of¦376946 his¦376947_holiness¦376947_of¦376947÷his¦376947.\n"
    ]
   },
   {
@@ -1538,7 +1533,7 @@
      "number": "1",
      "sid": "Zec 3:1"
     },
-    "and¦376950÷he¦376950÷showed¦376950_me¦376950 untr DOM¦376951untr* Yəhōshūˊa/(Joshua)¦376953 the¦376954=priest/officer¦376954 (the)¦376955÷great¦376955 standing¦376956 to¦376957=(the)¦376957_face¦376957_of/in¦376957_front¦376957_of/before¦376957 the¦376958_messenger¦376958_of¦376958 ",
+    "And¦376950÷he¦376950÷showed¦376950_me¦376950 untr DOM¦376951untr* Yəhōshūˊa/(Joshua)¦376953 the¦376954=priest/officer¦376954 (the)¦376955÷great¦376955 standing¦376956 to¦376957=(the)¦376957_face¦376957_of/in¦376957_front¦376957_of/before¦376957 the¦376958_messenger¦376958_of¦376958 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1569,7 +1564,7 @@
       "YHWH¦376968"
      ]
     },
-    " =he/it¦376967_said¦376967 to¦376969 the¦376971÷accuser¦376971 may¦376972_he¦376972_rebuke¦376972 ",
+    " =he/it¦376967_said¦376967 to¦376969 the¦376971÷accuser¦376971 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1577,7 +1572,7 @@
       "YHWH¦376973"
      ]
     },
-    " (in)¦376974÷you¦376974 Oh¦376975÷accuser¦376975 and¦376976÷may¦376976_he¦376976_rebuke¦376976 ",
+    " may¦376972_he¦376972_rebuke¦376972 (in)¦376974÷you¦376974 Oh¦376975÷accuser¦376975 and¦376976÷may¦376976_he¦376976_rebuke¦376976 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1593,7 +1588,7 @@
       "who¦376979÷has¦376979"
      ]
     },
-    "_chosen¦376979 (in)¦376980÷Yərūshālam/(Jerusalem)¦376980 am¦376981=not¦376981 ",
+    "_chosen¦376979 (in)¦376980÷Yərūshālaim/(Jerusalem)¦376980 am¦376981=not¦376981 ",
     {
      "type": "char",
      "marker": "add",
@@ -1692,7 +1687,7 @@
      "number": "6",
      "sid": "Zec 3:6"
     },
-    "And¦377037= the¦377038_messenger¦377038_of¦377038 =he¦377037_admonished¦377037 of¦377039_",
+    "And¦377037= the¦377038_messenger¦377038_of¦377038 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1700,7 +1695,7 @@
       "YHWH¦377039"
      ]
     },
-    " (in)¦377040÷Yəhōshūˊa¦377040 to¦377041=say¦377041.\n",
+    " =he¦377037_admonished¦377037 (in)¦377040÷Yəhōshūˊa¦377040 to¦377041=say¦377041.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1715,7 +1710,7 @@
       "YHWH¦377046"
      ]
     },
-    " he¦377045_says¦377045 hosts¦377047 if¦377048 in¦377050÷my¦377050_of¦377050÷ways¦377050 you¦377051_will¦377051_walk¦377051 and¦377052=if¦377052 untr DOM¦377053untr* charge¦377055_of¦377055÷my¦377055 you¦377056_will¦377056_keep¦377056 and¦377057=also¦377057 you¦377059 you¦377060_will¦377060_govern¦377060 untr DOM¦377061untr* house¦377063_of¦377063÷my¦377063 and¦377064=also¦377064 you¦377065_will¦377065_guard¦377065 untr DOM¦377066untr* courts¦377068_of¦377068÷my¦377068 and¦377069÷I¦377069_will¦377069_give¦377069 to/for¦377070=yourself(m)¦377070 goings¦377071 between¦377072 ",
+    " soldiers/messengers¦377047 he¦377045_says¦377045 if¦377048 in¦377050÷ways¦377050_of¦377050÷my¦377050 you¦377051_will¦377051_walk¦377051 and¦377052=if¦377052 untr DOM¦377053untr* charge¦377055_of¦377055÷my¦377055 you¦377056_will¦377056_keep¦377056 and¦377057=also¦377057 you¦377059 you¦377060_will¦377060_govern¦377060 untr DOM¦377061untr* house¦377063_of¦377063÷my¦377063 and¦377064=also¦377064 you¦377065_will¦377065_guard¦377065 untr DOM¦377066untr* courts¦377068_of¦377068÷my¦377068 and¦377069÷I¦377069_will¦377069_give¦377069 to/for¦377070=yourself(m)¦377070 goings¦377071 between¦377072 ",
     {
      "type": "char",
      "marker": "add",
@@ -1730,7 +1725,7 @@
      "number": "8",
      "sid": "Zec 3:8"
     },
-    "Hear¦377076 please¦377078 Oh¦377079_Yəhōshūˊa/(Joshua)¦377079 the¦377081=priest/officer¦377081 (the)¦377082÷great¦377082 you¦377083 and¦377084÷your(pl)¦377084_of¦377084÷companions¦377084 ",
+    "Hear¦377076 please¦377078 Oh¦377079_Yəhōshūˊa/(Joshua)¦377079 the¦377081=priest/officer¦377081 (the)¦377082÷great¦377082 you¦377083 and¦377084÷companions¦377084_of¦377084÷your¦377084 ",
     {
      "type": "char",
      "marker": "add",
@@ -1746,7 +1741,7 @@
       "+are¦377089"
      ]
     },
-    "_men¦377089_of¦377089 sign¦377090 they¦377091 if/because¦377092 here¦377094÷I¦377094 ",
+    "_men¦377089_of¦377089 sign¦377090 they¦377091 if/because¦377092 HERE¦377094÷I¦377094 ",
     {
      "type": "char",
      "marker": "add",
@@ -1761,7 +1756,7 @@
      "number": "9",
      "sid": "Zec 3:9"
     },
-    "If/because¦377101 there¦377103 the¦377104÷stone¦377104 which¦377105 I¦377106_have¦377106_set¦377106 to¦377107=(the)¦377107_face¦377107_of/in¦377107_front¦377107_of/before¦377107 Yəhōshūˊa¦377108 ",
+    "If/because¦377101 THERE¦377103 the¦377104÷stone¦377104 which¦377105 I¦377106_have¦377106_set¦377106 to¦377107=(the)¦377107_face¦377107_of/in¦377107_front¦377107_of/before¦377107 Yəhōshūˊa¦377108 ",
     {
      "type": "char",
      "marker": "add",
@@ -1785,7 +1780,7 @@
       "YHWH¦377119"
      ]
     },
-    " hosts¦377120 and¦377121÷I¦377121_will¦377121_remove¦377121 untr DOM¦377122untr* the¦377124_iniquity¦377124_of¦377124 the¦377125=earth/land¦377125 (the)¦377127÷that¦377127 in/on¦377128=day¦377128 one¦377129.\n",
+    " soldiers/messengers¦377120 and¦377121÷I¦377121_will¦377121_remove¦377121 untr DOM¦377122untr* the¦377124_iniquity¦377124_of¦377124 the¦377125=earth/land¦377125 (the)¦377127÷that¦377127 in/on¦377128=day¦377128 one¦377129.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1800,7 +1795,7 @@
       "YHWH¦377134"
      ]
     },
-    " hosts¦377135 you(pl)¦377136_will¦377136_invite¦377136 each¦377137 (to)¦377138÷his¦377138_of¦377138÷neighbour¦377138 to¦377139 under¦377141 a¦377142_vine¦377142 and¦377143=near/to¦377143 under¦377145 a¦377146_fig¦377146_tree¦377146.\n"
+    " soldiers/messengers¦377135 you(pl)¦377136_will¦377136_invite¦377136 each¦377137 (to)¦377138÷neighbour¦377138_of¦377138÷his¦377138 to¦377139 under¦377141 a¦377142_vine¦377142 and¦377143=near/to¦377143 under¦377145 a¦377146_fig¦377146_tree¦377146.\n"
    ]
   },
   {
@@ -1819,7 +1814,7 @@
      "number": "1",
      "sid": "Zec 4:1"
     },
-    "And¦377148÷he¦377148_returned¦377148 the¦377149÷messenger¦377149 ",
+    "And¦377148= the¦377149÷messenger¦377149 ",
     {
      "type": "char",
      "marker": "add",
@@ -1827,7 +1822,7 @@
       "who¦377150÷was¦377150"
      ]
     },
-    "_speaking¦377150 with¦377151÷me¦377151 and¦377152÷he¦377152÷roused¦377152_me¦377152 like¦377153÷a¦377153_person¦377153 who¦377154 he¦377156_is¦377156_roused¦377156 from¦377157÷his¦377157_of¦377157÷sleep¦377157.\n",
+    "_speaking¦377150 with¦377151÷me¦377151 =he¦377148_returned¦377148 and¦377152÷he¦377152÷roused¦377152_me¦377152 like¦377153÷a¦377153_person¦377153 who¦377154 he¦377156_is¦377156_roused¦377156 from¦377157÷sleep¦377157_of¦377157÷his¦377157.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1842,7 +1837,7 @@
       "+are¦377162"
      ]
     },
-    "_you¦377162 seeing¦377163 and¦377164÷I¦377164_said¦377164",
+    "_you¦377162 seeing¦377163 and¦377164",
     {
      "type": "note",
      "marker": "f",
@@ -1865,7 +1860,7 @@
      ],
      "caller": "+"
     },
-    " I¦377166_see¦377166 and¦377168=see/lo/see¦377168 a¦377169_lampstand¦377169_of¦377169 gold¦377170 of¦377171_it¦377171_of¦377171÷all¦377171 and¦377172÷a¦377172_bowl¦377172",
+    " I¦377166_see¦377166 and¦377168=BEHOLD/LO/SEE¦377168 a¦377169_lampstand¦377169_of¦377169 gold¦377170 of¦377171_it¦377171_of¦377171÷all¦377171 and¦377172÷a¦377172_bowl¦377172",
     {
      "type": "note",
      "marker": "f",
@@ -1965,7 +1960,7 @@
      "number": "5",
      "sid": "Zec 4:5"
     },
-    "And¦377213÷he¦377213_answered¦377213 the¦377214÷messenger¦377214 ",
+    "And¦377213= the¦377214÷messenger¦377214 ",
     {
      "type": "char",
      "marker": "add",
@@ -1973,7 +1968,7 @@
       "who¦377215÷was¦377215"
      ]
     },
-    "_speaking¦377215 with¦377216÷me¦377216 and¦377217=he/it¦377217_said¦377217 to¦377218=me¦377218 am¦377219=not¦377219 do¦377220_you¦377220_know¦377220 what¦377221 they¦377223 ",
+    "_speaking¦377215 with¦377216÷me¦377216 =he¦377213_answered¦377213 and¦377217=he/it¦377217_said¦377217 to¦377218=me¦377218 am¦377219=not¦377219 do¦377220_you¦377220_know¦377220 what¦377221 they¦377223 ",
     {
      "type": "char",
      "marker": "add",
@@ -2004,7 +1999,7 @@
       "YHWH¦377236"
      ]
     },
-    " to¦377237 Zərubāⱱel¦377239 to¦377240=say¦377240 not¦377241 by¦377242÷strength¦377242 and¦377243=not¦377243 by¦377244÷power¦377244 if/because¦377245 (if)¦377246 by¦377248÷my¦377248_of¦377248÷spirit¦377248 ",
+    " to¦377237 Zərubāⱱel¦377239 to¦377240=say¦377240 not¦377241 by¦377242÷strength¦377242 and¦377243=not¦377243 by¦377244÷power¦377244 if/because¦377245 (if)¦377246 by¦377248÷spirit¦377248_of¦377248÷my¦377248 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2012,7 +2007,7 @@
       "YHWH¦377250"
      ]
     },
-    " he¦377249_says¦377249 hosts¦377251.\n",
+    " soldiers/messengers¦377251 he¦377249_says¦377249.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2034,7 +2029,7 @@
      "number": "8",
      "sid": "Zec 4:8"
     },
-    "and¦377273= the¦377274_message¦377274_of¦377274 =he/it¦377273_was¦377273 of¦377276_",
+    "And¦377273= the¦377274_message¦377274_of¦377274 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2042,14 +2037,14 @@
       "YHWH¦377276"
      ]
     },
-    " to¦377277=me¦377277 to¦377278=say¦377278.\n",
+    " =he/it¦377273_was¦377273 to¦377277=me¦377277 to¦377278=say¦377278.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "Zec 4:9"
     },
-    "The¦377280_hands¦377280_of¦377280 Zərubāⱱel¦377281 they¦377282_have¦377282_founded¦377282 the¦377283÷house¦377283 the¦377284=this¦377284 and¦377285÷his¦377285_of¦377285÷hands¦377285 they¦377286_will¦377286_finish¦377286_",
+    "The¦377280_hands¦377280_of¦377280 Zərubāⱱel¦377281 they¦377282_have¦377282_founded¦377282 the¦377283÷house¦377283 the¦377284=this¦377284 and¦377285÷hands¦377285_of¦377285÷his¦377285 they¦377286_will¦377286_finish¦377286_",
     {
      "type": "char",
      "marker": "add",
@@ -2065,7 +2060,7 @@
       "YHWH¦377290"
      ]
     },
-    " hosts¦377291 he¦377292÷has¦377292_sent¦377292_me¦377292 to¦377293÷you(pl)¦377293.\n",
+    " soldiers/messengers¦377291 he¦377292÷has¦377292_sent¦377292_me¦377292 to¦377293÷you(pl)¦377293.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2215,7 +2210,7 @@
      "number": "1",
      "sid": "Zec 5:1"
     },
-    "And¦377379÷I¦377379_returned¦377379 and¦377380÷I¦377380_lifted¦377380_up¦377380 eyes¦377381_of¦377381÷my¦377381 and¦377382÷I¦377382_saw¦377382 and¦377383=see/lo/see¦377383 a¦377384_scroll¦377384 flying¦377385.\n",
+    "And¦377379÷I¦377379_returned¦377379 and¦377380÷I¦377380_lifted¦377380_up¦377380 eyes¦377381_of¦377381÷my¦377381 and¦377382÷I¦377382_saw¦377382 and¦377383=BEHOLD/LO/SEE¦377383 a¦377384_scroll¦377384 flying¦377385.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2246,7 +2241,7 @@
       "+is¦377398"
      ]
     },
-    "_twenty¦377398 by¦377399÷cubit¦377399 and¦377400÷its¦377400_of¦377400÷breadth¦377400 ",
+    "_twenty¦377398 by¦377399÷cubit¦377399 and¦377400÷breadth¦377400_of¦377400÷its¦377400 ",
     {
      "type": "char",
      "marker": "add",
@@ -2308,7 +2303,7 @@
       "YHWH¦377431"
      ]
     },
-    " hosts¦377432 and¦377433÷it¦377433_will¦377433_go¦377433 into¦377434 the¦377436_house¦377436_of¦377436 the¦377437_thief¦377437 and¦377438=near/to¦377438 the¦377440_house¦377440_of¦377440 the¦377441_",
+    " soldiers/messengers¦377432 and¦377433÷it¦377433_will¦377433_go¦377433 into¦377434 the¦377436_house¦377436_of¦377436 the¦377437_thief¦377437 and¦377438=near/to¦377438 the¦377440_house¦377440_of¦377440 the¦377441_",
     {
      "type": "char",
      "marker": "add",
@@ -2316,14 +2311,14 @@
       "one¦377441_who¦377441"
      ]
     },
-    "_swears¦377441_an¦377441_oath¦377441 by¦377442÷my¦377442_of¦377442÷name¦377442 to¦377443÷falsehood¦377443 and¦377444÷it¦377444_will¦377444_lodge¦377444 in¦377445_the¦377445=middle¦377445 his¦377446_house¦377446_of¦377446÷of¦377446 and¦377447÷it¦377447÷will¦377447_destroy¦377447_it¦377447 and¦377448=untr DOM¦377448untr* wood(s)¦377450_of¦377450÷its¦377450 and¦377451=untr DOM¦377451untr* stone(s)¦377453_of¦377453÷its¦377453.\n",
+    "_swears¦377441_an¦377441_oath¦377441 by¦377442÷name¦377442_of¦377442÷my¦377442 to¦377443÷falsehood¦377443 and¦377444÷it¦377444_will¦377444_lodge¦377444 in¦377445_the¦377445=middle¦377445 his¦377446_house¦377446_of¦377446÷his¦377446 and¦377447÷it¦377447÷will¦377447_destroy¦377447_it¦377447 and¦377448=untr DOM¦377448untr* wood(s)¦377450_of¦377450÷its¦377450 and¦377451=untr DOM¦377451untr* stone(s)¦377453_of¦377453÷its¦377453.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "Zec 5:5"
     },
-    "And¦377455=he/it¦377455_went¦377455_out¦377455 the¦377456÷messenger¦377456 ",
+    "And¦377455= the¦377456÷messenger¦377456 ",
     {
      "type": "char",
      "marker": "add",
@@ -2331,7 +2326,7 @@
       "who¦377457÷was¦377457"
      ]
     },
-    "_speaking¦377457 with¦377458÷me¦377458 and¦377459=he/it¦377459_said¦377459 to¦377460=me¦377460 lift¦377461_up¦377461 please¦377462 eyes¦377463_of¦377463÷your¦377463 and¦377464÷see¦377464 what¦377465 ",
+    "_speaking¦377457 with¦377458÷me¦377458 =he/it¦377455_went¦377455_out¦377455 and¦377459=he/it¦377459_said¦377459 to¦377460=me¦377460 lift¦377461_up¦377461 please¦377462 eyes¦377463_of¦377463÷your¦377463 and¦377464÷see¦377464 what¦377465 ",
     {
      "type": "char",
      "marker": "add",
@@ -2393,7 +2388,7 @@
      "number": "7",
      "sid": "Zec 5:7"
     },
-    "And¦377484=see/lo/see¦377484 a¦377485_round¦377485_cover¦377485_of¦377485 lead¦377486 ",
+    "And¦377484=BEHOLD/LO/SEE¦377484 a¦377485_round¦377485_cover¦377485_of¦377485 lead¦377486 ",
     {
      "type": "char",
      "marker": "add",
@@ -2447,7 +2442,7 @@
      "number": "9",
      "sid": "Zec 5:9"
     },
-    "and¦377514÷I¦377514_lifted¦377514_up¦377514 eyes¦377515_of¦377515÷my¦377515 and¦377516÷I¦377516_saw¦377516 and¦377517=see/lo/see¦377517 two¦377518 women¦377519 ",
+    "And¦377514÷I¦377514_lifted¦377514_up¦377514 eyes¦377515_of¦377515÷my¦377515 and¦377516÷I¦377516_saw¦377516 and¦377517=BEHOLD/LO/SEE¦377517 two¦377518 women¦377519 ",
     {
      "type": "char",
      "marker": "add",
@@ -2463,7 +2458,7 @@
       "+was¦377522"
      ]
     },
-    "_in¦377522÷their¦377522_of¦377522÷wings¦377522 and¦377523_",
+    "_in¦377522÷wings¦377522_of¦377522÷their¦377522 and¦377523_",
     {
      "type": "char",
      "marker": "add",
@@ -2520,7 +2515,7 @@
      "number": "1",
      "sid": "Zec 6:1"
     },
-    "and¦377565÷I¦377565_returned¦377565 and¦377566÷I¦377566_lifted¦377566_up¦377566 eyes¦377567_of¦377567÷my¦377567 and¦377568÷I¦377568_saw¦377568 and¦377569=see/lo/see¦377569 four¦377570 chariots¦377571 ",
+    "And¦377565÷I¦377565_returned¦377565 and¦377566÷I¦377566_lifted¦377566_up¦377566 eyes¦377567_of¦377567÷my¦377567 and¦377568÷I¦377568_saw¦377568 and¦377569=BEHOLD/LO/SEE¦377569 four¦377570 chariots¦377571 ",
     {
      "type": "char",
      "marker": "add",
@@ -2547,7 +2542,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+were¦377580"
+      "+Were¦377580"
      ]
     },
     "_with¦377580÷chariot¦377580 (the)¦377581÷first¦377581 horses¦377582 red¦377583 and¦377584_",
@@ -2611,7 +2606,7 @@
      "number": "5",
      "sid": "Zec 6:5"
     },
-    "And¦377611÷he¦377611_answered¦377611 the¦377612÷messenger¦377612 and¦377613=he/it¦377613_said¦377613 to¦377614÷me¦377614 these¦377615 ",
+    "And¦377611= the¦377612÷messenger¦377612 =he¦377611_answered¦377611 and¦377613=he/it¦377613_said¦377613 to¦377614÷me¦377614 these¦377615 ",
     {
      "type": "char",
      "marker": "add",
@@ -2766,7 +2761,7 @@
      "number": "9",
      "sid": "Zec 6:9"
     },
-    "and¦377683= the¦377684_message¦377684_of¦377684 =he/it¦377683_was¦377683 of¦377686_",
+    "And¦377683= the¦377684_message¦377684_of¦377684 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2774,7 +2769,7 @@
       "YHWH¦377686"
      ]
     },
-    " to¦377687=me¦377687 to¦377688=say¦377688.\n",
+    " =he/it¦377683_was¦377683 to¦377687=me¦377687 to¦377688=say¦377688.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2797,7 +2792,7 @@
       "yāh"
      ]
     },
-    "/(Jedaiah)¦377697 and¦377698÷you¦377698_will¦377698_go¦377698 you¦377699 in¦377700_the¦377700=day¦377700 (the)¦377701=that¦377701 and¦377702÷you¦377702_will¦377702_go¦377702 the¦377703_house¦377703_of¦377703 Yʼoshiy",
+    "/(Jedaiah)¦377697 and¦377698= you¦377699 =you¦377698_will¦377698_go¦377698 in¦377700_the¦377700=day¦377700 (the)¦377701=that¦377701 and¦377702÷you¦377702_will¦377702_go¦377702 the¦377703_house¦377703_of¦377703 Yoʼshiy",
     {
      "type": "char",
      "marker": "sup",
@@ -2843,7 +2838,7 @@
       "YHWH¦377733"
      ]
     },
-    " he¦377732_says¦377732 hosts¦377734 to¦377735=say¦377735 there¦377736 a¦377738_man¦377738 ",
+    " soldiers/messengers¦377734 he¦377732_says¦377732 to¦377735=say¦377735 THERE¦377736 a¦377738_man¦377738 ",
     {
      "type": "char",
      "marker": "add",
@@ -2933,7 +2928,7 @@
      "number": "13",
      "sid": "Zec 6:13"
     },
-    "and¦377752=he¦377752 he¦377753_will¦377753_build¦377753 untr DOM¦377754untr* the¦377756_temple¦377756_of¦377756 ",
+    "And¦377752=he¦377752 he¦377753_will¦377753_build¦377753 untr DOM¦377754untr* the¦377756_temple¦377756_of¦377756 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3011,7 +3006,7 @@
       "YHWH¦377800"
      ]
     },
-    " hosts¦377801 he¦377802÷has¦377802_sent¦377802_me¦377802 to¦377803÷you(pl)¦377803 and¦377804=it¦377804_was¦377804 if¦377805 carefully¦377807_(listen)¦377807 you(pl)¦377808÷will¦377808_listen¦377808 to¦377809÷the¦377809_voice¦377809_of¦377809 ",
+    " soldiers/messengers¦377801 he¦377802÷has¦377802_sent¦377802_me¦377802 to¦377803÷you(pl)¦377803 and¦377804=it¦377804_was¦377804 if¦377805 carefully¦377807_(listen)¦377807 you(pl)¦377808÷will¦377808_listen¦377808 to¦377809÷the¦377809_voice¦377809_of¦377809 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3038,7 +3033,7 @@
      "number": "1",
      "sid": "Zec 7:1"
     },
-    "and¦377814=he/it¦377814_was¦377814 in¦377815=year¦377815 four¦377816 of¦377817÷Dārəyāvesh¦377817 the¦377818=king¦377818 the¦377820_message¦377820_of¦377820 it¦377819_came¦377819 of¦377822_",
+    "And¦377814=he/it¦377814_was¦377814 in¦377815=year¦377815 four¦377816 of¦377817÷Dārəyāvesh¦377817 the¦377818=king¦377818 the¦377820_message¦377820_of¦377820 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3046,7 +3041,7 @@
       "YHWH¦377822"
      ]
     },
-    " to¦377823 Zəkar",
+    " it¦377819_came¦377819 to¦377823 Zəkar",
     {
      "type": "char",
      "marker": "sup",
@@ -3069,7 +3064,7 @@
      "number": "2",
      "sid": "Zec 7:2"
     },
-    "And¦377831= Bēyt-¦377832 =it¦377831_had¦377831_sent¦377831 ",
+    "And¦377831= Bēyt-¦377832 ",
     {
      "type": "char",
      "marker": "sup",
@@ -3077,7 +3072,7 @@
       "ʼēl"
      ]
     },
-    "¦377834 Sharezer¦377835 Sharezer¦377837 and¦377838 king¦377839 and¦377840÷his¦377840_of¦377840÷men¦377840 to¦377841÷entreat¦377841 untr DOM¦377842untr* the¦377844_face¦377844_of¦377844 ",
+    "¦377834 =it¦377831_had¦377831_sent¦377831 Sar-¦377835 ʼeʦer¦377837 and¦377838÷Regem-¦377838 king¦377839 and¦377840÷men¦377840_of¦377840÷his¦377840 to¦377841÷entreat¦377841 untr DOM¦377842untr* the¦377844_face¦377844_of¦377844 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3108,14 +3103,14 @@
       "YHWH¦377854"
      ]
     },
-    " hosts¦377855 and¦377856=near/to¦377856 the¦377858÷prophets¦377858 to¦377859=say¦377859 will¦377860÷I¦377860_weep¦377860 in¦377861÷month¦377861 (the)¦377862÷fifth¦377862 will¦377863_I¦377863_separate¦377863_myself¦377863 just¦377864=as¦377864 I¦377865_have¦377865_done¦377865 this¦377866 how¦377867÷many¦377867 years¦377868.\n",
+    " soldiers/messengers¦377855 and¦377856=near/to¦377856 the¦377858÷prophets¦377858 to¦377859=say¦377859 will¦377860÷I¦377860_weep¦377860 in¦377861÷month¦377861 (the)¦377862÷fifth¦377862 will¦377863_I¦377863_separate¦377863_myself¦377863 just¦377864=as¦377864 I¦377865_have¦377865_done¦377865 this¦377866 how¦377867÷many¦377867 years¦377868.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "Zec 7:4"
     },
-    "and¦377871= the¦377872_message¦377872_of¦377872 =he/it¦377871_was¦377871 of¦377874_",
+    "And¦377871= the¦377872_message¦377872_of¦377872 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3123,14 +3118,30 @@
       "YHWH¦377874"
      ]
     },
-    " hosts¦377875 to¦377876=me¦377876 to¦377877=say¦377877.\n",
+    " soldiers/messengers¦377875 =he/it¦377871_was¦377871 to¦377876=me¦377876 to¦377877=say¦377877.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "Zec 7:5"
     },
-    "Say¦377879 to¦377880 all¦377882_of¦377882 the¦377884_people¦377884_of¦377884 the¦377885=earth/land¦377885 and¦377886=near/to¦377886 the¦377888÷priests¦377888 to¦377889=say¦377889 if/because¦377890 you(pl)¦377892_fasted¦377892 and¦377893÷you¦377893_mourned¦377893 in¦377894 and¦377895÷in¦377895 and¦377896=this¦377896 seventy¦377897 year¦377898 mmm¦377899 mmm¦377900 wwww¦377901.\n",
+    "Say¦377879 to¦377880 all¦377882_of¦377882 the¦377884_people¦377884_of¦377884 the¦377885=earth/land¦377885 and¦377886=near/to¦377886 the¦377888÷priests¦377888 to¦377889=say¦377889 if/because¦377890 you(pl)¦377892_fasted¦377892 and¦377893÷you¦377893_mourned¦377893 in¦377894÷",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "month¦377894"
+     ]
+    },
+    " and¦377895÷in¦377895÷",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "month¦377895"
+     ]
+    },
+    " and¦377896=this¦377896 seventy¦377897 year[s]¦377898 really¦377899÷(fast)¦377899 did¦377900÷you¦377900_fast¦377900_for¦377900_me¦377900 me¦377901.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3176,7 +3187,7 @@
       "+are¦377914"
      ]
     },
-    "_untr DOM¦377914untr* the¦377916÷words/messages¦377916 which¦377917 he¦377918_proclaimed¦377918 ",
+    "_untr DOM¦377914untr* the¦377916÷words/messages¦377916 which¦377917 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3184,7 +3195,7 @@
       "YHWH¦377919"
      ]
     },
-    " by¦377920÷the¦377920_hand¦377920_of¦377920 the¦377921_prophets¦377921 (the)¦377922÷former¦377922 when¦377923÷was¦377923 Yərūshālam/(Jerusalem)¦377924 dwelling¦377925 and¦377926÷at¦377926_ease¦377926 and¦377927÷its¦377927_of¦377927÷cities¦377927 ",
+    " he¦377918_proclaimed¦377918 by¦377920÷the¦377920_hand¦377920_of¦377920 the¦377921_prophets¦377921 (the)¦377922÷former¦377922 when¦377923÷was¦377923 Yərūshālaim/(Jerusalem)¦377924 dwelling¦377925 and¦377926÷at¦377926_ease¦377926 and¦377927÷cities¦377927_of¦377927÷its¦377927 ",
     {
      "type": "char",
      "marker": "add",
@@ -3207,7 +3218,7 @@
      "number": "8",
      "sid": "Zec 7:8"
     },
-    "and¦377934= the¦377935_message¦377935_of¦377935 =he/it¦377934_was¦377934 of¦377937_",
+    "And¦377934= the¦377935_message¦377935_of¦377935 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3215,7 +3226,7 @@
       "YHWH¦377937"
      ]
     },
-    " to¦377938 Zəkar",
+    " =he/it¦377934_was¦377934 to¦377938 Zəkar",
     {
      "type": "char",
      "marker": "sup",
@@ -3238,7 +3249,7 @@
       "YHWH¦377945"
      ]
     },
-    " he¦377944_says¦377944 hosts¦377946 to¦377947= justice¦377948_of¦377948 =say¦377947 faithfulness¦377949 judge¦377950 and¦377951÷loyalty¦377951 and¦377952÷compassion(s)¦377952 do¦377953 each¦377954 with¦377955 his/its¦377957=woman¦377957.\n",
+    " soldiers/messengers¦377946 he¦377944_says¦377944 to¦377947=say¦377947 justice¦377948_of¦377948 faithfulness¦377949 judge¦377950 and¦377951÷loyalty¦377951 and¦377952÷compassion(s)¦377952 do¦377953 each¦377954 with¦377955 his/its¦377957=brother¦377957.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3285,21 +3296,21 @@
       "+the¦377966"
      ]
     },
-    "÷harm¦377966_of¦377966 each¦377967 his/its¦377968=woman¦377968 do¦377969_not¦377969 plan¦377971 in¦377972÷your¦377972_of¦377972÷heart¦377972.\n",
+    "÷harm¦377966_of¦377966 each¦377967 his/its¦377968=brother¦377968 do¦377969_not¦377969 plan¦377971 in¦377972÷heart¦377972_of¦377972÷your(pl)¦377972.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "Zec 7:11"
     },
-    "And¦377974÷they¦377974_refused¦377974 to¦377975÷pay¦377975_attention¦377975 and¦377976÷they¦377976_gave¦377976 a¦377977_shoulder¦377977 stubborn¦377978 and¦377979÷their¦377979_of¦377979÷ears¦377979 they¦377980_made¦377980_heavy¦377980 from¦377981÷hearing¦377981.\n",
+    "And¦377974÷they¦377974_refused¦377974 to¦377975÷pay¦377975_attention¦377975 and¦377976÷they¦377976_gave¦377976 a¦377977_shoulder¦377977 stubborn¦377978 and¦377979÷ears¦377979_of¦377979÷their¦377979 they¦377980_made¦377980_heavy¦377980 from¦377981÷hearing¦377981.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "Zec 7:12"
     },
-    "And¦377983÷their¦377983_of¦377983÷heart¦377983 they¦377984_made¦377984 diamond¦377985 from¦377986÷hearing¦377986 untr DOM¦377987untr* the¦377989÷law¦377989 and¦377990=untr DOM¦377990untr* the¦377992÷words/messages¦377992 which¦377993 he¦377994_had¦377994_sent¦377994 ",
+    "And¦377983÷heart¦377983_of¦377983÷their¦377983 they¦377984_made¦377984 diamond¦377985 from¦377986÷hearing¦377986 untr DOM¦377987untr* the¦377989÷law¦377989 and¦377990=untr DOM¦377990untr* the¦377992÷words/messages¦377992 which¦377993 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3307,7 +3318,7 @@
       "YHWH¦377995"
      ]
     },
-    " hosts¦377996 by¦377997÷his¦377997_of¦377997÷spirit¦377997 by¦377998÷the¦377998_hand¦377998_of¦377998 the¦377999_prophets¦377999 (the)¦378000÷former¦378000 and¦378001= severe¦378002_anger¦378002 =he/it¦378001_was¦378001 great¦378003 from¦378004÷with¦378004 ",
+    " soldiers/messengers¦377996 he¦377994_had¦377994_sent¦377994 by¦377997÷spirit¦377997_of¦377997÷his¦377997 by¦377998÷the¦377998_hand¦377998_of¦377998 the¦377999_prophets¦377999 (the)¦378000÷former¦378000 and¦378001= severe¦378002_anger¦378002 great¦378003 =he/it¦378001_was¦378001 from¦378004÷with¦378004 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3315,7 +3326,7 @@
       "YHWH¦378005"
      ]
     },
-    " hosts¦378006.\n",
+    " soldiers/messengers¦378006.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3330,7 +3341,7 @@
       "YHWH¦378019"
      ]
     },
-    " he¦378018_says¦378018 hosts¦378020.\n",
+    " soldiers/messengers¦378020 he¦378018_says¦378018.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3372,7 +3383,7 @@
      "number": "1",
      "sid": "Zec 8:1"
     },
-    "and¦378043= the¦378044_message¦378044_of¦378044 =he/it¦378043_was¦378043 of¦378046_",
+    "And¦378043= the¦378044_message¦378044_of¦378044 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3380,7 +3391,7 @@
       "YHWH¦378046"
      ]
     },
-    " hosts¦378047 to¦378048=say¦378048.\n",
+    " soldiers/messengers¦378047 =he/it¦378043_was¦378043 to¦378048=say¦378048.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3395,7 +3406,7 @@
       "YHWH¦378052"
      ]
     },
-    " he¦378051_says¦378051 hosts¦378053 I¦378054_am¦378054_jealous¦378054 for¦378055÷Tsiyyōn/(Zion)¦378055 jealousy¦378056 great¦378057 and¦378058÷rage¦378058 great¦378059 I¦378060_am¦378060_jealous¦378060 to/for¦378061=her/it¦378061.\n",
+    " soldiers/messengers¦378053 he¦378051_says¦378051 I¦378054_am¦378054_jealous¦378054 for¦378055÷Tsiyyōn/(Zion)¦378055 jealousy¦378056 great¦378057 and¦378058÷rage¦378058 great¦378059 I¦378060_am¦378060_jealous¦378060 to/for¦378061=her/it¦378061.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3410,7 +3421,7 @@
       "YHWH¦378065"
      ]
     },
-    " he¦378064_says¦378064 I¦378066_have¦378066_returned¦378066 to¦378067 Tsiyyōn¦378069 and¦378070÷I¦378070_will¦378070_dwell¦378070 in¦378071_the¦378071=middle¦378071 of¦378072_Yərūshālam/(Jerusalem)¦378072 and¦378073÷it¦378073_will¦378073_be¦378073_called¦378073 Yərūshālam/(Jerusalem)¦378074 the¦378075_city¦378075_of¦378075 (the)¦378077÷faithfulness¦378077 and¦378078÷the¦378078_mountain¦378078_of¦378078 ",
+    " he¦378064_says¦378064 I¦378066_have¦378066_returned¦378066 to¦378067 Tsiyyōn¦378069 and¦378070÷I¦378070_will¦378070_dwell¦378070 in¦378071_the¦378071=middle¦378071 of¦378072_Yərūshālaim/(Jerusalem)¦378072 and¦378073= Yərūshālaim/(Jerusalem)¦378074 =it¦378073_will¦378073_be¦378073_called¦378073 the¦378075_city¦378075_of¦378075 (the)¦378077÷faithfulness¦378077 and¦378078÷the¦378078_mountain¦378078_of¦378078 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3418,14 +3429,14 @@
       "YHWH¦378080"
      ]
     },
-    " hosts¦378081 the¦378082_mountain¦378082_of¦378082 (the)¦378083÷holiness¦378083.\n",
+    " soldiers/messengers¦378081 the¦378082_mountain¦378082_of¦378082 (the)¦378083÷holiness¦378083.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "Zec 8:4"
     },
-    "thus¦378086 ",
+    "Thus¦378086 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3433,7 +3444,7 @@
       "YHWH¦378088"
      ]
     },
-    " he¦378087_says¦378087 hosts¦378089 again¦378090 they¦378091_will¦378091_sit¦378091 old¦378092_",
+    " soldiers/messengers¦378089 he¦378087_says¦378087 again¦378090 old¦378092_",
     {
      "type": "char",
      "marker": "add",
@@ -3449,7 +3460,7 @@
       "women¦378093"
      ]
     },
-    " in¦378094÷the¦378094_open¦378094_places¦378094_of¦378094 Yərūshālam/(Jerusalem)¦378095 and¦378096÷each¦378096 staff¦378097_of¦378097÷his¦378097 in¦378098=his/its¦378098=hand¦378098 from¦378099÷abundance¦378099_of¦378099 days¦378100.\n",
+    " they¦378091_will¦378091_sit¦378091 in¦378094÷the¦378094_open¦378094_places¦378094_of¦378094 Yərūshālaim/(Jerusalem)¦378095 and¦378096÷each¦378096 staff¦378097_of¦378097÷his¦378097 in¦378098=his/its¦378098=hand¦378098 from¦378099÷abundance¦378099_of¦378099 days¦378100.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3463,7 +3474,7 @@
      "number": "6",
      "sid": "Zec 8:6"
     },
-    "thus¦378111 ",
+    "Thus¦378111 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3471,7 +3482,7 @@
       "YHWH¦378113"
      ]
     },
-    " he¦378112_says¦378112 hosts¦378114 if/because¦378115 it¦378116_will¦378116_be¦378116_difficult¦378116 in/on¦378117=both¦378117_eyes¦378117_of¦378117 the¦378118_remnant¦378118_of¦378118 the¦378119_people¦378119 the¦378120=this¦378120 in¦378121_the¦378121=days¦378121 the¦378122=those¦378122 also¦378123 in¦378125÷my¦378125_of¦378125÷eyes¦378125 will¦378126_it¦378126_be¦378126_difficult¦378126 the¦378127_utterance¦378127_of¦378127 ",
+    " soldiers/messengers¦378114 he¦378112_says¦378112 if/because¦378115 it¦378116_will¦378116_be¦378116_difficult¦378116 in/on¦378117=both¦378117_eyes¦378117_of¦378117 the¦378118_remnant¦378118_of¦378118 the¦378119_people¦378119 the¦378120=this¦378120 in¦378121_the¦378121=days¦378121 the¦378122=those¦378122 also¦378123 in¦378125÷eyes¦378125_of¦378125÷my¦378125 will¦378126_it¦378126_be¦378126_difficult¦378126 the¦378127_utterance¦378127_of¦378127 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3479,14 +3490,14 @@
       "YHWH¦378128"
      ]
     },
-    " hosts¦378129.\n",
+    " soldiers/messengers¦378129.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "Zec 8:7"
     },
-    "thus¦378132 ",
+    "Thus¦378132 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3494,7 +3505,7 @@
       "YHWH¦378134"
      ]
     },
-    " he¦378133_says¦378133 hosts¦378135 here¦378136÷I¦378136 ",
+    " soldiers/messengers¦378135 he¦378133_says¦378133 HERE¦378136÷I¦378136 ",
     {
      "type": "char",
      "marker": "add",
@@ -3525,14 +3536,14 @@
      "number": "8",
      "sid": "Zec 8:8"
     },
-    "And¦378147÷I¦378147_will¦378147_bring¦378147 untr DOM¦378148untr*=them¦378148 and¦378149÷they¦378149_will¦378149_dwell¦378149 in¦378150_the¦378150=middle¦378150 of¦378151_Yərūshālam/(Jerusalem)¦378151 and¦378152=they¦378152_will¦378152_be¦378152 to¦378154=me¦378154 (into)¦378155_a¦378155÷people¦378155 and¦378156÷I¦378156 I¦378157_will¦378157_become¦378157 to/for¦378158=them¦378158 (into)¦378159÷god¦378159 in¦378160÷faithfulness¦378160 and¦378161÷in¦378161÷righteousness¦378161.\n",
+    "And¦378147÷I¦378147_will¦378147_bring¦378147 untr DOM¦378148untr*=them¦378148 and¦378149÷they¦378149_will¦378149_dwell¦378149 in¦378150_the¦378150=middle¦378150 of¦378151_Yərūshālaim/(Jerusalem)¦378151 and¦378152=they¦378152_will¦378152_be¦378152 to¦378154=me¦378154 (into)¦378155_a¦378155÷people¦378155 and¦378156÷I¦378156 I¦378157_will¦378157_become¦378157 to/for¦378158=them¦378158 (into)¦378159÷god¦378159 in¦378160÷faithfulness¦378160 and¦378161÷in¦378161÷righteousness¦378161.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "Zec 8:9"
     },
-    "thus¦378164 ",
+    "Thus¦378164 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3540,7 +3551,7 @@
       "YHWH¦378167"
      ]
     },
-    " he¦378166_says¦378166 hosts¦378168 let¦378169_them¦378169_be¦378169_strong¦378169 hands¦378170_of¦378170÷your(pl)¦378170 Oh¦378171÷",
+    " soldiers/messengers¦378168 he¦378166_says¦378166 hands¦378170_of¦378170÷your(pl)¦378170 let¦378169_them¦378169_be¦378169_strong¦378169 Oh¦378171÷",
     {
      "type": "char",
      "marker": "add",
@@ -3548,15 +3559,7 @@
       "you(pl)¦378171_who¦378171"
      ]
     },
-    "_hear¦378171 in¦378172_the¦378172=days¦378172 the¦378173=these¦378173 untr DOM¦378174untr* the¦378175÷words/messages¦378175 the¦378176=these¦378176 from¦378177÷the¦378177_mouth¦378177_of¦378177 the¦378178_prophets¦378178 who¦378179 in/on¦378180=day¦378180 ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "when¦378181"
-     ]
-    },
-    "_it¦378181_was¦378181_founded¦378181 the¦378182_house¦378182_of¦378182 ",
+    "_hear¦378171 in¦378172_the¦378172=days¦378172 the¦378173=these¦378173 untr DOM¦378174untr* the¦378175÷words/messages¦378175 the¦378176=these¦378176 from¦378177÷the¦378177_mouth¦378177_of¦378177 the¦378178_prophets¦378178 who¦378179 in/on¦378180=day¦378180 the¦378182_house¦378182_of¦378182 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3564,7 +3567,15 @@
       "YHWH¦378184"
      ]
     },
-    " hosts¦378185 the¦378186÷temple¦378186 to¦378187÷be¦378187_rebuilt¦378187.\n",
+    " soldiers/messengers¦378185 the¦378186÷temple¦378186 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "when¦378181"
+     ]
+    },
+    "_it¦378181_was¦378181_founded¦378181 to¦378187÷be¦378187_rebuilt¦378187.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3587,7 +3598,7 @@
       "+was¦378202"
      ]
     },
-    "_not¦378202 peace¦378204 from¦378205 the¦378207÷foe¦378207 and¦378208÷I¦378208_sent¦378208 untr DOM¦378209untr* every¦378211_of¦378211 the¦378213=humankind¦378213 each¦378214 on¦378215÷his¦378215_of¦378215÷neighbour¦378215.\n",
+    "_not¦378202 peace¦378204 from¦378205 the¦378207÷foe¦378207 and¦378208÷I¦378208_sent¦378208 untr DOM¦378209untr* every¦378211_of¦378211 the¦378213=humankind¦378213 each¦378214 on¦378215÷neighbour¦378215_of¦378215÷his¦378215.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3610,7 +3621,7 @@
       "YHWH¦378226"
      ]
     },
-    " hosts¦378227.\n",
+    " soldiers/messengers¦378227.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3647,7 +3658,7 @@
      "number": "14",
      "sid": "Zec 8:14"
     },
-    "if/because¦378277 thus¦378278 ",
+    "If/because¦378277 thus¦378278 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3655,7 +3666,7 @@
       "YHWH¦378280"
      ]
     },
-    " he¦378279_says¦378279 hosts¦378281 just¦378282=as¦378282 I¦378283_planned¦378283",
+    " soldiers/messengers¦378281 he¦378279_says¦378279 just¦378282=as¦378282 I¦378283_planned¦378283",
     {
      "type": "note",
      "marker": "f",
@@ -3678,7 +3689,7 @@
      ],
      "caller": "+"
     },
-    " to¦378285÷do¦378285_harm¦378285 to/for¦378286=you(pl)¦378286 when¦378287÷provoked¦378287_to¦378287_anger¦378287 ancestors¦378288_of¦378288÷your(pl)¦378288 untr DOM¦378289untr*=me¦378289 he¦378290_says¦378290 ",
+    " to¦378285÷do¦378285_harm¦378285 to/for¦378286=you(pl)¦378286 when¦378287= ancestors¦378288_of¦378288÷your(pl)¦378288 =provoked¦378287_to¦378287_anger¦378287 untr DOM¦378289untr*=me¦378289 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3686,14 +3697,14 @@
       "YHWH¦378291"
      ]
     },
-    " hosts¦378292 and¦378293=not¦378293 I¦378294_relented¦378294.\n",
+    " soldiers/messengers¦378292 he¦378290_says¦378290 and¦378293=not¦378293 I¦378294_relented¦378294.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "Zec 8:15"
     },
-    "So¦378296 I¦378297_have¦378297_returned¦378297 I¦378298_have¦378298_planned¦378298 in¦378299_the¦378299=days¦378299 the¦378300=these¦378300 to¦378301÷do¦378301_good¦378301_to¦378301 untr DOM¦378302untr* Yərūshālam/(Jerusalem)¦378304 and¦378305=untr DOM¦378305untr* the¦378307_house¦378307_of¦378307 Yəhūdāh¦378308 do¦378309_not¦378309 be¦378311_afraid¦378311.\n",
+    "So¦378296 I¦378297_have¦378297_returned¦378297 I¦378298_have¦378298_planned¦378298 in¦378299_the¦378299=days¦378299 the¦378300=these¦378300 to¦378301÷do¦378301_good¦378301_to¦378301 untr DOM¦378302untr* Yərūshālaim/(Jerusalem)¦378304 and¦378305=untr DOM¦378305untr* the¦378307_house¦378307_of¦378307 Yəhūdāh¦378308 do¦378309_not¦378309 be¦378311_afraid¦378311.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3708,14 +3719,14 @@
       "+are¦378314"
      ]
     },
-    "_the¦378314÷things¦378314 which¦378315 you(pl)¦378316_will¦378316_do¦378316 speak¦378317 truth¦378318 each¦378319 with¦378320 his/its¦378322=neighbour¦378322 faithfulness¦378323 and¦378324÷justice¦378324_of¦378324 peace¦378325 judge¦378326 in¦378327÷your(pl)¦378327_of¦378327÷gates¦378327.\n",
+    "_the¦378314÷things¦378314 which¦378315 you(pl)¦378316_will¦378316_do¦378316 speak¦378317 truth¦378318 each¦378319 with¦378320 his/its¦378322=neighbour¦378322 faithfulness¦378323 and¦378324÷justice¦378324_of¦378324 peace¦378325 judge¦378326 in¦378327÷gates¦378327_of¦378327÷your(pl)¦378327.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "Zec 8:17"
     },
-    "And¦378329÷each¦378329 untr DOM¦378331untr* the¦378333_harm¦378333_of¦378333 his/its¦378334=neighbour¦378334 do¦378335_not¦378335 plan¦378337 in¦378338÷your¦378338_of¦378338÷heart¦378338 and¦378339÷an¦378339_oath¦378339_of¦378339 falsehood¦378340 do¦378341_not¦378341 love¦378343 if/because¦378344 untr DOM¦378345untr* all¦378347_of¦378347 these¦378349 ",
+    "And¦378329÷each¦378329 untr DOM¦378331untr* the¦378333_harm¦378333_of¦378333 his/its¦378334=neighbour¦378334 do¦378335_not¦378335 plan¦378337 in¦378338÷heart¦378338_of¦378338÷your(pl)¦378338 and¦378339÷an¦378339_oath¦378339_of¦378339 falsehood¦378340 do¦378341_not¦378341 love¦378343 if/because¦378344 untr DOM¦378345untr* all¦378347_of¦378347 these¦378349 ",
     {
      "type": "char",
      "marker": "add",
@@ -3746,7 +3757,7 @@
      "number": "18",
      "sid": "Zec 8:18"
     },
-    "and¦378357= the¦378358_message¦378358_of¦378358 =he/it¦378357_was¦378357 of¦378360_",
+    "And¦378357= the¦378358_message¦378358_of¦378358 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3754,7 +3765,7 @@
       "YHWH¦378360"
      ]
     },
-    " hosts¦378361 to¦378362=me¦378362 to¦378363=say¦378363.\n",
+    " soldiers/messengers¦378361 =he/it¦378357_was¦378357 to¦378362=me¦378362 to¦378363=say¦378363.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3769,7 +3780,7 @@
       "YHWH¦378368"
      ]
     },
-    " he¦378367_says¦378367 hosts¦378369 the¦378370_fast¦378370_of¦378370 the¦378371=fourth¦378371 and¦378372÷the¦378372_fast¦378372_of¦378372 the¦378373_fifth¦378373_",
+    " soldiers/messengers¦378369 he¦378367_says¦378367 the¦378370_fast¦378370_of¦378370 the¦378371=fourth¦378371 and¦378372÷the¦378372_fast¦378372_of¦378372 the¦378373_fifth¦378373_",
     {
      "type": "char",
      "marker": "add",
@@ -3792,7 +3803,7 @@
      "number": "20",
      "sid": "Zec 8:20"
     },
-    "thus¦378391 ",
+    "Thus¦378391 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3800,7 +3811,7 @@
       "YHWH¦378393"
      ]
     },
-    " he¦378392_says¦378392 hosts¦378394 yet¦378395 (cmp)¦378396 they¦378397_will¦378397_come¦378397 peoples¦378398 and¦378399_",
+    " soldiers/messengers¦378394 he¦378392_says¦378392 yet¦378395 which/who¦378396 peoples¦378398 and¦378399_",
     {
      "type": "char",
      "marker": "add",
@@ -3808,14 +3819,14 @@
       "+the¦378399"
      ]
     },
-    "÷inhabitants¦378399_of¦378399 cities¦378400 many¦378401.\n",
+    "÷inhabitants¦378399_of¦378399 cities¦378400 many¦378401 they¦378397_will¦378397_come¦378397.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "21",
      "sid": "Zec 8:21"
     },
-    "And¦378403÷they¦378403_will¦378403_go¦378403 ",
+    "And¦378403= ",
     {
      "type": "char",
      "marker": "add",
@@ -3831,7 +3842,7 @@
       ">city¦378405"
      ]
     },
-    " to¦378406 one¦378408_",
+    " =they¦378403_will¦378403_go¦378403 to¦378406 one¦378408_",
     {
      "type": "char",
      "marker": "add",
@@ -3855,14 +3866,14 @@
       "YHWH¦378420"
      ]
     },
-    " hosts¦378421 I¦378422_will¦378422_go¦378422 also¦378423 I¦378425.\n",
+    " soldiers/messengers¦378421 also¦378423 I¦378425 I¦378422_will¦378422_go¦378422.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "22",
      "sid": "Zec 8:22"
     },
-    "And¦378427= peoples¦378428 =they¦378427_will¦378427_come¦378427 many¦378429 and¦378430÷nations¦378430 mighty¦378431 to¦378432÷seek¦378432 untr DOM¦378433untr* ",
+    "And¦378427= peoples¦378428 many¦378429 and¦378430÷nations¦378430 mighty¦378431 =they¦378427_will¦378427_come¦378427 to¦378432÷seek¦378432 untr DOM¦378433untr* ",
     {
      "type": "char",
      "marker": "nd",
@@ -3870,7 +3881,7 @@
       "YHWH¦378435"
      ]
     },
-    " hosts¦378436 in¦378437÷Yərūshālam/(Jerusalem)¦378437 and¦378438÷to¦378438÷entreat¦378438 untr DOM¦378439untr* the¦378441_face¦378441_of¦378441 ",
+    " soldiers/messengers¦378436 in¦378437÷Yərūshālaim/(Jerusalem)¦378437 and¦378438÷to¦378438÷entreat¦378438 untr DOM¦378439untr* the¦378441_face¦378441_of¦378441 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3885,7 +3896,7 @@
      "number": "23",
      "sid": "Zec 8:23"
     },
-    "thus¦378445",
+    "Thus¦378445",
     {
      "type": "note",
      "marker": "f",
@@ -3916,7 +3927,7 @@
       "YHWH¦378448"
      ]
     },
-    " he¦378447_says¦378447 hosts¦378449 in¦378450_the¦378450=days¦378450 (the)¦378451÷those¦378451 (cmp)¦378452 they¦378453_will¦378453_take¦378453_hold¦378453 ten¦378454 people¦378455 from¦378456=all¦378456 the¦378457_languages¦378457_of¦378457 the¦378458=nations¦378458 and¦378459÷they¦378459_will¦378459_take¦378459_hold¦378459 on¦378460÷the¦378460_skirt¦378460_of¦378460 a¦378461_person¦378461 a¦378462_Jew¦378462 to¦378463=say¦378463 we¦378464_want¦378464_to¦378464_go¦378464 with¦378465÷you(pl)¦378465 if/because¦378466 we¦378467_have¦378467_heard¦378467 god¦378468 ",
+    " soldiers/messengers¦378449 he¦378447_says¦378447 in¦378450_the¦378450=days¦378450 (the)¦378451÷those¦378451 which/who¦378452 ten¦378454 people¦378455 from¦378456=all¦378456 the¦378457_languages¦378457_of¦378457 the¦378458=nations¦378458 they¦378453_will¦378453_take¦378453_hold¦378453 and¦378459÷they¦378459_will¦378459_take¦378459_hold¦378459 on¦378460÷the¦378460_skirt¦378460_of¦378460 a¦378461_person¦378461 a¦378462_Jew¦378462 to¦378463=say¦378463 we¦378464_want¦378464_to¦378464_go¦378464 with¦378465÷you(pl)¦378465 if/because¦378466 we¦378467_have¦378467_heard¦378467 god¦378468 ",
     {
      "type": "char",
      "marker": "add",
@@ -3943,7 +3954,7 @@
      "number": "1",
      "sid": "Zec 9:1"
     },
-    "the¦378472_oracle¦378472_of¦378472 the¦378473_message¦378473_of¦378473 ",
+    "The¦378472_oracle¦378472_of¦378472 the¦378473_message¦378473_of¦378473 ",
     {
      "type": "char",
      "marker": "nd",
@@ -4028,14 +4039,14 @@
      "number": "4",
      "sid": "Zec 9:4"
     },
-    "There¦378512 my¦378513=master¦378513 he¦378514÷will¦378514_impoverish¦378514_it¦378514 and¦378515÷he¦378515_will¦378515_strike¦378515 in¦378516÷sea¦378516 rampart¦378517_of¦378517÷its¦378517 and¦378518=she¦378518 by¦378519÷fire¦378519 it¦378520_will¦378520_be¦378520_consumed¦378520.\n",
+    "THERE¦378512 my¦378513=master¦378513 he¦378514÷will¦378514_impoverish¦378514_it¦378514 and¦378515÷he¦378515_will¦378515_strike¦378515 in¦378516÷sea¦378516 rampart¦378517_of¦378517÷its¦378517 and¦378518=she¦378518 by¦378519÷fire¦378519 it¦378520_will¦378520_be¦378520_consumed¦378520.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "Zec 9:5"
     },
-    "It¦378522_will¦378522_see¦378522 ʼAshqəlōn¦378523 and¦378524÷it¦378524_will¦378524_be¦378524_afraid¦378524 and¦378525÷ˊAzzāh¦378525 and¦378526÷it¦378526_will¦378526_be¦378526_in¦378526_anguish¦378526 exceedingly¦378527 and¦378528÷ˊEqrōn¦378528 if/because¦378529 it¦378531_will¦378531_be¦378531_ashamed¦378531 of¦378532_confidence¦378532_of¦378532÷its¦378532_object¦378532 and¦378533= a¦378534_king¦378534 =he¦378533_will¦378533_perish¦378533 from¦378535÷ˊAzzāh¦378535 and¦378536÷ʼAshqəlōn¦378536 not¦378537 it¦378538_will¦378538_remain¦378538.\n",
+    "ʼAshqəlōn¦378523 it¦378522_will¦378522_see¦378522 and¦378524÷it¦378524_will¦378524_be¦378524_afraid¦378524 and¦378525÷ˊAzzāh¦378525 and¦378526÷it¦378526_will¦378526_be¦378526_in¦378526_anguish¦378526 exceedingly¦378527 and¦378528÷ˊEqrōn¦378528 if/because¦378529 of¦378532_confidence¦378532_of¦378532÷its¦378532_object¦378532 it¦378531_will¦378531_be¦378531_ashamed¦378531 and¦378533= a¦378534_king¦378534 =he¦378533_will¦378533_perish¦378533 from¦378535÷ˊAzzāh¦378535 and¦378536÷ʼAshqəlōn¦378536 not¦378537 it¦378538_will¦378538_remain¦378538.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4050,14 +4061,14 @@
       "+the¦378545"
      ]
     },
-    "_Fəlishtiy¦378545.\n",
+    "_Pəlishtiy¦378545.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "Zec 9:7"
     },
-    "And¦378547÷I¦378547_will¦378547_remove¦378547 blood(s)¦378548_of¦378548÷its¦378548 from¦378549÷its¦378549_of¦378549÷mouth¦378549 and¦378550÷its¦378550_detestable¦378550_of¦378550÷things¦378550 from¦378551÷between¦378551 teeth¦378552_of¦378552÷its¦378552 and¦378553÷it¦378553_will¦378553_be¦378553_left¦378553 also¦378554 it¦378556 to¦378557÷our¦378557_of¦378557÷god¦378557 and¦378558=it¦378558_was¦378558 like¦378559÷a¦378559_chief¦378559 in¦378560÷Yəhūdāh/(Judah)¦378560 and¦378561÷ˊEqrōn¦378561 ",
+    "And¦378547÷I¦378547_will¦378547_remove¦378547 blood(s)¦378548_of¦378548÷its¦378548 from¦378549÷mouth¦378549_of¦378549÷its¦378549 and¦378550÷its¦378550_detestable¦378550_of¦378550÷things¦378550 from¦378551÷between¦378551 teeth¦378552_of¦378552÷its¦378552 and¦378553= also¦378554 it¦378556 =it¦378553_will¦378553_be¦378553_left¦378553 to¦378557÷god¦378557_of¦378557÷our¦378557 and¦378558=it¦378558_was¦378558 like¦378559÷a¦378559_chief¦378559 in¦378560÷Yəhūdāh/(Judah)¦378560 and¦378561÷ˊEqrōn¦378561 ",
     {
      "type": "char",
      "marker": "add",
@@ -4072,7 +4083,7 @@
      "number": "8",
      "sid": "Zec 9:8"
     },
-    "And¦378564÷I¦378564_will¦378564_encamp¦378564 for¦378565÷my¦378565_of¦378565÷house¦378565 a¦378566_guard¦378566 from¦378567÷",
+    "And¦378564÷I¦378564_will¦378564_encamp¦378564 for¦378565÷house¦378565_of¦378565÷my¦378565 a¦378566_guard¦378566 from¦378567÷",
     {
      "type": "char",
      "marker": "add",
@@ -4095,7 +4106,7 @@
      "number": "9",
      "sid": "Zec 9:9"
     },
-    "rejoice¦378581 exceedingly¦378582 Oh¦378583_daughter¦378583_of¦378583 Tsiyyōn/(Zion)¦378585 shout¦378586_for¦378586_joy¦378586 Oh¦378587_daughter¦378587_of¦378587 Yərūshālam/(Jerusalem)¦378588 there¦378589 king¦378590_of¦378590÷your¦378590 he¦378591_will¦378591_come¦378591 to/for¦378592=you(fs)¦378592 ",
+    "Rejoice¦378581 exceedingly¦378582 Oh¦378583_daughter¦378583_of¦378583 Tsiyyōn/(Zion)¦378585 shout¦378586_for¦378586_joy¦378586 Oh¦378587_daughter¦378587_of¦378587 Yərūshālaim/(Jerusalem)¦378588 THERE¦378589 king¦378590_of¦378590÷your¦378590 he¦378591_will¦378591_come¦378591 to/for¦378592=you(fs)¦378592 ",
     {
      "type": "char",
      "marker": "add",
@@ -4110,7 +4121,7 @@
      "number": "10",
      "sid": "Zec 9:10"
     },
-    "And¦378608÷I¦378608_will¦378608_cut¦378608_off¦378608 chariotry¦378610 from¦378611÷ʼEfrayim¦378611 and¦378612÷horse[s]¦378612 from¦378613÷Yərūshālam/(Jerusalem)¦378613 and¦378614= bow¦378615_of¦378615 =it¦378614_will¦378614_be¦378614_cut¦378614_off¦378614 war¦378616 and¦378617÷he¦378617_will¦378617_speak¦378617 peace¦378618 to¦378619÷nations¦378619 and¦378620÷his¦378620_of¦378620÷dominion¦378620 ",
+    "And¦378608÷I¦378608_will¦378608_cut¦378608_off¦378608 chariotry¦378610 from¦378611÷ʼEfrayim¦378611 and¦378612÷horse[s]¦378612 from¦378613÷Yərūshālaim/(Jerusalem)¦378613 and¦378614= bow¦378615_of¦378615 war¦378616 =it¦378614_will¦378614_be¦378614_cut¦378614_off¦378614 and¦378617÷he¦378617_will¦378617_speak¦378617 peace¦378618 to¦378619÷nations¦378619 and¦378620÷dominion¦378620_of¦378620÷his¦378620 ",
     {
      "type": "char",
      "marker": "add",
@@ -4149,7 +4160,7 @@
      "number": "11",
      "sid": "Zec 9:11"
     },
-    "Also¦378632 you¦378634 by¦378635÷the¦378635_blood¦378635_of¦378635 your¦378637_covenant¦378637_of¦378637÷of¦378637 I¦378638_will¦378638_set¦378638_free¦378638 prisoners¦378639_of¦378639÷your¦378639",
+    "Also¦378632 you¦378634 by¦378635÷the¦378635_blood¦378635_of¦378635 your¦378637_covenant¦378637_of¦378637÷your¦378637 I¦378638_will¦378638_set¦378638_free¦378638 prisoners¦378639_of¦378639÷your¦378639",
     {
      "type": "note",
      "marker": "f",
@@ -4203,7 +4214,23 @@
       "+the¦378647"
      ]
     },
-    "÷stronghold¦378647 Oh¦378648_prisoners¦378648_of¦378648 (the)¦378649 also¦378650 the¦378652=day¦378652 wwww¦378653 wwww¦378654 wwww¦378655 to/for¦378656=you(fs)¦378656.\n",
+    "÷stronghold¦378647 Oh¦378648_prisoners¦378648_of¦378648 (the)¦378649÷hope¦378649 also¦378650 the¦378652=day¦378652 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "I¦378653"
+     ]
+    },
+    "_",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "+am¦378653"
+     ]
+    },
+    "_declaring¦378653 double¦378654 I¦378655_will¦378655_restore¦378655 to/for¦378656=you(fs)¦378656.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4279,7 +4306,7 @@
       "YHWH¦378691"
      ]
     },
-    " hosts¦378692 he¦378693_will¦378693_defend¦378693 (on)¦378694÷them¦378694 and¦378695÷they¦378695_will¦378695_eat¦378695 and¦378696÷they¦378696_will¦378696_subdue¦378696 stones¦378697_of¦378697 a¦378699_sling¦378699 and¦378700÷they¦378700_will¦378700_drink¦378700 they¦378701_will¦378701_be¦378701_in¦378701_an¦378701_uproar¦378701 like¦378702 wine¦378704 and¦378705÷they¦378705_will¦378705_be¦378705_full¦378705 like¦378706÷bowl¦378706 like¦378707_",
+    " soldiers/messengers¦378692 he¦378693_will¦378693_defend¦378693 (on)¦378694÷them¦378694 and¦378695÷they¦378695_will¦378695_eat¦378695 and¦378696÷they¦378696_will¦378696_subdue¦378696 stones¦378697_of¦378697 a¦378699_sling¦378699 and¦378700÷they¦378700_will¦378700_drink¦378700 they¦378701_will¦378701_be¦378701_in¦378701_an¦378701_uproar¦378701 like¦378702 wine¦378704 and¦378705÷they¦378705_will¦378705_be¦378705_full¦378705 like¦378706÷bowl¦378706 like¦378707_",
     {
      "type": "char",
      "marker": "add",
@@ -4310,7 +4337,7 @@
       "YHWH¦378711"
      ]
     },
-    " god¦378712_of¦378712÷their¦378712 in¦378713_the¦378713=day¦378713 (the)¦378714=that¦378714 like¦378715÷the¦378715_flock¦378715_of¦378715 his¦378716_people¦378716_of¦378716÷of¦378716 if/because¦378717 stones¦378718_of¦378718 a¦378720_crown¦378720 ",
+    " god¦378712_of¦378712÷their¦378712 in¦378713_the¦378713=day¦378713 (the)¦378714=that¦378714 like¦378715÷the¦378715_flock¦378715_of¦378715 his¦378716_people¦378716_of¦378716÷his¦378716 if/because¦378717 stones¦378718_of¦378718 a¦378720_crown¦378720 ",
     {
      "type": "char",
      "marker": "add",
@@ -4453,7 +4480,7 @@
      "number": "3",
      "sid": "Zec 10:3"
     },
-    "towards¦378784 the¦378786÷shepherds¦378786 anger¦378788_of¦378788÷my¦378788 it¦378787_has¦378787_burnt¦378787 and¦378789÷on¦378789 the¦378791÷leaders¦378791 I¦378792_will¦378792_visit¦378792_",
+    "Towards¦378784 the¦378786÷shepherds¦378786 anger¦378788_of¦378788÷my¦378788 it¦378787_has¦378787_burnt¦378787 and¦378789÷on¦378789 the¦378791÷leaders¦378791 I¦378792_will¦378792_visit¦378792_",
     {
      "type": "char",
      "marker": "add",
@@ -4469,14 +4496,14 @@
       "YHWH¦378796"
      ]
     },
-    " he¦378795_visits¦378795 hosts¦378797 untr DOM¦378798untr* flock¦378800_of¦378800÷his¦378800 untr DOM¦378801untr* the¦378803_house¦378803_of¦378803 Yəhūdāh/(Judah)¦378804 and¦378805÷he¦378805_will¦378805_make¦378805 them¦378806 like¦378807÷the¦378807_horse¦378807_of¦378807 his¦378808_majesty¦378808_of¦378808÷of¦378808 in¦378809÷battle¦378809.\n",
+    " soldiers/messengers¦378797 he¦378795_visits¦378795 untr DOM¦378798untr* flock¦378800_of¦378800÷his¦378800 untr DOM¦378801untr* the¦378803_house¦378803_of¦378803 Yəhūdāh/(Judah)¦378804 and¦378805÷he¦378805_will¦378805_make¦378805 them¦378806 like¦378807÷the¦378807_horse¦378807_of¦378807 his¦378808_majesty¦378808_of¦378808÷his¦378808 in¦378809÷battle¦378809.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "Zec 10:4"
     },
-    "From¦378811=him/it¦378811 a¦378812_corner¦378812 from¦378813=him/it¦378813 a¦378814_peg¦378814 from¦378815=him/it¦378815 a¦378816_bow¦378816_of¦378816 war¦378817 from¦378818=him/it¦378818 every¦378820_of¦378820 he¦378819_will¦378819_come¦378819_forth¦378819 ruler¦378822 together¦378823.\n",
+    "From¦378811=him/it¦378811 a¦378812_corner¦378812 from¦378813=him/it¦378813 a¦378814_peg¦378814 from¦378815=him/it¦378815 a¦378816_bow¦378816_of¦378816 war¦378817 from¦378818=him/it¦378818 every¦378820_of¦378820 ruler¦378822 he¦378819_will¦378819_come¦378819_forth¦378819 together¦378823.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4553,7 +4580,7 @@
      "number": "7",
      "sid": "Zec 10:7"
     },
-    "And¦378864=they¦378864_will¦378864_be¦378864 like¦378865÷a¦378865_warrior¦378865_of¦378865 ʼEfrayim¦378866 heart¦378868_of¦378868÷their¦378868 and¦378867÷it¦378867_will¦378867_rejoice¦378867 like¦378869 wine¦378871 and¦378872÷their¦378872_of¦378872÷children¦378872 they¦378873_will¦378873_see¦378873 and¦378874÷they¦378874_will¦378874_rejoice¦378874 heart¦378876_of¦378876÷their¦378876 it¦378875_will¦378875_rejoice¦378875 in¦378877÷",
+    "And¦378864=they¦378864_will¦378864_be¦378864 like¦378865÷a¦378865_warrior¦378865_of¦378865 ʼEfrayim¦378866 and¦378867= heart¦378868_of¦378868÷their¦378868 =it¦378867_will¦378867_rejoice¦378867 like¦378869 wine¦378871 and¦378872÷children¦378872_of¦378872÷their¦378872 they¦378873_will¦378873_see¦378873 and¦378874÷they¦378874_will¦378874_rejoice¦378874 heart¦378876_of¦378876÷their¦378876 it¦378875_will¦378875_rejoice¦378875 in¦378877÷",
     {
      "type": "char",
      "marker": "nd",
@@ -4589,7 +4616,7 @@
      "number": "11",
      "sid": "Zec 10:11"
     },
-    "And¦378913÷he¦378913_will¦378913_pass¦378913 in¦378914÷sea¦378914 trouble¦378915 and¦378916÷he¦378916_will¦378916_strike¦378916 in¦378917÷sea¦378917 waves¦378918 and¦378919÷they¦378919_will¦378919_dry¦378919_up¦378919 all¦378920_of¦378920 the¦378921_depths¦378921_of¦378921 the¦378922_River¦378922 and¦378923= the¦378924_pride¦378924_of¦378924 =it¦378923_will¦378923_be¦378923_brought¦378923_down¦378923 of¦378925_ʼAshshūr¦378925 and¦378926÷the¦378926_scepter¦378926_of¦378926 Miʦrayim¦378927 it¦378928_will¦378928_depart¦378928.\n",
+    "And¦378913÷he¦378913_will¦378913_pass¦378913 in¦378914÷sea¦378914 trouble¦378915 and¦378916÷he¦378916_will¦378916_strike¦378916 in¦378917÷sea¦378917 waves¦378918 and¦378919÷they¦378919_will¦378919_dry¦378919_up¦378919 all¦378920_of¦378920 the¦378921_depths¦378921_of¦378921 the¦378922_River¦378922 and¦378923= the¦378924_pride¦378924_of¦378924 ʼAshshūr¦378925 =it¦378923_will¦378923_be¦378923_brought¦378923_down¦378923 and¦378926÷the¦378926_scepter¦378926_of¦378926 Miʦrayim¦378927 it¦378928_will¦378928_depart¦378928.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4604,7 +4631,7 @@
       "YHWH¦378931"
      ]
     },
-    " and¦378932÷in¦378932÷his¦378932_of¦378932÷name¦378932 they¦378933_will¦378933_go¦378933_about¦378933 the¦378934_utterance¦378934_of¦378934 ",
+    " and¦378932÷in¦378932÷name¦378932_of¦378932÷his¦378932 they¦378933_will¦378933_go¦378933_about¦378933 the¦378934_utterance¦378934_of¦378934 ",
     {
      "type": "char",
      "marker": "nd",
@@ -4631,7 +4658,7 @@
      "number": "1",
      "sid": "Zec 11:1"
     },
-    "open¦378938 Oh¦378939_Ləⱱānōn¦378939 doors¦378940_of¦378940÷your¦378940 so¦378941= fire¦378942 =that¦378941_it¦378941_may¦378941_consume¦378941 (in)¦378943÷your(pl)¦378943_of¦378943÷cedars¦378943.\n",
+    "Open¦378938 Oh¦378939_Ləⱱānōn¦378939 doors¦378940_of¦378940÷your¦378940 so¦378941= fire¦378942 =that¦378941_it¦378941_may¦378941_consume¦378941 (in)¦378943÷cedars¦378943_of¦378943÷your¦378943.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4646,7 +4673,7 @@
       "trees¦378952"
      ]
     },
-    " they¦378953_have¦378953_been¦378953_devastated¦378953 wail¦378954 Oh¦378955_oaks¦378955_of¦378955 Bāshān¦378956 if/because¦378957 the¦378959_forest¦378959_of¦378959 it¦378958_has¦378958_come¦378958_down¦378958 (the)¦378960÷inaccessible¦378960",
+    " they¦378953_have¦378953_been¦378953_devastated¦378953 wail¦378954 Oh¦378955_oaks¦378955_of¦378955 Bāshān¦378956 if/because¦378957 it¦378958_has¦378958_come¦378958_down¦378958 the¦378959_forest¦378959_of¦378959 the¦378960",
     {
      "type": "note",
      "marker": "f",
@@ -4692,14 +4719,14 @@
       "+the¦378970"
      ]
     },
-    "_roaring¦378970_of¦378970 young¦378971_lions¦378971 if/because¦378972 the¦378974_thicket[s]¦378974_of¦378974 it¦378973_has¦378973_been¦378973_devastated¦378973 of¦378975÷the¦378975_Yardēn/(Jordan)¦378975.\n",
+    "_roaring¦378970_of¦378970 young¦378971_lions¦378971 if/because¦378972 the¦378974_thicket[s]¦378974_of¦378974 the¦378975_Yardēn/(Jordan)¦378975 it¦378973_has¦378973_been¦378973_devastated¦378973.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "Zec 11:4"
     },
-    "thus¦378978 ",
+    "Thus¦378978 ",
     {
      "type": "char",
      "marker": "nd",
@@ -4707,7 +4734,7 @@
       "YHWH¦378980"
      ]
     },
-    " he¦378979_says¦378979 god¦378981_of¦378981÷my¦378981 shepherd¦378982 untr DOM¦378983untr* the¦378985_flock¦378985_of¦378985 (the)¦378986÷slaughter¦378986.\n",
+    " god¦378981_of¦378981÷my¦378981 he¦378979_says¦378979 shepherd¦378982 untr DOM¦378983untr* the¦378985_flock¦378985_of¦378985 (the)¦378986÷slaughter¦378986.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4733,20 +4760,20 @@
     "_sell¦378993_them¦378993 he¦378994_will¦378994_say¦378994 ",
     {
      "type": "char",
-     "marker": "add",
-     "content": [
-      "+be¦378995"
-     ]
-    },
-    "_blessed¦378995 ",
-    {
-     "type": "char",
      "marker": "nd",
      "content": [
       "YHWH¦378996"
      ]
     },
-    " and¦378997÷I¦378997_will¦378997_gain¦378997_riches¦378997 and¦378998÷their¦378998_of¦378998÷shepherds¦378998 not¦378999 he¦379000_will¦379000_have¦379000_compassion¦379000 on¦379001÷them¦379001.\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "+be¦378995"
+     ]
+    },
+    "_blessed¦378995 and¦378997÷I¦378997_will¦378997_gain¦378997_riches¦378997 and¦378998÷shepherds¦378998_of¦378998÷their¦378998 not¦378999 he¦379000_will¦379000_have¦379000_compassion¦379000 on¦379001÷them¦379001.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4761,7 +4788,7 @@
       "YHWH¦379013"
      ]
     },
-    " and¦379014=see/lo/see¦379014 I¦379015 ",
+    " and¦379014=BEHOLD/LO/SEE¦379014 I¦379015 ",
     {
      "type": "char",
      "marker": "add",
@@ -4769,7 +4796,7 @@
       "+am¦379016"
      ]
     },
-    "_about¦379016_to¦379016_deliver¦379016 untr DOM¦379017untr* the¦379019=humankind¦379019 each¦379020 in¦379021÷the¦379021_hand¦379021_of¦379021 his/its¦379023=neighbour¦379023 and¦379024÷in¦379024÷the¦379024_hand¦379024_of¦379024 his¦379025_king¦379025_of¦379025÷of¦379025 and¦379026÷they¦379026_will¦379026_crush¦379026 untr DOM¦379027untr* the¦379029=earth/land¦379029 and¦379030=not¦379030 I¦379031_will¦379031_deliver¦379031_",
+    "_about¦379016_to¦379016_deliver¦379016 untr DOM¦379017untr* the¦379019=humankind¦379019 each¦379020 in¦379021÷the¦379021_hand¦379021_of¦379021 his/its¦379023=neighbour¦379023 and¦379024÷in¦379024÷the¦379024_hand¦379024_of¦379024 his¦379025_king¦379025_of¦379025÷his¦379025 and¦379026÷they¦379026_will¦379026_crush¦379026 untr DOM¦379027untr* the¦379029=earth/land¦379029 and¦379030=not¦379030 I¦379031_will¦379031_deliver¦379031_",
     {
      "type": "char",
      "marker": "add",
@@ -4777,7 +4804,7 @@
       ">it¦379031"
      ]
     },
-    " from¦379032÷their¦379032_of¦379032÷hand¦379032.\n",
+    " from¦379032÷hand¦379032_of¦379032÷their¦379032.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4799,7 +4826,7 @@
      "number": "8",
      "sid": "Zec 11:8"
     },
-    "And¦379058÷I¦379058_annihilated¦379058 untr DOM¦379059untr* the¦379061_three¦379061_of¦379061 the¦379062÷shepherds¦379062 in¦379063÷a¦379063_month¦379063 one¦379064 self¦379066_of¦379066÷my¦379066 and¦379065÷it¦379065_was¦379065_short¦379065 (is)¦379067_in¦379067=them¦379067 and¦379068=also¦379068 self¦379070_of¦379070÷their¦379070 it¦379071_loathed¦379071 (in)¦379072÷me¦379072.\n",
+    "And¦379058÷I¦379058_annihilated¦379058 untr DOM¦379059untr* the¦379061_three¦379061_of¦379061 the¦379062÷shepherds¦379062 in¦379063÷a¦379063_month¦379063 one¦379064 and¦379065= self¦379066_of¦379066÷my¦379066 =it¦379065_was¦379065_short¦379065 (is)¦379067_in¦379067=them¦379067 and¦379068=also¦379068 self¦379070_of¦379070÷their¦379070 it¦379071_loathed¦379071 (in)¦379072÷me¦379072.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4830,7 +4857,7 @@
       "those(f)¦379082÷which¦379082"
      ]
     },
-    "_survive¦379082 let¦379083_them(f)¦379083_devour¦379083 each(f)¦379084 untr DOM¦379085untr* the¦379087_flesh¦379087_of¦379087 its¦379088_neighbour(f)¦379088_of¦379088÷of¦379088.\n",
+    "_survive¦379082 let¦379083_them(f)¦379083_devour¦379083 each(f)¦379084 untr DOM¦379085untr* the¦379087_flesh¦379087_of¦379087 its¦379088_neighbour(f)¦379088_of¦379088÷her¦379088.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4899,7 +4926,7 @@
       "+is¦379130"
      ]
     },
-    "_good¦379130 in¦379131÷your¦379131_two's¦379131_of¦379131÷eyes¦379131 give¦379132 wage[s]¦379133_of¦379133÷my¦379133 and¦379134=if¦379134 not¦379136 refrain¦379138 and¦379139÷they¦379139_weighed¦379139_out¦379139 untr DOM¦379140untr* wage[s]¦379142_of¦379142÷my¦379142 thirty¦379143 silver¦379144.\n",
+    "_good¦379130 in¦379131÷eyes¦379131_of¦379131÷your(pl)¦379131 give¦379132 wage[s]¦379133_of¦379133÷my¦379133 and¦379134=if¦379134 not¦379136 refrain¦379138 and¦379139÷they¦379139_weighed¦379139_out¦379139 untr DOM¦379140untr* wage[s]¦379142_of¦379142÷my¦379142 thirty¦379143 silver¦379144.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4944,7 +4971,7 @@
      "number": "15",
      "sid": "Zec 11:15"
     },
-    "and¦379186= ",
+    "And¦379186= ",
     {
      "type": "char",
      "marker": "nd",
@@ -4967,7 +4994,7 @@
      "number": "16",
      "sid": "Zec 11:16"
     },
-    "If/because¦379197 here¦379198 I¦379200 ",
+    "If/because¦379197 HERE¦379198 I¦379200 ",
     {
      "type": "char",
      "marker": "add",
@@ -5007,14 +5034,14 @@
       "sheep¦379219"
      ]
     },
-    " he¦379220_will¦379220_eat¦379220 and¦379221÷their¦379221_of¦379221÷hooves¦379221 he¦379222_will¦379222_tear¦379222_off¦379222.\n",
+    " he¦379220_will¦379220_eat¦379220 and¦379221÷hooves¦379221_of¦379221÷their¦379221 he¦379222_will¦379222_tear¦379222_off¦379222.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "Zec 11:17"
     },
-    "woe¦379225_to¦379225 the¦379226_shepherd¦379226_of¦379226 (the)¦379227÷worthlessness¦379227 ",
+    "Woe¦379225_to¦379225 the¦379226_shepherd¦379226_of¦379226 (the)¦379227÷worthlessness¦379227 ",
     {
      "type": "char",
      "marker": "add",
@@ -5030,7 +5057,7 @@
       "+will¦379231_be¦379231"
      ]
     },
-    "_on¦379231 arm¦379233_of¦379233÷his¦379233 and¦379234÷on¦379234 the¦379236_eye¦379236_of¦379236 his¦379237_right¦379237_side¦379237_of¦379237÷of¦379237 arm¦379238_of¦379238÷his¦379238 totally¦379239_(wither)¦379239 it¦379240_will¦379240_wither¦379240 and¦379241÷the¦379241_eye¦379241_of¦379241 his¦379242_right¦379242_side¦379242_of¦379242÷of¦379242 totally¦379243_(dim)¦379243 it¦379244_will¦379244_grow¦379244_dim¦379244.\n"
+    "_on¦379231 arm¦379233_of¦379233÷his¦379233 and¦379234÷on¦379234 the¦379236_eye¦379236_of¦379236 his¦379237_right¦379237_side¦379237_of¦379237÷his¦379237 arm¦379238_of¦379238÷his¦379238 totally¦379239_(wither)¦379239 it¦379240_will¦379240_wither¦379240 and¦379241÷the¦379241_eye¦379241_of¦379241 his¦379242_right¦379242_side¦379242_of¦379242÷his¦379242 totally¦379243_(dim)¦379243 it¦379244_will¦379244_grow¦379244_dim¦379244.\n"
    ]
   },
   {
@@ -5049,7 +5076,7 @@
      "number": "1",
      "sid": "Zec 12:1"
     },
-    "the¦379247_oracle¦379247 of¦379248_the¦379248_message¦379248_of¦379248 of¦379250_",
+    "The¦379247_oracle¦379247 of¦379248_the¦379248_message¦379248_of¦379248 of¦379250_",
     {
      "type": "char",
      "marker": "nd",
@@ -5112,7 +5139,7 @@
      "number": "2",
      "sid": "Zec 12:2"
     },
-    "here¦379268 I¦379269 ",
+    "HERE¦379268 I¦379269 ",
     {
      "type": "char",
      "marker": "add",
@@ -5120,14 +5147,14 @@
       "+am¦379270"
      ]
     },
-    "_about¦379270_to¦379270_make¦379270 untr DOM¦379271untr* Yərūshālam/(Jerusalem)¦379273 a¦379274_basin¦379274_of¦379274 reeling¦379276 to/from¦379277=all/each/any/every¦379277 the¦379279÷peoples¦379279 all¦379280_around¦379280 and¦379281=also¦379281 on¦379282 Yəhūdāh/(Judah)¦379284 it¦379285_will¦379285_be¦379285 in¦379286÷siege¦379286 on¦379287 Yərūshālam/(Jerusalem)¦379289.\n",
+    "_about¦379270_to¦379270_make¦379270 untr DOM¦379271untr* Yərūshālaim/(Jerusalem)¦379273 a¦379274_basin¦379274_of¦379274 reeling¦379276 to/from¦379277=all/each/any/every¦379277 the¦379279÷peoples¦379279 all¦379280_around¦379280 and¦379281=also¦379281 on¦379282 Yəhūdāh/(Judah)¦379284 it¦379285_will¦379285_be¦379285 in¦379286÷siege¦379286 on¦379287 Yərūshālaim/(Jerusalem)¦379289.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "Zec 12:3"
     },
-    "And¦379291=it¦379291_was¦379291 on¦379292÷day¦379292 (the)¦379294=that¦379294 I¦379295_will¦379295_make¦379295 untr DOM¦379296untr* Yərūshālam/(Jerusalem)¦379298 a¦379299_stone¦379299_of¦379299 burden¦379300 to/from¦379301=all/each/any/every¦379301 the¦379303÷peoples¦379303 all¦379304_of¦379304 ",
+    "And¦379291=it¦379291_was¦379291 on¦379292÷day¦379292 (the)¦379294=that¦379294 I¦379295_will¦379295_make¦379295 untr DOM¦379296untr* Yərūshālaim/(Jerusalem)¦379298 a¦379299_stone¦379299_of¦379299 burden¦379300 to/from¦379301=all/each/any/every¦379301 the¦379303÷peoples¦379303 all¦379304_of¦379304 ",
     {
      "type": "char",
      "marker": "add",
@@ -5150,14 +5177,14 @@
       "YHWH¦379319"
      ]
     },
-    " I¦379320_will¦379320_strike¦379320 every¦379321_of¦379321 horse¦379323 with¦379324÷bewilderment¦379324 and¦379325÷its¦379325_of¦379325÷rider¦379325 with¦379326÷madness¦379326 and¦379327÷over¦379327 the¦379329_house¦379329_of¦379329 Yəhūdāh¦379330 I¦379331_will¦379331_open¦379331 untr DOM¦379332untr* eyes¦379334_of¦379334÷my¦379334 and¦379335=all/each/any/every¦379335 (the)¦379336_horse¦379336_of¦379336 the¦379337_peoples¦379337 I¦379338_will¦379338_strike¦379338 with¦379339÷blindness¦379339.\n",
+    " I¦379320_will¦379320_strike¦379320 every¦379321_of¦379321 horse¦379323 with¦379324÷bewilderment¦379324 and¦379325÷rider¦379325_of¦379325÷its¦379325 with¦379326÷madness¦379326 and¦379327÷over¦379327 the¦379329_house¦379329_of¦379329 Yəhūdāh¦379330 I¦379331_will¦379331_open¦379331 untr DOM¦379332untr* eyes¦379334_of¦379334÷my¦379334 and¦379335=all/each/any/every¦379335 (the)¦379336_horse¦379336_of¦379336 the¦379337_peoples¦379337 I¦379338_will¦379338_strike¦379338 with¦379339÷blindness¦379339.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "Zec 12:5"
     },
-    "And¦379341= the¦379342_chiefs¦379342_of¦379342 =they¦379341_will¦379341_say¦379341 of¦379343_Yəhūdāh¦379343 in¦379344÷their¦379344_of¦379344÷heart¦379344 ",
+    "And¦379341= the¦379342_chiefs¦379342_of¦379342 Yəhūdāh¦379343 =they¦379341_will¦379341_say¦379341 in¦379344÷heart¦379344_of¦379344÷their¦379344 ",
     {
      "type": "char",
      "marker": "add",
@@ -5165,7 +5192,7 @@
       "+are¦379345"
      ]
     },
-    "_strength¦379345 to¦379346=me¦379346 the¦379347_inhabitants¦379347_of¦379347 Yərūshālam/(Jerusalem)¦379348 by¦379349÷",
+    "_strength¦379345 to¦379346=me¦379346 the¦379347_inhabitants¦379347_of¦379347 Yərūshālaim/(Jerusalem)¦379348 by¦379349÷",
     {
      "type": "char",
      "marker": "nd",
@@ -5173,7 +5200,7 @@
       "YHWH¦379349"
      ]
     },
-    " hosts¦379350 god¦379351_of¦379351÷their¦379351.\n",
+    " soldiers/messengers¦379350 god¦379351_of¦379351÷their¦379351.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5196,14 +5223,14 @@
       "+the¦379372"
      ]
     },
-    "_left¦379372_side¦379372 untr DOM¦379373untr* all¦379375_of¦379375 the¦379377÷peoples¦379377 all¦379378_around¦379378 and¦379379= Yərūshālam/(Jerusalem)¦379380 =it¦379379_will¦379379_remain¦379379 again¦379381 in¦379382÷its¦379382_place¦379382 in¦379383÷Yərūshālam/(Jerusalem)¦379383.\n",
+    "_left¦379372_side¦379372 untr DOM¦379373untr* all¦379375_of¦379375 the¦379377÷peoples¦379377 all¦379378_around¦379378 and¦379379= Yərūshālaim/(Jerusalem)¦379380 =it¦379379_will¦379379_remain¦379379 again¦379381 in¦379382÷its¦379382_place¦379382 in¦379383÷Yərūshālaim/(Jerusalem)¦379383.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "Zec 12:7"
     },
-    "and¦379386÷he¦379386_will¦379386_save¦379386 ",
+    "And¦379386= ",
     {
      "type": "char",
      "marker": "nd",
@@ -5211,7 +5238,7 @@
       "YHWH¦379387"
      ]
     },
-    " untr DOM¦379388untr* the¦379390_tents¦379390_of¦379390 Yəhūdāh¦379391 at¦379392÷first¦379392 so¦379393_that¦379393 not¦379394 it¦379396_may¦379396_be¦379396_great¦379396 the¦379397_splendour¦379397_of¦379397 the¦379398_house¦379398_of¦379398 Dāvid¦379400 and¦379401÷the¦379401_splendour¦379401_of¦379401 the¦379402_inhabitant[s]¦379402_of¦379402 Yərūshālam/(Jerusalem)¦379403 above¦379404 Yəhūdāh/(Judah)¦379406.\n",
+    " =he¦379386_will¦379386_save¦379386 untr DOM¦379388untr* the¦379390_tents¦379390_of¦379390 Yəhūdāh¦379391 at¦379392÷first¦379392 so¦379393_that¦379393 not¦379394 the¦379397_splendour¦379397_of¦379397 the¦379398_house¦379398_of¦379398 Dāvid¦379400 and¦379401÷the¦379401_splendour¦379401_of¦379401 the¦379402_inhabitant[s]¦379402_of¦379402 Yərūshālaim/(Jerusalem)¦379403 it¦379396_may¦379396_be¦379396_great¦379396 above¦379404 Yəhūdāh/(Judah)¦379406.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5226,7 +5253,7 @@
       "YHWH¦379411"
      ]
     },
-    " he¦379410_will¦379410_defend¦379410 for¦379412 of¦379414_Yərūshālam/(Jerusalem)¦379414 the¦379413_inhabitant[s]¦379413_of¦379413 and¦379415=it¦379415_was¦379415 the¦379416_",
+    " he¦379410_will¦379410_defend¦379410 for¦379412 the¦379413_inhabitant[s]¦379413_of¦379413 Yərūshālaim/(Jerusalem)¦379414 and¦379415=it¦379415_was¦379415 the¦379416_",
     {
      "type": "char",
      "marker": "add",
@@ -5249,14 +5276,14 @@
      "number": "9",
      "sid": "Zec 12:9"
     },
-    "And¦379428=it¦379428_was¦379428 in¦379429_the¦379429=day¦379429 (the)¦379430=that¦379430 I¦379431_will¦379431_seek¦379431 to¦379432÷destroy¦379432 untr DOM¦379433untr* all¦379435_of¦379435 the¦379437=nations¦379437 the¦379438=(ones¦379438_who)¦379438_went¦379438 on¦379439 Yərūshālam/(Jerusalem)¦379441.\n",
+    "And¦379428=it¦379428_was¦379428 in¦379429_the¦379429=day¦379429 (the)¦379430=that¦379430 I¦379431_will¦379431_seek¦379431 to¦379432÷destroy¦379432 untr DOM¦379433untr* all¦379435_of¦379435 the¦379437=nations¦379437 the¦379438=(ones¦379438_who)¦379438_went¦379438 on¦379439 Yərūshālaim/(Jerusalem)¦379441.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "Zec 12:10"
     },
-    "And¦379443÷I¦379443_will¦379443_pour¦379443_out¦379443 on¦379444 the¦379446_house¦379446_of¦379446 Dāvid¦379447 and¦379448÷on¦379448 the¦379450_inhabitant[s]¦379450_of¦379450 Yərūshālam/(Jerusalem)¦379451 a¦379452_spirit¦379452_of¦379452 favour¦379453 and¦379454÷supplications¦379454 and¦379455÷they¦379455_will¦379455_look¦379455 to¦379456=me¦379456 untr DOM¦379457untr* ",
+    "And¦379443÷I¦379443_will¦379443_pour¦379443_out¦379443 on¦379444 the¦379446_house¦379446_of¦379446 Dāvid¦379447 and¦379448÷on¦379448 the¦379450_inhabitant[s]¦379450_of¦379450 Yərūshālaim/(Jerusalem)¦379451 a¦379452_spirit¦379452_of¦379452 favour¦379453 and¦379454÷supplications¦379454 and¦379455÷they¦379455_will¦379455_look¦379455 to¦379456=me¦379456 untr DOM¦379457untr* ",
     {
      "type": "char",
      "marker": "add",
@@ -5287,21 +5314,21 @@
      "number": "11",
      "sid": "Zec 12:11"
     },
-    "In¦379474_the¦379474=day¦379474 (the)¦379475=that¦379475 it¦379476_will¦379476_be¦379476_great¦379476 the¦379477÷mourning¦379477 in¦379478÷Yərūshālam/(Jerusalem)¦379478 like¦379479÷the¦379479_mourning¦379479_of¦379479 Hadad-¦379480 Rimmōn¦379482 in¦379483÷the¦379483_plain¦379483_of¦379483 Məgiddōn¦379484.\n",
+    "In¦379474_the¦379474=day¦379474 (the)¦379475=that¦379475 the¦379477÷mourning¦379477 it¦379476_will¦379476_be¦379476_great¦379476 in¦379478÷Yərūshālaim/(Jerusalem)¦379478 like¦379479÷the¦379479_mourning¦379479_of¦379479 Hadad-¦379480 Rimmōn¦379482 in¦379483÷the¦379483_plain¦379483_of¦379483 Məgiddōn¦379484.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "Zec 12:12"
     },
-    "And¦379486÷it¦379486_will¦379486_mourn¦379486 the¦379487=earth/land¦379487 clans¦379488 clans¦379489 alone¦379490 the¦379491_clan¦379491_of¦379491 the¦379492_house¦379492_of¦379492 Dāvid¦379494 alone¦379495 and¦379496÷their¦379496_of¦379496÷wives¦379496 alone¦379497 the¦379498_clan¦379498_of¦379498 the¦379499_house¦379499_of¦379499 Nātān¦379501 alone¦379502 and¦379503÷their¦379503_of¦379503÷wives¦379503 alone¦379504.\n",
+    "And¦379486= the¦379487=earth/land¦379487 =it¦379486_will¦379486_mourn¦379486 clans¦379488 clans¦379489 alone¦379490÷itself¦379490 the¦379491_clan¦379491_of¦379491 the¦379492_house¦379492_of¦379492 Dāvid¦379494 alone¦379495÷itself¦379495 and¦379496÷wives¦379496_of¦379496÷their¦379496 alone¦379497÷themselves¦379497 the¦379498_clan¦379498_of¦379498 the¦379499_house¦379499_of¦379499 Nātān¦379501 alone¦379502÷itself¦379502 and¦379503÷wives¦379503_of¦379503÷their¦379503 alone¦379504÷themselves¦379504.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "Zec 12:13"
     },
-    "The¦379506_clan¦379506_of¦379506 the¦379507_house¦379507_of¦379507 Levi¦379509 alone¦379510 and¦379511÷their¦379511_of¦379511÷wives¦379511 alone¦379512 the¦379513_clan¦379513_of¦379513 the¦379514_Shimˊīte[s]¦379514 alone¦379515 and¦379516÷their¦379516_of¦379516÷wives¦379516 alone¦379517.\n",
+    "The¦379506_clan¦379506_of¦379506 the¦379507_house¦379507_of¦379507 Levi¦379509 alone¦379510÷itself¦379510 and¦379511÷wives¦379511_of¦379511÷their¦379511 alone¦379512÷themselves¦379512 the¦379513_clan¦379513_of¦379513 the¦379514_Shimˊīte[s]¦379514 alone¦379515÷itself¦379515 and¦379516÷wives¦379516_of¦379516÷their¦379516 alone¦379517÷themselves¦379517.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5316,7 +5343,7 @@
       "which¦379521"
      ]
     },
-    "÷remain¦379521 clans¦379522 clans¦379523 alone¦379524 and¦379525÷their¦379525_of¦379525÷wives¦379525 alone¦379526.\n"
+    "÷remain¦379521 clans¦379522 clans¦379523 alone¦379524÷itself¦379524 and¦379525÷wives¦379525_of¦379525÷their¦379525 alone¦379526÷themselves¦379526.\n"
    ]
   },
   {
@@ -5335,7 +5362,7 @@
      "number": "1",
      "sid": "Zec 13:1"
     },
-    "in¦379529_the¦379529=day¦379529 (the)¦379530=that¦379530 it¦379531_will¦379531_be¦379531 a¦379532_fountain¦379532 opened¦379533 for¦379534÷the¦379534_house¦379534_of¦379534 Dāvid¦379535 and¦379536÷for¦379536= of¦379537_Yərūshālam/(Jerusalem)¦379537 =the¦379536_inhabitants¦379536_of¦379536 for¦379538÷sin¦379538_of¦379538 and¦379539÷for¦379539÷impurity¦379539.\n",
+    "In¦379529_the¦379529=day¦379529 (the)¦379530=that¦379530 it¦379531_will¦379531_be¦379531 a¦379532_fountain¦379532 opened¦379533 for¦379534÷the¦379534_house¦379534_of¦379534 Dāvid¦379535 and¦379536÷for¦379536÷the¦379536_inhabitants¦379536_of¦379536 Yərūshālaim/(Jerusalem)¦379537 for¦379538÷sin¦379538_of¦379538 and¦379539÷for¦379539÷impurity¦379539.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5350,14 +5377,14 @@
       "YHWH¦379546"
      ]
     },
-    " hosts¦379547 I¦379548_will¦379548_cut¦379548_off¦379548 untr DOM¦379549untr* the¦379551_names¦379551_of¦379551 the¦379552_idols¦379552 from¦379553 the¦379555=earth/land¦379555 and¦379556=not¦379556 they¦379557_will¦379557_be¦379557_remembered¦379557 again¦379558 and¦379559=also¦379559 untr DOM¦379560untr* the¦379562÷prophets¦379562 and¦379563=untr DOM¦379563untr* the¦379565_spirit¦379565_of¦379565 (the)¦379566÷uncleanness¦379566 I¦379567_will¦379567_cause¦379567_to¦379567_pass¦379567_away¦379567 from¦379568 the¦379570=earth/land¦379570.\n",
+    " soldiers/messengers¦379547 I¦379548_will¦379548_cut¦379548_off¦379548 untr DOM¦379549untr* the¦379551_names¦379551_of¦379551 the¦379552_idols¦379552 from¦379553 the¦379555=earth/land¦379555 and¦379556=not¦379556 they¦379557_will¦379557_be¦379557_remembered¦379557 again¦379558 and¦379559=also¦379559 untr DOM¦379560untr* the¦379562÷prophets¦379562 and¦379563=untr DOM¦379563untr* the¦379565_spirit¦379565_of¦379565 (the)¦379566÷uncleanness¦379566 I¦379567_will¦379567_cause¦379567_to¦379567_pass¦379567_away¦379567 from¦379568 the¦379570=earth/land¦379570.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "Zec 13:3"
     },
-    "And¦379572=it¦379572_was¦379572 if/because¦379573 anyone¦379576 he¦379575_will¦379575_prophesy¦379575 still¦379577 and¦379578÷they¦379578_will¦379578_say¦379578 to¦379579=him/it¦379579 his/its¦379580=father¦379580 and¦379581÷his¦379581_of¦379581÷mother¦379581 ",
+    "And¦379572=it¦379572_was¦379572 if/because¦379573 anyone¦379576 he¦379575_will¦379575_prophesy¦379575 still¦379577 and¦379578÷they¦379578_will¦379578_say¦379578 to¦379579=him/it¦379579 his/its¦379580=father¦379580 and¦379581÷mother¦379581_of¦379581÷his¦379581 ",
     {
      "type": "char",
      "marker": "add",
@@ -5373,7 +5400,7 @@
       "YHWH¦379589"
      ]
     },
-    " and¦379590÷they¦379590÷will¦379590_pierce¦379590_him¦379590_through¦379590 father¦379591_of¦379591÷his¦379591 and¦379592÷his¦379592_of¦379592÷mother¦379592 ",
+    " and¦379590÷they¦379590÷will¦379590_pierce¦379590_him¦379590_through¦379590 father¦379591_of¦379591÷his¦379591 and¦379592÷mother¦379592_of¦379592÷his¦379592 ",
     {
      "type": "char",
      "marker": "add",
@@ -5381,14 +5408,14 @@
       "who¦379593"
      ]
     },
-    "_begot¦379593_of¦379593÷him¦379593 when¦379594÷he¦379594÷prophecies¦379594.\n",
+    "_begot¦379593_of¦379593÷him¦379593 when¦379594÷prophecies¦379594÷he¦379594.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "Zec 13:4"
     },
-    "And¦379596=it¦379596_was¦379596 in¦379598_the¦379598=day¦379598 (the)¦379599=that¦379599 they¦379600_will¦379600_be¦379600_ashamed¦379600 the¦379601÷prophets¦379601 each¦379602_one¦379602 from¦379603÷his¦379603_of¦379603÷vision¦379603 when¦379604÷he¦379604÷prophecies¦379604 and¦379605=not¦379605 they¦379606_will¦379606_wear¦379606 a¦379607_cloak¦379607_of¦379607 hair¦379608 so¦379609_as¦379609 to¦379610_deceive¦379610.\n",
+    "And¦379596=it¦379596_was¦379596 in¦379598_the¦379598=day¦379598 (the)¦379599=that¦379599 the¦379601÷prophets¦379601 they¦379600_will¦379600_be¦379600_ashamed¦379600 each¦379602_one¦379602 from¦379603÷vision¦379603_of¦379603÷his¦379603 when¦379604÷prophecies¦379604÷he¦379604 and¦379605=not¦379605 they¦379606_will¦379606_wear¦379606 a¦379607_cloak¦379607_of¦379607 hair¦379608 so¦379609_as¦379609 to¦379610_deceive¦379610.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5419,7 +5446,7 @@
       "who¦379618"
      ]
     },
-    "_tills¦379618 ground¦379619 I¦379620 if/because¦379621 someone¦379622 he¦379623÷sold¦379623_me¦379623 since¦379624÷my¦379624_of¦379624÷youth(s)¦379624.\n",
+    "_tills¦379618 ground¦379619 I¦379620 if/because¦379621 someone¦379622 he¦379623÷sold¦379623_me¦379623 since¦379624÷youth(s)¦379624_of¦379624÷my¦379624.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5449,7 +5476,7 @@
      "number": "7",
      "sid": "Zec 13:7"
     },
-    "Oh¦379640_sword¦379640 awake¦379641 on¦379642 my¦379644_of¦379644÷shepherd¦379644 and¦379645÷on¦379645 the¦379647_man¦379647_of¦379647 fellow¦379648_of¦379648÷my¦379648 the¦379649_utterance¦379649_of¦379649 ",
+    "Oh¦379640_sword¦379640 awake¦379641 on¦379642 shepherd¦379644_of¦379644÷my¦379644 and¦379645÷on¦379645 the¦379647_man¦379647_of¦379647 fellow¦379648_of¦379648÷my¦379648 the¦379649_utterance¦379649_of¦379649 ",
     {
      "type": "char",
      "marker": "nd",
@@ -5457,7 +5484,7 @@
       "YHWH¦379650"
      ]
     },
-    " hosts¦379651 strike¦379652 untr DOM¦379653untr* the¦379655÷shepherd¦379655 and¦379656÷they¦379656_will¦379656_be¦379656_scattered¦379656 the¦379657÷sheep¦379657 and¦379658÷I¦379658_will¦379658_turn¦379658 hand¦379659_of¦379659÷my¦379659 on¦379660 ",
+    " soldiers/messengers¦379651 strike¦379652 untr DOM¦379653untr* the¦379655÷shepherd¦379655 and¦379656= the¦379657÷sheep¦379657 =they¦379656_will¦379656_be¦379656_scattered¦379656 and¦379658÷I¦379658_will¦379658_turn¦379658 hand¦379659_of¦379659÷my¦379659 on¦379660 ",
     {
      "type": "char",
      "marker": "add",
@@ -5503,7 +5530,7 @@
       ">part¦379684"
      ]
     },
-    " in¦379685÷fire¦379685 and¦379686÷I¦379686÷will¦379686_refine¦379686_them¦379686 as¦379687÷refines¦379687 untr DOM¦379688untr* (the)¦379690÷silver¦379690 and¦379691÷I¦379691÷will¦379691_test¦379691_them¦379691 as¦379692÷tests¦379692 untr DOM¦379693untr* the¦379695=gold¦379695 it¦379696 it¦379698_will¦379698_call¦379698 on¦379699÷my¦379699_of¦379699÷name¦379699 and¦379700÷I¦379700 I¦379701_will¦379701_answer¦379701 untr DOM¦379702untr*=him/it¦379702 I¦379703_will¦379703_say¦379703 people¦379704_of¦379704÷",
+    " in¦379685÷fire¦379685 and¦379686÷I¦379686÷will¦379686_refine¦379686_them¦379686 as¦379687÷refines¦379687 untr DOM¦379688untr* (the)¦379690÷silver¦379690 and¦379691÷I¦379691÷will¦379691_test¦379691_them¦379691 as¦379692÷tests¦379692 untr DOM¦379693untr* the¦379695=gold¦379695 it¦379696 it¦379698_will¦379698_call¦379698 on¦379699÷name¦379699_of¦379699÷my¦379699 and¦379700÷I¦379700 I¦379701_will¦379701_answer¦379701 untr DOM¦379702untr*=him/it¦379702 I¦379703_will¦379703_say¦379703 people¦379704_of¦379704÷",
     {
      "type": "char",
      "marker": "add",
@@ -5546,7 +5573,7 @@
      "number": "1",
      "sid": "Zec 14:1"
     },
-    "there¦379712 a¦379713_day¦379713 ",
+    "THERE¦379712 a¦379713_day¦379713 ",
     {
      "type": "char",
      "marker": "add",
@@ -5562,14 +5589,14 @@
       "YHWH¦379716"
      ]
     },
-    " plunder¦379718_of¦379718÷your¦379718 and¦379717÷it¦379717_will¦379717_be¦379717_divided¦379717 in¦379719÷your¦379719_of¦379719÷midst¦379719.\n",
+    " and¦379717= plunder¦379718_of¦379718÷your¦379718 =it¦379717_will¦379717_be¦379717_divided¦379717 in¦379719÷midst¦379719_of¦379719÷your¦379719.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "Zec 14:2"
     },
-    "And¦379721÷I¦379721_will¦379721_gather¦379721 untr DOM¦379722untr* all¦379724_of¦379724 the¦379726=nations¦379726 to¦379728 Yərūshālam/(Jerusalem)¦379730 for¦379731÷battle¦379731 and¦379732÷it¦379732_will¦379732_be¦379732_captured¦379732 the¦379733=city¦379733 and¦379734÷they¦379734_will¦379734_be¦379734_plundered¦379734 the¦379735÷houses¦379735 and¦379736÷the¦379736÷women¦379736 they¦379737_will¦379737_be¦379737_lain¦379737_with¦379737",
+    "And¦379721÷I¦379721_will¦379721_gather¦379721 untr DOM¦379722untr* all¦379724_of¦379724 the¦379726=nations¦379726 to¦379728 Yərūshālaim/(Jerusalem)¦379730 for¦379731÷battle¦379731 and¦379732= the¦379733=city¦379733 =it¦379732_will¦379732_be¦379732_captured¦379732 and¦379734= the¦379735÷houses¦379735 =they¦379734_will¦379734_be¦379734_plundered¦379734 and¦379736÷the¦379736÷women¦379736 they¦379737_will¦379737_be¦379737_lain¦379737_with¦379737",
     {
      "type": "note",
      "marker": "f",
@@ -5592,7 +5619,7 @@
      ],
      "caller": "+"
     },
-    " and¦379739= (the)¦379740_half¦379740_of¦379740 =it¦379739_will¦379739_go¦379739_out¦379739 the¦379741=city¦379741 in¦379742÷exile¦379742 and¦379743÷the¦379743_rest¦379743_of¦379743 the¦379744_people¦379744 not¦379745 it¦379746_will¦379746_be¦379746_cut¦379746_off¦379746 from¦379747 the¦379749=city¦379749.\n",
+    " and¦379739= (the)¦379740_half¦379740_of¦379740 the¦379741=city¦379741 =it¦379739_will¦379739_go¦379739_out¦379739 in¦379742÷exile¦379742 and¦379743÷the¦379743_rest¦379743_of¦379743 the¦379744_people¦379744 not¦379745 it¦379746_will¦379746_be¦379746_cut¦379746_off¦379746 from¦379747 the¦379749=city¦379749.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5607,7 +5634,7 @@
       "YHWH¦379752"
      ]
     },
-    " =he¦379751_will¦379751_go¦379751_forth¦379751 and¦379753÷he¦379753_will¦379753_fight¦379753 against¦379754÷nations¦379754 the¦379755=those¦379755 like¦379756÷the¦379756_day¦379756_of¦379756 he¦379757÷fought¦379757",
+    " =he¦379751_will¦379751_go¦379751_forth¦379751 and¦379753÷he¦379753_will¦379753_fight¦379753 against¦379754÷nations¦379754 the¦379755=those¦379755 like¦379756÷the¦379756_day¦379756_of¦379756 fought¦379757÷he¦379757",
     {
      "type": "note",
      "marker": "f",
@@ -5681,7 +5708,7 @@
      "number": "4",
      "sid": "Zec 14:4"
     },
-    "feet¦379765_of¦379765÷his¦379765 And¦379764÷they¦379764_will¦379764_stand¦379764 in¦379766_the¦379766=day¦379766 (the)¦379768=that¦379768 on¦379769 the¦379771_mountain¦379771_of¦379771 (the)¦379772÷Olives¦379772",
+    "And¦379764= feet¦379765_of¦379765÷his¦379765 =they¦379764_will¦379764_stand¦379764 in¦379766_the¦379766=day¦379766 (the)¦379768=that¦379768 on¦379769 the¦379771_mountain¦379771_of¦379771 (the)¦379772÷Olives¦379772",
     {
      "type": "note",
      "marker": "f",
@@ -5712,14 +5739,14 @@
       "+is¦379775"
      ]
     },
-    "_on¦379775 the¦379777_face¦379777_of¦379777 Yərūshālam/(Jerusalem)¦379778 from¦379779=east¦379779 and¦379780= the¦379781_mountain¦379781_of¦379781 =it¦379780_will¦379780_be¦379780_split¦379780_open¦379780 of¦379782_(the)¦379782÷Olives¦379782 from¦379783÷its¦379783_of¦379783÷middle¦379783 eastward¦379784 and¦379785÷westward¦379785 a¦379786_valley¦379786_of¦379786 great¦379787 very¦379788 and¦379789÷it¦379789_will¦379789_depart¦379789 (the)¦379790_half¦379790_of¦379790 the¦379791_mountain¦379791 northward¦379792 and¦379793÷half¦379793_of¦379793÷of¦379793_it¦379793 southward¦379795.\n",
+    "_on¦379775 the¦379777_face¦379777_of¦379777 Yərūshālaim/(Jerusalem)¦379778 from¦379779=east¦379779 and¦379780= the¦379781_mountain¦379781_of¦379781 (the)¦379782÷Olives¦379782 =it¦379780_will¦379780_be¦379780_split¦379780_open¦379780 from¦379783÷middle¦379783_of¦379783÷its¦379783 eastward¦379784÷from¦379784 and¦379785÷westward¦379785÷to¦379785 a¦379786_valley¦379786_of¦379786 great¦379787 very¦379788 and¦379789= (the)¦379790_half¦379790_of¦379790 the¦379791_mountain¦379791 =it¦379789_will¦379789_depart¦379789 northward¦379792÷toward¦379792 and¦379793÷half¦379793_of¦379793÷of¦379793_it¦379793 southward¦379795÷toward¦379795.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "Zec 14:5"
     },
-    "And¦379797÷you(pl)¦379797_will¦379797_flee¦379797 the¦379798_valley¦379798_of¦379798 my¦379800_mountains¦379800_of¦379800÷of¦379800 if/because¦379801 ",
+    "And¦379797÷you(pl)¦379797_will¦379797_flee¦379797 the¦379798_valley¦379798_of¦379798 my¦379800_mountains¦379800_of¦379800÷my¦379800 if/because¦379801 ",
     {
      "type": "char",
      "marker": "add",
@@ -5727,7 +5754,7 @@
       "+the¦379804"
      ]
     },
-    "_valley¦379804_of¦379804 it¦379803_will¦379803_reach¦379803 mountains¦379806 to¦379807 ʼĀʦal¦379809 and¦379810÷you(pl)¦379810_will¦379810_flee¦379810 just¦379811=as¦379811 you(pl)¦379812_fled¦379812 from¦379813=face/in¦379813_front¦379813_of¦379813 the¦379814÷earthquake¦379814 in¦379815÷the¦379815_days¦379815_of¦379815 Uzziah¦379816 the¦379817_king¦379817_of¦379817 Yəhūdāh/(Judah)¦379819 and¦379820÷he¦379820_will¦379820_come¦379820 ",
+    "_valley¦379804_of¦379804 mountains¦379806 it¦379803_will¦379803_reach¦379803 to¦379807 ʼĀʦal¦379809 and¦379810÷you(pl)¦379810_will¦379810_flee¦379810 just¦379811=as¦379811 you(pl)¦379812_fled¦379812 from¦379813=face/in¦379813_front¦379813_of¦379813 the¦379814÷earthquake¦379814 in¦379815÷the¦379815_days¦379815_of¦379815 Uzziah¦379816 the¦379817_king¦379817_of¦379817 Yəhūdāh/(Judah)¦379819 and¦379820= ",
     {
      "type": "char",
      "marker": "nd",
@@ -5735,7 +5762,7 @@
       "YHWH¦379821"
      ]
     },
-    " god¦379822_of¦379822÷my¦379822 all¦379823_of¦379823 holy¦379825_",
+    " god¦379822_of¦379822÷my¦379822 =he¦379820_will¦379820_come¦379820 all¦379823_of¦379823 holy¦379825_",
     {
      "type": "char",
      "marker": "add",
@@ -5766,7 +5793,7 @@
       ">ones¦379835"
      ]
     },
-    " and¦379836÷frost¦379836",
+    " mmm¦379836",
     {
      "type": "note",
      "marker": "f",
@@ -5812,14 +5839,14 @@
       "+the¦379853"
      ]
     },
-    "÷time¦379853_of¦379853 evening¦379855 it¦379856_will¦379856_be¦379856 light¦379858.\n",
+    "÷time¦379853_of¦379853 evening¦379855 light¦379858 it¦379856_will¦379856_be¦379856.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "Zec 14:8"
     },
-    "And¦379860=it¦379860_was¦379860 in¦379862_the¦379862=day¦379862 (the)¦379863=that¦379863 they¦379864_will¦379864_go¦379864_out¦379864 waters¦379865 living¦379867 from¦379868÷Yərūshālam/(Jerusalem)¦379868 of¦379869_them¦379869_of¦379869÷half¦379869 to¦379870 the¦379872=sea¦379872 (the)¦379873÷eastern¦379873 and¦379874÷half¦379874_of¦379874÷of¦379874_them¦379874 to¦379875 the¦379877=sea¦379877 (the)¦379878÷western¦379878 in¦379879÷summer¦379879 and¦379880÷in¦379880÷winter¦379880 it¦379881_will¦379881_be¦379881.\n",
+    "And¦379860=it¦379860_was¦379860 in¦379862_the¦379862=day¦379862 (the)¦379863=that¦379863 waters¦379865 living¦379867 they¦379864_will¦379864_go¦379864_out¦379864 from¦379868÷Yərūshālaim/(Jerusalem)¦379868 of¦379869_them¦379869_of¦379869÷half¦379869 to¦379870 the¦379872=sea¦379872 (the)¦379873÷eastern¦379873 and¦379874÷half¦379874_of¦379874÷of¦379874_them¦379874 to¦379875 the¦379877=sea¦379877 (the)¦379878÷western¦379878 in¦379879÷summer¦379879 and¦379880÷in¦379880÷winter¦379880 it¦379881_will¦379881_be¦379881.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5857,7 +5884,7 @@
      "number": "10",
      "sid": "Zec 14:10"
     },
-    "all¦379900_of¦379900 It¦379899_will¦379899_change¦379899 the¦379902=earth/land¦379902 like¦379903÷ˊArāⱱāh¦379903 from¦379904÷Geⱱaˊ¦379904 to¦379905÷Rimmōn¦379905 ",
+    "All¦379900_of¦379900 the¦379902=earth/land¦379902 it¦379899_will¦379899_change¦379899 like¦379903÷ˊArāⱱāh¦379903 from¦379904÷Geⱱaˊ¦379904 to¦379905÷Rimmōn¦379905 ",
     {
      "type": "char",
      "marker": "add",
@@ -5865,7 +5892,7 @@
       "+the¦379906"
      ]
     },
-    "_south¦379906_of¦379906 Yərūshālam/(Jerusalem)¦379907 and¦379908÷it¦379908_will¦379908_rise¦379908 and¦379909÷it¦379909_will¦379909_remain¦379909 in¦379910÷its¦379910_place¦379910 (to)¦379911_from¦379911÷the¦379911÷gate¦379911_of¦379911 Binyāmīn¦379912 to¦379913 ",
+    "_south¦379906_of¦379906 Yərūshālaim/(Jerusalem)¦379907 and¦379908÷it¦379908_will¦379908_rise¦379908 and¦379909÷it¦379909_will¦379909_remain¦379909 in¦379910÷its¦379910_place¦379910 (to)¦379911_from¦379911÷the¦379911÷gate¦379911_of¦379911 Binyāmīn¦379912 to¦379913 ",
     {
      "type": "char",
      "marker": "add",
@@ -5896,7 +5923,7 @@
      "number": "11",
      "sid": "Zec 14:11"
     },
-    "And¦379928÷people¦379928_will¦379928_dwell¦379928 in¦379929÷it¦379929 and¦379930÷total¦379930_destruction¦379930 not¦379931 it¦379932_will¦379932_be¦379932 again¦379934 and¦379935= Yərūshālam/(Jerusalem)¦379936 =it¦379935_will¦379935_remain¦379935 to¦379937÷security¦379937.\n",
+    "And¦379928÷people¦379928_will¦379928_dwell¦379928 in¦379929÷it¦379929 and¦379930÷total¦379930_destruction¦379930 not¦379931 it¦379932_will¦379932_be¦379932 again¦379934 and¦379935= Yərūshālaim/(Jerusalem)¦379936 =it¦379935_will¦379935_remain¦379935 to¦379937÷security¦379937.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5911,7 +5938,7 @@
       "YHWH¦379945"
      ]
     },
-    " he¦379944_will¦379944_strike¦379944 untr DOM¦379946untr* all¦379948_of¦379948 the¦379950÷peoples¦379950 which¦379951 they¦379952_have¦379952_gone¦379952_to¦379952_war¦379952 on¦379953 Yərūshālam/(Jerusalem)¦379955 he¦379956_will¦379956_cause¦379956_to¦379956_rot¦379956 flesh¦379958_of¦379958÷its¦379958 and¦379959=he¦379959 ",
+    " he¦379944_will¦379944_strike¦379944 untr DOM¦379946untr* all¦379948_of¦379948 the¦379950÷peoples¦379950 which¦379951 they¦379952_have¦379952_gone¦379952_to¦379952_war¦379952 on¦379953 Yərūshālaim/(Jerusalem)¦379955 he¦379956_will¦379956_cause¦379956_to¦379956_rot¦379956 flesh¦379958_of¦379958÷its¦379958 and¦379959=he¦379959 ",
     {
      "type": "char",
      "marker": "add",
@@ -5919,14 +5946,14 @@
       "+is¦379960"
      ]
     },
-    "_standing¦379960 on¦379961 feet¦379963_of¦379963÷its¦379963 and¦379964÷its¦379964_of¦379964÷eyes¦379964 they¦379965_will¦379965_rot¦379965 in¦379966÷their¦379966_of¦379966÷sockets¦379966 and¦379967÷its¦379967_of¦379967÷tongue¦379967 it¦379968_will¦379968_rot¦379968 in¦379969÷their¦379969_of¦379969÷mouth¦379969.\n",
+    "_standing¦379960 on¦379961 feet¦379963_of¦379963÷its¦379963 and¦379964÷eyes¦379964_of¦379964÷its¦379964 they¦379965_will¦379965_rot¦379965 in¦379966÷sockets¦379966_of¦379966÷their¦379966 and¦379967÷tongue¦379967_of¦379967÷its¦379967 it¦379968_will¦379968_rot¦379968 in¦379969÷mouth¦379969_of¦379969÷their¦379969.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "Zec 14:13"
     },
-    "And¦379971=it¦379971_was¦379971 in¦379972_the¦379972=day¦379972 (the)¦379973=that¦379973 a¦379975_panic¦379975_of¦379975 it¦379974_will¦379974_be¦379974 of¦379977_",
+    "And¦379971=it¦379971_was¦379971 in¦379972_the¦379972=day¦379972 (the)¦379973=that¦379973 a¦379975_panic¦379975_of¦379975 ",
     {
      "type": "char",
      "marker": "nd",
@@ -5934,21 +5961,21 @@
       "YHWH¦379977"
      ]
     },
-    " great¦379978 (is)¦379979_in¦379979=them¦379979 and¦379980÷they¦379980_will¦379980_take¦379980_hold¦379980_of¦379980 each¦379981 the¦379982_hand¦379982_of¦379982 his/its¦379983=neighbour¦379983 his/its¦379985=hand¦379985 and¦379984÷it¦379984_will¦379984_go¦379984_up¦379984 on¦379986 the¦379988_hand¦379988_of¦379988 his/its¦379989=neighbour¦379989.\n",
+    " it¦379974_will¦379974_be¦379974 great¦379978 (is)¦379979_in¦379979=them¦379979 and¦379980÷they¦379980_will¦379980_take¦379980_hold¦379980_of¦379980 each¦379981 the¦379982_hand¦379982_of¦379982 his/its¦379983=neighbour¦379983 and¦379984= his/its¦379985=hand¦379985 =it¦379984_will¦379984_go¦379984_up¦379984 on¦379986 the¦379988_hand¦379988_of¦379988 his/its¦379989=neighbour¦379989.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "Zec 14:14"
     },
-    "And¦379991=also¦379991 Yəhūdāh/(Judah)¦379993 it¦379994_will¦379994_fight¦379994 at¦379995÷Yərūshālam/(Jerusalem)¦379995 and¦379996= the¦379997_wealth¦379997_of¦379997 =it¦379996_will¦379996_be¦379996_gathered¦379996 of¦379998_all¦379998_of¦379998 the¦380000=nations¦380000 all¦380001_around¦380001 gold¦380002 and¦380003÷silver¦380003 and¦380004÷garments¦380004 to¦380005=increase¦380005_in¦380005_number¦380005 very¦380006_great¦380006.\n",
+    "And¦379991=also¦379991 Yəhūdāh/(Judah)¦379993 it¦379994_will¦379994_fight¦379994 at¦379995÷Yərūshālaim/(Jerusalem)¦379995 and¦379996= the¦379997_wealth¦379997_of¦379997 all¦379998_of¦379998 the¦380000=nations¦380000 all¦380001_around¦380001 gold¦380002 and¦380003÷silver¦380003 and¦380004÷garments¦380004 to¦380005=increase¦380005_in¦380005_number¦380005 very¦380006_great¦380006 =it¦379996_will¦379996_be¦379996_gathered¦379996.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "Zec 14:15"
     },
-    "And¦380008=thus/so/as¦380008_follows¦380008 the¦380010_plague¦380010_of¦380010 it¦380009_will¦380009_be¦380009 of¦380011÷the¦380011_horse¦380011 the¦380012÷mule¦380012 the¦380013÷camel¦380013 and¦380014÷the¦380014÷donkey¦380014 and¦380015=all¦380015 the¦380017=cattle/livestock¦380017 which¦380018 it¦380019_will¦380019_be¦380019 in¦380020÷camps¦380020 (the)¦380021÷those¦380021 like¦380022÷plague¦380022 (the)¦380023÷this¦380023.\n",
+    "And¦380008=thus/so/as¦380008_follows¦380008 the¦380010_plague¦380010_of¦380010 the¦380011_horse¦380011 the¦380012÷mule¦380012 the¦380013÷camel¦380013 and¦380014÷the¦380014÷donkey¦380014 and¦380015=all¦380015 the¦380017=cattle/livestock¦380017 which¦380018 it¦380019_will¦380019_be¦380019 in¦380020÷camps¦380020 (the)¦380021÷those¦380021 it¦380009_will¦380009_be¦380009 like¦380022÷plague¦380022 (the)¦380023÷this¦380023.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5963,7 +5990,7 @@
       "one¦380028÷who¦380028"
      ]
     },
-    "_remains¦380028 from¦380029=all¦380029 the¦380031=nations¦380031 the¦380032=(ones¦380032_who)¦380032_went¦380032 on¦380033 Yərūshālam/(Jerusalem)¦380035 and¦380036÷they¦380036_will¦380036_go¦380036_up¦380036 from¦380037=sufficiency¦380037 a¦380038_year¦380038 in¦380039=year¦380039 to¦380040÷bow¦380040_down¦380040 to¦380041_",
+    "_remains¦380028 from¦380029=all¦380029 the¦380031=nations¦380031 the¦380032=(ones¦380032_who)¦380032_went¦380032 on¦380033 Yərūshālaim/(Jerusalem)¦380035 and¦380036÷they¦380036_will¦380036_go¦380036_up¦380036 from¦380037=sufficiency¦380037 a¦380038_year¦380038 in¦380039=year¦380039 to¦380040÷bow¦380040_down¦380040 to¦380041_",
     {
      "type": "char",
      "marker": "add",
@@ -5979,7 +6006,7 @@
       "YHWH¦380042"
      ]
     },
-    " hosts¦380043 and¦380044÷to¦380044÷celebrate¦380044_a¦380044_festival¦380044 untr DOM¦380045untr* the¦380047_festival¦380047_of¦380047 (the)¦380048÷tents¦380048.\n",
+    " soldiers/messengers¦380043 and¦380044÷to¦380044÷celebrate¦380044_a¦380044_festival¦380044 untr DOM¦380045untr* the¦380047_festival¦380047_of¦380047 (the)¦380048÷tents¦380048.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5994,7 +6021,7 @@
       ">one¦380051"
      ]
     },
-    "_who¦380051 not¦380052 he¦380054_will¦380054_go¦380054_up¦380054 from¦380055÷with¦380055 the¦380056_clans¦380056_of¦380056 the¦380057=earth/land¦380057 to¦380058 Yərūshālam/(Jerusalem)¦380060 to¦380061÷bow¦380061_down¦380061 to¦380062_",
+    "_who¦380051 not¦380052 he¦380054_will¦380054_go¦380054_up¦380054 from¦380055÷with¦380055 the¦380056_clans¦380056_of¦380056 the¦380057=earth/land¦380057 to¦380058 Yərūshālaim/(Jerusalem)¦380060 to¦380061÷bow¦380061_down¦380061 to¦380062_",
     {
      "type": "char",
      "marker": "add",
@@ -6010,7 +6037,7 @@
       "YHWH¦380063"
      ]
     },
-    " hosts¦380064 and¦380065=not¦380065 on¦380066÷them¦380066 it¦380067_will¦380067_be¦380067 (the)¦380068÷rain¦380068.\n",
+    " soldiers/messengers¦380064 and¦380065=not¦380065 on¦380066÷them¦380066 (the)¦380068÷rain¦380068 it¦380067_will¦380067_be¦380067.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -6086,7 +6113,7 @@
      "number": "21",
      "sid": "Zec 14:21"
     },
-    "And¦380132=it¦380132_was¦380132 every¦380133_of¦380133 pot¦380135 in¦380136÷Yərūshālam/(Jerusalem)¦380136 and¦380137÷in¦380137÷Yəhūdāh/(Judah)¦380137 a¦380138_holy¦380138_thing¦380138 to/for¦380139=",
+    "And¦380132=it¦380132_was¦380132 every¦380133_of¦380133 pot¦380135 in¦380136÷Yərūshālaim/(Jerusalem)¦380136 and¦380137÷in¦380137÷Yəhūdāh/(Judah)¦380137 a¦380138_holy¦380138_thing¦380138 to/for¦380139=",
     {
      "type": "char",
      "marker": "nd",
@@ -6094,7 +6121,7 @@
       "YHWH¦380139"
      ]
     },
-    " hosts¦380140 and¦380141= all¦380142_of¦380142 =they¦380141_will¦380141_come¦380141 ",
+    " soldiers/messengers¦380140 and¦380141= all¦380142_of¦380142 ",
     {
      "type": "char",
      "marker": "add",
@@ -6102,7 +6129,7 @@
       "those¦380144÷who¦380144"
      ]
     },
-    "_sacrifice¦380144 and¦380145÷they¦380145_will¦380145_take¦380145 from¦380146=them¦380146 and¦380147÷they¦380147_will¦380147_boil¦380147 in/among¦380148=them¦380148 and¦380149=not¦380149 a¦380152_merchant¦380152 he¦380151_will¦380151_be¦380151 again¦380153 in¦380154=house¦380154_of¦380154 ",
+    "_sacrifice¦380144 =they¦380141_will¦380141_come¦380141 and¦380145÷they¦380145_will¦380145_take¦380145 from¦380146=them¦380146 and¦380147÷they¦380147_will¦380147_boil¦380147 in/among¦380148=them¦380148 and¦380149=not¦380149 a¦380152_merchant¦380152 he¦380151_will¦380151_be¦380151 again¦380153 in¦380154=house¦380154_of¦380154 ",
     {
      "type": "char",
      "marker": "nd",
@@ -6110,7 +6137,7 @@
       "YHWH¦380156"
      ]
     },
-    " hosts¦380157 in¦380158_the¦380158=day¦380158 (the)¦380159=that¦380159.\n"
+    " soldiers/messengers¦380157 in¦380158_the¦380158=day¦380158 (the)¦380159=that¦380159.\n"
    ]
   }
  ]

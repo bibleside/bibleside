@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 13:25 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "Matthaios\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -239,7 +234,7 @@
      "number": "11",
      "sid": "MAT 1:11"
     },
-    "and¦166 Yōsias¦165 bore¦167 untr the¦168untr* Yeⱪonias/(Yəkānə",
+    "and¦166 Yōsias¦165 bore¦167 untr the¦168untr* Yeⱪonias/(Yəkon",
     {
      "type": "char",
      "marker": "sup",
@@ -383,7 +378,7 @@
      "number": "19",
      "sid": "MAT 1:19"
     },
-    "And¦314 Yōsaʸf¦313 the¦315 husband¦316 of¦317_her¦317, being¦319 righteous¦318 and¦320 not¦321 willing¦322 to¦324_expose¦324 her¦323, was¦326_counseled¦326 to¦328_send¦328_ her¦329 _away¦328 secretly¦327.\n",
+    "And¦314 Yōsaʸf¦313 the¦315 husband¦316 of¦317_her¦317, being¦319 righteous¦318 and¦320 not¦321 willing¦322 to¦324_expose¦324 her¦323, was¦326_counselled¦326 to¦328_send¦328_ her¦329 _away¦328 secretly¦327.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -403,7 +398,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦335"
+      "+a¦335"
      ]
     },
     "_messenger¦335 of¦336_",
@@ -620,7 +615,7 @@
       "+the¦470"
      ]
     },
-    "_days¦470 of¦471_Haʸrōdaʸs¦471 the¦472 king¦473, see¦474, wise¦475_men¦475 from¦476 east¦477 arrived¦478 in¦479 Hierousalaʸm/(Yərūshālayim)¦480\n",
+    "_days¦470 of¦471_Haʸrōᵢdaʸs¦471 the¦472 king¦473, see¦474, wise¦475_men¦475 from¦476 east¦477 arrived¦478 in¦479 Hierousalaʸm/(Yərūshālayim)¦480\n",
     {
      "type": "verse",
      "marker": "v",
@@ -642,7 +637,7 @@
      "number": "3",
      "sid": "MAT 2:3"
     },
-    "And¦502 untr the¦504untr* king¦505 Haʸrōdaʸs¦506 having¦501_heard¦501 was¦507_disturbed¦507, and¦508 all¦509 Hierousalaʸm¦510 with¦511 him¦512.\n",
+    "And¦502 untr the¦504untr* king¦505 Haʸrōᵢdaʸs¦506 having¦501_heard¦501 was¦507_disturbed¦507, and¦508 all¦509 Hierousalaʸm¦510 with¦511 him¦512.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -702,7 +697,7 @@
      "number": "7",
      "sid": "MAT 2:7"
     },
-    "Then¦574 Haʸrōdaʸs¦575 having¦577_ secretly¦576 _called¦577 the¦578 wise¦579_men¦579, ascertained¦580 from¦582 them¦583 the¦584 time¦585 of¦586_the¦586 appearing¦587 star¦588.\n",
+    "Then¦574 Haʸrōᵢdaʸs¦575 having¦577_ secretly¦576 _called¦577 the¦578 wise¦579_men¦579, ascertained¦580 from¦582 them¦583 the¦584 time¦585 of¦586_the¦586 appearing¦587 star¦588.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -753,7 +748,7 @@
       "+a¦690"
      ]
     },
-    "_dream¦690 not¦691 to¦692_return¦692 to¦693 Haʸrōdaʸs¦694, they¦698_withdrew¦698 by¦695 another¦696 way¦697 into¦699 the¦700 country¦702 of¦703_them¦703.\n",
+    "_dream¦690 not¦691 to¦692_return¦692 to¦693 Haʸrōᵢdaʸs¦694, they¦698_withdrew¦698 by¦695 another¦696 way¦697 into¦699 the¦700 country¦702 of¦703_them¦703.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -765,7 +760,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦714"
+      "+a¦714"
      ]
     },
     "_messenger¦714 of¦715_",
@@ -792,7 +787,7 @@
       "+a¦718"
      ]
     },
-    "_dream¦718 to¦722_ untr the¦721untr* _Yōsaʸf/(Yōşēf)¦722 saying¦725: Having¦726_been¦726_raised¦726, take¦727 the¦728 little¦730_child¦730 and¦732 the¦733 mother¦734 of¦735_him¦735, and¦736 be¦737_fleeing¦737 into¦738 Aiguptos/(Miʦrayim)¦739, and¦740 be¦741 there¦742 until¦743 untr wishfully¦744untr* I¦745_may¦745_tell¦745 to¦746_you¦746, because/for¦749 Haʸrōdaʸs¦750 is¦748_going¦748 to¦751_be¦751_seeking¦751 the¦752 little¦754_child¦754 untr which¦756untr* to¦757_destroy¦757 him¦758.\n",
+    "_dream¦718 to¦722_ untr the¦721untr* _Yōsaʸf/(Yōşēf)¦722 saying¦725: Having¦726_been¦726_raised¦726, take¦727 the¦728 little¦730_child¦730 and¦732 the¦733 mother¦734 of¦735_him¦735, and¦736 be¦737_fleeing¦737 into¦738 Aiguptos/(Miʦrayim)¦739, and¦740 be¦741 there¦742 until¦743 untr wishfully¦744untr* I¦745_may¦745_tell¦745 to¦746_you¦746, because/for¦749 Haʸrōᵢdaʸs¦750 is¦748_going¦748 to¦751_be¦751_seeking¦751 the¦752 little¦754_child¦754 untr which¦756untr* to¦757_destroy¦757 him¦758.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -806,7 +801,7 @@
      "number": "15",
      "sid": "MAT 2:15"
     },
-    "and¦778 he¦779_was¦779 there¦780 until¦781 the¦782 death¦783 of¦784_Haʸrōdaʸs¦784, in¦785_order¦785_that¦785 the¦787 ",
+    "and¦778 he¦779_was¦779 there¦780 until¦781 the¦782 death¦783 of¦784_Haʸrōᵢdaʸs¦784, in¦785_order¦785_that¦785 the¦787 ",
     {
      "type": "char",
      "marker": "add",
@@ -837,7 +832,7 @@
      "number": "16",
      "sid": "MAT 2:16"
     },
-    "Then¦802 Haʸrōdaʸs¦803, having¦804_seen¦804 that¦805 he¦806_was¦806_mocked¦806 by¦807 the¦808 wise¦809_men¦809, was¦810_enraged¦810 exceedingly¦811 and¦812 having¦813_sent¦813_out¦813, he¦814_killed¦814 all¦815 the¦816 boys¦817 untr which¦818untr* in¦819 Baʸthleʼem/(Bēyt-leḩem)¦820 and¦821 in¦822 all¦823 the¦824 regions¦825 of¦826_it¦826 from¦827 two¦829_year¦829 and¦830 lower¦832, according¦833_to¦833 the¦834 time¦835 which¦836 he¦837_ascertained¦837 from¦839 the¦840 wise¦841_men¦841.\n",
+    "Then¦802 Haʸrōᵢdaʸs¦803, having¦804_seen¦804 that¦805 he¦806_was¦806_mocked¦806 by¦807 the¦808 wise¦809_men¦809, was¦810_enraged¦810 exceedingly¦811 and¦812 having¦813_sent¦813_out¦813, he¦814_killed¦814 all¦815 the¦816 boys¦817 untr which¦818untr* in¦819 Baʸthleʼem/(Bēyt-leḩem)¦820 and¦821 in¦822 all¦823 the¦824 regions¦825 of¦826_it¦826 from¦827 two¦829_year¦829 and¦830 lower¦832, according¦833_to¦833 the¦834 time¦835 which¦836 he¦837_ascertained¦837 from¦839 the¦840 wise¦841_men¦841.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -881,12 +876,12 @@
      "number": "19",
      "sid": "MAT 2:19"
     },
-    "But¦877 untr the¦878untr* Haʸrōdaʸs¦879 having¦876_died¦876, see¦880, ",
+    "But¦877 untr the¦878untr* Haʸrōᵢdaʸs¦879 having¦876_died¦876, see¦880, ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦881"
+      "+a¦881"
      ]
     },
     "_messenger¦881 of¦882_",
@@ -974,7 +969,7 @@
      "number": "22",
      "sid": "MAT 2:22"
     },
-    "But¦937 having¦936_heard¦936 that¦938 Arⱪelaos¦939 is¦940_reigning¦940 untr the¦942untr* over¦943_Youdaia¦943 instead¦944_of¦944 Haʸrōdaʸs¦949 the¦946 father¦947 of¦948_him¦948, he¦950_was¦950_afraid¦950 to¦952_go¦952_away¦952 there¦951, and¦954 having¦953_been¦953_warned¦953 in¦955 ",
+    "But¦937 having¦936_heard¦936 that¦938 Arⱪelaos¦939 is¦940_reigning¦940 untr the¦942untr* over¦943_Youdaia¦943 instead¦944_of¦944 Haʸrōᵢdaʸs¦949 the¦946 father¦947 of¦948_him¦948, he¦950_was¦950_afraid¦950 to¦952_go¦952_away¦952 there¦951, and¦954 having¦953_been¦953_warned¦953 in¦955 ",
     {
      "type": "char",
      "marker": "add",
@@ -1483,7 +1478,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^their¦1462"
+      "&their¦1462"
      ]
     },
     "_hands¦1462, lest¦1466 you¦1467_may¦1467_strike¦1467 the¦1470 foot¦1471 of¦1472_you¦1472 against¦1468 ",
@@ -1509,7 +1504,7 @@
       "Yaʸsous/(Yəhōshūˊa)¦1476"
      ]
     },
-    " was¦1473_saying¦1473 to¦1474_him¦1474: Contrastly¦1477 it¦1478_has¦1478_been¦1478_written¦1478: You¦1481_˓will¦1481˒_ not¦1479 _be¦1481_Testing¦1481 ",
+    " was¦1473_saying¦1473 to¦1474_him¦1474: In_contrast¦1477 it¦1478_has¦1478_been¦1478_written¦1478: You¦1481_˓will¦1481˒_ not¦1479 _be¦1481_Testing¦1481 ",
     {
      "type": "char",
      "marker": "add",
@@ -1746,7 +1741,7 @@
      "number": "18",
      "sid": "MAT 4:18"
     },
-    "And¦1655 walking¦1654 beside¦1658 the¦1659 sea¦1660 of¦1662_ untr the¦1661untr* _Galilaia¦1662 he¦1663_saw¦1663 two¦1664, brothers¦1665, Simōn¦1666 untr which¦1667untr* being¦1669_called¦1669 Petros¦1670 and¦1671 Andreas¦1672 the¦1673 brother¦1674 of¦1675_him¦1675, throwing¦1676 ",
+    "And¦1655 walking¦1654 beside¦1658 the¦1659 sea¦1660 of¦1662_ untr the¦1661untr* _Galilaia¦1662 he¦1663_saw¦1663 two¦1664, brothers¦1665, Simōn¦1666 untr which¦1667untr* being¦1669_called¦1669 Petros¦1670 and¦1671 Andreas¦1672 the¦1673 brother¦1674 of¦1675_him¦1675, casting¦1676 ",
     {
      "type": "char",
      "marker": "add",
@@ -1754,7 +1749,7 @@
       "+a¦1677"
      ]
     },
-    "_throwing¦1677_net¦1677 into¦1678 the¦1679 sea¦1680, because/for¦1682 they¦1681_were¦1681 fishermen¦1683.\n",
+    "_casting¦1677_net¦1677 into¦1678 the¦1679 sea¦1680, because/for¦1682 they¦1681_were¦1681 fishermen¦1683.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2755,7 +2750,7 @@
      "number": "16",
      "sid": "MAT 6:16"
     },
-    "And¦3119 whenever¦3118 you¦3120_all¦3120_may¦3120_be¦3120_fasting¦3120, be¦3122_ not¦3121 _becoming¦3122 downthrow¦3127 like¦3123 the¦3125 hypocrites¦3126, because/for¦3129 they¦3128_are¦3128_disfiguring¦3128 the¦3130 appearances¦3132 of¦3135_them¦3135, so¦3136_that¦3136 they¦3137_may¦3137_be¦3137_seen¦3137 by¦3138_the¦3138 people¦3139 fasting¦3140. Truly¦3141, I¦3143_am¦3143_saying¦3143 to¦3144_you¦3144_all¦3144, they¦3146_are¦3146_receiving¦3146_fully¦3146 the¦3147 reward¦3148 of¦3149_them¦3149.\n",
+    "And¦3119 whenever¦3118 you¦3120_all¦3120_may¦3120_be¦3120_fasting¦3120, be¦3122_ not¦3121 _becoming¦3122 downcast¦3127 like¦3123 the¦3125 hypocrites¦3126, because/for¦3129 they¦3128_are¦3128_disfiguring¦3128 the¦3130 appearances¦3132 of¦3135_them¦3135, so¦3136_that¦3136 they¦3137_may¦3137_be¦3137_seen¦3137 by¦3138_the¦3138 people¦3139 fasting¦3140. Truly¦3141, I¦3143_am¦3143_saying¦3143 to¦3144_you¦3144_all¦3144, they¦3146_are¦3146_receiving¦3146_fully¦3146 the¦3147 reward¦3148 of¦3149_them¦3149.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4020,7 +4015,7 @@
      "number": "31",
      "sid": "MAT 8:31"
     },
-    "And¦4694 the¦4693 demons¦4695 were¦4696_imploring¦4696 him¦4697 saying¦4698: If¦4699 you¦4700_are¦4700_throwing¦4700_ us¦4701 _out¦4700, send¦4702_ us¦4704 _out¦4702 into¦4707 the¦4708 herd¦4709 of¦4711_ untr the¦4710untr* _pigs¦4711.\n",
+    "And¦4694 the¦4693 demons¦4695 were¦4696_imploring¦4696 him¦4697 saying¦4698: If¦4699 you¦4700_are¦4700_casting¦4700_ us¦4701 _out¦4700, send¦4702_ us¦4704 _out¦4702 into¦4707 the¦4708 herd¦4709 of¦4711_ untr the¦4710untr* _pigs¦4711.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4473,7 +4468,7 @@
       "+a¦5232"
      ]
     },
-    "_woman¦5232 hemorrhaging¦5233 twelve¦5234 years¦5235 having¦5236_approached¦5236 behind¦5237, she¦5238_touched¦5238 against¦5239_the¦5239 fringe¦5240 of¦5241_the¦5241 garment¦5242 of¦5243_him¦5243.\n",
+    "_woman¦5232 haemorrhaging¦5233 twelve¦5234 years¦5235 having¦5236_approached¦5236 behind¦5237, she¦5238_touched¦5238 against¦5239_the¦5239 fringe¦5240 of¦5241_the¦5241 garment¦5242 of¦5243_him¦5243.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4675,7 +4670,7 @@
       "party¦5470"
      ]
     },
-    " were¦5471_saying¦5471: He¦5477_is¦5477_throwing¦5477_out¦5477 untr the¦5478untr* demons¦5479 by¦5472 the¦5473 ruler¦5474 of¦5475_the¦5475 demons¦5476.\n",
+    " were¦5471_saying¦5471: He¦5477_is¦5477_casting¦5477_out¦5477 untr the¦5478untr* demons¦5479 by¦5472 the¦5473 ruler¦5474 of¦5475_the¦5475 demons¦5476.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4762,7 +4757,7 @@
      "number": "1",
      "sid": "MAT 10:1"
     },
-    "And¦5563 having¦5564_called¦5564_to¦5564 the¦5565 twelve¦5566 apprentices/followers¦5567 of¦5568_him¦5568, he¦5569_gave¦5569 authority¦5571 to¦5570_them¦5570 over¦5572_ unclean¦5573 _spirits¦5572, so¦5574_as¦5574 to¦5575_be¦5575_throwing¦5575_ them¦5577 _out¦5575 and¦5579 to¦5580_be¦5580_healing¦5580 every¦5581 disease¦5582 and¦5583 every¦5584 sickness¦5585.\n",
+    "And¦5563 having¦5564_called¦5564_to¦5564 the¦5565 twelve¦5566 apprentices/followers¦5567 of¦5568_him¦5568, he¦5569_gave¦5569 authority¦5571 to¦5570_them¦5570 over¦5572_ unclean¦5573 _spirits¦5572, so¦5574_as¦5574 to¦5575_be¦5575_casting¦5575_ them¦5577 _out¦5575 and¦5579 to¦5580_be¦5580_healing¦5580 every¦5581 disease¦5582 and¦5583 every¦5584 sickness¦5585.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -4907,7 +4902,7 @@
       "+the¦5697"
      ]
     },
-    "_lepers¦5697, be¦5703_throwing¦5703_out¦5703 demons¦5702, you¦5708_all¦5708_received¦5708 undeservedly¦5707, give¦5710 undeservedly¦5709.\n",
+    "_lepers¦5697, be¦5703_casting¦5703_out¦5703 demons¦5702, you¦5708_all¦5708_received¦5708 undeservedly¦5707, give¦5710 undeservedly¦5709.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -5980,7 +5975,7 @@
      "number": "23",
      "sid": "MAT 11:23"
     },
-    "Also¦6813 you¦6814, Kafarnaʼoum¦6815, ˓will¦6822˒_ not¦6816 _be¦6822_being¦6822_exalted¦6822 to¦6818 heaven¦6820? You¦6826_will¦6826_be¦6826_coming¦6826_down¦6826 to¦6824 Haidaʸs¦6825. Because¦6828 if¦6829 the¦6834 miracles¦6835 which¦6836 having¦6837_become¦6837 in¦6838 you¦6839 were¦6833_become¦6833 in¦6830 Sodoma/(Şədom)¦6831, would¦6843 remained¦6841 until¦6844 the¦6845 ",
+    "Also¦6813 you¦6814, Kafarnaʼoum¦6815, ˓will¦6822˒_ not¦6816 _be¦6822_being¦6822_elevated¦6822 to¦6818 heaven¦6820? You¦6826_will¦6826_be¦6826_coming¦6826_down¦6826 to¦6824 Haᵢdaʸs¦6825. Because¦6828 if¦6829 the¦6834 miracles¦6835 which¦6836 having¦6837_become¦6837 in¦6838 you¦6839 were¦6833_become¦6833 in¦6830 Sodoma/(Şədom)¦6831, would¦6843 remained¦6841 until¦6844 the¦6845 ",
     {
      "type": "char",
      "marker": "add",
@@ -6545,7 +6540,7 @@
       "man¦7412"
      ]
     },
-    " is¦7414_ not¦7413 _throwing¦7414_out¦7414 untr the¦7415untr* demons¦7416, except¦7417 untr not/lest¦7418untr* by¦7419 untr the¦7420untr* Beʼelzeboul¦7421, ruler¦7422 of¦7423_the¦7423 demons¦7424.\n",
+    " is¦7414_ not¦7413 _casting¦7414_out¦7414 untr the¦7415untr* demons¦7416, except¦7417 untr not/lest¦7418untr* by¦7419 untr the¦7420untr* Beʼelzeboul¦7421, ruler¦7422 of¦7423_the¦7423 demons¦7424.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -6559,21 +6554,21 @@
      "number": "26",
      "sid": "MAT 12:26"
     },
-    "And¦7456 if¦7457 untr the¦7460untr* Satan/(Sāţān)¦7461 is¦7464_throwing¦7464_out¦7464 untr the¦7462untr* Satan¦7463, he¦7467_was¦7467_divided¦7467 against¦7465 himself¦7466. Therefore¦7469 how¦7468 ˓will¦7470˒_ the¦7471 kingdom¦7472 of¦7473_him¦7473 _be¦7470_being¦7470_established¦7470?\n",
+    "And¦7456 if¦7457 untr the¦7460untr* Satan/(Sāţān)¦7461 is¦7464_casting¦7464_out¦7464 untr the¦7462untr* Satan¦7463, he¦7467_was¦7467_divided¦7467 against¦7465 himself¦7466. Therefore¦7469 how¦7468 ˓will¦7470˒_ the¦7471 kingdom¦7472 of¦7473_him¦7473 _be¦7470_being¦7470_established¦7470?\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "27",
      "sid": "MAT 12:27"
     },
-    "And¦7474 if¦7475 I¦7477 am¦7480_throwing¦7480_out¦7480 untr the¦7481untr* demons¦7482 by¦7478 Beʼelzeboul¦7479 by¦7486 whom¦7487 the¦7483 sons¦7484 of¦7485_you¦7485_all¦7485 are¦7488_they¦7488_throwing¦7488_out¦7488? Because¦7489_of¦7489 this¦7490, they¦7491 will¦7494_be¦7494 judges¦7493 of¦7497_you¦7497_all¦7497.\n",
+    "And¦7474 if¦7475 I¦7477 am¦7480_casting¦7480_out¦7480 untr the¦7481untr* demons¦7482 by¦7478 Beʼelzeboul¦7479 by¦7486 whom¦7487 the¦7483 sons¦7484 of¦7485_you¦7485_all¦7485 are¦7488_they¦7488_casting¦7488_out¦7488? Because¦7489_of¦7489 this¦7490, they¦7491 will¦7494_be¦7494 judges¦7493 of¦7497_you¦7497_all¦7497.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "28",
      "sid": "MAT 12:28"
     },
-    "But¦7499 if¦7498 I¦7504 am¦7505_throwing¦7505_out¦7505 untr the¦7506untr* demons¦7507 by¦7501 ",
+    "But¦7499 if¦7498 I¦7504 am¦7505_casting¦7505_out¦7505 untr the¦7506untr* demons¦7507 by¦7501 ",
     {
      "type": "char",
      "marker": "add",
@@ -6836,7 +6831,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^one¦7825"
+      ">one¦7825"
      ]
     },
     "_greater¦7825 ",
@@ -6882,7 +6877,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^one¦7855"
+      ">one¦7855"
      ]
     },
     "_greater¦7855 ",
@@ -7687,7 +7682,7 @@
      "number": "42",
      "sid": "MAT 13:42"
     },
-    "and¦8940 they¦8941_will¦8941_be¦8941_throwing¦8941 them¦8943 into¦8944 the¦8945 furnace¦8946 of¦8947_the¦8947 fire¦8948, there¦8949 will¦8950_be¦8950 untr the¦8951untr* weeping¦8952 and¦8953 untr the¦8954untr* grating¦8955 of¦8957_ untr the¦8956untr* _teeth¦8957.\n",
+    "and¦8940 they¦8941_will¦8941_be¦8941_casting¦8941 them¦8943 into¦8944 the¦8945 furnace¦8946 of¦8947_the¦8947 fire¦8948, there¦8949 will¦8950_be¦8950 untr the¦8951untr* weeping¦8952 and¦8953 untr the¦8954untr* grating¦8955 of¦8957_ untr the¦8956untr* _teeth¦8957.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -7791,7 +7786,7 @@
      "number": "50",
      "sid": "MAT 13:50"
     },
-    "and¦9107 they¦9108_will¦9108_be¦9108_throwing¦9108 them¦9110 into¦9111 the¦9112 furnace¦9113 of¦9114_the¦9114 fire¦9115. There¦9116 will¦9117_be¦9117 untr the¦9118untr* weeping¦9119 and¦9120 untr the¦9121untr* grating¦9122 of¦9124_ untr the¦9123untr* _teeth¦9124.\n",
+    "and¦9107 they¦9108_will¦9108_be¦9108_casting¦9108 them¦9110 into¦9111 the¦9112 furnace¦9113 of¦9114_the¦9114 fire¦9115. There¦9116 will¦9117_be¦9117 untr the¦9118untr* weeping¦9119 and¦9120 untr the¦9121untr* grating¦9122 of¦9124_ untr the¦9123untr* _teeth¦9124.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -7970,7 +7965,7 @@
      "number": "1",
      "sid": "MAT 14:1"
     },
-    "At¦9293 that¦9294 untr the¦9296untr* time¦9297, Haʸrōdaʸs¦9299 the¦9300 quarter¦9301_ruler¦9301 heard¦9298 the¦9302 report¦9303 of¦9304_",
+    "At¦9293 that¦9294 untr the¦9296untr* time¦9297, Haʸrōᵢdaʸs¦9299 the¦9300 quarter¦9301_ruler¦9301 heard¦9298 the¦9302 report¦9303 of¦9304_",
     {
      "type": "char",
      "marker": "nd",
@@ -7992,7 +7987,7 @@
      "number": "3",
      "sid": "MAT 14:3"
     },
-    "For/Because¦9334 untr the¦9333untr* Haʸrōdaʸs¦9335 having¦9337_apprehended¦9337 untr the¦9338untr* Yōannaʸs¦9339, bound¦9340 him¦9341 and¦9342 put¦9347_ ",
+    "For/Because¦9334 untr the¦9333untr* Haʸrōᵢdaʸs¦9335 having¦9337_apprehended¦9337 untr the¦9338untr* Yōannaʸs¦9339, bound¦9340 him¦9341 and¦9342 put¦9347_ ",
     {
      "type": "char",
      "marker": "add",
@@ -8000,7 +7995,7 @@
       "<him¦9347"
      ]
     },
-    " _away¦9347 in¦9344 prison¦9346, because¦9348_of¦9348 Haʸrōidias¦9349, the¦9350 wife¦9351 of¦9352_Filippos¦9352, the¦9353 brother¦9354 of¦9355_him¦9355.\n",
+    " _away¦9347 in¦9344 prison¦9346, because¦9348_of¦9348 Haʸrōᵢdias¦9349, the¦9350 wife¦9351 of¦9352_Filippos¦9352, the¦9353 brother¦9354 of¦9355_him¦9355.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -8037,7 +8032,7 @@
       "+the¦9381"
      ]
     },
-    "_birthday¦9381_celebrations¦9381 of¦9388_ untr the¦9387untr* _Haʸrōdaʸs¦9388 having¦9384_become¦9384, the¦9390 daughter¦9391 of¦9394_ untr the¦9393untr* _Haʸrōidias¦9394 danced¦9389 in¦9396 the¦9397 midst¦9398 and¦9399 brought¦9400_pleasure¦9400 to¦9402_ untr the¦9401untr* _Haʸrōdaʸs¦9402,\n",
+    "_birthday¦9381_celebrations¦9381 of¦9388_ untr the¦9387untr* _Haʸrōᵢdaʸs¦9388 having¦9384_become¦9384, the¦9390 daughter¦9391 of¦9394_ untr the¦9393untr* _Haʸrōᵢdias¦9394 danced¦9389 in¦9396 the¦9397 midst¦9398 and¦9399 brought¦9400_pleasure¦9400 to¦9402_ untr the¦9401untr* _Haʸrōᵢdaʸs¦9402,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -8488,7 +8483,7 @@
      "number": "35",
      "sid": "MAT 14:35"
     },
-    "And¦9915 having¦9916_recognized¦9916 him¦9917, the¦9918 men¦9919 of¦9921_ untr the¦9920untr* that¦9922 _place¦9921 sent¦9923_out¦9923 to¦9924 all¦9925 untr the¦9926untr* that¦9928 surrounding¦9927_region¦9927, and¦9929 brought¦9930 to¦9931_him¦9931 all¦9932 the¦9933 ",
+    "And¦9915 having¦9916_recognised¦9916 him¦9917, the¦9918 men¦9919 of¦9921_ untr the¦9920untr* that¦9922 _place¦9921 sent¦9923_out¦9923 to¦9924 all¦9925 untr the¦9926untr* that¦9928 surrounding¦9927_region¦9927, and¦9929 brought¦9930 to¦9931_him¦9931 all¦9932 the¦9933 ",
     {
      "type": "char",
      "marker": "add",
@@ -9452,7 +9447,7 @@
       "+the¦11034"
      ]
     },
-    "_gates¦11034 of¦11035_Haidaʸs¦11035 ˓will¦11037˒_ not¦11036 _be¦11037_prevailing¦11037 against¦11038_it¦11038.\n",
+    "_gates¦11034 of¦11035_Haᵢdaʸs¦11035 ˓will¦11037˒_ not¦11036 _be¦11037_prevailing¦11037 against¦11038_it¦11038.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -12187,15 +12182,7 @@
       "Yaʸsous/(Yəhōshūˊa)¦14695"
      ]
     },
-    " ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "^they¦14696"
-     ]
-    },
-    "_said¦14696: We¦14698_have¦14698_ not¦14697 _known¦14698. He¦14703 was¦14699_saying¦14699 to¦14700_them¦14700 also¦14701: Neither¦14705 I¦14706 am¦14707_telling¦14707 to¦14708_you¦14708_all¦14708 by¦14710 what¦14711 authority¦14712 I¦14714_am¦14714_doing¦14714 these¦14713 ",
+    " they¦14696_said¦14696: We¦14698_have¦14698_ not¦14697 _known¦14698. He¦14703 was¦14699_saying¦14699 to¦14700_them¦14700 also¦14701: Neither¦14705 I¦14706 am¦14707_telling¦14707 to¦14708_you¦14708_all¦14708 by¦14710 what¦14711 authority¦14712 I¦14714_am¦14714_doing¦14714 these¦14713 ",
     {
      "type": "char",
      "marker": "add",
@@ -12538,7 +12525,7 @@
       ">one¦15063"
      ]
     },
-    " having¦15064_fallen¦15064 on¦15065 untr the¦15066untr* this¦15068 stone¦15067, will¦15069_be¦15069_being¦15069_shattered¦15069, on¦15070 but¦15072 whomever¦15071 untr wishfully¦15073untr* it¦15074_may¦15074_fall¦15074, it¦15075_will¦15075_be¦15075_pulverizing¦15075 him¦15076.\n",
+    " having¦15064_fallen¦15064 on¦15065 untr the¦15066untr* this¦15068 stone¦15067, will¦15069_be¦15069_being¦15069_shattered¦15069, on¦15070 but¦15072 whomever¦15071 untr wishfully¦15073untr* it¦15074_may¦15074_fall¦15074, it¦15075_will¦15075_be¦15075_pulverising¦15075 him¦15076.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -12820,7 +12807,7 @@
      "number": "16",
      "sid": "MAT 22:16"
     },
-    "And¦15384 they¦15385_are¦15385_sending¦15385_out¦15385 to¦15388_him¦15388 the¦15389 apprentices/followers¦15390 of¦15391_them¦15391 with¦15392 the¦15393 supporters¦15394_of¦15394_Haʸrōdaʸs¦15394 saying¦15396: Teacher¦15397, we¦15398_have¦15398_known¦15398 that¦15399 you¦15401_are¦15401 true¦15400, and¦15402 you¦15411_are¦15411_teaching¦15411 the¦15403 way¦15404 of¦15406_ untr the¦15405untr* _",
+    "And¦15384 they¦15385_are¦15385_sending¦15385_out¦15385 to¦15388_him¦15388 the¦15389 apprentices/followers¦15390 of¦15391_them¦15391 with¦15392 the¦15393 supporters¦15394_of¦15394_Haʸrōᵢdaʸs¦15394 saying¦15396: Teacher¦15397, we¦15398_have¦15398_known¦15398 that¦15399 you¦15401_are¦15401 true¦15400, and¦15402 you¦15411_are¦15411_teaching¦15411 the¦15403 way¦15404 of¦15406_ untr the¦15405untr* _",
     {
      "type": "char",
      "marker": "nd",
@@ -13532,7 +13519,7 @@
      "number": "12",
      "sid": "MAT 23:12"
     },
-    "And¦16054 whoever¦16053 will¦16055_be¦16055_exalting¦16055 himself¦16056, will¦16057_be¦16057_being¦16057_humbled¦16057, and¦16058 whoever¦16059 will¦16060_be¦16060_humbling¦16060 himself¦16061, will¦16062_be¦16062_being¦16062_exalted¦16062.\n",
+    "And¦16054 whoever¦16053 will¦16055_be¦16055_elevating¦16055 himself¦16056, will¦16057_be¦16057_being¦16057_humbled¦16057, and¦16058 whoever¦16059 will¦16060_be¦16060_humbling¦16060 himself¦16061, will¦16062_be¦16062_being¦16062_elevated¦16062.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -17486,7 +17473,7 @@
       "hand¦20473"
      ]
     },
-    " of¦20475_him¦20475, and¦20476 having¦20477_kneeled¦20477 before¦20478 him¦20479, they¦20481_mocked¦20481 at¦20482_him¦20482 saying¦20484: Greetings¦20485, untr the¦20486untr* king¦20487 of¦20488_the¦20488 Youdaiōns¦20489.\n",
+    " of¦20475_him¦20475, and¦20476 having¦20477_knelt¦20477 before¦20478 him¦20479, they¦20481_mocked¦20481 at¦20482_him¦20482 saying¦20484: Greetings¦20485, untr the¦20486untr* king¦20487 of¦20488_the¦20488 Youdaiōns¦20489.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -17616,7 +17603,7 @@
      "number": "35",
      "sid": "MAT 27:35"
     },
-    "And¦20573 having¦20572_executed¦20572_on¦20572_a¦20572_stake¦20572 him¦20574, they¦20575_divided¦20575 the¦20577 clothes¦20578 of¦20579_him¦20579, throwing¦20580 ",
+    "And¦20573 having¦20572_executed¦20572_on¦20572_a¦20572_stake¦20572 him¦20574, they¦20575_divided¦20575 the¦20577 clothes¦20578 of¦20579_him¦20579, casting¦20580 ",
     {
      "type": "char",
      "marker": "add",
@@ -18304,7 +18291,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦21213"
+      "+a¦21213"
      ]
     },
     "_messenger¦21213 of¦21215_",

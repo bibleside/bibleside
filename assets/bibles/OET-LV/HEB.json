@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:12 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "Hebraios\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -134,7 +129,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦140982"
+      "&his¦140982"
      ]
     },
     "_son¦140982, whom¦140983 he¦140984_appointed¦140984 heir¦140985 of¦140986_all¦140986 ",
@@ -6097,7 +6092,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦145625"
+      "&his¦145625"
      ]
     },
     "_father¦145625?\n",
@@ -6199,7 +6194,7 @@
      "number": "12",
      "sid": "HEB 12:12"
     },
-    "Therefore¦145719 your¦145720 having¦145721_been¦145721_weakened¦145721 hands¦145722, and¦145723 your¦145724 having¦145725_been¦145725_paralyzed¦145725 knees¦145726, restore¦145727,\n",
+    "Therefore¦145719 your¦145720 having¦145721_been¦145721_weakened¦145721 hands¦145722, and¦145723 your¦145724 having¦145725_been¦145725_paralysed¦145725 knees¦145726, restore¦145727,\n",
     {
      "type": "verse",
      "marker": "v",

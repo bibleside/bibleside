@@ -47,14 +47,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file created 2026-04-01 09:25 by extract_glossed_OSHB_OT_to_ESFM v1.0\n"
+    "ESFM file created 2026-10-31 14:30 by extract_glossed_OSHB_OT_to_ESFM v1.0.8\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedOTUpdates\n"
    ]
   },
   {
@@ -93,11 +93,6 @@
    ]
   },
   {
-   "type": "para",
-   "marker": "ie",
-   "content": []
-  },
-  {
    "type": "chapter",
    "marker": "c",
    "number": "1",
@@ -113,7 +108,7 @@
      "number": "1",
      "sid": "Jon 1:1"
     },
-    "And¦370571= the¦370572_message¦370572_of¦370572 =he/it¦370571_was¦370571 of¦370574_",
+    "And¦370571= the¦370572_message¦370572_of¦370572 ",
     {
      "type": "char",
      "marker": "nd",
@@ -121,7 +116,7 @@
       "YHWH¦370574"
      ]
     },
-    " to¦370575 Yōnāh¦370577 the¦370578_son¦370578_of¦370578 ʼAmittay¦370580 to¦370581=say¦370581.\n",
+    " =he/it¦370571_was¦370571 to¦370575 Yōnāh¦370577 the¦370578_son¦370578_of¦370578 ʼAmittay¦370580 to¦370581=say¦370581.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -197,14 +192,14 @@
       "YHWH¦370622"
      ]
     },
-    " he¦370623_hurled¦370623 a¦370624_wind¦370624 great¦370626 to¦370627 the¦370629=sea¦370629 and¦370630= a¦370631_storm¦370631 =he/it¦370630_was¦370630 great¦370633 on¦370634÷sea¦370634 and¦370635÷the¦370635÷ship¦370635 it¦370636_thought¦370636 to¦370637÷be¦370637_broken¦370637.\n",
+    " he¦370623_hurled¦370623 a¦370624_wind¦370624 great¦370626 to¦370627 the¦370629=sea¦370629 and¦370630= a¦370631_storm¦370631 great¦370633 =he/it¦370630_was¦370630 on¦370634÷sea¦370634 and¦370635÷the¦370635÷ship¦370635 it¦370636_thought¦370636 to¦370637÷be¦370637_broken¦370637.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "Jon 1:5"
     },
-    "And¦370639÷they¦370639_were¦370639_afraid¦370639 the¦370640÷mariners¦370640 and¦370641÷they¦370641_cried¦370641_for¦370641_help¦370641 each¦370642 to¦370643 his/its¦370645=god¦370645 and¦370646÷they¦370646_hurled¦370646 untr DOM¦370647untr* the¦370649=vessels¦370649 which¦370650 ",
+    "And¦370639= the¦370640÷mariners¦370640 =they¦370639_were¦370639_afraid¦370639 and¦370641÷they¦370641_cried¦370641_for¦370641_help¦370641 each¦370642 to¦370643 his/its¦370645=god¦370645 and¦370646÷they¦370646_hurled¦370646 untr DOM¦370647untr* the¦370649=vessels¦370649 which¦370650 ",
     {
      "type": "char",
      "marker": "add",
@@ -227,21 +222,21 @@
       "+is¦370674"
      ]
     },
-    "_to¦370674÷you¦370674 sleeping¦370675 arise¦370676 call¦370677 to¦370678 god¦370680_of¦370680÷your¦370680 perhaps¦370681 he¦370682_will¦370682_give¦370682_thought¦370682 the¦370683=ʼElohīm¦370683 to/for¦370684=us¦370684 and¦370685=not¦370685 we¦370686_will¦370686_perish¦370686.\n",
+    "_to¦370674÷you¦370674 sleeping¦370675 arise¦370676 call¦370677 to¦370678 god¦370680_of¦370680÷your¦370680 perhaps¦370681 the¦370683=ʼElohīm¦370683 he¦370682_will¦370682_give¦370682_thought¦370682 to/for¦370684=us¦370684 and¦370685=not¦370685 we¦370686_will¦370686_perish¦370686.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "Jon 1:7"
     },
-    "And¦370688=they¦370688_said¦370688 each¦370689 to¦370690 his/its¦370692=neighbour¦370692 come¦370693 and¦370694÷let¦370694_us¦370694_throw¦370694 lots¦370695 so¦370696÷that¦370696_we¦370696_may¦370696_know¦370696 by¦370697÷which¦370697÷of¦370697÷whom¦370697 the¦370698÷evil¦370698 (the)¦370699÷this¦370699 to/for¦370700=us¦370700 and¦370701÷they¦370701_throw¦370701 lots¦370702 and¦370703÷it¦370703_fell¦370703 the¦370704÷lot¦370704 on¦370705 Yōnāh/(Jonah)¦370707.\n",
+    "And¦370688=they¦370688_said¦370688 each¦370689 to¦370690 his/its¦370692=neighbour¦370692 come¦370693 and¦370694÷let¦370694_us¦370694_throw¦370694 lots¦370695 so¦370696÷that¦370696_we¦370696_may¦370696_know¦370696 by¦370697÷which¦370697÷of¦370697÷whom¦370697 the¦370698÷evil¦370698 (the)¦370699÷this¦370699 to/for¦370700=us¦370700 and¦370701÷they¦370701_throw¦370701 lots¦370702 and¦370703= the¦370704÷lot¦370704 =it¦370703_fell¦370703 on¦370705 Yōnāh/(Jonah)¦370707.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "Jon 1:8"
     },
-    "And¦370709=they¦370709_said¦370709 to¦370710=him/it¦370710 tell¦370711 please¦370713 to/for¦370714=us¦370714 because¦370715 of¦370716÷whom¦370716 the¦370718÷evil¦370718 (the)¦370719÷this¦370719 to/for¦370720=us¦370720 what¦370721 occupation¦370723_of¦370723÷",
+    "And¦370709=they¦370709_said¦370709 to¦370710=him/it¦370710 tell¦370711 please¦370713 to/for¦370714=us¦370714 because¦370715÷account¦370715_of¦370715_that¦370715 of¦370716÷whom¦370716 the¦370718÷evil¦370718 (the)¦370719÷this¦370719 to/for¦370720=us¦370720 what¦370721 occupation¦370723_of¦370723÷",
     {
      "type": "char",
      "marker": "add",
@@ -303,7 +298,7 @@
      "number": "10",
      "sid": "Jon 1:10"
     },
-    "And¦370755÷they¦370755_feared¦370755 the¦370756÷men¦370756 a¦370757_fear¦370757 great¦370758 and¦370759=they¦370759_said¦370759 to¦370760=him/it¦370760 what¦370761 this¦370763 have¦370764_you¦370764_done¦370764 if/because¦370765 they¦370767_knew¦370767 the¦370768÷men¦370768 if/because¦370769_that¦370769 from¦370771=to/for¦370771=face/front/presence¦370771 ",
+    "And¦370755= the¦370756÷men¦370756 =they¦370755_feared¦370755 a¦370757_fear¦370757 great¦370758 and¦370759=they¦370759_said¦370759 to¦370760=him/it¦370760 what¦370761 this¦370763 have¦370764_you¦370764_done¦370764 if/because¦370765 the¦370768÷men¦370768 they¦370767_knew¦370767 if/because¦370769_that¦370769 from¦370771=to/for¦370771=face/front/presence¦370771 ",
     {
      "type": "char",
      "marker": "nd",
@@ -326,7 +321,7 @@
      "number": "11",
      "sid": "Jon 1:11"
     },
-    "And¦370779=they¦370779_said¦370779 to¦370780=him/it¦370780 what¦370781 will¦370783_we¦370783_do¦370783 to¦370784÷you¦370784 so¦370785÷that¦370785_it¦370785_will¦370785_be¦370785_quiet¦370785 the¦370786=sea¦370786 from¦370787÷on¦370787÷us¦370787 if/because¦370788 the¦370789=sea¦370789 ",
+    "And¦370779=they¦370779_said¦370779 to¦370780=him/it¦370780 what¦370781 will¦370783_we¦370783_do¦370783 to¦370784÷you¦370784 so¦370785= the¦370786=sea¦370786 =that¦370785_it¦370785_will¦370785_be¦370785_quiet¦370785 from¦370787÷on¦370787÷us¦370787 if/because¦370788 the¦370789=sea¦370789 ",
     {
      "type": "char",
      "marker": "add",
@@ -341,7 +336,7 @@
      "number": "12",
      "sid": "Jon 1:12"
     },
-    "And¦370793=he/it¦370793_said¦370793 to¦370794÷them¦370794 pick¦370795÷me¦370795_up¦370795 and¦370796÷hurl¦370796÷me¦370796 into¦370797 the¦370799=sea¦370799 and¦370800÷it¦370800_will¦370800_be¦370800_quiet¦370800 the¦370801=sea¦370801 from¦370802÷on¦370802÷you(pl)¦370802 if/because¦370803 ",
+    "And¦370793=he/it¦370793_said¦370793 to¦370794÷them¦370794 pick¦370795÷me¦370795_up¦370795 and¦370796÷hurl¦370796÷me¦370796 into¦370797 the¦370799=sea¦370799 and¦370800= the¦370801=sea¦370801 =it¦370800_will¦370800_be¦370800_quiet¦370800 from¦370802÷on¦370802÷you(pl)¦370802 if/because¦370803 I¦370805 ",
     {
      "type": "char",
      "marker": "add",
@@ -349,7 +344,7 @@
       "+am¦370804"
      ]
     },
-    "_knowing¦370804 I¦370805 if/because¦370806_that¦370806 by¦370807÷which¦370807÷of¦370807÷me¦370807 the¦370808÷storm¦370808 (the)¦370809÷great¦370809 the¦370810=this¦370810 ",
+    "_knowing¦370804 if/because¦370806_that¦370806 by¦370807÷which¦370807÷of¦370807÷me¦370807 the¦370808÷storm¦370808 (the)¦370809÷great¦370809 the¦370810=this¦370810 ",
     {
      "type": "char",
      "marker": "add",
@@ -364,7 +359,7 @@
      "number": "13",
      "sid": "Jon 1:13"
     },
-    "And¦370813÷they¦370813_rowed¦370813 the¦370814÷men¦370814 to¦370815÷bring¦370815_back¦370815 to¦370816 the¦370818=dry¦370818_ground¦370818 and¦370819=not¦370819 they¦370820_were¦370820_able¦370820 if/because¦370821 the¦370822=sea¦370822 ",
+    "And¦370813= the¦370814÷men¦370814 =they¦370813_rowed¦370813 to¦370815÷bring¦370815_back¦370815 to¦370816 the¦370818=dry¦370818_ground¦370818 and¦370819=not¦370819 they¦370820_were¦370820_able¦370820 if/because¦370821 the¦370822=sea¦370822 ",
     {
      "type": "char",
      "marker": "add",
@@ -410,14 +405,14 @@
      "number": "15",
      "sid": "Jon 1:15"
     },
-    "And¦370855÷they¦370855_picked¦370855_up¦370855 untr DOM¦370856untr* Yōnāh/(Jonah)¦370858 and¦370859÷they¦370859÷hurled¦370859_him¦370859 into¦370860 the¦370862=sea¦370862 and¦370863÷it¦370863_stopped¦370863 the¦370864=sea¦370864 from¦370865÷its¦370865÷storming¦370865.\n",
+    "And¦370855÷they¦370855_picked¦370855_up¦370855 untr DOM¦370856untr* Yōnāh/(Jonah)¦370858 and¦370859÷they¦370859÷hurled¦370859_him¦370859 into¦370860 the¦370862=sea¦370862 and¦370863= the¦370864=sea¦370864 =it¦370863_stopped¦370863 from¦370865÷storming¦370865÷its¦370865.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "Jon 1:16"
     },
-    "And¦370867÷they¦370867_feared¦370867 the¦370868÷men¦370868 a¦370869_fear¦370869 great¦370870 untr DOM¦370871untr* ",
+    "And¦370867= the¦370868÷men¦370868 =they¦370867_feared¦370867 a¦370869_fear¦370869 great¦370870 untr DOM¦370871untr* ",
     {
      "type": "char",
      "marker": "nd",
@@ -474,7 +469,7 @@
      ],
      "caller": "+"
     },
-    " and¦370882= ",
+    " And¦370882= ",
     {
      "type": "char",
      "marker": "nd",
@@ -511,7 +506,7 @@
      ],
      "caller": "+"
     },
-    " and¦370900= Yōnāh¦370901 =he¦370900_prayed¦370900 to¦370902 ",
+    " And¦370900= Yōnāh¦370901 =he¦370900_prayed¦370900 to¦370902 ",
     {
      "type": "char",
      "marker": "nd",
@@ -548,7 +543,7 @@
      ],
      "caller": "+"
     },
-    " and¦370910=he/it¦370910_said¦370910 I¦370911_called¦370911 from¦370912÷distress¦370912 to¦370913=me¦370913 to¦370914 ",
+    " And¦370910=he/it¦370910_said¦370910 I¦370911_called¦370911 from¦370912÷distress¦370912 to¦370913=me¦370913 to¦370914 ",
     {
      "type": "char",
      "marker": "nd",
@@ -585,7 +580,7 @@
      ],
      "caller": "+"
     },
-    " and¦370925÷you¦370925÷have¦370925_thrown¦370925_me¦370925 ",
+    " And¦370925÷you¦370925÷have¦370925_thrown¦370925_me¦370925 ",
     {
      "type": "char",
      "marker": "add",
@@ -609,7 +604,7 @@
       "+the¦370928"
      ]
     },
-    "_seas¦370928 and¦370929÷a¦370929_river¦370929 it¦370930÷surrounds¦370930_me¦370930 all¦370931_of¦370931 breakers¦370933_of¦370933÷your¦370933 and¦370934÷your(pl)¦370934_of¦370934÷waves¦370934 over¦370935÷me¦370935 they¦370936_have¦370936_passed¦370936.\n",
+    "_seas¦370928 and¦370929÷a¦370929_river¦370929 it¦370930÷surrounds¦370930_me¦370930 all¦370931_of¦370931 breakers¦370933_of¦370933÷your¦370933 and¦370934÷waves¦370934_of¦370934÷your¦370934 over¦370935÷me¦370935 they¦370936_have¦370936_passed¦370936.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -638,7 +633,7 @@
      ],
      "caller": "+"
     },
-    " and¦370939÷I¦370939 I¦370940_said¦370940 I¦370941_have¦370941_been¦370941_driven¦370941_away¦370941 from¦370942÷before¦370942 eyes¦370943_of¦370943÷your¦370943 nevertheless¦370944 I¦370945_will¦370945_repeat¦370945 to¦370946÷look¦370946 to¦370947 the¦370949_temple¦370949_of¦370949 your¦370950_holiness¦370950_of¦370950÷of¦370950.\n",
+    " And¦370939÷I¦370939 I¦370940_said¦370940 I¦370941_have¦370941_been¦370941_driven¦370941_away¦370941 from¦370942÷before¦370942 eyes¦370943_of¦370943÷your¦370943 nevertheless¦370944 I¦370945_will¦370945_repeat¦370945 to¦370946÷look¦370946 to¦370947 the¦370949_temple¦370949_of¦370949 your¦370950_holiness¦370950_of¦370950÷your¦370950.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -667,7 +662,7 @@
      ],
      "caller": "+"
     },
-    " they¦370953÷have¦370953_encompassed¦370953_me¦370953 waters¦370954 to¦370955 ",
+    " They¦370953÷have¦370953_encompassed¦370953_me¦370953 waters¦370954 to¦370955 ",
     {
      "type": "char",
      "marker": "add",
@@ -683,7 +678,7 @@
       "+is¦370961"
      ]
     },
-    "_wrapped¦370961_round¦370961 to¦370962÷my¦370962_of¦370962÷head¦370962.\n",
+    "_wrapped¦370961_round¦370961 to¦370962÷head¦370962_of¦370962÷my¦370962.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -712,7 +707,7 @@
      ],
      "caller": "+"
     },
-    " to¦370965÷extremities¦370965_of¦370965 mountains¦370966 I¦370967_went¦370967_down¦370967 the¦370968=earth/land¦370968 bars¦370969_of¦370969÷its¦370969 ",
+    " To¦370965÷extremities¦370965_of¦370965 mountains¦370966 I¦370967_went¦370967_down¦370967 the¦370968=earth/land¦370968 bars¦370969_of¦370969÷its¦370969 ",
     {
      "type": "char",
      "marker": "add",
@@ -720,7 +715,7 @@
       "+were¦370970"
      ]
     },
-    "_behind¦370970÷me¦370970 forever¦370971 and¦370972÷you¦370972_brought¦370972_up¦370972 from¦370973_",
+    "_behind¦370970÷me¦370970 forever¦370971÷perpetuity¦370971 and¦370972÷you¦370972_brought¦370972_up¦370972 from¦370973_",
     {
      "type": "char",
      "marker": "add",
@@ -765,7 +760,7 @@
      ],
      "caller": "+"
     },
-    " when¦370979÷fainted¦370979_away¦370979 on¦370980÷me¦370980 life¦370981_of¦370981÷my¦370981 untr DOM¦370982untr* ",
+    " When¦370979÷fainted¦370979_away¦370979 on¦370980÷me¦370980 life¦370981_of¦370981÷my¦370981 untr DOM¦370982untr* ",
     {
      "type": "char",
      "marker": "nd",
@@ -773,7 +768,7 @@
       "YHWH¦370984"
      ]
     },
-    " I¦370985_remembered¦370985 and¦370986÷it¦370986_came¦370986 to¦370987÷you¦370987 prayer¦370988_of¦370988÷my¦370988 to¦370989 the¦370991_temple¦370991_of¦370991 your¦370992_holiness¦370992_of¦370992÷of¦370992.\n",
+    " I¦370985_remembered¦370985 and¦370986÷it¦370986_came¦370986 to¦370987÷you¦370987 prayer¦370988_of¦370988÷my¦370988 to¦370989 the¦370991_temple¦370991_of¦370991 your¦370992_holiness¦370992_of¦370992÷your¦370992.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -807,7 +802,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "those¦370995_who¦370995"
+      "Those¦370995_who¦370995"
      ]
     },
     "_pay¦370995_regard¦370995 vanities¦370996_of¦370996 nothingness¦370998 loyalty¦370999_of¦370999÷their¦370999 they¦371000_abandon¦371000.\n",
@@ -839,7 +834,7 @@
      ],
      "caller": "+"
     },
-    " and¦371003÷I¦371003 with¦371004÷a¦371004_voice¦371004_of¦371004 thanksgiving¦371005 I¦371006_will¦371006_sacrifice¦371006 to¦371008÷you¦371008 ",
+    " And¦371003÷I¦371003 with¦371004÷a¦371004_voice¦371004_of¦371004 thanksgiving¦371005 I¦371006_will¦371006_sacrifice¦371006 to¦371008÷you¦371008 ",
     {
      "type": "char",
      "marker": "add",
@@ -884,7 +879,7 @@
      ],
      "caller": "+"
     },
-    " and¦371017= ",
+    " And¦371017= ",
     {
      "type": "char",
      "marker": "nd",
@@ -892,7 +887,7 @@
       "YHWH¦371018"
      ]
     },
-    " =he/it¦371017_said¦371017 to¦371019÷fish¦371019 and¦371020÷it¦371020_vomitted¦371020_up¦371020 untr DOM¦371021untr* Yōnāh¦371023 to¦371024 the¦371026=dry¦371026_ground¦371026.\n"
+    " =he/it¦371017_said¦371017 to¦371019÷fish¦371019 and¦371020÷it¦371020_vomited¦371020_up¦371020 untr DOM¦371021untr* Yōnāh¦371023 to¦371024 the¦371026=dry¦371026_ground¦371026.\n"
    ]
   },
   {
@@ -911,7 +906,7 @@
      "number": "1",
      "sid": "Jon 3:1"
     },
-    "and¦371029= the¦371030_message¦371030_of¦371030 =he/it¦371029_was¦371029 of¦371032_",
+    "And¦371029= the¦371030_message¦371030_of¦371030 ",
     {
      "type": "char",
      "marker": "nd",
@@ -919,7 +914,7 @@
       "YHWH¦371032"
      ]
     },
-    " to¦371033 Yōnāh¦371035 a¦371036_second¦371036_",
+    " =he/it¦371029_was¦371029 to¦371033 Yōnāh¦371035 a¦371036_second¦371036_",
     {
      "type": "char",
      "marker": "add",
@@ -1025,14 +1020,14 @@
      "number": "5",
      "sid": "Jon 3:5"
     },
-    "And¦371091= the¦371092_people¦371092_of¦371092 =they¦371091_believed¦371091 of¦371093_Nīnəvēh¦371093 in¦371094÷god¦371094 and¦371095÷they¦371095_proclaimed¦371095 a¦371097_fast¦371097 and¦371098÷they¦371098_wore¦371098 sackcloth(s)¦371099 from¦371100÷their¦371100_of¦371100÷great¦371100 and¦371101=unto¦371101 their¦371103_of¦371103÷insignificant¦371103.\n",
+    "And¦371091= the¦371092_people¦371092_of¦371092 Nīnəvēh¦371093 =they¦371091_believed¦371091 in¦371094÷god¦371094 and¦371095÷they¦371095_proclaimed¦371095 a¦371097_fast¦371097 and¦371098÷they¦371098_wore¦371098 sackcloth(s)¦371099 from¦371100÷their¦371100_of¦371100÷great¦371100 and¦371101=unto¦371101 their¦371103_of¦371103÷insignificant¦371103.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "Jon 3:6"
     },
-    "And¦371105÷it¦371105_reached¦371105 the¦371106÷message¦371106 to¦371107 the¦371109_king¦371109_of¦371109",
+    "And¦371105= the¦371106÷message¦371106 =it¦371105_reached¦371105 to¦371107 the¦371109_king¦371109_of¦371109",
     {
      "type": "note",
      "marker": "f",
@@ -1055,7 +1050,7 @@
      ],
      "caller": "+"
     },
-    " of¦371111_Nīnəvēh¦371111 and¦371112=he/it¦371112_rose¦371112_up¦371112 from¦371113÷his¦371113_of¦371113÷throne¦371113 and¦371114÷he¦371114_took¦371114_off¦371114 cloak¦371115_of¦371115÷his¦371115 from¦371116÷on¦371116÷him¦371116 and¦371117÷he¦371117_covered¦371117 sackcloth¦371118 and¦371119=he/it¦371119_sat¦371119_down//remained//lived¦371119 on¦371120 (the)¦371122÷ash[es]¦371122.\n",
+    " of¦371111_Nīnəvēh¦371111 and¦371112=he/it¦371112_rose¦371112_up¦371112 from¦371113÷throne¦371113_of¦371113÷his¦371113 and¦371114÷he¦371114_took¦371114_off¦371114 cloak¦371115_of¦371115÷his¦371115 from¦371116÷on¦371116÷him¦371116 and¦371117÷he¦371117_covered¦371117 sackcloth¦371118 and¦371119=he/it¦371119_sat¦371119_down//remained//lived¦371119 on¦371120 (the)¦371122÷ash[es]¦371122.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1077,7 +1072,7 @@
      "number": "8",
      "sid": "Jon 3:8"
     },
-    "And¦371147÷let¦371147_them¦371147_cover¦371147_themselves¦371147 sackcloth(s)¦371148 the¦371149=humankind¦371149 and¦371150÷the¦371150÷livestock¦371150 and¦371151÷let¦371151_them¦371151_call¦371151_out¦371151 to¦371152 god¦371154 with¦371155÷force¦371155 and¦371156÷let¦371156_them¦371156_turn¦371156_back¦371156 everyone¦371157 from¦371158÷his¦371158_of¦371158÷way¦371158 (the)¦371159÷evil¦371159 and¦371160=from¦371160 the¦371162÷violence¦371162 which¦371163 ",
+    "And¦371147= the¦371149=humankind¦371149 and¦371150÷the¦371150÷livestock¦371150 =let¦371147_them¦371147_cover¦371147_themselves¦371147 sackcloth(s)¦371148 and¦371151÷let¦371151_them¦371151_call¦371151_out¦371151 to¦371152 god¦371154 with¦371155÷force¦371155 and¦371156÷let¦371156_them¦371156_turn¦371156_back¦371156 everyone¦371157 from¦371158÷way¦371158_of¦371158÷his¦371158 (the)¦371159÷evil¦371159 and¦371160=from¦371160 the¦371162÷violence¦371162 which¦371163 ",
     {
      "type": "char",
      "marker": "add",
@@ -1085,7 +1080,7 @@
       "+is¦371164"
      ]
     },
-    "_in¦371164÷their¦371164_of¦371164÷palms¦371164.\n",
+    "_in¦371164÷palms¦371164_of¦371164÷their¦371164.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1100,14 +1095,14 @@
       "+is¦371168"
      ]
     },
-    "_knowing¦371168 he¦371169_will¦371169_turn¦371169 and¦371170÷he¦371170_will¦371170_relent¦371170 the¦371171=ʼElohīm¦371171 and¦371172÷he¦371172_will¦371172_turn¦371172_back¦371172 from¦371173÷the¦371173_burning¦371173_of¦371173 his¦371174_anger¦371174_of¦371174÷of¦371174 and¦371175=not¦371175 we¦371176_will¦371176_perish¦371176.\n",
+    "_knowing¦371168 he¦371169_will¦371169_turn¦371169 and¦371170= the¦371171=ʼElohīm¦371171 =he¦371170_will¦371170_relent¦371170 and¦371172÷he¦371172_will¦371172_turn¦371172_back¦371172 from¦371173÷the¦371173_burning¦371173_of¦371173 his¦371174_anger¦371174_of¦371174÷his¦371174 and¦371175=not¦371175 we¦371176_will¦371176_perish¦371176.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "Jon 3:10"
     },
-    "And¦371178=he/it¦371178_saw¦371178 the¦371179=ʼElohīm¦371179 untr DOM¦371180untr* deeds¦371182_of¦371182÷their¦371182 if/because¦371183_that¦371183 they¦371185_turned¦371185_back¦371185 from¦371186÷their¦371186_of¦371186÷way¦371186 (the)¦371187÷evil¦371187 and¦371188=he/it¦371188_sighed/regretted¦371188 the¦371189=ʼElohīm¦371189 on¦371190 the¦371192÷evil¦371192 which¦371193 he¦371195_had¦371195_said¦371195 for¦371196=doing¦371196 to/for¦371198=them¦371198 and¦371199=not¦371199 he¦371200_did¦371200_",
+    "And¦371178= the¦371179=ʼElohīm¦371179 =he/it¦371178_saw¦371178 untr DOM¦371180untr* deeds¦371182_of¦371182÷their¦371182 if/because¦371183_that¦371183 they¦371185_turned¦371185_back¦371185 from¦371186÷way¦371186_of¦371186÷their¦371186 (the)¦371187÷evil¦371187 and¦371188= the¦371189=ʼElohīm¦371189 =he/it¦371188_sighed/regretted¦371188 on¦371190 the¦371192÷evil¦371192 which¦371193 he¦371195_had¦371195_said¦371195 for¦371196=doing¦371196 to/for¦371198=them¦371198 and¦371199=not¦371199 he¦371200_did¦371200_",
     {
      "type": "char",
      "marker": "add",
@@ -1165,7 +1160,7 @@
       "+was¦371220"
      ]
     },
-    "_this¦371220 message¦371221_of¦371221÷my¦371221 until¦371222 I¦371224÷was¦371224 on¦371225 land¦371227_of¦371227÷my¦371227_own¦371227 therefore¦371228 yes/correct/thus/so¦371230 I¦371231_did¦371231_the¦371231_first¦371231_time¦371231 to¦371232÷flee¦371232 to¦371233÷Tarshiysh¦371233 if/because¦371234 I¦371235_knew¦371235 if/because¦371236_that¦371236 you¦371237 ",
+    "_this¦371220 message¦371221_of¦371221÷my¦371221 until¦371222 was¦371224÷I¦371224 on¦371225 land¦371227_of¦371227÷my¦371227_own¦371227 therefore¦371228 yes/correct/thus/so¦371230 I¦371231_did¦371231_the¦371231_first¦371231_time¦371231 to¦371232÷flee¦371232 to¦371233÷Tarshiysh¦371233 if/because¦371234 I¦371235_knew¦371235 if/because¦371236_that¦371236 you¦371237 ",
     {
      "type": "char",
      "marker": "add",
@@ -1211,7 +1206,7 @@
      "number": "4",
      "sid": "Jon 4:4"
     },
-    "and¦371267= ",
+    "And¦371267= ",
     {
      "type": "char",
      "marker": "nd",
@@ -1241,21 +1236,21 @@
       "YHWH¦371297"
      ]
     },
-    " =he/it¦371296_assigned¦371296 god¦371299 a¦371300_plant¦371300 and¦371301=he/it¦371301_ascended¦371301 from¦371303=under¦371303 (to)¦371304÷Yōnāh¦371304 to¦371305=be¦371305 shade¦371306 over¦371307 his/its¦371309=head¦371309 to¦371310÷deliver¦371310 to¦371311=him/it¦371311 from¦371312÷his¦371312_of¦371312÷distress¦371312 and¦371313= Yōnāh¦371314 =he¦371313_rejoiced¦371313 on¦371315 the¦371317÷plant¦371317 a¦371318_joy¦371318 great¦371319.\n",
+    " god¦371299 =he/it¦371296_assigned¦371296 a¦371300_plant¦371300 and¦371301=he/it¦371301_ascended¦371301 from¦371303=under¦371303 (to)¦371304÷Yōnāh¦371304 to¦371305=be¦371305 shade¦371306 over¦371307 his/its¦371309=head¦371309 to¦371310÷deliver¦371310 to¦371311=him/it¦371311 from¦371312÷distress¦371312_of¦371312÷his¦371312 and¦371313= Yōnāh¦371314 =he¦371313_rejoiced¦371313 on¦371315 the¦371317÷plant¦371317 a¦371318_joy¦371318 great¦371319.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "Jon 4:7"
     },
-    "And¦371321=he/it¦371321_assigned¦371321 the¦371322=ʼElohīm¦371322 a¦371323_worm¦371323 when¦371324÷came¦371324_up¦371324 the¦371325÷dawn¦371325 to¦371326÷day¦371326 and¦371327÷it¦371327_attacked¦371327 untr DOM¦371328untr* the¦371330÷plant¦371330 and¦371331÷it¦371331_withered¦371331.\n",
+    "And¦371321= the¦371322=ʼElohīm¦371322 =he/it¦371321_assigned¦371321 a¦371323_worm¦371323 when¦371324= the¦371325÷dawn¦371325 =came¦371324_up¦371324 to¦371326÷day¦371326 and¦371327÷it¦371327_attacked¦371327 untr DOM¦371328untr* the¦371330÷plant¦371330 and¦371331÷it¦371331_withered¦371331.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "Jon 4:8"
     },
-    "And¦371333=he/it¦371333_was¦371333 just¦371335÷as¦371335_arose¦371335 the¦371336÷sun¦371336 and¦371337= god¦371338 =he/it¦371337_assigned¦371337 a¦371339_wind¦371339_of¦371339 an¦371340_east¦371340_wind¦371340 hot¦371341 and¦371342÷it¦371342_struck¦371342 the¦371343÷sun¦371343 on¦371344 the¦371346_head¦371346_of¦371346 Yōnāh/(Jonah)¦371347 and¦371348÷he¦371348_became¦371348_faint¦371348 and¦371349÷he¦371349_asked¦371349 untr DOM¦371350untr* life¦371352_of¦371352÷his¦371352 to¦371353÷die¦371353 and¦371354=he/it¦371354_said¦371354 ",
+    "And¦371333=he/it¦371333_was¦371333 just¦371335= the¦371336÷sun¦371336 =as¦371335_arose¦371335 and¦371337= god¦371338 =he/it¦371337_assigned¦371337 a¦371339_wind¦371339_of¦371339 an¦371340_east¦371340_wind¦371340 hot¦371341 and¦371342= the¦371343÷sun¦371343 =it¦371342_struck¦371342 on¦371344 the¦371346_head¦371346_of¦371346 Yōnāh/(Jonah)¦371347 and¦371348÷he¦371348_became¦371348_faint¦371348 and¦371349÷he¦371349_asked¦371349 untr DOM¦371350untr* life¦371352_of¦371352÷his¦371352 to¦371353÷die¦371353 and¦371354=he/it¦371354_said¦371354 ",
     {
      "type": "char",
      "marker": "add",
@@ -1300,7 +1295,7 @@
       "+are¦371412"
      ]
     },
-    " in¦371414÷it¦371414 many¦371415 more¦371416÷than¦371416_two¦371416_plus¦371416 ten¦371418 ten¦371419_thousand¦371419 person[s]¦371420 who¦371421 not¦371422 he¦371424_distinguishes¦371424 between¦371425 hand¦371427_of¦371427÷his¦371427_right¦371427 and¦371428÷his¦371428_of¦371428÷left¦371428 and¦371429÷livestock¦371429 much¦371430.\n"
+    " in¦371414÷it¦371414 many¦371415 more¦371416÷than¦371416_two¦371416_plus¦371416 ten¦371418 ten¦371419_thousand¦371419 person[s]¦371420 who¦371421 not¦371422 he¦371424_distinguishes¦371424 between¦371425 hand¦371427_of¦371427÷his¦371427_right¦371427 and¦371428÷left¦371428_of¦371428÷his¦371428 and¦371429÷livestock¦371429 much¦371430.\n"
    ]
   }
  ]

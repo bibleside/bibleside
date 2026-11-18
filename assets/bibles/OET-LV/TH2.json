@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:12 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "2 Thessalonians\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -550,7 +545,7 @@
       ">one¦136268"
      ]
     },
-    " opposing¦136269 and¦136270 exalting¦136271 ",
+    " opposing¦136269 and¦136270 elevating¦136271 ",
     {
      "type": "char",
      "marker": "add",
@@ -1297,7 +1292,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^my¦136818"
+      "&my¦136818"
      ]
     },
     "_sign¦136818 in¦136819 every¦136820 letter¦136821, thus¦136822 I¦136823_am¦136823_writing¦136823.\n",

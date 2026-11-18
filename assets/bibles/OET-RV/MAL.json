@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "MAL",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.05"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.3"
    ]
   },
   {
@@ -126,7 +126,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -150,7 +150,15 @@
      "number": "1",
      "sid": "MAL 1:1"
     },
-    "This is a message¦380162 that Yahweh¦380164 gave to Malaki for the Israelis:\n"
+    "This is a message¦380162 that Yahweh¦380164 gave to¦380165 Malaki¦380169 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Malachi¦380169)"
+     ]
+    },
+    " for the Israelis¦380167:\n"
    ]
   },
   {
@@ -177,7 +185,7 @@
      "number": "2",
      "sid": "MAL 1:2"
     },
-    "“I have loved you all,” says Yahweh, ",
+    "“I¦380171 have¦380171 loved¦380171 you¦380172 all,” says¦380173 Yahweh¦380174, ",
     {
      "type": "char",
      "marker": "add",
@@ -185,7 +193,7 @@
       "≈but¦380175"
      ]
     },
-    " you say, “How have you ",
+    " you¦380175 say¦380175, “How¦380176 have¦380177 you¦380177 ",
     {
      "type": "char",
      "marker": "add",
@@ -193,14 +201,38 @@
       "shown your"
      ]
     },
-    " love for us?”\n"
+    " love¦380177 for us¦380177?”\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "“Wasn’t Esaw¦380181 Yacob’s¦380182 brother¦380180?” declares Yahweh. “Yet I’ve¦380171 loved Yacob",
+    "“Wasn’t¦380181 Esav¦380181 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Esau¦380181)"
+     ]
+    },
+    " Ya’akov’s¦380182 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jacob’s¦380182)"
+     ]
+    },
+    " brother¦380180?” ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈declares¦380183"
+     ]
+    },
+    " Yahweh¦380185. “Yet I’ve¦380186 loved¦380186 Ya’akov¦380189",
     {
      "type": "note",
      "marker": "x",
@@ -229,7 +261,7 @@
      "number": "3",
      "sid": "MAL 1:3"
     },
-    "and ",
+    "and¦380191 ",
     {
      "type": "char",
      "marker": "add",
@@ -237,15 +269,15 @@
       "≈rejected"
      ]
     },
-    " Esaw. I’ve¦380195 turned¦380195 the hills ",
+    " Esav¦380193. I’ve¦380195 turned the hills¦380198 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "where Esaw lived"
+      "where Esav lived"
      ]
     },
-    " into a wasteland¦380199 and ",
+    " into a¦380199 wasteland¦380199 and¦380200 ",
     {
      "type": "char",
      "marker": "add",
@@ -253,7 +285,7 @@
       "given"
      ]
     },
-    " his inheritance¦380202 to the wild jackals¦380203.”\n"
+    " his¦380202 inheritance¦380202 to the wild jackals¦380203.”\n"
    ]
   },
   {
@@ -266,31 +298,31 @@
      "number": "4",
      "sid": "MAL 1:4"
     },
-    "If ",
+    "If¦380206 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "Esaw’s descendants in"
+      "Esav’s descendants in"
      ]
     },
-    " Edom¦380209 say, “We’ve ",
+    " Edom¦380209 say¦380208, “We’ve¦380210 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈been crushed"
+      "≈been¦380210 crushed¦380210"
      ]
     },
-    ", but we’ll return¦380211 and ",
+    ", but¦380211 we’ll¦380211 return¦380211 and¦380212 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈rebuild¦380212 what was destroyed"
+      "≈rebuild¦380212 what was destroyed¦380213"
      ]
     },
-    ",” then army-commander¦380217 Yahweh will say, “They might build¦380219, but I will tear down. Others will call them ‘The country of wickedness¦380225’ and ‘The people¦380226 who Yahweh is forever angry with.’\n"
+    ",” then Commander-in-chief Yahweh¦380216 will say¦380215, “They might build¦380219, but¦380220 I will¦380221 tear¦380221 down¦380221. Others will¦380222 call¦380222 them¦380223 ‘The country¦380224 of¦380224 wickedness¦380225’ and¦380226 ‘The¦380226 people¦380226 who Yahweh¦380230 is forever¦380233 angry¦380229 with.’\n"
    ]
   },
   {
@@ -303,7 +335,23 @@
      "number": "5",
      "sid": "MAL 1:5"
     },
-    "Your own eyes¦380235 will see¦380236 it, and¦380237 you’ll say¦380238, ‘Yahweh¦380240 is great¦380239 even outside Yisrael’s¦380243 borders¦380242.’ ”\n"
+    "Your¦380235 own¦380235 eyes¦380235 will¦380236 see¦380236 it, and¦380237 you’ll¦380238 say¦380238, ‘Yahweh¦380240 is¦380239 great¦380239 even outside Yisrael’s¦380243 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Israel’s¦380243)"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#borders¦380242"
+     ]
+    },
+    ".’ ”\n"
    ]
   },
   {
@@ -330,37 +378,37 @@
      "number": "6",
      "sid": "MAL 1:6"
     },
-    "“A son honours his father, and a servant¦380248 ",
+    "“A¦380245 son¦380245 honours¦380246 his father¦380247, and¦380248 a¦380248 servant¦380248 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≡honours"
+      "≡honours¦380246"
      ]
     },
-    " his master, ",
+    " his¦380249 master, ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈so"
+      "≈so¦380250"
      ]
     },
-    " if I’m a father, where is my honour? If I am a master, where is my respect¦380261?” says army-commander¦380265 Yahweh¦380264 to all you priests¦380267 who despise my name.\n"
+    " if¦380250 I’m a¦380252 father¦380252, where¦380254 is¦380255 my¦380255 honour¦380255? If¦380256 I am¦380258 a¦380258 master¦380258, where¦380260 is¦380261 my¦380261 respect?” says¦380262 Commander-in-chief Yahweh¦380264 to¦380266 all you¦380266 priests¦380267 who¦380268 despise¦380268 my name.\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "“But¦380248 you say, ‘How have we despised your name?’\n",
+    "“But¦380270 you¦380270 say¦380270, ‘How¦380271 have¦380272 we¦380272 despised¦380272 your¦380275 name?’\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "MAL 1:7"
     },
-    "By offering polluted food on¦380284 my altar¦380280. But¦380283 you say¦380283, ‘How have we polluted you?’ By saying¦380286 that Yahweh’s¦380288 table¦380287 can ",
+    "By offering polluted food¦380281 on¦380278 my¦380280 altar¦380280. But¦380283 you¦380283 say¦380283, ‘How¦380284 have¦380285 we¦380285 polluted you¦380285?’ By¦380286 saying¦380286 that Yahweh’s¦380288 table¦380287 can ",
     {
      "type": "char",
      "marker": "add",
@@ -368,14 +416,14 @@
       "just"
      ]
     },
-    " be disrespected.\n",
+    " be¦380289 disrespected.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "MAL 1:8"
     },
-    "Don’t you think it’s wrong when you sacrifice¦380296 blind¦380295 animals? Isn’t it evil when you offer¦380294 lame or sick ",
+    "Don’t you think it’s wrong when¦380292 you¦380294 sacrifice¦380296 blind¦380295 animals? Isn’t¦380297 it evil¦380298 when¦380299 you¦380300 offer lame¦380301 or sick¦380302 ",
     {
      "type": "char",
      "marker": "add",
@@ -383,15 +431,7 @@
       "≡animals"
      ]
     },
-    "? Try presenting¦380305 them to your¦380314 governor¦380307! Will he welcome you or would¦380313 he ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈be offended"
-     ]
-    },
-    "?” says¦380315 army-commander¦380317 Yahweh¦380316.",
+    "?",
     {
      "type": "note",
      "marker": "x",
@@ -413,7 +453,15 @@
      ],
      "caller": "+"
     },
-    "\n"
+    " Try presenting them to¦380307 your¦380307 governor¦380307! Will¦380308 he¦380308 welcome you¦380308 or¦380312 would¦380313 he¦380313 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈be¦380308 offended"
+     ]
+    },
+    "?” says¦380315 Commander-in-chief Yahweh¦380316.\n"
    ]
   },
   {
@@ -430,15 +478,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈So¦380319 now"
+      "≈So¦380319 now¦380319"
      ]
     },
-    " bring you requests to God¦380325 and¦380319 ",
+    " bring you requests to God¦380325 and ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈hope to be showered by his grace"
+      "≈hope to be¦380329 showered by his grace"
      ]
     },
     ". ",
@@ -449,12 +497,12 @@
       "Ha,"
      ]
     },
-    " army-commander¦380336 Yahweh¦380335 ",
+    " Commander-in-chief Yahweh¦380335 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈asks how he could treat you all favourably¦380326 when you’re bringing second-class offerings"
+      "≈asks¦380334 how he¦380334 could treat you all favourably¦380326 when you’re¦380332 bringing second-class offerings"
      ]
     },
     "?\n"
@@ -470,7 +518,7 @@
      "number": "10",
      "sid": "MAL 1:10"
     },
-    "“Yeah, if only there¦380349 was one ",
+    "“Yeah, if only there¦380349 was¦380341 one ",
     {
      "type": "char",
      "marker": "add",
@@ -478,7 +526,15 @@
       ">person"
      ]
     },
-    " among¦380341 you who would shut the temple gates so that you all couldn’t ",
+    " among¦380341 you¦380341 who¦380338 would¦380342 shut¦380342 the¦380343 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "temple"
+     ]
+    },
+    " gates so¦380344 that you¦380346 all couldn’t ",
     {
      "type": "char",
      "marker": "add",
@@ -486,7 +542,7 @@
       "just continue"
      ]
     },
-    " to light¦380346 worthless fires on¦380341 my altar¦380347. I get no pleasure¦380352 from you all,” says¦380354 army-commander¦380356 Yahweh¦380355, “and I won’t¦380344 accept¦380360 any offering¦380357 ",
+    " to light¦380346 worthless fires on my¦380347 altar¦380347. I get no pleasure¦380352 from you¦380353 all,” says¦380354 Commander-in-chief Yahweh¦380355, “and¦380357 I¦380360 won’t accept¦380360 any offering¦380357 ",
     {
      "type": "char",
      "marker": "add",
@@ -501,7 +557,7 @@
      "number": "11",
      "sid": "MAL 1:11"
     },
-    "People in other countries from the east ",
+    "People in other countries from¦380364 the¦380364 east ",
     {
      "type": "char",
      "marker": "add",
@@ -509,29 +565,37 @@
       "all the way"
      ]
     },
-    " to the west will honour me, and incense¦380376 and genuine sacrifices will be offered¦380379 to me, because my reputation in those countries will be praised,” says¦380386 army-commander¦380388 Yahweh¦380387.\n",
+    " to the¦380366 west will honour me, and incense¦380376 and¦380379 genuine sacrifices will be offered¦380379 to me, because¦380381 my¦380384 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈reputation"
+     ]
+    },
+    " in those countries¦380385 will be praised,” says¦380386 Commander-in-chief Yahweh¦380387.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "MAL 1:12"
     },
-    "“But¦380392 you all are dishonouring ",
+    "“But¦380390 you¦380390 all are¦380391 dishonouring ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@my name"
+      "@my¦380392 name¦380392"
      ]
     },
-    " when you say¦380393 that the master’s¦380395 table¦380394 is polluted, and¦380390 that its fruit¦380398, its food, can be treated with¦380393 contempt.\n",
+    " when you say¦380393 that the¦380394 master’s¦380395 table¦380394 is¦380396 polluted, and¦380398 that its fruit¦380398, its¦380398 food¦380400, can be treated with contempt.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "MAL 1:13"
     },
-    "You all also say, ‘How tiresome this is,’ and¦380402 you snort at it,” says army-commander¦380409 Yahweh. “You all bring ",
+    "You¦380402 all also say¦380402, ‘How tiresome this is,’ and¦380405 you¦380405 snort at¦380405 it¦380406,” says Commander-in-chief Yahweh¦380408. “You¦380410 all bring¦380410 ",
     {
      "type": "char",
      "marker": "add",
@@ -539,14 +603,30 @@
       "animals"
      ]
     },
-    " for your offering¦380421 that were killed by a wild animal or is lame or sick. Should I accept¦380422 those from you?” says Yahweh.\n",
+    " for ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&your"
+     ]
+    },
+    " offering¦380421 that were killed by a wild animal or is lame¦380414 or sick¦380417. Should I¦380422 accept¦380422 those from¦380424 you?” says Yahweh¦380426.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "MAL 1:14"
     },
-    "“May the cheats be cursed¦380429 who have male¦380433 animals in¦380432 their flocks¦380432 and vow to give them, but¦380429 instead sacrifices¦380435 a second-class animal to the master¦380437! Yes, I’m a powerful king¦380439,” says¦380442 army-commander¦380444 Yahweh¦380443, “and my name¦380445 will be carefully respected among the nations¦380447.”\n"
+    "“May the cheats be¦380429 cursed¦380429 who¦380430 have male¦380433 animals in their ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#flocks¦380432"
+     ]
+    },
+    " and¦380434 vow¦380434 to give them, but¦380435 instead sacrifices¦380435 a¦380436 second-class animal to¦380437 the¦380437 master¦380437! Yes, I’m a¦380439 powerful¦380440 king¦380439,” says¦380442 Commander-in-chief Yahweh¦380443, “and¦380445 my¦380445 name¦380445 will be¦380446 carefully respected¦380446 among¦380447 the nations¦380447.”\n"
    ]
   },
   {
@@ -579,30 +659,30 @@
      "number": "1",
      "sid": "MAL 2:1"
     },
-    "Now¦380453 you priests¦380453, this command¦380451 is for all of you:\n",
+    "Now¦380449 you¦380450 priests¦380453, this¦380452 command¦380451 is for all of you:\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "MAL 2:2"
     },
-    "Army-commander¦380471 Yahweh¦380470 says¦380469, “If you all won’t listen¦380458 and won’t ",
+    "Commander-in-chief Yahweh¦380470 says¦380469, “If¦380455 you¦380458 all won’t listen¦380458 and¦380459 won’t¦380461 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈decide in your minds"
+      "≈decide in your minds¦380465"
      ]
     },
-    " to honour¦380467 to my ",
+    " to¦380466 honour¦380467 to¦380468 my¦380468 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈reputation"
+      "≈reputation¦380468"
      ]
     },
-    ", then I’ll send¦380472 a curse on¦380473 you all—",
+    ", then¦380472 I’ll¦380472 send¦380472 a curse on¦380473 you¦380473 all—",
     {
      "type": "char",
      "marker": "add",
@@ -610,7 +690,7 @@
       "≈in fact"
      ]
     },
-    " I’ll curse your blessings¦380480. Indeed, I’ve¦380482 ",
+    " I’ll¦380477 curse¦380477 your¦380480 blessings¦380480. Indeed, I’ve¦380482 ",
     {
      "type": "char",
      "marker": "add",
@@ -618,7 +698,7 @@
       "already"
      ]
     },
-    " cursed them, because you all are not ",
+    " cursed¦380482 them, because¦380483 you¦380484 all are¦380485 not ",
     {
      "type": "char",
      "marker": "add",
@@ -641,14 +721,30 @@
      "number": "3",
      "sid": "MAL 2:3"
     },
-    "Listen, I’m about¦380491 to rebuke¦380491 your descendants, and I’ll¦380496 spread¦380496 the offal from your festivals¦380502 on your faces¦380500, and you all will be taken¦380503 away with it.\n",
+    "Listen, I’m¦380490 about¦380491 to¦380491 rebuke¦380491 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&your¦380495"
+     ]
+    },
+    " descendants¦380495, and¦380496 I’ll¦380496 spread¦380496 the¦380501 offal from your¦380502 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#festivals¦380502"
+     ]
+    },
+    " on your¦380502 faces¦380500, and¦380503 you all will¦380503 be taken¦380503 away¦380503 with it¦380505.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "MAL 2:4"
     },
-    "That’s so you’ll all know¦380507 that it’s me who sent¦380509 this command¦380512 to you: so that my agreement with the Levites can continue,” says¦380519 army-commander¦380521 Yahweh¦380520.",
+    "That’s so¦380507 you’ll¦380507 all know¦380507 that¦380508 it’s me who sent¦380509 this¦380513 command¦380512 to¦380510 you¦380510: so that¦380513 my¦380515 agreement¦380515 with¦380516 the Levites can continue,”",
     {
      "type": "note",
      "marker": "x",
@@ -670,7 +766,7 @@
      ],
      "caller": "+"
     },
-    "\n"
+    " says¦380519 Commander-in-chief Yahweh¦380520.\n"
    ]
   },
   {
@@ -683,12 +779,12 @@
      "number": "5",
      "sid": "MAL 2:5"
     },
-    "“My agreement with ",
+    "“My¦380523 agreement with¦380526 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@your ancestor Levi"
+      "@your¦380526 ancestor¦380526 Levi¦380526"
      ]
     },
     " was ",
@@ -699,39 +795,7 @@
       "to give"
      ]
     },
-    " life¦380527 and peace¦380528, and I gave¦380529 them to ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "#them"
-     ]
-    },
-    ". It was an agreement ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈based on respect"
-     ]
-    },
-    ", and ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "#they"
-     ]
-    },
-    " respected me and ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈honoured"
-     ]
-    },
-    " my name¦380535.",
+    " life¦380527 and¦380528 peace¦380528,",
     {
      "type": "note",
      "marker": "x",
@@ -753,7 +817,39 @@
      ],
      "caller": "+"
     },
-    "\n",
+    " and¦380529 I¦380529 gave¦380529 them¦380529 to¦380531 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#them"
+     ]
+    },
+    ". It¦380531 was an agreement ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈based on respect¦380532"
+     ]
+    },
+    ", and¦380533 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#they"
+     ]
+    },
+    " respected¦380533 me¦380533 and¦380534 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈honoured"
+     ]
+    },
+    " my¦380535 name¦380535.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -764,7 +860,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈They taught the people what was right and true—they didn’t¦380544 tell lies"
+      "≈They taught the people what was¦380541 right and¦380543 true—they didn’t¦380544 tell lies"
      ]
     },
     ". ",
@@ -780,15 +876,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈worked for me peacefully¦380548 and loyally"
+      "≈worked for me peacefully¦380548 and¦380549 loyally"
      ]
     },
-    ", and they ",
+    ", and¦380552 they ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈encouraged many people to stop disobeying"
+      "≈encouraged many¦380552 people to stop disobeying"
      ]
     },
     ".\n",
@@ -805,7 +901,15 @@
       "≈Yes,"
      ]
     },
-    " priests¦380559 should pass on knowledge¦380562 and¦380563 people¦380564 should look to ",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#priests¦380559"
+     ]
+    },
+    " should pass on knowledge¦380562 and¦380563 people¦380564 should look¦380564 to ",
     {
      "type": "char",
      "marker": "add",
@@ -818,10 +922,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈for good teaching"
+      "≈for good teaching¦380563"
      ]
     },
-    ", because they¦380560 are army-commander¦380570 Yahweh’s¦380568 messengers¦380567.\n"
+    ", because¦380566 they are¦380567 Commander-in-chief Yahweh’s¦380568 messengers¦380570.\n"
    ]
   },
   {
@@ -834,7 +938,7 @@
      "number": "8",
      "sid": "MAL 2:8"
     },
-    "But¦380573 you all have turned¦380574 away from ",
+    "But¦380573 you all have¦380574 turned¦380574 away from¦380575 ",
     {
      "type": "char",
      "marker": "add",
@@ -842,7 +946,7 @@
       "that"
      ]
     },
-    " path¦380577 and¦380573 have caused¦380578 many ",
+    " path¦380577 and have¦380578 caused¦380578 many¦380579 ",
     {
      "type": "char",
      "marker": "add",
@@ -850,7 +954,7 @@
       ">people"
      ]
     },
-    " to stumble¦380578 ",
+    " to¦380578 stumble¦380578 ",
     {
      "type": "char",
      "marker": "add",
@@ -858,14 +962,22 @@
       "≈because of what you’ve taught"
      ]
     },
-    "—you all have corrupted¦380581 the agreement with¦380580 Levi¦380583,” says¦380584 army-commander¦380586 Yahweh¦380585.\n",
+    "—you¦380581 all have¦380581 corrupted¦380581 the¦380582 agreement¦380582 with Levi¦380583,” says¦380584 Commander-in-chief Yahweh¦380585.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "MAL 2:9"
     },
-    "“So¦380588 that’s why I’ve¦380591 caused you all to be despised¦380593 by all the people¦380597 and¦380588 humiliated—because¦380598 you all haven’t ",
+    "“",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦380588"
+     ]
+    },
+    " that’s¦380599 why I’ve¦380591 caused¦380591 you¦380592 all to be despised¦380593 by all¦380595 the¦380597 people¦380597 and humiliated—because you¦380600 all haven’t ",
     {
      "type": "char",
      "marker": "add",
@@ -873,7 +985,7 @@
       "≈followed me"
      ]
     },
-    ", but¦380588 rather you’ve been biased in¦380607 matters¦380598 of the law.”\n"
+    ", but¦380605 rather you’ve¦380605 been¦380605 biased in¦380607 matters of the law.”\n"
    ]
   },
   {
@@ -900,7 +1012,7 @@
      "number": "10",
      "sid": "MAL 2:10"
     },
-    "Don’t we all have one father¦380611? Didn’t the one God¦380615 create¦380617 us all? ",
+    "Don’t¦380610 we all have one father¦380611? Didn’t the one¦380612 God¦380615 create¦380617 us¦380617 all? ",
     {
      "type": "char",
      "marker": "add",
@@ -908,7 +1020,7 @@
       "So"
      ]
     },
-    " why do we cheat each other, thus disrespecting the agreement with¦380621 our¦380613 ancestors¦380624?\n",
+    " why¦380618 do¦380619 we¦380619 cheat each¦380620 other, thus disrespecting the¦380623 agreement¦380623 with our¦380624 ancestors¦380624?\n",
     {
      "type": "verse",
      "marker": "v",
@@ -927,10 +1039,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "(Judah)"
+      "!(Judah¦380627)"
      ]
     },
-    " has been unfaithful ",
+    " has been¦380629 unfaithful ",
     {
      "type": "char",
      "marker": "add",
@@ -938,7 +1050,31 @@
       "to Yahweh"
      ]
     },
-    " and done detestable things in Yisrael¦380630 and in Yerushalem¦380631. ",
+    " and done¦380629 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈detestable¦380628"
+     ]
+    },
+    " things in¦380630 Yisrael¦380630 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Israel¦380630)"
+     ]
+    },
+    " and¦380631 in¦380631 Yerushalem¦380631 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦380631)"
+     ]
+    },
+    ". ",
     {
      "type": "char",
      "marker": "add",
@@ -946,12 +1082,12 @@
       "≈Our men"
      ]
     },
-    " have defiled the temple that¦380638 Yahweh loves¦380639 by ",
+    " have¦380634 defiled¦380634 the¦380636 temple that¦380638 Yahweh¦380637 loves¦380639 by ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈marrying foreign¦380644 women who worship pagan gods"
+      "≈marrying¦380640 foreign¦380644 women who worship pagan gods¦380643"
      ]
     },
     ".\n",
@@ -961,15 +1097,15 @@
      "number": "12",
      "sid": "MAL 2:12"
     },
-    "May Yahweh, the one who is awake and the one who answers¦380652, banish the ",
+    "May Yahweh¦380647, the one who¦380649 is awake and¦380652 the one¦380652 who¦380652 answers¦380652, banish the ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "#men"
+      "#men¦380648"
      ]
     },
-    " who do this from Yisrael, even if ",
+    " who do¦380650 that from¦380653 Yisrael, even if ",
     {
      "type": "char",
      "marker": "add",
@@ -977,7 +1113,7 @@
       "#they"
      ]
     },
-    " are bringing¦380655 an offering¦380656 to army-commander¦380658 Yahweh.\n"
+    " are bringing¦380655 an¦380656 offering¦380656 to¦380657 Commander-in-chief Yahweh¦380657.\n"
    ]
   },
   {
@@ -990,7 +1126,23 @@
      "number": "13",
      "sid": "MAL 2:13"
     },
-    "Secondly¦380666, you cover¦380664 Yahweh’s¦380669 altar¦380668 with tears from all your weeping¦380670 and groaning¦380671 because¦380672 he still¦380673 ignores your offerings¦380677 and won’t¦380672 accept¦380678 what you all bring to him.\n",
+    "Secondly¦380662, you¦380663 cover¦380664 Yahweh’s¦380669 altar¦380668 with tears¦380665 from all your weeping¦380670 and¦380671 groaning¦380671 because he still¦380673 ignores ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&your¦380677"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#offerings¦380677"
+     ]
+    },
+    " and¦380678 won’t¦380672 accept what you all bring¦380678 to him.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1004,12 +1156,12 @@
       "≈So¦380682"
      ]
     },
-    " you ",
+    " you¦380682 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈ask"
+      "≈ask¦380682"
      ]
     },
     ", “Why not?” ",
@@ -1020,7 +1172,7 @@
       "Well,"
      ]
     },
-    " it’s because Yahweh¦380689 can testify¦380690 that you’ve¦380698 been unfaithful to the wife that you ",
+    " it’s because¦380687 Yahweh¦380689 can testify¦380690 that you’ve¦380691 been unfaithful to the¦380694 wife¦380694 that you¦380697 ",
     {
      "type": "char",
      "marker": "add",
@@ -1028,22 +1180,22 @@
       "≈married"
      ]
     },
-    " when you were young, even though she was your companion¦380701, and¦380682 despite your vows.\n",
+    " when you¦380698 were young¦380695, even though she¦380700 was¦380701 your¦380701 companion¦380701, and¦380702 despite your¦380703 vows.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "MAL 2:15"
     },
-    "Didn’t ",
+    "Didn’t¦380705 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@Yahweh"
+      "@Yahweh¦380708"
      ]
     },
-    " make ",
+    " make¦380708 ",
     {
      "type": "char",
      "marker": "add",
@@ -1051,7 +1203,7 @@
       "you and your wife"
      ]
     },
-    " one and give you some of his spirit because he wanted godly children ",
+    " one and¦380709 give you some of¦380709 his spirit¦380710 because he wanted¦380714 godly children¦380715 ",
     {
      "type": "char",
      "marker": "add",
@@ -1064,15 +1216,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈So¦380705"
+      "≈So¦380717"
      ]
     },
-    " guard¦380717 yourselves in¦380718 your spirit, and don’t¦380705 be unfaithful to the ",
+    " guard¦380717 yourselves in¦380718 your spirit, and¦380719 don’t be unfaithful to the¦380719 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈woman you married when you were young"
+      "≈woman¦380719 you married when you were young¦380720"
      ]
     },
     ".\n"
@@ -1088,7 +1240,15 @@
      "number": "16",
      "sid": "MAL 2:16"
     },
-    "“Indeed, I hate divorce,” says Yahweh, the god¦380731 of Yisrael¦380732, “and ",
+    "“Indeed, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%I¦380727"
+     ]
+    },
+    " hate¦380727 divorce,” says Yahweh¦380730, the¦380731 god¦380731 of¦380731 Yisrael¦380732, “and¦380733 ",
     {
      "type": "char",
      "marker": "add",
@@ -1096,15 +1256,15 @@
       "≈so-called ‘good people’ who are actually cruel"
      ]
     },
-    ",” says army-commander¦380740 Yahweh. “So ",
+    ",” says Commander-in-chief Yahweh¦380739. “So¦380741 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈listen to your consciences"
+      "≈listen¦380741 to your¦380742 consciences"
      ]
     },
-    " and don’t¦380743 be unfaithful.”\n"
+    " and¦380743 don’t¦380743 be unfaithful.”\n"
    ]
   },
   {
@@ -1131,7 +1291,7 @@
      "number": "17",
      "sid": "MAL 2:17"
     },
-    "You’ve all wearied Yahweh with your¦380753 words¦380749, and ",
+    "You’ve¦380747 all wearied¦380747 Yahweh¦380748 with¦380749 your¦380749 words¦380749, and¦380750 ",
     {
      "type": "char",
      "marker": "add",
@@ -1139,7 +1299,7 @@
       "yet"
      ]
     },
-    " you ",
+    " you¦380750 ",
     {
      "type": "char",
      "marker": "add",
@@ -1147,7 +1307,15 @@
       "≈ask¦380750"
      ]
     },
-    ", “How have we¦380752 wearied him¦380752?” By saying¦380753, “Yahweh is pleased ",
+    ", “How¦380751 have we¦380752 wearied¦380752 him¦380752?” By¦380753 saying¦380753, “Yahweh ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈is pleased"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -1155,7 +1323,15 @@
       "even"
      ]
     },
-    " with those who do evil¦380757, and he’s happy with ",
+    " with ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#those"
+     ]
+    },
+    " who¦380756 do¦380756 evil¦380757, and he’s happy with ",
     {
      "type": "char",
      "marker": "add",
@@ -1163,7 +1339,7 @@
       "all"
      ]
     },
-    " of them,” or “Where is the god¦380767 of justice¦380768?”\n"
+    " of them¦380762,” or¦380765 “Where¦380766 is¦380767 the¦380767 god¦380767 of¦380767 justice¦380768?”\n"
    ]
   },
   {
@@ -1189,15 +1365,7 @@
      "number": "1",
      "sid": "MAL 3:1"
     },
-    "“Listen, I’m about to send my messenger and he’ll prepare¦380773 the path¦380775 ahead of me. Then the master¦380782 who you’re all looking¦380787 for¦380787 will suddenly¦380777 come to his temple¦380781, ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "yes,"
-     ]
-    },
-    " the messenger who you are all happy about—the party to the agreement—he’ll come,” says army-commander¦380799 Yahweh¦380798.",
+    "“Listen, I’m¦380770 about¦380771 to¦380771 send¦380771 my¦380772 messenger and¦380773 he’ll¦380773 prepare¦380773 the path¦380775 ahead¦380776 of me¦380776.",
     {
      "type": "note",
      "marker": "x",
@@ -1219,7 +1387,23 @@
      ],
      "caller": "+"
     },
-    "\n",
+    " Then¦380777 the¦380782 master¦380782 who¦380784 you’re¦380786 all ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈looking¦380787 for¦380787"
+     ]
+    },
+    " will suddenly¦380777 come¦380778 to¦380779 his¦380781 temple¦380781, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "yes,"
+     ]
+    },
+    " the¦380788 messenger¦380788 who¦380790 you¦380792 are¦380793 all happy about¦380796—the party to¦380796 the agreement¦380789—he’ll¦380778 come¦380796,” says¦380797 Commander-in-chief Yahweh¦380798.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1230,18 +1414,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈But¦380801 who could survive it when he comes"
+      "≈But¦380801 who¦380801 could survive¦380802 it when he comes¦380806"
      ]
     },
-    "? Who¦380803 can stand¦380808 when he appears¦380809, because he’ll be like the refiner’s¦380814 fire¦380813 and¦380801 like the cleaners’ ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "powerful"
-     ]
-    },
-    " soap?",
+    "? Who can stand¦380808 when¦380809 he appears¦380809,",
     {
      "type": "note",
      "marker": "x",
@@ -1263,7 +1439,15 @@
      ],
      "caller": "+"
     },
-    "\n",
+    " because¦380810 he’ll¦380812 be¦380813 like¦380813 the¦380813 refiner’s¦380814 fire¦380813 and¦380815 like¦380815 the¦380815 cleaners’ ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "powerful"
+     ]
+    },
+    " soap¦380815?\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1274,10 +1458,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "@Yahweh"
+      "@Yahweh¦380818"
      ]
     },
-    " will act as a refiner and purifier of silver, and he will purify Levi’s¦380827 descendants¦380825 ",
+    " will¦380818 act as a refiner and¦380820 purifier¦380820 of silver¦380821, and¦380822 he¦380822 will¦380822 purify¦380822 Levi’s¦380827 descendants¦380825 ",
     {
      "type": "char",
      "marker": "add",
@@ -1293,7 +1477,7 @@
       "yes,"
      ]
     },
-    " he’ll refine ",
+    " he’ll¦380828 refine¦380828 ",
     {
      "type": "char",
      "marker": "add",
@@ -1306,10 +1490,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "with¦380836 fire"
+      "with fire"
      ]
     },
-    " like gold¦380830 and silver, and ",
+    " like¦380830 gold¦380830 and¦380831 silver¦380831, and¦380832 ",
     {
      "type": "char",
      "marker": "add",
@@ -1317,12 +1501,20 @@
       "&you’ll"
      ]
     },
-    " bring¦380834 offerings¦380835 to ",
+    " bring¦380834 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "*him"
+      "#offerings¦380835"
+     ]
+    },
+    " to¦380833 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*him¦380833"
      ]
     },
     " that are ",
@@ -1347,7 +1539,15 @@
       "After that,"
      ]
     },
-    " the offerings¦380840 of ",
+    " the¦380840 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#offerings¦380840"
+     ]
+    },
+    " of¦380840 ",
     {
      "type": "char",
      "marker": "add",
@@ -1355,15 +1555,31 @@
       "the people of"
      ]
     },
-    " Yudah and Yerushalem¦380842 will be pleasing¦380838 to Yahweh¦380839, as in ",
+    " Yehudah¦380841 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈ancient times"
+      "!(Judah¦380841)"
      ]
     },
-    ", and as in previous years¦380845.\n"
+    " and¦380842 Yerushalem¦380842 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦380842)"
+     ]
+    },
+    " will be¦380838 pleasing¦380838 to¦380839 Yahweh¦380839, as¦380843 in ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈ancient¦380844 times"
+     ]
+    },
+    ", and¦380845 as¦380845 in previous¦380846 years¦380845.\n"
    ]
   },
   {
@@ -1376,7 +1592,15 @@
      "number": "5",
      "sid": "MAL 3:5"
     },
-    "This is what army-commander¦380872 Yahweh¦380871 says¦380870, “At that time, I’ll come to you all to judge¦380850 you. I’ll quickly testify against all those who practice sorcery¦380855, ",
+    "This is what Commander-in-chief Yahweh¦380871 says¦380870, “At that time, I’ll¦380848 come¦380848 to¦380849 you¦380849 all to ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈judge¦380850"
+     ]
+    },
+    " you. I’ll¦380851 quickly¦380854 testify against all those who¦380854 practice sorcery¦380855, ",
     {
      "type": "char",
      "marker": "add",
@@ -1397,7 +1621,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈lie in¦380855 court"
+      "≈lie in court"
      ]
     },
     ", ",
@@ -1424,7 +1648,31 @@
       "≡against"
      ]
     },
-    " those who mistreat widows¦380863 and orphans¦380864, ",
+    " those who mistreat ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#widows¦380863"
+     ]
+    },
+    " and¦380864 orphans¦380864, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≡against"
+     ]
+    },
+    " those¦380865 who¦380865 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈don’t treat the foreigners¦380867 among you decently"
+     ]
+    },
+    ", and¦380868 ",
     {
      "type": "char",
      "marker": "add",
@@ -1437,26 +1685,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈don’t treat the foreigners among you decently"
+      "^refuse to honour"
      ]
     },
-    ", and ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≡against"
-     ]
-    },
-    " those who ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈refuse to honour"
-     ]
-    },
-    " me.\n"
+    " me¦380869.\n"
    ]
   },
   {
@@ -1483,7 +1715,7 @@
      "number": "6",
      "sid": "MAL 3:6"
     },
-    "“I am Yahweh¦380876 and¦380879 I don’t¦380877 change¦380878—that’s the ",
+    "“I¦380875 am Yahweh¦380876 and I¦380878 don’t change¦380878—that’s the¦380880 ",
     {
      "type": "char",
      "marker": "add",
@@ -1491,30 +1723,38 @@
       "only"
      ]
     },
-    " reason why you descendants¦380880 of Yacob¦380882 haven’t been destroyed.\n",
+    " reason why you descendants¦380880 of¦380880 Ya’akov¦380882 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jacob¦380882)"
+     ]
+    },
+    " haven’t been destroyed.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "MAL 3:7"
     },
-    "Ever since¦380886 the time¦380886 when your ancestors¦380887 were alive, you all have ",
+    "Ever since the¦380886 time¦380886 when your¦380887 ancestors¦380887 were alive, you¦380888 all have¦380888 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈ignored my commands"
+      "≈ignored my¦380889 commands"
      ]
     },
-    " and ",
+    " and¦380890 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈refused to obey"
+      "^refused to obey"
      ]
     },
-    " them. ",
+    " them¦380891. ",
     {
      "type": "char",
      "marker": "add",
@@ -1522,7 +1762,7 @@
       "Now"
      ]
     },
-    " return to me—",
+    " return¦380892 to¦380893 me¦380893—",
     {
      "type": "char",
      "marker": "add",
@@ -1530,7 +1770,7 @@
       "if you all do so,"
      ]
     },
-    " I’ll¦380894 return to you. That’s what I, army-commander¦380898 Yahweh¦380897, say¦380899. But¦380890 you all ask, ‘How can we¦380901 return to you?’\n",
+    " I’ll¦380894 return¦380894 to¦380895 you¦380895. That’s what I, Commander-in-chief Yahweh¦380897, say¦380896. But¦380899 you¦380899 all ask¦380899, ‘How¦380900 can we¦380901 return¦380901 to you?’\n",
     {
      "type": "para",
      "marker": "rem",
@@ -1544,7 +1784,7 @@
      "number": "8",
      "sid": "MAL 3:8"
     },
-    "Can a human rob God¦380905? ",
+    "Can a human rob¦380903 God¦380905? ",
     {
      "type": "char",
      "marker": "add",
@@ -1552,7 +1792,7 @@
       "Yes,"
      ]
     },
-    " you’re all robbing me, but¦380910 you ask, ‘How are we robbing you?’ ",
+    " you’re¦380907 all robbing¦380908 me¦380909, but¦380910 you¦380910 ask¦380910, ‘How¦380911 are we¦380912 robbing¦380912 you¦380912?’ ",
     {
      "type": "char",
      "marker": "add",
@@ -1560,21 +1800,21 @@
       "By failing to give"
      ]
     },
-    " a tenth plus¦380910 offerings¦380914.\n",
+    " a tenth plus¦380914 offerings¦380914.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "MAL 3:9"
     },
-    "You’re¦380919 all cursed¦380916 because you’re robbing¦380921 me—the whole¦380923 nation¦380922 of you.\n",
+    "You’re¦380917 all¦380923 cursed¦380918 because you’re¦380920 robbing¦380921 me—the¦380922 whole nation¦380922 of¦380923 you.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "MAL 3:10"
     },
-    "Bring¦380925 the full tenth into the temple storeroom¦380934, so that there’ll be food in¦380937 my house ",
+    "Bring¦380925 the¦380930 full tenth into¦380931 the¦380933 temple¦380933 storeroom¦380934, so¦380935 that there’ll be food¦380936 in¦380937 my¦380937 house ",
     {
      "type": "char",
      "marker": "add",
@@ -1582,31 +1822,7 @@
       "for the temple workers"
      ]
     },
-    ",” says army-commander¦380943 Yahweh¦380942. “",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "In fact,"
-     ]
-    },
-    " you all can test me ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈by doing that and see"
-     ]
-    },
-    " if I don’t¦380946 open the windows¦380950 of heaven¦380951 for you all and pour out an ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈overflowing"
-     ]
-    },
-    " blessing¦380954 for you.",
+    ",”",
     {
      "type": "note",
      "marker": "x",
@@ -1628,14 +1844,46 @@
      ],
      "caller": "+"
     },
-    "\n",
+    " says¦380941 Commander-in-chief Yahweh¦380942. “",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "In fact,"
+     ]
+    },
+    " you all can test¦380938 me¦380938 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈by¦380940 doing that¦380940 and see"
+     ]
+    },
+    " if¦380944 I¦380947 don’t open¦380947 the¦380950 windows¦380950 of¦380950 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#heaven¦380951"
+     ]
+    },
+    " for you all and¦380952 pour¦380952 out¦380952 an ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈overflowing"
+     ]
+    },
+    " blessing¦380954 for¦380953 you¦380953.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "MAL 3:11"
     },
-    "I’ll¦380968 rebuke¦380961 the devourer¦380963",
+    "I’ll¦380961 rebuke¦380961 the devourer",
     {
      "type": "note",
      "marker": "f",
@@ -1674,22 +1922,30 @@
      ],
      "caller": "+"
     },
-    " for you all, so that it won’t destroy¦380966 your crops, and the fruit¦380970 off your vines in the countryside¦380977 won’t be lost,” says¦380978 army-commander¦380980 Yahweh¦380979.\n",
+    " for¦380962 you¦380962 all, so¦380964 that it¦380966 won’t destroy¦380966 your crops, and the¦380970 fruit¦380970 off your ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#vines¦380976"
+     ]
+    },
+    " in¦380977 the¦380977 countryside¦380977 won’t be lost,” says¦380978 Commander-in-chief Yahweh¦380979.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "MAL 3:12"
     },
-    "“Then¦380983 all the other countries¦380986 would say that you’ve all been blessed¦380982, because your¦380984 land ",
+    "“Then¦380982 all¦380984 the¦380986 other countries¦380986 would¦380982 say that you’ve all been blessed¦380982, because¦380987 your land¦380991 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈would be prosperous"
+      "≈would¦380989 be¦380989 prosperous"
      ]
     },
-    ",” says¦380993 army-commander¦380995 Yahweh¦380994.\n"
+    ",” says¦380993 Commander-in-chief Yahweh¦380994.\n"
    ]
   },
   {
@@ -1716,14 +1972,14 @@
      "number": "13",
      "sid": "MAL 3:13"
     },
-    "“Your words¦381000 against me have been harsh,” says¦381001 Yahweh¦381002. “But¦381003 you all say¦381003, ‘What have we said among ourselves against you?’\n",
+    "“Your¦381000 words¦381000 against me have¦380998 been¦380998 harsh,” says¦381001 Yahweh¦381002. “But¦381003 you¦381003 all say¦381003, ‘What¦381004 have¦381006 we¦381006 said¦381006 among ourselves against you¦381007?’\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "MAL 3:14"
     },
-    "You’ve all said¦381009, ‘It’s ",
+    "You’ve¦381009 all said¦381009, ‘It’s ",
     {
      "type": "char",
      "marker": "add",
@@ -1731,7 +1987,7 @@
       "≈a waste of time"
      ]
     },
-    " serving God¦381012. What did we gain by keeping his requirements¦381018, or by ",
+    " serving¦381011 God¦381012. What¦381013 did we¦381017 gain¦381015 by keeping¦381017 his¦381018 requirements¦381018, or by ",
     {
      "type": "char",
      "marker": "add",
@@ -1739,7 +1995,7 @@
       "≈being sorrowful"
      ]
     },
-    " in front¦381022 of army-commander¦381024 Yahweh¦381023?\n",
+    " in¦381022 front¦381022 of¦381022 Commander-in-chief Yahweh¦381023?\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1750,10 +2006,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈It seems that arrogant¦381029 people are happier"
+      "≈It seems that arrogant¦381029 people are¦381032 happier"
      ]
     },
-    ". Evil people not only prosper, but¦381026 they ",
+    ". Evil¦381034 people not only prosper, but they¦381036 ",
     {
      "type": "char",
      "marker": "add",
@@ -1789,15 +2045,15 @@
      "number": "16",
      "sid": "MAL 3:16"
     },
-    "Then those who ",
+    "Then¦381040 those¦381042 who ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈still respected"
+      "≈still respected¦381042"
      ]
     },
-    " Yahweh spoke¦381041 with one another. Yahweh paid attention¦381048 and listened¦381050, and ",
+    " Yahweh¦381043 spoke¦381041 with¦381045 one another. Yahweh¦381049 paid¦381048 attention¦381048 and¦381050 listened¦381050, and ",
     {
      "type": "char",
      "marker": "add",
@@ -1805,14 +2061,14 @@
       "≈while he watched"
      ]
     },
-    ", a book of remembrance¦381053 was written¦381051 about those who respected Yahweh and honoured his¦381054 name¦381058.\n",
+    ", a¦381052 book of¦381052 remembrance¦381053 was¦381051 written¦381051 about¦381055 those¦381055 who respected¦381055 Yahweh¦381056 and¦381057 honoured his¦381058 name¦381058.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "MAL 3:17"
     },
-    "“They’ll be mine,” says¦381062 army-commander¦381064 Yahweh¦381063. “On the day¦381065 when I ",
+    "“They’ll¦381060 be¦381060 mine,” says¦381062 Commander-in-chief Yahweh¦381063. “On the day¦381065 when¦381066 I¦381067 ",
     {
      "type": "char",
      "marker": "add",
@@ -1820,12 +2076,12 @@
       "≈assemble"
      ]
     },
-    " my treasured possession¦381069, I ",
+    " my treasured possession¦381069, I¦381070 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈won’t punish"
+      "^won’t punish"
      ]
     },
     " ",
@@ -1833,18 +2089,26 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "@those people"
+      "@those¦381071 people¦381071"
      ]
     },
-    ", just like a ",
+    ", just¦381072 like¦381072 a ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈father doesn’t punish"
+      "≈father"
      ]
     },
-    " his son who ",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "^doesn’t punish"
+     ]
+    },
+    " his¦381077 son¦381077 who¦381078 ",
     {
      "type": "char",
      "marker": "add",
@@ -1852,14 +2116,14 @@
       "≈obeys"
      ]
     },
-    " him.\n",
+    " him¦381079.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "18",
      "sid": "MAL 3:18"
     },
-    "Then¦381081 once again¦381081 you’ll all ",
+    "Then once again you’ll all ",
     {
      "type": "char",
      "marker": "add",
@@ -1867,7 +2131,7 @@
       "≈be able to see¦381082 the difference"
      ]
     },
-    " between righteous¦381084 ",
+    " between¦381083 righteous¦381084 ",
     {
      "type": "char",
      "marker": "add",
@@ -1875,7 +2139,7 @@
       ">people"
      ]
     },
-    " and wicked¦381085 ",
+    " and¦381085 wicked¦381085 ",
     {
      "type": "char",
      "marker": "add",
@@ -1883,7 +2147,7 @@
       ">people"
      ]
     },
-    "—between ",
+    "—between¦381086 ",
     {
      "type": "char",
      "marker": "add",
@@ -1891,7 +2155,7 @@
       "#those"
      ]
     },
-    " who serve¦381091 God¦381088 and ",
+    " who¦381087 serve¦381087 God¦381088 and¦381089 ",
     {
      "type": "char",
      "marker": "add",
@@ -1899,7 +2163,7 @@
       "#those"
      ]
     },
-    " who don’t¦381090.\n"
+    " who¦381089 don’t¦381090.\n"
    ]
   },
   {
@@ -1940,7 +2204,7 @@
       "≈Yes,"
      ]
     },
-    " listen, the day that burns like a furnace is coming, when all the arrogant ",
+    " listen, the¦381098 day¦381098 that burns¦381100 like¦381101 a furnace¦381101 is coming, when¦381102 all¦381103 the arrogant¦381105 ",
     {
      "type": "char",
      "marker": "add",
@@ -1948,53 +2212,77 @@
       ">people"
      ]
     },
-    " and all the evildoers will become ",
+    " and¦381106 all¦381106 the evildoers will become ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈useless pieces of dry stalks in a field"
+      "≈useless pieces of dry stalks¦381110 in a field"
      ]
     },
-    ". The day that is coming will burn them up,” says army-commander Yahweh, “so ",
+    ". The¦381113 day¦381113 that¦381114 is¦381114 coming¦381114 will¦381111 burn them¦381112 up,” says¦381115 Commander-in-chief Yahweh¦381116, “so ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈they’ll be gone without leaving any"
+      "≈they’ll¦381102 be¦381102 gone without leaving¦381121 any"
      ]
     },
-    " roots or branches.\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#roots¦381123"
+     ]
+    },
+    " or ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#branches¦381124"
+     ]
+    },
+    ".\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "MAL 4:2"
     },
-    "But for you who respect my name, the sun of righteousness will rise ",
+    "But for¦381128 you¦381128 who respect¦381129 my¦381130 name¦381130, the sun¦381131 of¦381131 righteousness¦381132 will rise¦381127 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈and bring"
+      "≈and¦381133 bring"
      ]
     },
-    " healing. You’ll all go out, jumping around like calves ",
+    " healing¦381133. You’ll¦381135 all go¦381135 out¦381135, jumping around¦381136 like¦381137 calves¦381137 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "let out of their"
+      "let out of"
      ]
     },
-    " stall,\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&their¦381138"
+     ]
+    },
+    " stall¦381138,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "MAL 4:3"
     },
-    "and you’ll all trample down the wicked ",
+    "and¦381141 you’ll¦381141 all trample¦381141 down¦381141 the wicked¦381142 ",
     {
      "type": "char",
      "marker": "add",
@@ -2002,7 +2290,7 @@
       ">people"
      ]
     },
-    ", because they’ll ",
+    ", because¦381143 they’ll¦381145 ",
     {
      "type": "char",
      "marker": "add",
@@ -2010,7 +2298,7 @@
       "just"
      ]
     },
-    " be ashes under the soles of your feet on the day that I act,” says army-commander Yahweh.\n"
+    " be¦381145 ashes¦381146 under¦381147 the¦381148 soles¦381148 of¦381148 your¦381149 feet¦381149 on the¦381150 day¦381150 that I¦381152 act¦381153,” says¦381154 Commander-in-chief Yahweh¦381155.\n"
    ]
   },
   {
@@ -2031,7 +2319,7 @@
       "≈Be sure to obey"
      ]
     },
-    " the law that I ",
+    " the¦381161 law that¦381164 I¦381165 ",
     {
      "type": "char",
      "marker": "add",
@@ -2039,15 +2327,31 @@
       "≈gave"
      ]
     },
-    " my servant Mosheh at ",
+    " my¦381163 servant¦381163 Mosheh¦381162 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Mt. Sinai"
+      "!(Moses¦381162)"
      ]
     },
-    " for all Israel—the statutes and the rulings.\n"
+    " at¦381167 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈Mt. Sinay"
+     ]
+    },
+    " for all¦381170 Yisrael¦381172 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Israel¦381172)"
+     ]
+    },
+    "—the statutes¦381173 and¦381174 the rulings.\n"
    ]
   },
   {
@@ -2060,39 +2364,15 @@
      "number": "5",
      "sid": "MAL 4:5"
     },
-    "Listen, I’ll send the prophet Eliyah to you all, ",
+    "Listen, I’ll¦381178 send¦381179 the¦381183 prophet¦381183 Eliyah¦381182 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "ahead"
+      "!(Elijah¦381182)"
      ]
     },
-    " of the coming of the great ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈but"
-     ]
-    },
-    " fearful day of ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "*my"
-     ]
-    },
-    " ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "judgement"
-     ]
-    },
-    ".",
+    " to¦381184 you all,",
     {
      "type": "note",
      "marker": "x",
@@ -2114,22 +2394,54 @@
      ],
      "caller": "+"
     },
-    "\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "ahead"
+     ]
+    },
+    " of the¦381184 coming¦381185 of¦381184 the¦381186 great¦381188 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈but"
+     ]
+    },
+    " fearful day¦381186 of¦381186 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*my¦381187"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "judgement"
+     ]
+    },
+    ".\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "MAL 4:6"
     },
-    "He’ll ",
+    "He’ll¦381192 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈restore harmony between fathers and their children"
+      "≈restore harmony between fathers¦381195 and¦381199 their¦381203 children"
      ]
     },
-    ", so that I don’t ",
+    ", so that I¦381206 don’t ",
     {
      "type": "char",
      "marker": "add",
@@ -2137,7 +2449,7 @@
       "have to"
      ]
     },
-    " come and strike the earth with complete destruction.”\n"
+    " come¦381206 and¦381207 strike¦381207 the¦381210 earth¦381210 with complete¦381211 destruction¦381211.”\n"
    ]
   }
  ]
