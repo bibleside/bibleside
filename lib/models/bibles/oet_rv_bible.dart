@@ -124,6 +124,7 @@ class OETReadersBibleImpl extends JsonToBible {
 
     for (Map item in json['content']) {
       if (item['type'] == 'chapter') {
+        flushVerse(isEndOfPara: false);
         chapterNumber = item['number'];
         String chapterId = '${readerArea.name}-$bookCode-$chapterNumber';
         chapterNumberHtml =
@@ -155,9 +156,8 @@ class OETReadersBibleImpl extends JsonToBible {
                 currentVerseText += _textOf(contentItem).replaceAll('≈', '');
               }
             } else if (contentItem is String) {
-              if (hasPendingVerse) {
-                currentVerseText += contentItem;
-              }
+              // Text before verse 1 (e.g. a Psalm title) is shown with verse 1.
+              currentVerseText += contentItem;
             }
           }
 
