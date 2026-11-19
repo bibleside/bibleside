@@ -311,6 +311,10 @@ class ReaderViewModel extends ReactiveViewModel {
       margin-right: 0.0rem;
     }
 
+    .untr {
+      font-size: 0.75em;
+    }
+
     .c {
       font-size: ${1.6 * textScaling}rem;
       margin-right: 0.1rem;
