@@ -258,13 +258,7 @@ Map<String, int> bookNumOfChaptersMapping = {
 
 // Uncompleted OET books (RV *and* LV are not finished for the book)
 // TODO: update as the OET is drafted more.
-List<String> uncompletedOETBooks = [
-  'LEV',
-  'ISA',
-  'JER',
-  'LAM',
-  'PSA',
-];
+List<String> uncompletedOETBooks = [];
 
 // Book is either missing the json file or
 // has incomplete text that could cause errors.
