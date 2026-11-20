@@ -47,14 +47,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file created 2026-04-01 09:25 by extract_glossed_OSHB_OT_to_ESFM v1.0\n"
+    "ESFM file created 2026-10-31 14:30 by extract_glossed_OSHB_OT_to_ESFM v1.0.8\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedOTUpdates\n"
    ]
   },
   {
@@ -91,11 +91,6 @@
    "content": [
     "Habakkuk\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -202,7 +197,7 @@
      ],
      "caller": "+"
     },
-    " which¦373811 he¦373812_saw¦373812 Ḩₐⱱaqqūq¦373813 the¦373814÷prophet¦373814.\n",
+    " which¦373811 Ḩₐⱱaqqūq¦373813 the¦373814÷prophet¦373814 he¦373812_saw¦373812.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -271,7 +266,7 @@
       ">person¦373857"
      ]
     },
-    " therefore¦373858 yes/correct/thus/so¦373860 justice¦373862 it¦373861_comes¦373861_forth¦373861 perverted¦373863.\n",
+    " therefore¦373858 yes/correct/thus/so¦373860 justice¦373862 perverted¦373863 it¦373861_comes¦373861_forth¦373861.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -294,7 +289,7 @@
       "+am¦373873"
      ]
     },
-    "_about¦373873_to¦373873_do¦373873 in¦373874÷your(pl)¦373874_of¦373874÷days¦373874 ",
+    "_about¦373873_to¦373873_do¦373873 in¦373874÷days¦373874_of¦373874÷your(pl)¦373874 ",
     {
      "type": "char",
      "marker": "add",
@@ -368,10 +363,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+is¦373900"
+      "+Is¦373900"
      ]
     },
-    "_terrifying¦373900 and¦373901÷awesome¦373901 it¦373902 from¦373903=him/it¦373903 justice¦373904_of¦373904÷its¦373904 and¦373905÷its¦373905_of¦373905÷dignity¦373905 it¦373906_comes¦373906_forth¦373906.\n",
+    "_terrifying¦373900 and¦373901÷awesome¦373901 it¦373902 from¦373903=him/it¦373903 justice¦373904_of¦373904÷its¦373904 and¦373905÷dignity¦373905_of¦373905÷its¦373905 it¦373906_comes¦373906_forth¦373906.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -386,7 +381,7 @@
       "+the¦373913"
      ]
     },
-    "_evening¦373913 warhorses¦373915_of¦373915÷its¦373915 and¦373914÷they¦373914_paw¦373914_the¦373914_ground¦373914 and¦373916÷its¦373916_of¦373916÷horsemen¦373916 from¦373917÷a¦373917_distance¦373917 they¦373918_come¦373918 they¦373919_fly¦373919 like¦373920÷an¦373920_eagle¦373920 ",
+    "_evening¦373913 and¦373914= warhorses¦373915_of¦373915÷its¦373915 =they¦373914_paw¦373914_the¦373914_ground¦373914 and¦373916÷horsemen¦373916_of¦373916÷its¦373916 from¦373917÷a¦373917_distance¦373917 they¦373918_come¦373918 they¦373919_fly¦373919 like¦373920÷an¦373920_eagle¦373920 ",
     {
      "type": "char",
      "marker": "add",
@@ -401,7 +396,7 @@
      "number": "9",
      "sid": "Hab 1:9"
     },
-    "Of¦373924_it¦373924_of¦373924÷all¦373924 for¦373925÷violence¦373925 it¦373926_comes¦373926 the¦373927_totality¦373927_of¦373927 their¦373928_faces¦373928_of¦373928÷of¦373928 eastward¦373929÷",
+    "Of¦373924_it¦373924_of¦373924÷all¦373924 for¦373925÷violence¦373925 it¦373926_comes¦373926 the¦373927_totality¦373927_of¦373927 their¦373928_faces¦373928_of¦373928÷their¦373928 eastward¦373929÷",
     {
      "type": "char",
      "marker": "add",
@@ -416,15 +411,7 @@
      "number": "10",
      "sid": "Hab 1:10"
     },
-    "And¦373934=he¦373934 ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "in¦373935"
-     ]
-    },
-    "÷kings¦373935 it¦373936_derides¦373936 and¦373937÷rulers¦373937 ",
+    "And¦373934=he¦373934 (in)¦373935÷kings¦373935 it¦373936_derides¦373936 and¦373937÷rulers¦373937 ",
     {
      "type": "char",
      "marker": "add",
@@ -463,7 +450,7 @@
       "becomes¦373956"
      ]
     },
-    "_(into)¦373956÷his¦373956_of¦373956÷god¦373956.\n",
+    "_(into)¦373956÷god¦373956_of¦373956÷his¦373956.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -513,7 +500,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "you¦373973"
+      "You¦373973"
      ]
     },
     "_",
@@ -540,7 +527,7 @@
       "those¦373985_who¦373985"
      ]
     },
-    "_act¦373985_treacherously¦373985 are¦373986_you¦373986_silent¦373986 when¦373987÷swallows¦373987_up¦373987 a¦373988_wicked¦373988_",
+    "_act¦373985_treacherously¦373985 are¦373986_you¦373986_silent¦373986 when¦373987= a¦373988_wicked¦373988_",
     {
      "type": "char",
      "marker": "add",
@@ -548,7 +535,7 @@
       ">person¦373988"
      ]
     },
-    " a¦373989_",
+    " =swallows¦373987_up¦373987 a¦373989_",
     {
      "type": "char",
      "marker": "add",
@@ -578,14 +565,14 @@
      "number": "15",
      "sid": "Hab 1:15"
     },
-    "Of¦374002_it¦374002_of¦374002÷all¦374002 with¦374003÷a¦374003_fish¦374003_hook¦374003 he¦374004_brings¦374004_up¦374004 he¦374005÷drags¦374005_it¦374005_away¦374005 in¦374006÷his¦374006_of¦374006÷net¦374006 and¦374007÷he¦374007÷gathers¦374007_it¦374007 in¦374008÷his¦374008_fishing¦374008_of¦374008÷net¦374008 therefore¦374009 yes/correct/thus/so¦374011 he¦374012_rejoices¦374012 and¦374013÷he¦374013_is¦374013_glad¦374013.\n",
+    "Of¦374002_it¦374002_of¦374002÷all¦374002 with¦374003÷a¦374003_fish¦374003_hook¦374003 he¦374004_brings¦374004_up¦374004 he¦374005÷drags¦374005_it¦374005_away¦374005 in¦374006÷net¦374006_of¦374006÷his¦374006 and¦374007÷he¦374007÷gathers¦374007_it¦374007 in¦374008÷his¦374008_fishing¦374008_of¦374008÷net¦374008 therefore¦374009 yes/correct/thus/so¦374011 he¦374012_rejoices¦374012 and¦374013÷he¦374013_is¦374013_glad¦374013.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "Hab 1:16"
     },
-    "Therefore¦374015 yes/correct/thus/so¦374017 he¦374018_sacrifices¦374018 to¦374019÷his¦374019_of¦374019÷net¦374019 and¦374020÷he¦374020_makes¦374020_smoke¦374020 to¦374021÷his¦374021_fishing¦374021_of¦374021÷net¦374021 if/because¦374022 by¦374023÷them¦374023 ",
+    "Therefore¦374015 yes/correct/thus/so¦374017 he¦374018_sacrifices¦374018 to¦374019÷net¦374019_of¦374019÷his¦374019 and¦374020÷he¦374020_makes¦374020_smoke¦374020 to¦374021÷his¦374021_fishing¦374021_of¦374021÷net¦374021 if/because¦374022 by¦374023÷them¦374023 ",
     {
      "type": "char",
      "marker": "add",
@@ -593,7 +580,7 @@
       "+is¦374024"
      ]
     },
-    "_rich¦374024 portion¦374025_of¦374025÷his¦374025 and¦374026÷his¦374026_of¦374026÷food¦374026 ",
+    "_rich¦374024 portion¦374025_of¦374025÷his¦374025 and¦374026÷food¦374026_of¦374026÷his¦374026 ",
     {
      "type": "char",
      "marker": "add",
@@ -627,7 +614,7 @@
      "number": "1",
      "sid": "Hab 2:1"
     },
-    "at¦374040 post¦374042_of¦374042÷my¦374042 I¦374043_will¦374043_stand¦374043 and¦374044÷I¦374044_will¦374044_take¦374044_my¦374044_stand¦374044 on¦374045 ",
+    "At¦374040 post¦374042_of¦374042÷my¦374042 I¦374043_will¦374043_stand¦374043 and¦374044÷I¦374044_will¦374044_take¦374044_my¦374044_stand¦374044 on¦374045 ",
     {
      "type": "char",
      "marker": "add",
@@ -666,7 +653,7 @@
       ">it¦374066"
      ]
     },
-    "_clear¦374066 on¦374067 the¦374069÷tablets¦374069 so¦374070_that¦374070 he¦374071_may¦374071_run¦374071 ",
+    "_clear¦374066 on¦374067 the¦374069÷tablets¦374069 so¦374070_that¦374070 ",
     {
      "type": "char",
      "marker": "add",
@@ -674,7 +661,7 @@
       "one¦374072_who¦374072"
      ]
     },
-    "_reads¦374072 in¦374073=him/it¦374073.\n",
+    "_reads¦374072 in¦374073=him/it¦374073 he¦374071_may¦374071_run¦374071.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -704,7 +691,7 @@
      "number": "4",
      "sid": "Hab 2:4"
     },
-    "There¦374096 it¦374097_is¦374097_swollen¦374097 not¦374098 it¦374100_is¦374100_upright¦374100 self¦374101_of¦374101÷his¦374101 in/on/over¦374102=him/it¦374102 and¦374103_",
+    "THERE¦374096 it¦374097_is¦374097_swollen¦374097 not¦374098 self¦374101_of¦374101÷his¦374101 it¦374100_is¦374100_upright¦374100 in/on/over¦374102=him/it¦374102 and¦374103_",
     {
      "type": "char",
      "marker": "add",
@@ -712,7 +699,7 @@
       "+the¦374103"
      ]
     },
-    "÷righteous¦374103 by¦374104÷his¦374104_of¦374104÷faithfulness¦374104 he¦374105_will¦374105_live¦374105.\n",
+    "÷righteous¦374103 by¦374104÷faithfulness¦374104_of¦374104÷his¦374104 he¦374105_will¦374105_live¦374105.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -781,7 +768,7 @@
      "number": "7",
      "sid": "Hab 2:7"
     },
-    "Am¦374158=not¦374158 suddenness¦374159 will¦374160_they¦374160_arise¦374160 ",
+    "Am¦374158=not¦374158 suddenness¦374159 ",
     {
      "type": "char",
      "marker": "add",
@@ -789,7 +776,7 @@
       "those¦374161_of¦374161÷who¦374161"
      ]
     },
-    "_pay¦374161_interest¦374161_to¦374161_you¦374161 and¦374162÷will¦374162_they¦374162_awake¦374162 ",
+    "_pay¦374161_interest¦374161_to¦374161_you¦374161 will¦374160_they¦374160_arise¦374160 and¦374162= ",
     {
      "type": "char",
      "marker": "add",
@@ -797,7 +784,7 @@
       "those¦374163_of¦374163÷who¦374163_will¦374163"
      ]
     },
-    "_make¦374163_you¦374163_tremble¦374163 and¦374164÷you¦374164_will¦374164_become¦374164 (into)¦374165÷plunder(s)¦374165 for¦374166÷them¦374166.\n",
+    "_make¦374163_you¦374163_tremble¦374163 =will¦374162_they¦374162_awake¦374162 and¦374164÷you¦374164_will¦374164_become¦374164 (into)¦374165÷plunder(s)¦374165 for¦374166÷them¦374166.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -890,7 +877,7 @@
      "number": "9",
      "sid": "Hab 2:9"
     },
-    "woe¦374191_to¦374191 ",
+    "Woe¦374191_to¦374191 ",
     {
      "type": "char",
      "marker": "add",
@@ -898,7 +885,7 @@
       "one¦374192_who¦374192"
      ]
     },
-    "_gains¦374192 unjust¦374193_gain¦374193 evil¦374194 for¦374195÷his¦374195_of¦374195÷house¦374195 to¦374196÷set¦374196 on¦374197÷places¦374197 nest¦374198_of¦374198÷his¦374198 to¦374199÷deliver¦374199_himself¦374199 from¦374200_",
+    "_gains¦374192 unjust¦374193_gain¦374193 evil¦374194 for¦374195÷house¦374195_of¦374195÷his¦374195 to¦374196÷set¦374196 on¦374197÷places¦374197 nest¦374198_of¦374198÷his¦374198 to¦374199÷deliver¦374199_himself¦374199 from¦374200_",
     {
      "type": "char",
      "marker": "add",
@@ -913,7 +900,7 @@
      "number": "10",
      "sid": "Hab 2:10"
     },
-    "You¦374204_have¦374204_planned¦374204 shame¦374205 for¦374206÷your¦374206_of¦374206÷house¦374206 by¦374207_cutting¦374207_off¦374207 peoples¦374209 many¦374210 and¦374211÷",
+    "You¦374204_have¦374204_planned¦374204 shame¦374205 for¦374206÷house¦374206_of¦374206÷your¦374206 by¦374207_cutting¦374207_off¦374207 peoples¦374209 many¦374210 and¦374211÷",
     {
      "type": "char",
      "marker": "add",
@@ -943,7 +930,7 @@
      "number": "12",
      "sid": "Hab 2:12"
     },
-    "woe¦374224_to¦374224 ",
+    "Woe¦374224_to¦374224 ",
     {
      "type": "char",
      "marker": "add",
@@ -958,7 +945,7 @@
      "number": "13",
      "sid": "Hab 2:13"
     },
-    "Am¦374232=not¦374232 there¦374233 from¦374234÷with¦374234 ",
+    "Am¦374232=not¦374232 THERE¦374233 from¦374234÷with¦374234 ",
     {
      "type": "char",
      "marker": "nd",
@@ -966,7 +953,7 @@
       "YHWH¦374235"
      ]
     },
-    " hosts¦374236 and¦374237÷they¦374237_labour¦374237 peoples¦374238 for¦374239_",
+    " soldiers/messengers¦374236 and¦374237= peoples¦374238 =they¦374237_labour¦374237 for¦374239_",
     {
      "type": "char",
      "marker": "add",
@@ -989,7 +976,7 @@
      "number": "14",
      "sid": "Hab 2:14"
     },
-    "If/because¦374248 it¦374249_will¦374249_be¦374249_filled¦374249 the¦374250=earth/land¦374250 to¦374251=know¦374251 untr DOM¦374252untr* the¦374254_glory¦374254_of¦374254 ",
+    "If/because¦374248 the¦374250=earth/land¦374250 it¦374249_will¦374249_be¦374249_filled¦374249 to¦374251=know¦374251 untr DOM¦374252untr* the¦374254_glory¦374254_of¦374254 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1020,7 +1007,7 @@
      "number": "15",
      "sid": "Hab 2:15"
     },
-    "woe¦374263_to¦374263 ",
+    "Woe¦374263_to¦374263 ",
     {
      "type": "char",
      "marker": "add",
@@ -1051,7 +1038,7 @@
      "number": "16",
      "sid": "Hab 2:16"
     },
-    "You¦374276_are¦374276_satisfied¦374276 shame¦374277 more¦374278÷than¦374278_honour¦374278 drink¦374279 also¦374280 you¦374282 and¦374283÷be¦374283_counted¦374283_as¦374283_uncircumcised¦374283 it¦374284_will¦374284_come¦374284_round¦374284 to¦374285÷you¦374285 the¦374286_cup¦374286_of¦374286 the¦374287_right¦374287_hand¦374287_of¦374287 ",
+    "You¦374276_are¦374276_satisfied¦374276 shame¦374277 more¦374278÷than¦374278_honour¦374278 also¦374280 you¦374282 drink¦374279 and¦374283÷be¦374283_counted¦374283_as¦374283_uncircumcised¦374283 it¦374284_will¦374284_come¦374284_round¦374284 to¦374285÷you¦374285 the¦374286_cup¦374286_of¦374286 the¦374287_right¦374287_hand¦374287_of¦374287 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1129,7 +1116,7 @@
      "number": "18",
      "sid": "Hab 2:18"
     },
-    "what¦374313 a¦374316_carved¦374316_image¦374316 does¦374315_it¦374315_profit¦374315 if/because¦374317 he¦374318÷has¦374318_carved¦374318_it¦374318 ",
+    "What¦374313 a¦374316_carved¦374316_image¦374316 does¦374315_it¦374315_profit¦374315 if/because¦374317 he¦374318÷has¦374318_carved¦374318_it¦374318 ",
     {
      "type": "char",
      "marker": "add",
@@ -1145,7 +1132,7 @@
       "that¦374321_which¦374321"
      ]
     },
-    "_teaches¦374321 falsehood¦374322 if/because¦374323 he¦374324_relies¦374324 form¦374326_of¦374326÷its¦374326 ",
+    "_teaches¦374321 falsehood¦374322 if/because¦374323 ",
     {
      "type": "char",
      "marker": "add",
@@ -1153,14 +1140,14 @@
       "the¦374325_one¦374325_who¦374325"
      ]
     },
-    "_formed¦374325 on/upon/above¦374327=him/it¦374327 for¦374328= idols¦374329 =doing¦374328 dumb¦374330.\n",
+    "_formed¦374325 form¦374326_of¦374326÷its¦374326 he¦374324_relies¦374324 on/upon/above¦374327=him/it¦374327 for¦374328=doing¦374328 idols¦374329 dumb¦374330.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "19",
      "sid": "Hab 2:19"
     },
-    "woe¦374333_to¦374333 ",
+    "Woe¦374333_to¦374333 ",
     {
      "type": "char",
      "marker": "add",
@@ -1168,7 +1155,7 @@
       "one¦374334_who¦374334"
      ]
     },
-    "_says¦374334 to¦374335÷wood¦374335 wake¦374336÷up¦374336 awake¦374337 to¦374338÷a¦374338_stone¦374338_of¦374338 silence¦374339 it¦374340 will¦374341_it¦374341_teach¦374341 there¦374342 it¦374344 ",
+    "_says¦374334 to¦374335÷wood¦374335 wake¦374336÷up¦374336 awake¦374337 to¦374338÷a¦374338_stone¦374338_of¦374338 silence¦374339 it¦374340 will¦374341_it¦374341_teach¦374341 THERE¦374342 it¦374344 ",
     {
      "type": "char",
      "marker": "add",
@@ -1199,7 +1186,7 @@
       "YHWH¦374354"
      ]
     },
-    " in¦374355=(the)¦374355_palace¦374355 his¦374356_holiness¦374356_of¦374356÷of¦374356 hush¦374357 from¦374358÷before¦374358_of¦374358÷him¦374358 all¦374359_of¦374359 the¦374361=earth/land¦374361.\n"
+    " in¦374355=(the)¦374355_palace¦374355 his¦374356_holiness¦374356_of¦374356÷his¦374356 hush¦374357 from¦374358÷before¦374358_of¦374358÷him¦374358 all¦374359_of¦374359 the¦374361=earth/land¦374361.\n"
    ]
   },
   {
@@ -1218,7 +1205,7 @@
      "number": "1",
      "sid": "Hab 3:1"
     },
-    "a¦374364_prayer¦374364 of¦374365÷Ḩₐⱱaqqūq¦374365 the¦374366÷prophet¦374366 on¦374367 shiggionoth¦374368.\n",
+    "A¦374364_prayer¦374364 of¦374365÷Ḩₐⱱaqqūq¦374365 the¦374366÷prophet¦374366 on¦374367 shiggionoth¦374368.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1311,7 +1298,7 @@
       ">one¦374390"
      ]
     },
-    " from¦374391=hill¦374391 of¦374393_Pāʼrān¦374393 Şelāh¦374394 it¦374395_has¦374395_covered¦374395 ",
+    " from¦374391=hill¦374391 of¦374393_Pāʼrān¦374393 Şelāh¦374394 splendour¦374397_of¦374397÷his¦374397 it¦374395_has¦374395_covered¦374395 ",
     {
      "type": "char",
      "marker": "add",
@@ -1319,14 +1306,14 @@
       "+the¦374396"
      ]
     },
-    "_heavens¦374396 splendour¦374397_of¦374397÷his¦374397 and¦374398÷his¦374398_of¦374398÷praise¦374398 it¦374399_has¦374399_filled¦374399 the¦374400=earth/land¦374400.\n",
+    "_heavens¦374396 and¦374398÷praise¦374398_of¦374398÷his¦374398 the¦374400=earth/land¦374400 it¦374399_has¦374399_filled¦374399.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "Hab 3:4"
     },
-    "And¦374402÷brightness¦374402 like¦374403÷light¦374403 it¦374404_is¦374404 two¦374405_horns¦374405 from¦374406÷his¦374406_of¦374406÷hand¦374406 to¦374407=him/it¦374407 and¦374408=there¦374408 the¦374409_hiding¦374409_place¦374409_of¦374409 his¦374410_strength¦374410_of¦374410÷of¦374410.",
+    "And¦374402÷brightness¦374402 like¦374403÷light¦374403 it¦374404_is¦374404 two¦374405_horns¦374405 from¦374406÷hand¦374406_of¦374406÷his¦374406 to¦374407=him/it¦374407 and¦374408=there¦374408 the¦374409_hiding¦374409_place¦374409_of¦374409 his¦374410_strength¦374410_of¦374410÷his¦374410.",
     {
      "type": "note",
      "marker": "f",
@@ -1378,7 +1365,7 @@
      "number": "5",
      "sid": "Hab 3:5"
     },
-    "before¦374414÷him¦374414 pestilence¦374416 it¦374415_goes¦374415 and¦374417= plague¦374418 =it¦374417_goes¦374417_out¦374417 to¦374419÷his¦374419_of¦374419÷feet¦374419.\n",
+    "Before¦374414÷him¦374414 pestilence¦374416 it¦374415_goes¦374415 and¦374417= plague¦374418 =it¦374417_goes¦374417_out¦374417 to¦374419÷feet¦374419_of¦374419÷his¦374419.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1393,7 +1380,7 @@
       "+the¦374424"
      ]
     },
-    "_earth¦374424 he¦374425_has¦374425_seen¦374425 and¦374426÷he¦374426_has¦374426_made¦374426_jump¦374426 nations¦374427 and¦374428= mountains¦374429_of¦374429 =they¦374428_have¦374428_been¦374428_shattered¦374428 antiquity¦374431 hills¦374433_of¦374433 they¦374432_have¦374432_bowed¦374432_down¦374432 antiquity¦374434 goings¦374435_of¦374435 antiquity¦374436 to¦374437=him/it¦374437.\n",
+    "_earth¦374424 he¦374425_has¦374425_seen¦374425 and¦374426÷he¦374426_has¦374426_made¦374426_jump¦374426 nations¦374427 and¦374428= mountains¦374429_of¦374429 antiquity¦374431 =they¦374428_have¦374428_been¦374428_shattered¦374428 hills¦374433_of¦374433 antiquity¦374434 they¦374432_have¦374432_bowed¦374432_down¦374432 goings¦374435_of¦374435 antiquity¦374436 to¦374437=him/it¦374437.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1407,7 +1394,7 @@
      "number": "8",
      "sid": "Hab 3:8"
     },
-    "on¦374450÷rivers¦374450 has¦374451_it¦374451_burnt¦374451 Oh¦374452_",
+    "On¦374450÷rivers¦374450 Oh¦374452_",
     {
      "type": "char",
      "marker": "nd",
@@ -1415,7 +1402,7 @@
       "YHWH¦374452"
      ]
     },
-    " or¦374453 on¦374454÷rivers¦374454 anger¦374455_of¦374455÷",
+    " has¦374451_it¦374451_burnt¦374451 or¦374453 on¦374454÷rivers¦374454 anger¦374455_of¦374455÷",
     {
      "type": "char",
      "marker": "add",
@@ -1431,7 +1418,7 @@
       "+is¦374459"
      ]
     },
-    "_your¦374459 (cmp)¦374460 you¦374461_will¦374461_ride¦374461 on¦374462 horses¦374464_of¦374464÷your¦374464 chariots¦374465_of¦374465÷your¦374465 salvation¦374466.\n",
+    "_your¦374459 that/for/because/then/when¦374460 you¦374461_will¦374461_ride¦374461 on¦374462 horses¦374464_of¦374464÷your¦374464 chariots¦374465_of¦374465÷your¦374465 salvation¦374466.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1460,7 +1447,7 @@
      "number": "11",
      "sid": "Hab 3:11"
     },
-    "Sun¦374493 moon¦374494 it¦374495_has¦374495_stood¦374495_still¦374495 lofty¦374496_residence¦374496÷(to)¦374496_a¦374496 to¦374497÷light¦374497_of¦374497 arrows¦374498_of¦374498÷your¦374498 they¦374499_go¦374499 to¦374500÷brightness¦374500_of¦374500 the¦374501_lightning¦374501_flash¦374501_of¦374501 your¦374502_spear¦374502_of¦374502÷of¦374502.\n",
+    "Sun¦374493 moon¦374494 it¦374495_has¦374495_stood¦374495_still¦374495 lofty¦374496_residence¦374496÷(to)¦374496_a¦374496 to¦374497÷light¦374497_of¦374497 arrows¦374498_of¦374498÷your¦374498 they¦374499_go¦374499 to¦374500÷brightness¦374500_of¦374500 the¦374501_lightning¦374501_flash¦374501_of¦374501 your¦374502_spear¦374502_of¦374502÷your¦374502.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1482,7 +1469,7 @@
      "number": "13",
      "sid": "Hab 3:13"
     },
-    "You¦374512_have¦374512_gone¦374512_out¦374512 for¦374513÷the¦374513_salvation¦374513_of¦374513 your¦374514_people¦374514_of¦374514÷of¦374514 for¦374515_",
+    "You¦374512_have¦374512_gone¦374512_out¦374512 for¦374513÷the¦374513_salvation¦374513_of¦374513 your¦374514_people¦374514_of¦374514÷your¦374514 for¦374515_",
     {
      "type": "char",
      "marker": "add",
@@ -1521,7 +1508,7 @@
      "number": "14",
      "sid": "Hab 3:14"
     },
-    "you¦374531_pierced¦374531 with¦374532÷his¦374532_own¦374532_of¦374532÷arrows¦374532 the¦374533_head¦374533_of¦374533 his¦374534_warriors¦374534_of¦374534÷of¦374534",
+    "You¦374531_pierced¦374531 with¦374532÷his¦374532_own¦374532_of¦374532÷arrows¦374532 the¦374533_head¦374533_of¦374533 his¦374534",
     {
      "type": "note",
      "marker": "f",
@@ -1574,7 +1561,7 @@
      "number": "16",
      "sid": "Hab 3:16"
     },
-    "I¦374552_heard¦374552 belly¦374555_of¦374555÷my¦374555 and¦374554÷it¦374554_trembled¦374554 to¦374556=sound/voice¦374556 lips¦374558_of¦374558÷my¦374558 they¦374557_quivered¦374557 rottenness¦374560 it¦374559_came¦374559 in¦374561÷my¦374561_of¦374561÷bones¦374561 and¦374562÷under¦374562÷me¦374562 I¦374563_trembled¦374563 that¦374564 I¦374565_will¦374565_be¦374565_quiet¦374565 for¦374566_",
+    "I¦374552_heard¦374552 and¦374554= belly¦374555_of¦374555÷my¦374555 =it¦374554_trembled¦374554 to¦374556=sound/voice¦374556 lips¦374558_of¦374558÷my¦374558 they¦374557_quivered¦374557 rottenness¦374560 it¦374559_came¦374559 in¦374561÷bones¦374561_of¦374561÷my¦374561 and¦374562÷under¦374562÷me¦374562 I¦374563_trembled¦374563 that¦374564 I¦374565_will¦374565_be¦374565_quiet¦374565 for¦374566_",
     {
      "type": "char",
      "marker": "add",
@@ -1629,7 +1616,7 @@
       "+the¦374582"
      ]
     },
-    "_product¦374582_of¦374582 it¦374581_fails¦374581 ",
+    "_product¦374582_of¦374582 ",
     {
      "type": "char",
      "marker": "add",
@@ -1637,7 +1624,7 @@
       "+the¦374584"
      ]
     },
-    "_olive¦374584_tree¦374584 and¦374585÷fields¦374585 not¦374586 it¦374588_produces¦374588 food¦374589 someone¦374590_cuts¦374590_off¦374590 from¦374591_",
+    "_olive¦374584_tree¦374584 it¦374581_fails¦374581 and¦374585÷fields¦374585 not¦374586 it¦374588_produces¦374588 food¦374589 someone¦374590_cuts¦374590_off¦374590 from¦374591_",
     {
      "type": "char",
      "marker": "add",
@@ -1676,7 +1663,7 @@
       "YHWH¦374598"
      ]
     },
-    " I¦374599_will¦374599_exult¦374599 I¦374600_will¦374600_rejoice¦374600 in¦374601÷the¦374601_god¦374601_of¦374601 my¦374602_salvation¦374602_of¦374602÷of¦374602.\n",
+    " I¦374599_will¦374599_exult¦374599 I¦374600_will¦374600_rejoice¦374600 in¦374601÷the¦374601_god¦374601_of¦374601 my¦374602_salvation¦374602_of¦374602÷my¦374602.\n",
     {
      "type": "verse",
      "marker": "v",

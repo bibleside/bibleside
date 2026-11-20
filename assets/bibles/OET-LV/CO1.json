@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:12 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "1 Korinthios\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -3038,7 +3033,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^your¦114945"
+      "&your¦114945"
      ]
     },
     "_midst¦114945 of¦114946_the¦114946 brother¦114947 of¦114948_him¦114948?\n",
@@ -3075,7 +3070,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^your¦114993"
+      "&your¦114993"
      ]
     },
     "_brothers¦114993.\n",
@@ -3548,7 +3543,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦115359"
+      "&his¦115359"
      ]
     },
     "_own¦115359 is¦115361_having¦115361 gift¦115362 from¦115363 ",
@@ -4854,7 +4849,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦116354"
+      "&his¦116354"
      ]
     },
     "_own¦116354 support¦116355 once¦116356? Who¦116357 is¦116358_planting¦116358 ",
@@ -6205,7 +6200,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦117357"
+      "&his¦117357"
      ]
     },
     "_head¦117357 having¦117358 ",
@@ -7248,7 +7243,7 @@
      "number": "21",
      "sid": "1CO 12:21"
     },
-    "Not¦118213 and¦118215 is¦118214_able¦118214 the¦118216 eye¦118217 to¦118218_say¦118218 to¦118220_the¦118220 hand¦118221: Need¦118222 of¦118223_you¦118223 not¦118224 I¦118225_am¦118225_having¦118225, or¦118226 contrastly¦118227 the¦118228 head¦118229 to¦118230_the¦118230 feet¦118231: Need¦118232 of¦118233_you¦118233_all¦118233 not¦118234 I¦118235_am¦118235_having¦118235.\n",
+    "Not¦118213 and¦118215 is¦118214_able¦118214 the¦118216 eye¦118217 to¦118218_say¦118218 to¦118220_the¦118220 hand¦118221: Need¦118222 of¦118223_you¦118223 not¦118224 I¦118225_am¦118225_having¦118225, or¦118226 in_contrast¦118227 the¦118228 head¦118229 to¦118230_the¦118230 feet¦118231: Need¦118232 of¦118233_you¦118233_all¦118233 not¦118234 I¦118235_am¦118235_having¦118235.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -7872,7 +7867,7 @@
      "number": "9",
      "sid": "1CO 14:9"
     },
-    "Thus¦118774 also¦118775 you¦118776_all¦118776 through¦118777 the¦118778 tongue¦118779, if¦118780 not¦118781 easily¦118782_recognized¦118782 speech¦118783 you¦118784_all¦118784_may¦118784_give¦118784, how¦118785 will¦118786_be¦118786_being¦118786_known¦118786 what¦118787 ",
+    "Thus¦118774 also¦118775 you¦118776_all¦118776 through¦118777 the¦118778 tongue¦118779, if¦118780 not¦118781 easily¦118782_recognised¦118782 speech¦118783 you¦118784_all¦118784_may¦118784_give¦118784, how¦118785 will¦118786_be¦118786_being¦118786_known¦118786 what¦118787 ",
     {
      "type": "char",
      "marker": "add",
@@ -8221,7 +8216,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦119078"
+      "&his¦119078"
      ]
     },
     "_face¦119078, he¦119079_will¦119079_be¦119079_prostrating¦119079 untr the¦119080untr* before¦119081_",
@@ -9999,7 +9994,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦120459"
+      "&his¦120459"
      ]
     },
     "_will¦120459 that¦120460 now¦120461 he¦120462_may¦120462_come¦120462, but¦120464 he¦120463_will¦120463_be¦120463_coming¦120463 whenever¦120465 he¦120467_may¦120467_have¦120467_opportunity¦120467.\n",

@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:13 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "Revelation\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -544,7 +539,7 @@
      "number": "18",
      "sid": "REV 1:18"
     },
-    "and¦155821 untr which¦155822untr* living¦155823 and¦155824 I¦155825_became¦155825 dead¦155826, and¦155827 see¦155828, living¦155829 I¦155830_am¦155830 to¦155831 the¦155832 ages¦155833 of¦155834_the¦155834 ages¦155835, and¦155837 I¦155838_am¦155838_having¦155838 the¦155839 keys¦155840 of¦155842_ untr the¦155841untr* _death¦155842 and¦155844 of¦155846_ untr the¦155845untr* _Haidaʸs¦155846.\n",
+    "and¦155821 untr which¦155822untr* living¦155823 and¦155824 I¦155825_became¦155825 dead¦155826, and¦155827 see¦155828, living¦155829 I¦155830_am¦155830 to¦155831 the¦155832 ages¦155833 of¦155834_the¦155834 ages¦155835, and¦155837 I¦155838_am¦155838_having¦155838 the¦155839 keys¦155840 of¦155842_ untr the¦155841untr* _death¦155842 and¦155844 of¦155846_ untr the¦155845untr* _Haᵢdaʸs¦155846.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -824,7 +819,7 @@
      "number": "10",
      "sid": "REV 2:10"
     },
-    "Not¦156140 be¦156142_fearing¦156142 what¦156143 you¦156144_are¦156144_going¦156144 to¦156146_be¦156146_suffering¦156146. Behold¦156147, is¦156149_going¦156149 to¦156150_be¦156150_throwing¦156150 ",
+    "Not¦156140 be¦156142_fearing¦156142 what¦156143 you¦156144_are¦156144_going¦156144 to¦156146_be¦156146_suffering¦156146. Behold¦156147, is¦156149_going¦156149 to¦156150_be¦156150_casting¦156150 ",
     {
      "type": "char",
      "marker": "add",
@@ -1164,7 +1159,7 @@
      "number": "22",
      "sid": "REV 2:22"
     },
-    "see¦156486, I¦156488_am¦156488_throwing¦156488 her¦156490 into¦156491 ",
+    "see¦156486, I¦156488_am¦156488_casting¦156488 her¦156490 into¦156491 ",
     {
      "type": "char",
      "marker": "add",
@@ -1210,7 +1205,7 @@
       ">things¦156560"
      ]
     },
-    " of¦156563_ untr the¦156562untr* _Satan/(Sāţān)¦156563, as¦156564 they¦156565_are¦156565_saying¦156565, not¦156566 I¦156567_am¦156567_throwing¦156567 on¦156569 you¦156570_all¦156570 another¦156571 burden¦156572.\n",
+    " of¦156563_ untr the¦156562untr* _Satan/(Sāţān)¦156563, as¦156564 they¦156565_are¦156565_saying¦156565, not¦156566 I¦156567_am¦156567_casting¦156567 on¦156569 you¦156570_all¦156570 another¦156571 burden¦156572.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2109,7 +2104,7 @@
       ">one¦157539"
      ]
     },
-    " living¦157540 to¦157541 the¦157542 ages¦157543 of¦157544_the¦157544 ages¦157545, and¦157547 they¦157548_will¦157548_be¦157548_throwing¦157548 the¦157550 crowns¦157551 of¦157552_them¦157552 before¦157553 the¦157554 throne¦157555 saying¦157556,\n",
+    " living¦157540 to¦157541 the¦157542 ages¦157543 of¦157544_the¦157544 ages¦157545, and¦157547 they¦157548_will¦157548_be¦157548_casting¦157548 the¦157550 crowns¦157551 of¦157552_them¦157552 before¦157553 the¦157554 throne¦157555 saying¦157556,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2195,7 +2190,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦157615"
+      "+a¦157615"
      ]
     },
     "_messenger¦157615 strong¦157616, proclaiming¦157617 in¦157619 in¦157620_",
@@ -2702,7 +2697,7 @@
       "was¦158213"
      ]
     },
-    " Death¦158216, and¦158217 untr the¦158218untr* Haidaʸs¦158219 was¦158220_following¦158220 with¦158221 him¦158222, and¦158224 was¦158225_given¦158225 to¦158226_them¦158226 authority¦158228 over¦158230 the¦158231 fourth¦158232 of¦158233_the¦158233 earth¦158234, to¦158235_kill¦158235_off¦158235 with¦158236 sword¦158237, and¦158238 with¦158239 famine¦158240, and¦158241 with¦158242 death¦158243, and¦158244 by¦158247 the¦158248 wild¦158249_beasts¦158249 of¦158250_the¦158250 earth¦158251.\n",
+    " Death¦158216, and¦158217 untr the¦158218untr* Haᵢdaʸs¦158219 was¦158220_following¦158220 with¦158221 him¦158222, and¦158224 was¦158225_given¦158225 to¦158226_them¦158226 authority¦158228 over¦158230 the¦158231 fourth¦158232 of¦158233_the¦158233 earth¦158234, to¦158235_kill¦158235_off¦158235 with¦158236 sword¦158237, and¦158238 with¦158239 famine¦158240, and¦158241 with¦158242 death¦158243, and¦158244 by¦158247 the¦158248 wild¦158249_beasts¦158249 of¦158250_the¦158250 earth¦158251.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2801,7 +2796,7 @@
       "+a¦158405"
      ]
     },
-    "_fig¦158405_tree¦158405 is¦158408_throwing¦158408 the¦158409 unripe¦158410_figs¦158410 of¦158411_it¦158411, by¦158413 ",
+    "_fig¦158405_tree¦158405 is¦158408_casting¦158408 the¦158409 unripe¦158410_figs¦158410 of¦158411_it¦158411, by¦158413 ",
     {
      "type": "char",
      "marker": "add",
@@ -7852,7 +7847,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦165399"
+      "+a¦165399"
      ]
     },
     "_messenger¦165399 coming¦165400_down¦165400 out¦165401_of¦165401 untr the¦165402untr* heaven¦165403, holding¦165404 the¦165405 key¦165406 of¦165407_the¦165407 abyss¦165408, and¦165409 ",
@@ -8139,14 +8134,14 @@
      "number": "13",
      "sid": "REV 20:13"
     },
-    "And¦165802 gave¦165803 the¦165804 sea¦165805 the¦165806 dead¦165807 untr which¦165808untr* in¦165809 it¦165810, and¦165812 untr the¦165814untr* death¦165815 and¦165816 untr the¦165817untr* Haidaʸs¦165818 gave¦165819 the¦165821 dead¦165822 untr which¦165823untr* in¦165824 them¦165825, and¦165827 they¦165829_were¦165829_judged¦165829 each¦165830 according¦165831_to¦165831 the¦165832 works¦165833 of¦165834_them¦165834.\n",
+    "And¦165802 gave¦165803 the¦165804 sea¦165805 the¦165806 dead¦165807 untr which¦165808untr* in¦165809 it¦165810, and¦165812 untr the¦165814untr* death¦165815 and¦165816 untr the¦165817untr* Haᵢdaʸs¦165818 gave¦165819 the¦165821 dead¦165822 untr which¦165823untr* in¦165824 them¦165825, and¦165827 they¦165829_were¦165829_judged¦165829 each¦165830 according¦165831_to¦165831 the¦165832 works¦165833 of¦165834_them¦165834.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "REV 20:14"
     },
-    "And¦165835 untr the¦165836untr* death¦165837 and¦165838 untr the¦165839untr* Haidaʸs¦165840 were¦165841_throw¦165841 into¦165842 the¦165843 lake¦165844 of¦165846_ untr the¦165845untr* _fire¦165846. This¦165848 untr the¦165849untr* the¦165852 second¦165853 death¦165850 is¦165855, the¦165856 lake¦165857 of¦165859_ untr the¦165858untr* _fire¦165859.\n",
+    "And¦165835 untr the¦165836untr* death¦165837 and¦165838 untr the¦165839untr* Haᵢdaʸs¦165840 were¦165841_throw¦165841 into¦165842 the¦165843 lake¦165844 of¦165846_ untr the¦165845untr* _fire¦165846. This¦165848 untr the¦165849untr* the¦165852 second¦165853 death¦165850 is¦165855, the¦165856 lake¦165857 of¦165859_ untr the¦165858untr* _fire¦165859.\n",
     {
      "type": "verse",
      "marker": "v",

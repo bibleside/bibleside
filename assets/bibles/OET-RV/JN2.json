@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "2JN",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.01"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.0"
    ]
   },
   {
@@ -91,7 +91,7 @@
    "type": "para",
    "marker": "ip",
    "content": [
-    "This the second letter that we have by Yohan one of the earliest followers of Yeshua. He sent this letter to a chosen woman and her children—presumably meaning ‘chosen by God’. Some think this might be referring to a group of believers (in which case, the ‘chosen sister’ of the closing sentence might also be a congregation). This short letter reminds the recipients that it’s necessary to keep following the truth of Yeshua’s original teaching and to love each other. It also warns about those who teach that Yeshua was not the messiah (or was not God).\n"
+    "This is the second letter that we have by Yohan one of the earliest followers of Yeshua and who became an apprentice to him. He sent this letter to a chosen woman and her children—presumably meaning ‘chosen by God’. Some think this might be referring to a group of believers (in which case, the ‘chosen sister’ of the closing sentence might also be a congregation). This short letter reminds the recipients that it’s necessary to keep following the truth of Yeshua’s original teaching and to love each other. It also warns about those who teach that Yeshua was not the messiah (or was not God).\n"
    ]
   },
   {
@@ -161,7 +161,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -179,21 +179,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Truth and love\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Salutation\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Greetings\n"
+    "/s1 Greetings; Salutation; Truth and love\n"
    ]
   },
   {
@@ -213,14 +199,22 @@
       "This letter is from Yohan"
      ]
     },
-    " the elder¦154185 to the chosen¦154186 lady and her¦154191 children¦154190 who I genuinely love (as do all the other believers)\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(John; Grk. Yoannes)"
+     ]
+    },
+    " the¦154184 elder¦154185 to¦154186 the¦154186 chosen¦154186 lady and¦154188 her¦154191 children¦154190 who¦154192 I¦154193 genuinely love¦154194 (as do all¦154204 the¦154205 other believers)\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "2JN 1:2"
     },
-    "because¦154209 of the truth¦154211 that¦154212 lives in us and¦154217 will be with us forever.\n"
+    "because¦154209 of¦154209 the¦154210 truth¦154211 that¦154212 lives in¦154215 us¦154216 and¦154217 will¦154220 be¦154220 with¦154218 us¦154219 forever.\n"
    ]
   },
   {
@@ -233,7 +227,7 @@
      "number": "3",
      "sid": "2JN 1:3"
     },
-    "We will have grace¦154228, mercy¦154229, and peace¦154230 in truth¦154246 and love from ",
+    "We will have grace¦154228, mercy¦154229, and peace¦154230 in¦154245 truth¦154246 and¦154247 love¦154248 from¦154232 ",
     {
      "type": "char",
      "marker": "nd",
@@ -241,20 +235,20 @@
       "God¦154233"
      ]
     },
-    " the father and from his son ",
+    " the¦154234 father¦154234 and¦154235 from¦154236 his son¦154241 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
-     ]
-    },
-    " the ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "messiah¦154239"
+      "Yeshua¦154238 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦154238; Grk¦154238. Yesus¦154238)"
+       ]
+      },
+      " the¦154239 messiah¦154239"
      ]
     },
     ".\n"
@@ -271,14 +265,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Truth and Love\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Live in the Truth\n"
+    "/s1 Truth and Love; Live in the Truth\n"
    ]
   },
   {
@@ -291,13 +278,21 @@
      "number": "4",
      "sid": "2JN 1:4"
     },
-    "I was so happy that I found¦154252 some of your¦154257 children¦154256 living out the truth¦154260 as per the command¦154262 that the father¦154268 gave us.\n",
+    "I¦154249 was¦154249 so happy¦154249 that¦154251 I¦154252 found¦154252 some¦154252 of¦154254 your¦154257 children¦154256 living out the truth¦154260 as¦154261 per the¦154262 command¦154262 that the¦154267 father¦154268 gave us.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "2JN 1:5"
     },
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦154269"
+     ]
+    },
+    " now¦154270 I’m¦154271 requesting¦154271 you¦154272, lady, (not¦154274 making some new¦154277 command¦154276, but¦154282 one¦154290 that we’ve¦154285 had¦154285 since the¦154287 beginning¦154287) that¦154288 we¦154289 all need to love¦154289 each other",
     {
      "type": "note",
      "marker": "x",
@@ -319,29 +314,53 @@
      ],
      "caller": "+"
     },
-    "So¦154269 now I’m requesting you, lady, (not making some new command¦154276, but¦154269 one that we’ve had since the beginning¦154287) that we all need to love each other\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "2JN 1:6"
     },
-    "where the definition of love is obeying God’s commands¦154300. This is the command¦154308 about walking in love that you all heard¦154314 from the beginning¦154316\n",
+    "where the¦154294 definition of love¦154295 is¦154297 obeying ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@God’s"
+     ]
+    },
+    " commands¦154300. This¦154304 is¦154310 the¦154306 command¦154308 about walking in love that you¦154314 all¦154314 heard¦154314 from¦154315 the¦154316 beginning¦154316\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "2JN 1:7"
     },
-    "because many false preachers have entered the world¦154329 who don’t¦154331 believe that ",
+    "because¦154322 many¦154323 false preachers have entered the¦154328 world¦154329 who don’t¦154331 believe that ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "Yeshua¦154333"
      ]
     },
-    " is the messiah who came¦154325 as a human. Any person like that is a deceiver¦154341 and¦154342 against the messiah.\n"
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦154333; Grk¦154333. Yesus¦154333)"
+     ]
+    },
+    " is ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "the¦154334 messiah¦154334"
+     ]
+    },
+    " who came¦154335 as a human. Any person like that¦154338 is¦154339 a deceiver¦154341 and¦154342 against the¦154343 messiah.\n"
    ]
   },
   {
@@ -354,7 +373,7 @@
      "number": "8",
      "sid": "2JN 1:8"
     },
-    "So make sure that you all don’t¦154349 lose what you’ve worked for, but rather go on to receive a full reward¦154357.\n"
+    "So make sure that¦154348 you¦154350 all¦154350 don’t¦154349 lose¦154350 what¦154353 you’ve¦154355 worked for, but¦154356 rather go on to receive¦154359 a¦154357 full¦154358 reward¦154357.\n"
    ]
   },
   {
@@ -374,7 +393,7 @@
       "Anyone¦154375"
      ]
     },
-    " who doesn’t stay with the ",
+    " who doesn’t stay¦154367 with the ",
     {
      "type": "char",
      "marker": "nd",
@@ -382,7 +401,7 @@
       "messiah’s¦154375"
      ]
     },
-    " teaching or adds more to it doesn’t have ",
+    " teaching or adds more to it doesn’t have¦154378 ",
     {
      "type": "char",
      "marker": "nd",
@@ -390,21 +409,37 @@
       "God¦154376"
      ]
     },
-    "—it’s the person who continues in the his teaching that¦154362 has both the father¦154390 and the son with them.\n",
+    "—it’s the¦154379 person who continues in¦154381 the¦154382 teaching¦154383 that¦154386 has¦154395 both¦154387 the¦154388 father¦154390 and¦154391 the¦154392 son¦154394 with them.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "2JN 1:10"
     },
-    "If anyone¦154397 comes to you¦154400 all and doesn’t bring¦154408 this same message, don’t accept that person into your house¦154413, and don’t tell them that it’s good\n",
+    "If¦154396 anyone¦154397 comes¦154398 to¦154399 you¦154400 all¦154400 and¦154401 doesn’t bring¦154408 this¦154402 same message, don’t¦154409 accept¦154410 that person into¦154412 your house¦154413, and¦154414 don’t¦154417 tell¦154418 them that it’s good\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "2JN 1:11"
     },
-    "because¦154421 anyone who encourages those people is participating in the evil¦154430 that they’re spreading.\n"
+    "because¦154421 anyone who encourages ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#those people"
+     ]
+    },
+    " is¦154425 participating in¦154426 the¦154429 evil¦154430 that ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#they’re"
+     ]
+    },
+    " spreading.\n"
    ]
   },
   {
@@ -418,21 +453,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Final Words\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Conclusion\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Final Greetings\n"
+    "/s1 Conclusion; Final Words; Final Greetings\n"
    ]
   },
   {
@@ -445,7 +466,15 @@
      "number": "12",
      "sid": "2JN 1:12"
     },
-    "I’ve got many things that I wanted to write to you about, but¦154441 paper¦154440 and ink¦154442 aren’t¦154437 working for me so I’ll try to come and then we can talk directly because I want you all to experience genuine happiness.\n"
+    "I’ve got many¦154431 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">things"
+     ]
+    },
+    " that¦154457 I wanted to¦154435 write¦154435 to¦154434 you¦154434 about¦154460, but paper¦154440 and¦154441 ink¦154442 aren’t¦154437 working for me so I’ll¦154444 try to come and¦154450 then we can talk¦154456 directly because I want you¦154460 all¦154460 to experience genuine happiness.\n"
    ]
   },
   {
@@ -458,7 +487,23 @@
      "number": "13",
      "sid": "2JN 1:13"
     },
-    "Your¦154472 sister’s¦154471 children¦154469 (and she’s also a chosen¦154474 one) send their greetings¦154466 also.\n"
+    "Your¦154472 sister’s¦154471 children¦154469 (and she’s ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "also"
+     ]
+    },
+    " a chosen¦154474 one) send their greetings¦154466 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "also"
+     ]
+    },
+    ".\n"
    ]
   }
  ]

@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:12 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "Titos\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -221,7 +216,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦139914"
+      "&his¦139914"
      ]
     },
     "_own¦139914 _seasons¦139913 in¦139918 ",
@@ -260,7 +255,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^my¦139930"
+      "&my¦139930"
      ]
     },
     "_genuine¦139930 child¦139931, according¦139932_to¦139932 ",
@@ -268,7 +263,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^our¦139933"
+      "&our¦139933"
      ]
     },
     "_common¦139933 faith¦139934: grace¦139935 and¦139936 peace¦139938 from¦139939 ",
@@ -681,7 +676,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^their¦140249"
+      "&their¦140249"
      ]
     },
     "_own¦140249 masters¦140250 in¦140253 all¦140254 ",

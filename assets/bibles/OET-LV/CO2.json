@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:12 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "2 Korinthios\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -344,7 +339,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^our¦120812"
+      "&our¦120812"
      ]
     },
     "_power¦120812 we¦120813_were¦120813_weighed¦120813_down¦120813, so¦120814_as¦120814 to¦120815_be¦120815_despairing¦120815 us¦120816 even¦120817 untr which¦120818untr* to¦120819_be¦120819_living¦120819.\n",
@@ -883,7 +878,7 @@
      "number": "12",
      "sid": "2CO 2:12"
     },
-    "And¦121356 having¦121355_come¦121355 to¦121357 untr the¦121358untr* Trōias¦121359 for¦121360 the¦121361 good¦121362_message¦121362 of¦121363_the¦121363 ",
+    "And¦121356 having¦121355_come¦121355 to¦121357 untr the¦121358untr* Trōᵢas¦121359 for¦121360 the¦121361 good¦121362_message¦121362 of¦121363_the¦121363 ",
     {
      "type": "char",
      "marker": "nd",
@@ -3373,7 +3368,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^their¦123245"
+      "&their¦123245"
      ]
     },
     "_ability¦123245 I¦123246_am¦123246_testifying¦123246, and¦123247 beside¦123248 ",
@@ -3381,7 +3376,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^their¦123250"
+      "&their¦123250"
      ]
     },
     "_ability¦123250, voluntary¦123251\n",
@@ -3738,7 +3733,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦123607"
+      "&his¦123607"
      ]
     },
     "_confidence¦123607 much¦123609 untr which¦123610untr* toward¦123611 you¦123612_all¦123612.\n",
@@ -4269,7 +4264,7 @@
       "chosen¦124086_one¦124086/messiah¦124086"
      ]
     },
-    " to¦124087_be¦124087, this¦124088 him¦124089 _let¦124089_be¦124089_counting¦124089 contrastly¦124090 by¦124091 himself¦124093, that¦124094 as¦124095 he¦124096 ",
+    " to¦124087_be¦124087, this¦124088 him¦124089 _let¦124089_be¦124089_counting¦124089 in_contrast¦124090 by¦124091 himself¦124093, that¦124094 as¦124095 he¦124096 ",
     {
      "type": "char",
      "marker": "add",
@@ -4647,7 +4642,7 @@
       "+a¦124423"
      ]
     },
-    "_sin¦124423 I¦124424_did¦124424 myself¦124425 humbling¦124426, in¦124427_order¦124427_that¦124427 you¦124428_all¦124428 may¦124429_be¦124429_exalted¦124429, because¦124430 undeservedly¦124431 the¦124432 of¦124434_ untr the¦124433untr* _",
+    "_sin¦124423 I¦124424_did¦124424 myself¦124425 humbling¦124426, in¦124427_order¦124427_that¦124427 you¦124428_all¦124428 may¦124429_be¦124429_elevated¦124429, because¦124430 undeservedly¦124431 the¦124432 of¦124434_ untr the¦124433untr* _",
     {
      "type": "char",
      "marker": "nd",
@@ -4781,7 +4776,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦124544"
+      "+a¦124544"
      ]
     },
     "_messenger¦124544 of¦124545_light¦124545.\n",
@@ -5001,7 +4996,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^my¦124723"
+      "&my¦124723"
      ]
     },
     "_race¦124723, in¦124724_dangers¦124724 from¦124725 ",
@@ -5322,7 +5317,7 @@
      "number": "7",
      "sid": "2CO 12:7"
     },
-    "And¦124962 by¦124963_the¦124963 excess¦124964 of¦124965_the¦124965 revelations¦124966, therefore¦124967 in¦124968_order¦124968_that¦124968 not¦124969 I¦124970 _may¦124970_be¦124970_being¦124970_exalted¦124970, was¦124971_given¦124971 to¦124972_me¦124972 ",
+    "And¦124962 by¦124963_the¦124963 excess¦124964 of¦124965_the¦124965 revelations¦124966, therefore¦124967 in¦124968_order¦124968_that¦124968 not¦124969 I¦124970 _may¦124970_be¦124970_being¦124970_elevated¦124970, was¦124971_given¦124971 to¦124972_me¦124972 ",
     {
      "type": "char",
      "marker": "add",
@@ -5338,7 +5333,7 @@
       "+a¦124976"
      ]
     },
-    "_messenger¦124976 of¦124977_Satan/(Sāţān)¦124977, in¦124978_order¦124978_that¦124978 me¦124979 he¦124980_may¦124980_be¦124980_tormenting¦124980, in¦124981_order¦124981_that¦124981 not¦124982 I¦124983 _may¦124983_be¦124983_being¦124983_exalted¦124983.\n",
+    "_messenger¦124976 of¦124977_Satan/(Sāţān)¦124977, in¦124978_order¦124978_that¦124978 me¦124979 he¦124980_may¦124980_be¦124980_tormenting¦124980, in¦124981_order¦124981_that¦124981 not¦124982 I¦124983 _may¦124983_be¦124983_being¦124983_elevated¦124983.\n",
     {
      "type": "verse",
      "marker": "v",

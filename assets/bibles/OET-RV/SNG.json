@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "SNG",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.04"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.5"
    ]
   },
   {
@@ -190,7 +190,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -214,7 +214,7 @@
      "number": "1",
      "sid": "SNG 1:1"
     },
-    "The song ",
+    "The¦282084 song¦282084 ",
     {
      "type": "char",
      "marker": "add",
@@ -222,12 +222,12 @@
       "to beat all"
      ]
     },
-    " songs¦282085 by Shelomoh ",
+    " songs¦282085 by Shelomoh¦282087 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "(Solomon¦282087)"
+      "!(Solomon¦282087)"
      ]
     },
     ".",
@@ -286,12 +286,12 @@
      "number": "2",
      "sid": "SNG 1:2"
     },
-    "Let him¦282089 kiss¦282089 me ",
+    "Let¦282089 him¦282089 kiss¦282089 me¦282089 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈on the lips"
+      "≈on the¦282090 lips¦282091"
      ]
     },
     ",\n"
@@ -301,7 +301,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because your¦282095 ",
+    "because¦282092 your ",
     {
      "type": "char",
      "marker": "add",
@@ -309,7 +309,7 @@
       "≈caresses"
      ]
     },
-    " are better than wine.\n"
+    " are¦282094 better¦282094 than¦282096 wine¦282096.\n"
    ]
   },
   {
@@ -322,19 +322,19 @@
      "number": "3",
      "sid": "SNG 1:3"
     },
-    "As for the fragrance¦282098 of your¦282099 perfumes¦282099—they’re good¦282100.\n"
+    "As for the fragrance¦282098 of¦282099 your¦282099 perfumes—they’re good¦282100.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your ",
+    "Your¦282103 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈reputation is like fragrant"
+      "≈reputation¦282103 is¦282101 like fragrant"
      ]
     },
     " oil¦282101\n"
@@ -344,7 +344,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "so the ",
+    "so¦282106 the ",
     {
      "type": "char",
      "marker": "add",
@@ -369,17 +369,17 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Take me with"
+      "≈Take¦282119 me¦282110 with"
      ]
     },
-    " you—let’s run.\n"
+    " you¦282111—let’s¦282112 run¦282112.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "May the king¦282114 has brought¦282113 me to his bedroom.\n"
+    "May the¦282114 king¦282114 has¦282113 brought¦282113 me¦282113 to his¦282115 bedroom¦282115.\n"
    ]
   },
   {
@@ -393,14 +393,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Let’s be happy and celebrate with you.\n"
+    "Let’s¦282116 be¦282116 happy¦282116 and¦282117 celebrate¦282117 with you¦282118.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "We will praise your love more than wine.\n"
+    "We will praise your¦282120 love more¦282121 than¦282121 wine¦282121.\n"
    ]
   },
   {
@@ -414,7 +414,15 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "It’s right that they love you.\n"
+    "It’s ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈right¦282122"
+     ]
+    },
+    " that they¦282123 love¦282123 you¦282123.\n"
    ]
   },
   {
@@ -427,21 +435,37 @@
      "number": "5",
      "sid": "SNG 1:5"
     },
-    "I am black¦282126 but¦282128 lovely¦282128, daughters¦282129 of Yerushalem¦282130,\n"
+    "I am¦282126 black¦282126 but¦282128 lovely¦282128, daughters¦282129 of¦282129 Yerushalem¦282130 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦282130)"
+     ]
+    },
+    ",\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "like the tents¦282131 in Kedar¦282132.\n"
+    "like¦282131 the¦282131 tents¦282131 in Kedar¦282132.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Like Shelomoh’s ",
+    "Like¦282133 Shelomoh’s¦282134 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Solomon’s¦282134)"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -462,21 +486,21 @@
      "number": "6",
      "sid": "SNG 1:6"
     },
-    "Don’t look at¦282147 me, that¦282154 I’m black¦282140.\n"
+    "Don’t¦282136 look¦282138 at¦282138 me¦282138, that¦282139 I’m¦282139 black¦282140.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "That the sun¦282142 scorched me.\n"
+    "That the¦282142 sun¦282142 scorched me.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "My ",
+    "My¦282144 ",
     {
      "type": "char",
      "marker": "add",
@@ -484,22 +508,22 @@
       "≈brothers"
      ]
     },
-    " were angry¦282145 with¦282147 me.\n"
+    " were¦282145 angry¦282145 with¦282147 me¦282147.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "They ",
+    "They¦282148 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈forced me to look after our"
+      "≈forced me¦282148 to look after our"
      ]
     },
-    " vineyards—\n"
+    " vineyards¦282152—\n"
    ]
   },
   {
@@ -521,7 +545,7 @@
       "≈maintained"
      ]
     },
-    " my own vineyard.\n"
+    " my¦282153 own¦282153 vineyard¦282153.\n"
    ]
   },
   {
@@ -534,7 +558,7 @@
      "number": "7",
      "sid": "SNG 1:7"
     },
-    "Declare to me, you who my ",
+    "Declare to¦282159 me¦282159, you who¦282160 my ",
     {
      "type": "char",
      "marker": "add",
@@ -549,29 +573,29 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Where do you graze¦282163?\n"
+    "Where¦282162 do you¦282163 graze¦282163?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Where do you make ",
+    "Where¦282164 do you¦282165 make¦282165 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@your flocks"
+      "@your¦282165 flocks¦282165"
      ]
     },
-    " lie down at¦282166 noontime?\n"
+    " lie¦282165 down¦282165 at¦282166 noontime?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Why should I be like a woman who covers herself beside your companions’ flocks?\n"
+    "Why¦282167 should I¦282168 be¦282168 like¦282169 a¦282169 woman who covers herself beside your¦282172 companions’¦282172 flocks¦282171?\n"
    ]
   },
   {
@@ -591,7 +615,7 @@
      "number": "8",
      "sid": "SNG 1:8"
     },
-    "If¦282179 you¦282177 don’t¦282176 know¦282177, most beautiful¦282179 among¦282180 women¦282180,\n"
+    "If¦282174 you¦282177 don’t¦282176 know¦282177, most beautiful¦282179 among¦282180 women¦282180,\n"
    ]
   },
   {
@@ -605,19 +629,26 @@
       "≈follow"
      ]
     },
-    " the footprints¦282184 of the flock¦282185,\n"
+    " the¦282184 footprints¦282184 of¦282184 the¦282185 flock¦282185,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦282186 graze your¦282189 young¦282189 goats¦282189 beside the shepherds’ tents.\n"
+    "and¦282186 graze¦282186 your¦282189 young¦282189 goats¦282189 beside the¦282192 shepherds’¦282192 tents.\n"
    ]
   },
   {
    "type": "para",
    "marker": "b"
+  },
+  {
+   "type": "para",
+   "marker": "rem",
+   "content": [
+    "/s1 Colloquy of Bridegroom, Friends, and Bride\n"
+   ]
   },
   {
    "type": "para",
@@ -629,21 +660,14 @@
      "number": "9",
      "sid": "SNG 1:9"
     },
-    "I liken¦282198 you¦282198, my darling¦282199,\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Colloquy of Bridegroom, Friends, and Bride\n"
+    "I¦282198 liken¦282198 you¦282198, my¦282199 darling¦282199,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "to a mare ",
+    "to a mare¦282195 ",
     {
      "type": "char",
      "marker": "add",
@@ -651,12 +675,12 @@
       "walking"
      ]
     },
-    " among¦282196 Far’oh’s ",
+    " among¦282196 Par’oh’s¦282197 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "(Pharaoh’s¦282197)"
+      "!(Pharaoh’s¦282197)"
      ]
     },
     " ",
@@ -680,14 +704,14 @@
      "number": "10",
      "sid": "SNG 1:10"
     },
-    "Your cheeks¦282202 are beautiful with earrings.\n"
+    "Your¦282202 cheeks¦282202 are¦282201 beautiful with¦282203 earrings.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Your neck ",
+    "≈Your¦282204 neck¦282204 ",
     {
      "type": "char",
      "marker": "add",
@@ -695,7 +719,7 @@
       "≡is beautiful"
      ]
     },
-    " with necklaces.\n"
+    " with¦282205 necklaces.\n"
    ]
   },
   {
@@ -715,14 +739,14 @@
      "number": "11",
      "sid": "SNG 1:11"
     },
-    "We’ll make gold¦282208 earrings\n"
+    "We’ll¦282209 make¦282209 gold¦282208 earrings\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈with silver¦282214 studs¦282213.\n"
+    "≈with¦282212 silver¦282214 studs¦282213.\n"
    ]
   },
   {
@@ -742,14 +766,14 @@
      "number": "12",
      "sid": "SNG 1:12"
     },
-    "While the king¦282218 was on¦282219 his couch¦282219,\n"
+    "While the¦282218 king¦282218 was¦282219 on his¦282219 couch,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "my perfume¦282220 gave¦282221 off its¦282222 fragrance¦282222.\n"
+    "my¦282220 perfume¦282220 gave¦282221 off its¦282222 fragrance¦282222.\n"
    ]
   },
   {
@@ -785,7 +809,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "that stays between¦282229 my breasts¦282230.\n"
+    "that stays between¦282229 my¦282230 breasts¦282230.\n"
    ]
   },
   {
@@ -798,7 +822,7 @@
      "number": "14",
      "sid": "SNG 1:14"
     },
-    "My dearest¦282236 is ",
+    "My dearest¦282236 is¦282233 ",
     {
      "type": "char",
      "marker": "add",
@@ -806,14 +830,22 @@
       "like"
      ]
     },
-    " a cluster¦282233 of henna¦282234 blossoms¦282234 to me,\n"
+    " a cluster¦282233 of¦282233 henna¦282234 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#blossoms¦282234"
+     ]
+    },
+    " to¦282237 me¦282237,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "in¦282238 the Engedi vineyards¦282238.\n"
+    "in¦282238 the¦282238 Eyn¦282240-Gedi vineyards¦282238.\n"
    ]
   },
   {
@@ -833,14 +865,14 @@
      "number": "15",
      "sid": "SNG 1:15"
     },
-    "Wow, you’re¦282243 beautiful, my darling¦282245.\n"
+    "Wow, you’re¦282243 beautiful¦282244, my¦282245 darling¦282245.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Look at you, beautiful, with your doves’ eyes¦282248.\n"
+    "≈Look at you¦282246, beautiful¦282247, with your¦282248 doves’¦282249 eyes¦282248.\n"
    ]
   },
   {
@@ -860,14 +892,14 @@
      "number": "16",
      "sid": "SNG 1:16"
     },
-    "Look at you¦282251. You’re handsome, my dearest¦282255, truly pleasant¦282257.\n"
+    "Look at you¦282251. You’re handsome, my¦282255 dearest¦282255, truly pleasant¦282257.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Indeed, our¦282260 couch¦282260 is ",
+    "Indeed, our¦282260 couch¦282260 is¦282261 ",
     {
      "type": "char",
      "marker": "add",
@@ -888,14 +920,22 @@
      "number": "17",
      "sid": "SNG 1:17"
     },
-    "The beams¦282263 of our house¦282264 are cedar¦282265.\n"
+    "The¦282263 beams¦282263 of¦282263 our¦282264 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#house¦282264"
+     ]
+    },
+    " are¦282265 cedar¦282265.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Our rafters¦282266 are pine.\n"
+    "≈Our¦282266 rafters¦282266 are¦282268 pine.\n"
    ]
   },
   {
@@ -914,14 +954,14 @@
      "number": "1",
      "sid": "SNG 2:1"
     },
-    "I’m a wildflower of Sharon¦282272.\n"
+    "I’m¦282270 a wildflower of¦282271 Sharon¦282272.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈A lily of the valleys¦282274.\n"
+    "≈A lily¦282273 of¦282273 the¦282274 valleys¦282274.\n"
    ]
   },
   {
@@ -941,14 +981,14 @@
      "number": "2",
      "sid": "SNG 2:2"
     },
-    "My darling¦282280 is among the young women\n"
+    "My darling¦282280 is among¦282281 the¦282282 young women¦282282\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "like a lily among the thorns¦282278.\n"
+    "like¦282276 a¦282276 lily¦282276 among¦282277 the¦282278 thorns¦282278.\n"
    ]
   },
   {
@@ -968,28 +1008,28 @@
      "number": "3",
      "sid": "SNG 2:3"
     },
-    "Like an apple¦282284 tree¦282284 among the trees¦282285 in¦282285 the forest¦282286,\n"
+    "Like¦282284 an¦282284 apple¦282284 tree¦282284 among¦282285 the¦282285 trees¦282285 in the¦282286 forest¦282286,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "so is my dearest¦282288 among the young¦282290 men¦282290.\n"
+    "so¦282287 is my¦282288 dearest¦282288 among¦282289 the¦282290 young¦282290 men.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "In his shadow I greatly delighted, and I sat¦282293,\n"
+    "In¦282291 his¦282291 shadow¦282291 I¦282292 greatly delighted, and¦282293 I¦282293 sat¦282293,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and his fruit¦282294 is sweet¦282295 to my ",
+    "and¦282294 his¦282294 fruit¦282294 is¦282295 sweet¦282295 to¦282296 my¦282296 ",
     {
      "type": "char",
      "marker": "add",
@@ -1010,7 +1050,7 @@
      "number": "4",
      "sid": "SNG 2:4"
     },
-    "He brought¦282298 me to the house¦282301 of ",
+    "He¦282298 brought¦282298 me¦282298 to¦282299 the¦282301 house¦282301 of¦282301 ",
     {
      "type": "char",
      "marker": "add",
@@ -1018,19 +1058,19 @@
       "?food and"
      ]
     },
-    " wine\n"
+    " wine¦282302\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and his ",
+    "and¦282303 his¦282303 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈desire for me is to show"
+      "≈desire for me¦282304 is¦282305 to show"
      ]
     },
     " love¦282305.\n"
@@ -1046,21 +1086,21 @@
      "number": "5",
      "sid": "SNG 2:5"
     },
-    "Sustain¦282307 me with raisin¦282308 cakes.\n"
+    "Sustain¦282307 me¦282307 with¦282308 raisin¦282308 cakes.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Refresh me with apples¦282310,\n"
+    "≈Refresh¦282309 me¦282309 with¦282310 apples¦282310,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because I’m weak with love¦282314.\n"
+    "because¦282311 I’m weak¦282313 with love¦282314.\n"
    ]
   },
   {
@@ -1073,14 +1113,14 @@
      "number": "6",
      "sid": "SNG 2:6"
     },
-    "His left hand¦282320 is under¦282318 my head¦282319,\n"
+    "His¦282317 left¦282317 hand is¦282318 under¦282318 my¦282319 head¦282319,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "^and his right¦282320 arm embraces¦282321 me.\n"
+    "^and¦282320 his¦282320 right¦282320 arm¦282320 embraces¦282321 me¦282321.\n"
    ]
   },
   {
@@ -1097,29 +1137,37 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Promise me, you young women"
+      "≈Promise me, you¦282324 young women¦282325"
      ]
     },
-    " from Yerushalem¦282326\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "by the female gazelles¦282327 or the does in¦282327 the countryside¦282330,\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "don’t awaken¦282333 or stir love¦282340 until¦282341 ",
+    " from Yerushalem¦282326 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈it’s the right time"
+      "!(Jerusalem¦282326)"
+     ]
+    },
+    "\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "by¦282327 the female gazelles¦282327 or¦282328 the¦282329 does¦282329 in the¦282330 countryside¦282330,\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "don’t awaken¦282333 or stir¦282337 love¦282340 until¦282341 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈it’s¦282342 the right time"
      ]
     },
     ".\n"
@@ -1156,21 +1204,21 @@
      "number": "8",
      "sid": "SNG 2:8"
     },
-    "Listen, my dearest¦282346 is coming¦282350,\n"
+    "Listen, my¦282346 dearest¦282346 is¦282350 coming¦282350,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "leaping¦282351 over the mountains¦282354,\n"
+    "leaping¦282351 over¦282352 the¦282354 mountains¦282354,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈jumping over the hills¦282358.\n"
+    "≈jumping over¦282356 the¦282358 hills¦282358.\n"
    ]
   },
   {
@@ -1183,28 +1231,28 @@
      "number": "9",
      "sid": "SNG 2:9"
     },
-    "My dearest¦282361 is being like a gazelle¦282362 or a young¦282364 stag.\n"
+    "My¦282361 dearest¦282361 is¦282360 being like¦282360 a¦282362 gazelle¦282362 or¦282363 a young¦282364 stag.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Look, that one is standing¦282369 behind¦282370 our¦282371 wall¦282371,\n"
+    "Look, that¦282368 one is¦282369 standing¦282369 behind¦282370 our¦282371 wall¦282371,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "gazing¦282372 through the windows¦282375—\n"
+    "gazing¦282372 through the¦282375 windows¦282375—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈looking through the lattices¦282379.\n"
+    "≈looking through the¦282379 lattices¦282379.\n"
    ]
   },
   {
@@ -1217,14 +1265,14 @@
      "number": "10",
      "sid": "SNG 2:10"
     },
-    "My dearest¦282382 answered¦282381 and said to me,\n"
+    "My¦282382 dearest¦282382 answered¦282381 and¦282383 said to¦282384 me¦282384,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "“Stand up, my darling¦282387, my beauty¦282388, and come¦282389,\n"
+    "“Stand up, my¦282387 darling¦282387, my¦282388 beauty¦282388, and¦282389 come¦282389,\n"
    ]
   },
   {
@@ -1237,21 +1285,21 @@
      "number": "11",
      "sid": "SNG 2:11"
     },
-    "because, look, the winter¦282396 is over.\n"
+    "because¦282393, look, the¦282396 winter¦282396 is over.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The rain has passed—\n"
+    "The¦282399 rain¦282399 has¦282400 passed¦282400—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈it went away.\n"
+    "≈it¦282401 went¦282401 away¦282400.\n"
    ]
   },
   {
@@ -1264,14 +1312,14 @@
      "number": "12",
      "sid": "SNG 2:12"
     },
-    "Blossoms have appeared¦282405 across the land.\n"
+    "Blossoms¦282404 have¦282405 appeared¦282405 across the¦282406 land¦282406.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The time¦282407 of ",
+    "The¦282407 time¦282407 of¦282407 ",
     {
      "type": "char",
      "marker": "add",
@@ -1287,14 +1335,14 @@
       "≈tweeting"
      ]
     },
-    " has arrived¦282409,\n"
+    " has¦282409 arrived¦282409,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and the voice¦282410 of the turtledove¦282411 is heard¦282412 in¦282413 our¦282413 land.\n"
+    "≈and¦282410 the¦282410 voice¦282410 of¦282410 the¦282411 turtledove¦282411 is¦282412 heard¦282412 in¦282413 our¦282413 land.\n"
    ]
   },
   {
@@ -1307,28 +1355,28 @@
      "number": "13",
      "sid": "SNG 2:13"
     },
-    "The fig¦282415 tree¦282415 ripens¦282416 its¦282417 green figs¦282417,\n"
+    "The¦282415 fig¦282415 tree¦282415 ripens¦282416 its green figs¦282417,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and the grapevines are in blossom¦282420.\n"
+    "≈and¦282418 the¦282418 grapevines are in blossom¦282420.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "They give off a scent.\n"
+    "They¦282421 give¦282421 off a scent¦282422.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Stand up, my beautiful¦282427 darling¦282426 and come¦282428.\n"
+    "Stand up, my¦282427 beautiful¦282427 darling¦282426 and¦282428 come¦282428.\n"
    ]
   },
   {
@@ -1341,40 +1389,48 @@
      "number": "14",
      "sid": "SNG 2:14"
     },
-    "My dove¦282433, in the holes in the rocks,\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "≈in the hiding¦282436 places of the cliff¦282437,\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "Show me your appearance,\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "≈make me hear¦282445 your voice,\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "because your voice is sweet¦282452, and ",
+    "My¦282433 dove¦282433, in¦282434 the¦282434 holes in the¦282435 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈you look"
+      "#rocks¦282435"
+     ]
+    },
+    ",\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "≈in¦282436 the¦282436 hiding¦282436 places¦282436 of¦282436 the¦282437 cliff¦282437,\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "Show me your¦282441 appearance,\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "≈make¦282445 me¦282445 hear¦282445 your voice,\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "because¦282449 your voice is¦282452 sweet¦282452, and¦282453 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈you look¦282438"
      ]
     },
     " lovely¦282454.\n"
@@ -1390,21 +1446,21 @@
      "number": "15",
      "sid": "SNG 2:15"
     },
-    "Catch the foxes for us—\n"
+    "Catch the foxes for¦282459 us¦282459—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "the little foxes that¦282463 destroy the vineyards,\n"
+    "the little¦282462 foxes that¦282463 destroy¦282463 the vineyards¦282464,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦282465 our¦282465 vineyards are in blossom¦282466.\n"
+    "and¦282465 our¦282465 vineyards are¦282466 in blossom¦282466.\n"
    ]
   },
   {
@@ -1431,7 +1487,7 @@
      "number": "16",
      "sid": "SNG 2:16"
     },
-    "My dearest belongs to me and¦282470 I belong to him—\n"
+    "My¦282468 dearest¦282468 belongs to¦282469 me¦282469 and¦282470 I¦282470 belong to¦282471 him¦282471—\n"
    ]
   },
   {
@@ -1459,22 +1515,22 @@
      "number": "17",
      "sid": "SNG 2:17"
     },
-    "Until¦282475 the ",
+    "Until¦282475 the¦282477 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈daylight arrives"
+      "≈daylight¦282477 arrives"
      ]
     },
-    " and¦282478 the shadows¦282479 flee, turn¦282480.\n"
+    " and¦282478 the¦282479 shadows¦282479 flee¦282478, turn¦282480.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "My¦282486 dearest¦282486 resembles a gazelle¦282487 or a young¦282489 stag on the ",
+    "My¦282486 dearest¦282486 resembles a¦282487 gazelle¦282487 or¦282488 a young¦282489 stag on¦282491 the¦282493 ",
     {
      "type": "char",
      "marker": "add",
@@ -1508,14 +1564,22 @@
      "number": "1",
      "sid": "SNG 3:1"
     },
-    "On my bed in¦282500 the night¦282500, I search for the one that my soul¦282504 loves¦282503.\n"
+    "On¦282497 my¦282499 bed¦282499 in¦282500 the ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#night¦282500"
+     ]
+    },
+    ", I¦282501 search¦282501 for the¦282503 one¦282503 that my soul¦282504 loves¦282503.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈I searched for him, but¦282506 I didn’t¦282506 find him.\n"
+    "≈I¦282505 searched¦282505 for him¦282505, but¦282506 I¦282507 didn’t¦282506 find¦282507 him¦282507.\n"
    ]
   },
   {
@@ -1528,36 +1592,44 @@
      "number": "2",
      "sid": "SNG 3:2"
     },
-    "I’ll¦282509 get up now and go¦282511 about¦282511 in the city¦282512—\n"
+    "I’ll¦282509 get up now and¦282511 go¦282511 about¦282511 in¦282512 the city¦282512—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "in the streets¦282513 and in the squares¦282514.\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "I will search¦282515 for ",
+    "in¦282513 the streets¦282513 and¦282514 in¦282514 the ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@the man"
+      "town"
      ]
     },
-    " who my soul¦282518 loves¦282517.\n"
+    " squares.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I looked for him, but¦282511 I didn’t¦282520 find him.\n"
+    "I¦282515 will¦282515 search¦282515 for ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@the¦282517 man¦282517"
+     ]
+    },
+    " who¦282517 my soul¦282518 loves¦282517.\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "I¦282519 looked for him¦282519, but¦282520 I¦282521 didn’t¦282520 find¦282521 him¦282521.\n"
    ]
   },
   {
@@ -1570,22 +1642,14 @@
      "number": "3",
      "sid": "SNG 3:3"
     },
-    "The guards going around¦282525 in¦282526 the city¦282526 found¦282523 me:\n"
+    "The¦282524 guards going¦282525 around¦282525 in¦282526 the city¦282526 found¦282523 me¦282523:\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "“Have you¦282530 seen¦282530 ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "#the man"
-     ]
-    },
-    " whom my soul¦282529 loves¦282528?”\n"
+    "“Have¦282530 you¦282530 seen¦282530 the¦282528 man¦282528 whom¦282528 my soul¦282529 loves¦282528?”\n"
    ]
   },
   {
@@ -1598,12 +1662,12 @@
      "number": "4",
      "sid": "SNG 3:4"
     },
-    "I’d hardly passed¦282533 by ",
+    "I’d¦282533 hardly passed¦282533 by ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@the guards"
+      "@the¦282534 guards¦282534"
      ]
     },
     "\n"
@@ -1613,28 +1677,28 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "when I found¦282536 him whom my soul¦282539 loves¦282538.\n"
+    "when I¦282536 found¦282536 him whom¦282538 my soul¦282539 loves¦282538.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I held him and I wouldn’t let him go¦282542\n"
+    "I¦282540 held¦282540 him¦282540 and¦282541 I¦282542 wouldn’t let¦282542 him¦282542 go¦282542\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "until I’d brought¦282545 him to my mother’s¦282549 house¦282548\n"
+    "until¦282543 I’d¦282545 brought¦282545 him¦282545 to¦282546 my¦282549 mother’s¦282549 house¦282548\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and to the room¦282552 of the woman who conceived¦282553 me.\n"
+    "≈and¦282550 to¦282550 the¦282552 room¦282552 of¦282552 the¦282553 woman who¦282553 conceived¦282553 me¦282553.\n"
    ]
   },
   {
@@ -1647,7 +1711,7 @@
      "number": "5",
      "sid": "SNG 3:5"
     },
-    "I ",
+    "I¦282555 ",
     {
      "type": "char",
      "marker": "add",
@@ -1655,29 +1719,37 @@
       "≈strongly advise"
      ]
     },
-    " you, ",
+    " you¦282556, ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈young women"
+      "≈young women¦282557"
      ]
     },
-    " of Yerushalem¦282558,\n"
+    " of¦282557 Yerushalem¦282558 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦282558)"
+     ]
+    },
+    ",\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "by the female gazelles¦282559 or the does in¦282559 the countryside¦282562,\n"
+    "by¦282559 the female gazelles¦282559 or¦282560 the¦282561 does¦282561 in the¦282562 countryside¦282562,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "don’t awaken¦282565 or stir love¦282572 until¦282573 it¦282574 pleases¦282574.\n"
+    "don’t awaken¦282565 or stir¦282569 love¦282572 until¦282573 it¦282574 pleases¦282574.\n"
    ]
   },
   {
@@ -1711,14 +1783,14 @@
      "number": "6",
      "sid": "SNG 3:6"
     },
-    "Who’s that coming¦282579 up from the wilderness¦282582 like columns¦282583 of smoke—\n"
+    "Who’s¦282577 that¦282578 coming¦282579 up¦282579 from¦282580 the¦282582 wilderness¦282582 like¦282583 columns¦282583 of¦282583 smoke¦282584—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "fragrant smoke of myrrh¦282586 and¦282587 frankincense¦282587 from all the merchant’s powders?\n"
+    "fragrant¦282585 smoke of¦282585 myrrh¦282586 and¦282587 frankincense¦282587 from¦282588 all¦282588 the¦282589 merchant’s powders?\n"
    ]
   },
   {
@@ -1746,12 +1818,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "It belongs¦282594 to Shelomoh ",
+    "It belongs¦282594 to¦282594 Shelomoh¦282594 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "(Solomon¦282594)"
+      "!(Solomon¦282594)"
      ]
     },
     " ",
@@ -1762,7 +1834,7 @@
       "and"
      ]
     },
-    " sixty¦282595 Israeli¦282599 warriors¦282596 surround it.\n"
+    " sixty¦282595 Israeli¦282600 warriors¦282596 surround¦282597 it¦282598.\n"
    ]
   },
   {
@@ -1775,14 +1847,14 @@
      "number": "8",
      "sid": "SNG 3:8"
     },
-    "Each of them is studied in war and holding a sword.\n"
+    "Each of¦282602 them¦282602 is¦282604 studied in war¦282607 and holding a¦282605 sword¦282605.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Each one has his sword at¦282614 his thigh¦282612 against¦282613 the dangers in the nights¦282614.\n"
+    "≈Each¦282608 one¦282608 has his sword¦282609 at his¦282609 thigh¦282612 against the dangers in¦282614 the nights¦282614.\n"
    ]
   },
   {
@@ -1803,14 +1875,14 @@
       "≈chair carried on poles"
      ]
     },
-    " made for himself\n"
+    " made¦282621 for himself\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "from the trees from Lebanon¦282626.\n"
+    "from¦282625 the trees from Levanon¦282626.\n"
    ]
   },
   {
@@ -1823,7 +1895,7 @@
      "number": "10",
      "sid": "SNG 3:10"
     },
-    "Its posts were made of silver¦282630, its back, gold¦282632, ",
+    "Its¦282628 posts¦282628 were made¦282629 of silver¦282630, its¦282631 back¦282631, gold¦282632, ",
     {
      "type": "char",
      "marker": "add",
@@ -1831,14 +1903,22 @@
       "and"
      ]
     },
-    " its seat¦282633, purple¦282634 cloth.\n"
+    " its¦282633 seat¦282633, purple¦282634 cloth.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Its interior¦282635 was decorated with love by Yerushalem’s¦282639 young women.\n"
+    "Its¦282635 interior¦282635 was¦282636 decorated with love by Yerushalem’s¦282639 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem’s¦282639)"
+     ]
+    },
+    " young women¦282638.\n"
    ]
   },
   {
@@ -1851,40 +1931,48 @@
      "number": "11",
      "sid": "SNG 3:11"
     },
-    "Go out and look, young women of Tsiyyon¦282645, at King¦282646 Shelomoh.\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
+    "Go out¦282641 and¦282643 look¦282643, young women¦282644 of¦282644 Tsiyon¦282645 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≡Look"
+      "!(Zion¦282645)"
      ]
     },
-    " at the crown his mother¦282652 crowned him with\n"
+    ", at King¦282646 Shelomoh¦282647.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "on the day of his wedding¦282654—\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "on the day ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈that¦282649 his heart¦282657 was filled with happiness"
+      "≡Look¦282643"
+     ]
+    },
+    " at the crown¦282648 his¦282652 mother¦282652 crowned¦282649 him¦282651 with\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "on¦282653 the day¦282653 of¦282654 his¦282654 wedding¦282654—\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "on¦282655 the¦282655 day¦282655 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈that¦282649 his¦282657 heart¦282657 was filled with happiness"
      ]
     },
     ".\n"
@@ -1920,14 +2008,14 @@
      "number": "1",
      "sid": "SNG 4:1"
     },
-    "Wow, you’re¦282660 beautiful, my darling¦282662.\n"
+    "Wow, you’re¦282660 beautiful¦282661, my¦282662 darling¦282662.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Look, at you, ",
+    "Look, at you¦282663, ",
     {
      "type": "char",
      "marker": "add",
@@ -1935,21 +2023,21 @@
       "so"
      ]
     },
-    " beautiful.\n"
+    " beautiful¦282664.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your eyes¦282665 are doves¦282666 from behind¦282667 your veil.\n"
+    "Your¦282665 eyes¦282665 are¦282666 doves¦282666 from¦282667 behind¦282667 your veil¦282668.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your hair¦282669 is like a flock¦282670 of goats¦282671 that¦282672 hop down from the slopes of Gilead¦282674.\n"
+    "Your¦282668 hair¦282669 is¦282670 like¦282670 a flock¦282670 of¦282670 goats¦282671 that¦282672 hop down from¦282673 the slopes of¦282674 Gilead¦282674.\n"
    ]
   },
   {
@@ -1962,19 +2050,19 @@
      "number": "2",
      "sid": "SNG 4:2"
     },
-    "Your teeth are like a flock¦282677 of shorn¦282678 sheep that¦282683 have come¦282679 up from the washing¦282682,\n"
+    "Your¦282676 teeth¦282676 are¦282677 like¦282677 a flock¦282677 of¦282677 shorn¦282678 sheep that¦282679 have¦282679 come¦282679 up¦282679 from¦282680 the¦282682 washing¦282682,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "all of which ",
+    "all¦282683 of¦282683 which ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈have identical pairs"
+      "≈have¦282684 identical pairs¦282684"
      ]
     },
     " and¦282685 ",
@@ -1982,7 +2070,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈none of them have been lost"
+      "≈none of¦282685 them¦282687 have been lost"
      ]
     },
     ".\n"
@@ -1998,14 +2086,14 @@
      "number": "3",
      "sid": "SNG 4:3"
     },
-    "Your lips¦282691 are like a scarlet¦282690 thread¦282689 and your mouth¦282692 is lovely¦282693.\n"
+    "Your¦282691 lips¦282691 are¦282689 like¦282689 a scarlet¦282690 thread¦282689 and¦282692 your¦282692 mouth¦282692 is¦282693 lovely¦282693.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your cheeks¦282696 are like a slice¦282694 of pomegranate¦282695 from behind¦282697 your veil.\n"
+    "Your cheeks are¦282694 like¦282694 a slice¦282694 of¦282694 pomegranate¦282695 from¦282697 behind¦282697 your¦282698 veil¦282698.\n"
    ]
   },
   {
@@ -2018,14 +2106,14 @@
      "number": "4",
      "sid": "SNG 4:4"
     },
-    "Your neck is like the tower¦282700 of David¦282701 that’s built¦282703 of layers¦282704—\n"
+    "Your¦282702 neck¦282702 is¦282700 like¦282700 David’s¦282701 tower¦282700 that’s built¦282703 of layers¦282704—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "a thousand¦282705 shields hanging on it—all the shields of the warriors¦282711.\n"
+    "a thousand¦282705 shields¦282706 hanging¦282707 on¦282708 it¦282708—all¦282709 the¦282710 shields¦282710 of¦282710 the¦282711 warriors¦282711.\n"
    ]
   },
   {
@@ -2038,14 +2126,14 @@
      "number": "5",
      "sid": "SNG 4:5"
     },
-    "Your two breasts¦282714 are like two fawns¦282716—\n"
+    "Your two¦282713 breasts¦282714 are¦282715 like¦282715 two¦282715 fawns¦282716—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "twins¦282717 of a gazelle¦282718 grazing among¦282720 the lilies¦282720.\n"
+    "twins¦282717 of¦282717 a¦282718 gazelle¦282718 grazing¦282719 among¦282720 the lilies¦282720.\n"
    ]
   },
   {
@@ -2058,29 +2146,29 @@
      "number": "6",
      "sid": "SNG 4:6"
     },
-    "Until¦282722 the ",
+    "Until¦282722 the¦282724 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈daylight arrives"
+      "≈daylight¦282724 arrives"
      ]
     },
-    " and the shadows¦282726 flee,\n"
+    " and¦282725 the¦282726 shadows¦282726 flee¦282725,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I¦282727 myself will go¦282727 to the mountain¦282731 of myrrh¦282732\n"
+    "I¦282727 myself will¦282727 go¦282727 to¦282728 the¦282731 mountain¦282731 of¦282731 myrrh¦282732\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and to the hill¦282731 of frankincense¦282736.\n"
+    "≈and¦282733 to¦282733 the¦282735 hill¦282735 of¦282735 frankincense¦282736.\n"
    ]
   },
   {
@@ -2093,19 +2181,19 @@
      "number": "7",
      "sid": "SNG 4:7"
     },
-    "All¦282740 of you is beautiful¦282739, my darling¦282740,\n"
+    "All¦282738 of¦282738 you¦282738 is¦282739 beautiful¦282739, my¦282740 darling¦282740,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and ",
+    "≈and¦282741 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈you don’t¦282742 have any flaws"
+      "≈you¦282743 don’t¦282742 have any flaws"
      ]
     },
     ".\n"
@@ -2125,35 +2213,35 @@
      "number": "8",
      "sid": "SNG 4:8"
     },
-    "Come with me from Lebanon¦282747, my bride¦282748.\n"
+    "Come with¦282746 me¦282746 from¦282747 Levanon¦282747, my bride¦282748.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Descend from the top of Amana¦282755,\n"
+    "Descend¦282752 from¦282754 the¦282754 top¦282754 of¦282754 Amanah¦282755,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈from the top of Senir¦282757 and¦282758 Hermon¦282758,\n"
+    "≈from¦282756 the¦282756 top¦282756 of¦282756 Senir¦282757 and¦282758 Hermon¦282758,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "from the hiding places of lions¦282760,\n"
+    "from¦282759 the¦282759 hiding places of¦282759 lions¦282760,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈from the mountains¦282761 of leopards¦282762.\n"
+    "≈from¦282761 the¦282761 mountains¦282761 of¦282761 leopards¦282762.\n"
    ]
   },
   {
@@ -2166,7 +2254,7 @@
      "number": "9",
      "sid": "SNG 4:9"
     },
-    "You have enchanted my heart, my ",
+    "You¦282764 have¦282764 enchanted my¦282764 heart¦282764, my¦282765 ",
     {
      "type": "char",
      "marker": "add",
@@ -2174,21 +2262,21 @@
       "≈girlfriend"
      ]
     },
-    ", my bride¦282766.\n"
+    ", my¦282765 bride¦282766.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "You’ve enchanted my heart with one look from your eyes¦282770—\n"
+    "≈You’ve¦282767 enchanted my¦282767 heart¦282767 with¦282768 one¦282768 look from your¦282770 eyes¦282770—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "with one jewel from your necklace¦282772.\n"
+    "with¦282771 one¦282771 jewel from your necklace¦282772.\n"
    ]
   },
   {
@@ -2201,7 +2289,7 @@
      "number": "10",
      "sid": "SNG 4:10"
     },
-    "How your love is beautiful¦282777, my ",
+    "How¦282775 your¦282778 love is¦282777 beautiful¦282777, my¦282779 ",
     {
      "type": "char",
      "marker": "add",
@@ -2209,21 +2297,21 @@
       "≈girlfriend"
      ]
     },
-    ", my bride¦282780.\n"
+    ", my¦282779 bride¦282780.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "How your love is better than wine\n"
+    "How¦282781 your¦282784 love is¦282783 better¦282783 than¦282785 wine¦282785\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the smell of your oils is nicer than all spices¦282790.\n"
+    "and¦282786 the¦282786 smell¦282786 of¦282786 your¦282787 oils¦282787 is nicer than¦282788 all¦282788 spices¦282790.\n"
    ]
   },
   {
@@ -2236,21 +2324,21 @@
      "number": "11",
      "sid": "SNG 4:11"
     },
-    "Your¦282795 lips¦282794 drip with nectar, my bride¦282795.\n"
+    "Your¦282794 lips¦282794 drip¦282793 with nectar, my bride¦282795.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Honey¦282792 and milk are under¦282798 your tongue¦282799,\n"
+    "≈Honey¦282796 and¦282797 milk¦282797 are¦282798 under¦282798 your¦282799 tongue¦282799,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and your clothes¦282801 smell ",
+    "and¦282800 your¦282801 clothes¦282801 smell ",
     {
      "type": "char",
      "marker": "add",
@@ -2258,7 +2346,7 @@
       "nice"
      ]
     },
-    " like Lebanon’s¦282803 ",
+    " like¦282802 Levanon’s¦282803 ",
     {
      "type": "char",
      "marker": "add",
@@ -2291,7 +2379,7 @@
       "≈girlfriend"
      ]
     },
-    ", my bride¦282810, is a locked garden¦282806,\n"
+    ", my¦282809 bride¦282810, is a locked garden¦282806,\n"
    ]
   },
   {
@@ -2311,7 +2399,15 @@
      "number": "13",
      "sid": "SNG 4:13"
     },
-    "Your shoots are an orchard of pomegranate¦282818 trees with delicious fruits¦282820,\n"
+    "Your¦282816 shoots¦282816 are¦282817 an orchard of¦282817 pomegranate¦282818 trees with¦282819 delicious ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#fruits¦282820"
+     ]
+    },
+    ",\n"
    ]
   },
   {
@@ -2325,7 +2421,7 @@
       "and"
      ]
     },
-    " henna¦282822 and nard ",
+    " henna¦282822 and nard¦282825 ",
     {
      "type": "char",
      "marker": "add",
@@ -2346,14 +2442,14 @@
      "number": "14",
      "sid": "SNG 4:14"
     },
-    "nard and saffron¦282829, calamus¦282830 and cinnamon¦282831, with all trees¦282835 used for incense,\n"
+    "nard¦282827 and¦282829 saffron¦282829, calamus¦282830 and¦282831 cinnamon¦282831, with¦282832 all¦282833 trees¦282835 used for incense,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "myrrh¦282837 and aloes¦282838, with all the best spices¦282843,\n"
+    "myrrh¦282837 and¦282838 aloes¦282838, with¦282839 all¦282840 the¦282842 best¦282842 spices¦282843,\n"
    ]
   },
   {
@@ -2366,21 +2462,29 @@
      "number": "15",
      "sid": "SNG 4:15"
     },
-    "a fountain of gardens¦282846,\n"
+    "a¦282845 fountain¦282845 of¦282845 gardens¦282846,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "a well of living¦282849 waters¦282848,\n"
+    "a¦282847 well¦282847 of¦282847 living¦282849 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#waters¦282848"
+     ]
+    },
+    ",\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦282850 streams¦282850 flowing¦282850 ",
+    "and¦282850 streams flowing¦282850 ",
     {
      "type": "char",
      "marker": "add",
@@ -2388,7 +2492,7 @@
       "down"
      ]
     },
-    " from Lebanon¦282853.\n"
+    " from¦282851 Levanon¦282853.\n"
    ]
   },
   {
@@ -2408,21 +2512,21 @@
      "number": "16",
      "sid": "SNG 4:16"
     },
-    "Wake up, north¦282856 wind, and come, south¦282858 wind.\n"
+    "Wake¦282855 up, north¦282856 wind¦282856, and¦282857 come¦282857, south¦282858 wind¦282858.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Blow on my garden and let its spices¦282862 flow.\n"
+    "Blow on my garden and let its¦282862 spices¦282862 flow¦282861.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Let my dearest come to his garden and eat its delicious fruit¦282867.\n"
+    "Let my dearest¦282864 come¦282863 to¦282865 his garden and¦282866 eat¦282866 its delicious fruit¦282867.\n"
    ]
   },
   {
@@ -2448,7 +2552,7 @@
      "number": "1",
      "sid": "SNG 5:1"
     },
-    "I have come¦282870 to my garden¦282871, my ",
+    "I¦282870 have¦282870 come¦282870 to¦282871 my garden¦282871, my¦282871 ",
     {
      "type": "char",
      "marker": "add",
@@ -2456,28 +2560,28 @@
       "≈girlfriend"
      ]
     },
-    ", my bride¦282873.\n"
+    ", my¦282872 bride¦282873.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I’ve plucked my myrrh¦282875 with my spice¦282878.\n"
+    "I’ve¦282874 plucked my¦282875 myrrh¦282875 with¦282876 my¦282878 spice¦282878.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I’ve eaten¦282879 my honeycomb with my honey¦282883.\n"
+    "≈I’ve¦282879 eaten¦282879 my¦282880 honeycomb¦282880 with¦282881 my¦282883 honey¦282883.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I’ve drunk my wine with my milk.\n"
+    "≈I’ve¦282884 drunk¦282884 my¦282885 wine¦282885 with¦282886 my¦282888 milk¦282888.\n"
    ]
   },
   {
@@ -2491,14 +2595,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Eat, friends¦282890,\n"
+    "Eat¦282889, friends¦282890,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "drink, and drink freely, dear ones.\n"
+    "drink¦282891, and¦282892 drink¦282892 freely, dear ones.\n"
    ]
   },
   {
@@ -2532,14 +2636,14 @@
      "number": "2",
      "sid": "SNG 5:2"
     },
-    "I’m asleep, but¦282898 my heart¦282898 is awake¦282899.\n"
+    "I’m¦282896 asleep¦282897, but¦282898 my¦282898 heart¦282898 is¦282899 awake¦282899.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "A sound¦282900—my dearest is knocking¦282903.\n"
+    "A sound¦282900—my¦282902 dearest¦282902 is¦282903 knocking¦282903.\n"
    ]
   },
   {
@@ -2553,7 +2657,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "“Open to me, my ",
+    "“Open¦282904 to¦282906 me¦282906, my¦282907 ",
     {
      "type": "char",
      "marker": "add",
@@ -2561,21 +2665,29 @@
       "≈girlfriend"
      ]
     },
-    ", my darling¦282908, my dove¦282909, my perfect¦282910 one,\n"
+    ", my¦282907 darling¦282908, my¦282908 dove¦282909, my¦282910 perfect¦282910 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">one"
+     ]
+    },
+    ",\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because my head¦282911 is full of dew—\n"
+    "because my¦282911 head¦282911 is full of dew¦282914—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "my hair is ",
+    "my¦282915 hair is ",
     {
      "type": "char",
      "marker": "add",
@@ -2618,12 +2730,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "I’ve washed¦282926 my feet¦282929—",
+    "≈I’ve washed¦282926 my¦282929 feet¦282929—",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈won’t I get them dirty¦282931 now"
+      "≈won’t I¦282931 get them dirty¦282931 now"
      ]
     },
     "?”\n"
@@ -2643,14 +2755,14 @@
      "number": "4",
      "sid": "SNG 5:4"
     },
-    "My dearest stretched out his hand¦282935 through the hole\n"
+    "My¦282933 dearest¦282933 stretched out his¦282935 hand¦282935 through the¦282938 hole¦282938\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and my stomach ",
+    "and¦282939 my¦282939 stomach ",
     {
      "type": "char",
      "marker": "add",
@@ -2658,7 +2770,7 @@
       "≈tightened when I saw"
      ]
     },
-    " him.\n"
+    " him¦282941.\n"
    ]
   },
   {
@@ -2671,14 +2783,22 @@
      "number": "5",
      "sid": "SNG 5:5"
     },
-    "I got myself up to open to my dearest and my hands¦282947 dripped with myrrh.\n"
+    "I got myself up to¦282945 open¦282945 to¦282946 my¦282946 dearest¦282946 and¦282947 my¦282947 hands¦282947 dripped¦282948 with myrrh¦282950.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "My fingers¦282951 dripped with flowing¦282953 myrrh on the arm of the bolt.\n"
+    "≈My¦282951 fingers¦282951 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≡dripped¦282948"
+     ]
+    },
+    " with flowing¦282953 myrrh on¦282954 the¦282955 arm of¦282955 the¦282956 bolt¦282956.\n"
    ]
   },
   {
@@ -2691,7 +2811,7 @@
      "number": "6",
      "sid": "SNG 5:6"
     },
-    "I opened¦282958 ",
+    "I¦282958 opened¦282958 ",
     {
      "type": "char",
      "marker": "add",
@@ -2699,21 +2819,21 @@
       "the door"
      ]
     },
-    " to my dearest,\n"
+    " to¦282960 my¦282960 dearest,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "but my dearest had turned¦282962 and gone.\n"
+    "but my¦282961 dearest had¦282962 turned¦282962 and gone¦282963.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "My ",
+    "My¦282964 ",
     {
      "type": "char",
      "marker": "add",
@@ -2721,21 +2841,21 @@
       "≈stomach sunk"
      ]
     },
-    " because he’d left.\n"
+    " because he’d¦282963 left¦282965.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I searched for him, but I couldn’t find him.\n"
+    "I¦282967 searched¦282967 for him¦282967, but¦282968 I¦282969 couldn’t find¦282969 him¦282969.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈I called¦282970 him, but he didn’t¦282968 answer¦282972 me.\n"
+    "≈I¦282970 called¦282970 him¦282970, but¦282971 he¦282972 didn’t answer¦282972 me¦282972.\n"
    ]
   },
   {
@@ -2748,21 +2868,21 @@
      "number": "7",
      "sid": "SNG 5:7"
     },
-    "The guards going about in¦282977 the city¦282977 found¦282974 me.\n"
+    "The¦282975 guards going¦282976 about¦282976 in¦282977 the city¦282977 found¦282974 me¦282974.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "They beat me and wounded¦282979 me.\n"
+    "They¦282978 beat¦282978 me¦282978 and wounded¦282979 me¦282979.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The guards of the walls¦282986 took my shawl¦282983 off me.\n"
+    "The¦282985 guards of¦282985 the¦282986 walls¦282986 took my¦282983 shawl¦282983 off me¦282984.\n"
    ]
   },
   {
@@ -2775,14 +2895,22 @@
      "number": "8",
      "sid": "SNG 5:8"
     },
-    "I adjure¦282988 you, young women of Yerushalem¦282991:\n"
+    "I¦282988 adjure¦282988 you¦282989, young women¦282990 of¦282990 Yerushalem¦282991 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦282991)"
+     ]
+    },
+    ":\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "if you find my dearest, what will you tell him?\n"
+    "if¦282992 you¦282994 find¦282994 my¦282997 dearest¦282997, what¦282998 will¦283000 you¦283000 tell¦283000 him¦283001?\n"
    ]
   },
   {
@@ -2793,10 +2921,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≡Tell him"
+      "≡Tell¦283000 him¦283001"
      ]
     },
-    " that I’m sick with love¦283003.\n"
+    " that¦283002 I’m sick with love¦283003.\n"
    ]
   },
   {
@@ -2804,19 +2932,6 @@
    "marker": "sp",
    "content": [
     "Yerushalem’s young women\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    {
-     "type": "verse",
-     "marker": "v",
-     "number": "9",
-     "sid": "SNG 5:9"
-    },
-    "Most beautiful¦283010 among¦283011 women¦283011, how is your dearest better than another darling?\n"
    ]
   },
   {
@@ -2830,7 +2945,20 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "What is your dearest more than another, that you¦283017 adjure¦283017 us like that?\n"
+    {
+     "type": "verse",
+     "marker": "v",
+     "number": "9",
+     "sid": "SNG 5:9"
+    },
+    "Most beautiful¦283010 among¦283011 women¦283011, how¦283012 is your dearest¦283014 better than another darling?\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "≈What is¦283014 your¦283014 dearest more¦283015 than¦283015 another, that¦283016 you¦283017 adjure¦283017 us¦283017 like that?\n"
    ]
   },
   {
@@ -2850,14 +2978,14 @@
      "number": "10",
      "sid": "SNG 5:10"
     },
-    "My dearest is dazzling¦283020 and red—\n"
+    "My¦283019 dearest¦283019 is¦283020 dazzling¦283020 and¦283021 red¦283021—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "→he would stand out among¦283023 ten¦283023 thousand¦283023.\n"
+    "→he¦283022 would stand out among ten¦283023 thousand¦283023.\n"
    ]
   },
   {
@@ -2870,14 +2998,14 @@
      "number": "11",
      "sid": "SNG 5:11"
     },
-    "His head is gold, refined gold.\n"
+    "His¦283025 head¦283025 is¦283026 gold¦283026, refined gold¦283027.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈His hair is wavy, ",
+    "≈His¦283028 hair is¦283030 wavy, ",
     {
      "type": "char",
      "marker": "add",
@@ -2885,7 +3013,7 @@
       "and"
      ]
     },
-    " black¦283031 like the raven¦283032.\n"
+    " black¦283031 like¦283032 the raven¦283032.\n"
    ]
   },
   {
@@ -2898,14 +3026,14 @@
      "number": "12",
      "sid": "SNG 5:12"
     },
-    "His eyes are like doves¦283035 beside streams of water¦283039,\n"
+    "His¦283034 eyes¦283034 are¦283035 like¦283035 doves¦283035 beside streams of¦283038 water¦283039,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈bathing in¦283041 milk, sitting beside the pools.\n"
+    "≈bathing in¦283041 milk¦283041, sitting¦283042 beside the pools.\n"
    ]
   },
   {
@@ -2918,7 +3046,15 @@
      "number": "13",
      "sid": "SNG 5:13"
     },
-    "His cheeks are like a bed of spices¦283049—like towers¦283050 where aromatic¦283051 herbs¦283051 ",
+    "His¦283047 cheeks¦283047 are¦283048 like¦283048 a bed¦283048 of¦283048 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#spices¦283049"
+     ]
+    },
+    "—like towers¦283050 where aromatic¦283051 herbs¦283051 ",
     {
      "type": "char",
      "marker": "add",
@@ -2933,7 +3069,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈His lips¦283052 are lilies¦283053—dripping¦283054 with flowing¦283056 myrrh¦283055.\n"
+    "≈His¦283052 lips¦283052 are¦283053 lilies¦283053—dripping¦283054 with flowing¦283056 myrrh¦283055.\n"
    ]
   },
   {
@@ -2946,7 +3082,7 @@
      "number": "14",
      "sid": "SNG 5:14"
     },
-    "His arms are rods of gold¦283060 mounted with topaz ",
+    "His¦283058 arms are¦283059 rods¦283059 of¦283059 gold¦283060 mounted with¦283062 topaz ",
     {
      "type": "char",
      "marker": "add",
@@ -2961,7 +3097,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈His belly is a plate¦283064 of ivory¦283065 covered¦283066 with sapphires¦283067.\n"
+    "≈His¦283063 belly is¦283064 a¦283064 plate¦283064 of¦283064 ivory¦283065 covered¦283066 with sapphires¦283067.\n"
    ]
   },
   {
@@ -2974,14 +3110,14 @@
      "number": "15",
      "sid": "SNG 5:15"
     },
-    "His thighs are pillars¦283070 of alabaster set on bases¦283075 of refined gold¦283077.\n"
+    "His¦283069 thighs are¦283070 pillars¦283070 of¦283070 alabaster set on¦283073 bases¦283075 of¦283075 refined gold¦283077.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈His appearance¦283078 is like Lebanon¦283079—as attractive as the cedar¦283081 trees.\n"
+    "≈His¦283078 appearance¦283078 is¦283079 like¦283079 Levanon¦283079—as attractive as the cedar¦283081 trees.\n"
    ]
   },
   {
@@ -2994,28 +3130,36 @@
      "number": "16",
      "sid": "SNG 5:16"
     },
-    "His¦283085 mouth is most sweet¦283084,\n"
+    "His¦283083 mouth¦283083 is¦283084 most sweet¦283084,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and all of him¦283085 is most desirable¦283086.\n"
+    "≈and¦283085 all¦283085 of¦283085 him¦283085 is¦283086 most desirable¦283086.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "This¦283094 is my dearest, and this is my friend¦283093,\n"
+    "This¦283090 is¦283091 my¦283091 dearest¦283091, and¦283092 this¦283092 is¦283093 my¦283093 friend¦283093,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "young women of Yerushalem¦283095.\n"
+    "young women¦283094 of¦283094 Yerushalem¦283095 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦283095)"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -3041,14 +3185,22 @@
      "number": "1",
      "sid": "SNG 6:1"
     },
-    "Where did he go, your dearest, most beautiful¦283100 woman among¦283101 women¦283101?\n"
+    "Where¦283097 did he¦283098 go¦283098, your¦283099 dearest, most beautiful¦283100 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">woman"
+     ]
+    },
+    " among¦283101 women¦283101?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Where did he turn, your dearest—let us ",
+    "Where¦283102 did he¦283103 turn¦283103, your dearest—let us ",
     {
      "type": "char",
      "marker": "add",
@@ -3061,7 +3213,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈in¦283101 looking for him"
+      "≈in looking¦283105 for him¦283105"
      ]
     },
     ".\n"
@@ -3084,14 +3236,22 @@
      "number": "2",
      "sid": "SNG 6:2"
     },
-    "My dearest went down to his garden, to the beds of spices¦283112,\n"
+    "My¦283108 dearest¦283108 went¦283109 down¦283109 to¦283110 his¦283110 garden¦283110, to¦283111 the¦283111 beds¦283111 of¦283111 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#spices¦283112"
+     ]
+    },
+    ",\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "→in order to graze¦283113 in the gardens and¦283115 in order to gather¦283115 lilies¦283116.\n"
+    "→in order to¦283113 graze¦283113 in¦283114 the gardens¦283114 and¦283115 in order to¦283115 gather¦283115 lilies¦283116.\n"
    ]
   },
   {
@@ -3104,14 +3264,14 @@
      "number": "3",
      "sid": "SNG 6:3"
     },
-    "I belong to my dearest, and¦283120 my dearest belongs to me.\n"
+    "I¦283118 belong¦283119 to¦283119 my¦283119 dearest, and¦283120 my¦283120 dearest belongs to¦283121 me¦283121.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "He grazes among¦283123 the lilies¦283123.\n"
+    "He grazes¦283122 among¦283123 the lilies¦283123.\n"
    ]
   },
   {
@@ -3145,21 +3305,29 @@
      "number": "4",
      "sid": "SNG 6:4"
     },
-    "You are beautiful¦283129, my darling¦283131, like Tirtsah,\n"
+    "You are¦283129 beautiful¦283129, my¦283131 darling¦283131, like¦283132 Tirtsah¦283132,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈lovely¦283133 like Yerushalem¦283134,\n"
+    "≈lovely¦283133 like¦283134 Yerushalem¦283134 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦283134)"
+     ]
+    },
+    ",\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈awe-inspiring like armies ",
+    "≈awe-inspiring like¦283136 armies ",
     {
      "type": "char",
      "marker": "add",
@@ -3180,14 +3348,14 @@
      "number": "5",
      "sid": "SNG 6:5"
     },
-    "Turn your eyes¦283139 away from me, because they¦283141 excite me.\n"
+    "Turn¦283138 your¦283139 eyes¦283139 away from¦283140 me¦283140, because they excite me¦283143.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your hair¦283144 is like a flock¦283145 of goats¦283146 that¦283147 hop down from ",
+    "Your¦283144 hair¦283144 is¦283145 like¦283145 a flock¦283145 of¦283145 goats¦283146 that¦283147 hop down from¦283148 ",
     {
      "type": "char",
      "marker": "add",
@@ -3208,14 +3376,14 @@
      "number": "6",
      "sid": "SNG 6:6"
     },
-    "Your teeth are like a flock¦283153 of ewes that¦283159 have come¦283155 up from the washing¦283158,\n"
+    "Your¦283152 teeth¦283152 are¦283153 like¦283153 a flock¦283153 of¦283153 ewes¦283154 that¦283155 have¦283155 come¦283155 up¦283155 from¦283156 the¦283158 washing¦283158,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "all of which¦283159 have twin ",
+    "all¦283159 of¦283159 which have¦283160 twin¦283160 ",
     {
      "type": "char",
      "marker": "add",
@@ -3228,7 +3396,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈none of them have died"
+      "≈none of¦283161 them¦283163 have died"
      ]
     },
     ".\n"
@@ -3244,14 +3412,14 @@
      "number": "7",
      "sid": "SNG 6:7"
     },
-    "Your cheeks¦283167 are like a slice¦283165 of a pomegranate¦283166\n"
+    "Your cheeks are¦283165 like¦283165 a slice¦283165 of¦283165 a pomegranate¦283166\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "from behind¦283168 your veil.\n"
+    "from¦283168 behind¦283168 your¦283169 veil¦283169.\n"
    ]
   },
   {
@@ -3264,14 +3432,14 @@
      "number": "8",
      "sid": "SNG 6:8"
     },
-    "He has sixty¦283171 queens¦283173, and eighty¦283174 concubines¦283175,\n"
+    "He has sixty¦283171 queens¦283173, and¦283174 eighty¦283174 concubines¦283175,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and young¦283176 women¦283176 without number¦283178.\n"
+    "≈and¦283176 young¦283176 women¦283176 without number¦283178.\n"
    ]
   },
   {
@@ -3284,7 +3452,7 @@
      "number": "9",
      "sid": "SNG 6:9"
     },
-    "She’s ",
+    "She’s¦283181 ",
     {
      "type": "char",
      "marker": "add",
@@ -3292,14 +3460,14 @@
       "≈special"
      ]
     },
-    ", my dove¦283182, my perfect one.\n"
+    ", my¦283182 dove¦283182, my¦283183 perfect¦283183 one¦283184.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈She’s ",
+    "≈She’s¦283185 ",
     {
      "type": "char",
      "marker": "add",
@@ -3307,21 +3475,21 @@
       "≈special"
      ]
     },
-    " to her mother¦283186—perfect to the woman who bore her.\n"
+    " to her¦283186 mother¦283186—perfect to the¦283189 woman who¦283189 bore¦283189 her¦283189.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The young women saw¦283190 her and called¦283192 her blessed¦283192.\n"
+    "The young women¦283191 saw¦283190 her¦283190 and¦283192 called¦283192 her¦283192 blessed¦283192.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈The queens¦283193 and the concubines¦283194 praised¦283195 her:\n"
+    "≈The queens¦283193 and¦283194 the concubines¦283194 praised¦283195 her¦283195:\n"
    ]
   },
   {
@@ -3338,28 +3506,28 @@
      "number": "10",
      "sid": "SNG 6:10"
     },
-    "“Who is that, the woman who looks¦283201 down like the dawn,\n"
+    "“Who¦283198 is that¦283200, the¦283201 woman who¦283201 looks¦283201 down¦283201 like¦283202 the¦283204 dawn¦283204,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "beautiful¦283205 like the moon¦283206,\n"
+    "beautiful¦283205 like¦283206 the moon¦283206,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "pure like the sun¦283208,\n"
+    "pure¦283207 like¦283208 the sun¦283208,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "awe-inspiring like armies ",
+    "awe-inspiring like¦283210 armies ",
     {
      "type": "char",
      "marker": "add",
@@ -3380,21 +3548,21 @@
      "number": "11",
      "sid": "SNG 6:11"
     },
-    "I went¦283217 down to the nut tree garden¦283215 to look at¦283219 the green¦283219 shoots¦283219 of the valley¦283220\n"
+    "I¦283217 went¦283217 down¦283217 to the nut¦283216 tree garden¦283215 to¦283218 look¦283218 at the¦283219 green¦283219 shoots¦283219 of¦283219 the¦283220 valley¦283220\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "to see if the grapevine¦283223 had budded¦283222?\n"
+    "to¦283221 see¦283221 if the¦283223 grapevine¦283223 had¦283222 budded¦283222?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Had the pomegranates¦283225 bloomed¦283224?\n"
+    "≈Had¦283224 the¦283225 pomegranates¦283225 bloomed¦283224?\n"
    ]
   },
   {
@@ -3411,7 +3579,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Before I realised it¦283230"
+      "≈Before I¦283228 realised¦283228 it"
      ]
     },
     ",\n"
@@ -3429,7 +3597,15 @@
       "≈desire¦283229"
      ]
     },
-    " had put me among my people’s chariots¦283231, a noble.\n"
+    " had put¦283230 me¦283230 among my people’s chariots¦283231, a ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈leading citizen"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -3449,7 +3625,7 @@
      "number": "13",
      "sid": "SNG 6:13"
     },
-    "Return, return, ",
+    "Return¦283238, return¦283239, ",
     {
      "type": "char",
      "marker": "add",
@@ -3464,7 +3640,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Return, return and let us look at you.\n"
+    "Return¦283241, return¦283242 and let us look¦283243 at you¦283245.\n"
    ]
   },
   {
@@ -3478,14 +3654,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Why do you look at the Shulammite\n"
+    "Why¦283246 do you¦283248 look¦283248 at the Shulamit¦283240\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "like the dance of two armies?\n"
+    "like¦283250 the¦283250 dance¦283250 of¦283250 two¦283251 armies?\n"
    ]
   },
   {
@@ -3518,7 +3694,7 @@
      "number": "1",
      "sid": "SNG 7:1"
     },
-    "Your feet are ",
+    "Your¦283257 feet¦283257 are¦283256 ",
     {
      "type": "char",
      "marker": "add",
@@ -3526,14 +3702,14 @@
       "≈so"
      ]
     },
-    " beautiful in¦283249 sandals, daughter of a noble.\n"
+    " beautiful¦283256 in¦283258 sandals¦283258, daughter¦283259 of¦283259 a¦283261 noble¦283261.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The curves of your thighs are like ornaments—the work of a craftsman’s hands.\n"
+    "The¦283262 curves¦283262 of¦283262 your¦283263 thighs¦283263 are¦283264 like¦283264 ornaments¦283265—the¦283266 work¦283266 of¦283266 a craftsman’s hands¦283267.\n"
    ]
   },
   {
@@ -3546,7 +3722,7 @@
      "number": "2",
      "sid": "SNG 7:2"
     },
-    "Your navel is ",
+    "Your¦283271 navel¦283271 is¦283272 ",
     {
      "type": "char",
      "marker": "add",
@@ -3554,21 +3730,21 @@
       "like"
      ]
     },
-    " a round bowl\n"
+    " a round bowl¦283272\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "that never lacks spiced wine.\n"
+    "that¦283281 never lacks¦283276 spiced¦283277 wine¦283277.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your belly is ",
+    "Your¦283278 belly¦283278 is¦283279 ",
     {
      "type": "char",
      "marker": "add",
@@ -3576,7 +3752,7 @@
       "like"
      ]
     },
-    " a pile of ",
+    " a¦283279 pile¦283279 of¦283279 ",
     {
      "type": "char",
      "marker": "add",
@@ -3584,14 +3760,14 @@
       "threshed"
      ]
     },
-    " wheat\n"
+    " wheat¦283280\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "encircled with¦283258 lily ",
+    "encircled with¦283282 lily¦283282 ",
     {
      "type": "char",
      "marker": "add",
@@ -3612,14 +3788,14 @@
      "number": "3",
      "sid": "SNG 7:3"
     },
-    "Your two breasts are like two fawns—\n"
+    "Your two¦283285 breasts¦283286 are¦283287 like¦283287 two¦283287 fawns¦283288—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "a gazelle’s twins.\n"
+    "a¦283290 gazelle’s¦283290 twins¦283289.\n"
    ]
   },
   {
@@ -3632,35 +3808,43 @@
      "number": "4",
      "sid": "SNG 7:4"
     },
-    "Your neck is like a tower of ivory.\n"
+    "Your¦283293 neck¦283293 is¦283294 like¦283294 a tower¦283294 of¦283294 ivory¦283295.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your eyes are pools in Heshbon\n"
+    "Your¦283296 eyes¦283296 are¦283297 pools¦283297 in¦283298 Heshbon¦283298\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "by the gate of Bath Rabbim.\n"
+    "by the¦283301 Bat¦283302 Rabbim¦283304 gate¦283301.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your nose is like the tower of Lebanon,\n"
+    "Your¦283305 nose¦283305 is¦283306 like¦283306 the¦283306 Levanon¦283307 tower¦283306,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "looking to the face of Damascus.\n"
+    "looking to the¦283309 face¦283309 of¦283309 Damesek¦283310 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Damascus¦283310)"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -3681,7 +3865,7 @@
       "≈crowns"
      ]
     },
-    " you like ",
+    " you¦283314 like¦283315 ",
     {
      "type": "char",
      "marker": "add",
@@ -3689,14 +3873,14 @@
       "Mt."
      ]
     },
-    " Carmel,\n"
+    " Karmel¦283315,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the loose hair of your head is like purple ",
+    "and¦283316 the¦283316 loose hair¦283316 of¦283316 your¦283317 head¦283317 is¦283318 like¦283318 purple ",
     {
      "type": "char",
      "marker": "add",
@@ -3711,7 +3895,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "a king is held captive in¦283298 ",
+    "a king¦283319 is¦283320 held¦283320 captive¦283320 in ",
     {
      "type": "char",
      "marker": "add",
@@ -3719,7 +3903,7 @@
       "&their"
      ]
     },
-    " tresses.\n"
+    " tresses¦283321.\n"
    ]
   },
   {
@@ -3732,7 +3916,7 @@
      "number": "6",
      "sid": "SNG 7:6"
     },
-    "You’re¦283315 ",
+    "You’re¦283326 ",
     {
      "type": "char",
      "marker": "add",
@@ -3740,7 +3924,7 @@
       "≈so"
      ]
     },
-    " beautiful and¦283316 ",
+    " beautiful¦283326 and¦283327 ",
     {
      "type": "char",
      "marker": "add",
@@ -3748,7 +3932,7 @@
       "≈so"
      ]
     },
-    " lovely—\n"
+    " lovely¦283329—\n"
    ]
   },
   {
@@ -3759,10 +3943,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≡you’re"
+      "≡you’re¦283326"
      ]
     },
-    " love with¦283321 ",
+    " love¦283330 with¦283331 ",
     {
      "type": "char",
      "marker": "add",
@@ -3770,7 +3954,7 @@
       "added"
      ]
     },
-    " delights!\n"
+    " delights¦283331!\n"
    ]
   },
   {
@@ -3787,17 +3971,17 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈You’re¦283330 tall"
+      "≈You’re tall"
      ]
     },
-    " like a palm tree,\n"
+    " like¦283336 a¦283337 palm¦283337 tree¦283337,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦283327 your breasts like its clusters ",
+    "and¦283338 your¦283338 breasts¦283338 like its clusters¦283339 ",
     {
      "type": "char",
      "marker": "add",
@@ -3818,28 +4002,28 @@
      "number": "8",
      "sid": "SNG 7:8"
     },
-    "I said, “I’ll go up the palm¦283337 tree¦283337.\n"
+    "I¦283342 said¦283342, “I’ll¦283343 go up¦283343 the¦283344 palm¦283344 tree¦283344.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I’ll grab hold of its stalks of fruit.”\n"
+    "I’ll¦283345 grab hold¦283345 of¦283346 its¦283346 stalks of fruit.”\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "And, please, let your breasts¦283338 be like the clusters¦283339 on the grapevine,\n"
+    "And¦283347, please¦283349, let your¦283350 breasts¦283350 be like¦283351 the¦283351 clusters¦283351 on the¦283352 grapevine¦283352,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and let the fragrance of your nose be like apples,\n"
+    "and¦283353 let the¦283353 fragrance¦283353 of¦283353 your¦283354 nose¦283354 be like¦283355 apples¦283355,\n"
    ]
   },
   {
@@ -3852,21 +4036,21 @@
      "number": "9",
      "sid": "SNG 7:9"
     },
-    "and let your mouth be like the best wine\n"
+    "and¦283358 let your¦283358 mouth¦283358 be¦283359 like¦283359 the¦283359 best wine¦283359\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "going down smoothly for my dearest—\n"
+    "going¦283361 down smoothly¦283363 for¦283362 my¦283362 dearest¦283362—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "gliding over the lips of those who sleep.\n"
+    "gliding over the¦283365 lips¦283365 of¦283365 those who sleep.\n"
    ]
   },
   {
@@ -3886,14 +4070,14 @@
      "number": "10",
      "sid": "SNG 7:10"
     },
-    "I belong to my dearest\n"
+    "I¦283369 belong¦283370 to¦283370 my¦283370 dearest¦283370\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦283358 his longing is for me.\n"
+    "and¦283371 his¦283372 longing¦283372 is for me.\n"
    ]
   },
   {
@@ -3906,14 +4090,14 @@
      "number": "11",
      "sid": "SNG 7:11"
     },
-    "Come, my dearest, let’s go out to the countryside.\n"
+    "Come¦283376, my¦283377 dearest¦283377, let’s¦283378 go¦283378 out to the¦283379 countryside¦283379.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Let’s spend the night in the villages.\n"
+    "Let’s¦283380 spend¦283380 the¦283380 night¦283380 in¦283381 the villages¦283381.\n"
    ]
   },
   {
@@ -3926,21 +4110,29 @@
      "number": "12",
      "sid": "SNG 7:12"
     },
-    "Let’s go¦283378 early to the vineyards.\n"
+    "Let’s¦283384 go early¦283384 to¦283385 the vineyards¦283385.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "We’ll see if the grapevine has budded,\n"
+    "We’ll see¦283386 if¦283387 the¦283389 grapevine¦283389 has¦283388 budded¦283388,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "if the blossoms have opened,\n"
+    "if the¦283391 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#blossoms¦283391"
+     ]
+    },
+    " have¦283390 opened¦283390,\n"
    ]
   },
   {
@@ -3954,14 +4146,14 @@
       "and"
      ]
     },
-    " if the pomegranates have bloomed.\n"
+    " if the¦283393 pomegranates¦283393 have¦283392 bloomed¦283392.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "There I’ll give my love to you.\n"
+    "There¦283394 I’ll¦283395 give¦283395 my¦283398 love¦283398 to¦283399 you¦283399.\n"
    ]
   },
   {
@@ -3974,14 +4166,14 @@
      "number": "13",
      "sid": "SNG 7:13"
     },
-    "The mandrakes give¦283395 off a scent,\n"
+    "The¦283402 mandrakes¦283402 give¦283403 off a scent¦283405,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and over our doors are all ",
+    "and¦283406 over¦283406 our¦283408 doors¦283408 are all¦283409 ",
     {
      "type": "char",
      "marker": "add",
@@ -4004,14 +4196,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "new ones and also old ones.\n"
+    "new¦283412 ones and also¦283413 old¦283415 ones.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "My dearest, I’ve stored these up for you.\n"
+    "My¦283416 dearest¦283416, I’ve¦283417 stored¦283417 these up¦283417 for¦283418 you¦283418.\n"
    ]
   },
   {
@@ -4030,28 +4222,28 @@
      "number": "1",
      "sid": "SNG 8:1"
     },
-    "Who will give¦283421 you to me like a brother¦283422,\n"
+    "Who¦283420 will¦283421 give¦283421 you¦283421 to me like¦283422 a¦283422 brother¦283422,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "who nursed at¦283428 my mother’s¦283426 breasts¦283425?\n"
+    "who nursed¦283424 at my¦283426 mother’s¦283426 breasts¦283425?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "If I found¦283427 you outside¦283428, I would kiss¦283429 you.\n"
+    "If I¦283427 found¦283427 you¦283427 outside¦283428, I¦283429 would¦283429 kiss¦283429 you¦283429.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Yes, they wouldn’t despise¦283436 me.\n"
+    "Yes, they wouldn’t despise¦283436 me¦283437.\n"
    ]
   },
   {
@@ -4064,21 +4256,21 @@
      "number": "2",
      "sid": "SNG 8:2"
     },
-    "I would lead you.\n"
+    "I¦283439 would¦283439 lead¦283439 you¦283439.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I would bring¦283440 you to my mother’s¦283444 house¦283443—she¦283445 who taught¦283445 me.\n"
+    "I¦283440 would¦283440 bring¦283440 you¦283440 to¦283441 my¦283444 mother’s¦283444 house¦283443—she who¦283445 taught¦283445 me¦283445.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I would have you drink¦283446 some spiced¦283448 wine,\n"
+    "I¦283446 would¦283446 have you¦283446 drink¦283446 some¦283447 spiced¦283448 wine¦283447,\n"
    ]
   },
   {
@@ -4093,7 +4285,7 @@
       "and"
      ]
     },
-    " some of my pomegranate¦283450 juice¦283449.\n"
+    " some¦283449 of¦283449 my¦283450 pomegranate¦283450 juice¦283449.\n"
    ]
   },
   {
@@ -4106,14 +4298,14 @@
      "number": "3",
      "sid": "SNG 8:3"
     },
-    "His left hand is under¦283453 my head\n"
+    "His¦283452 left¦283452 hand is¦283453 under¦283453 my¦283454 head¦283454\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and his right¦283455 hand embraces¦283456 me.\n"
+    "≈and¦283455 his¦283455 right¦283455 hand¦283455 embraces¦283456 me¦283456.\n"
    ]
   },
   {
@@ -4126,14 +4318,22 @@
      "number": "4",
      "sid": "SNG 8:4"
     },
-    "I adjure¦283458 you, young women of Yerushalem¦283461,\n"
+    "I¦283458 adjure¦283458 you¦283459, young women¦283460 of¦283460 Yerushalem¦283461 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦283461)"
+     ]
+    },
+    ",\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "don’t¦283466 awaken¦283464 and¦283466 stir up love¦283471 until¦283472 it¦283473 desires.\n"
+    "don’t awaken¦283464 and¦283466 stir¦283468 up love¦283471 until¦283472 it¦283473 desires.\n"
    ]
   },
   {
@@ -4167,14 +4367,14 @@
      "number": "5",
      "sid": "SNG 8:5"
     },
-    "Who is that coming¦283478 up from the wilderness¦283481,\n"
+    "Who¦283476 is¦283478 that¦283477 coming¦283478 up¦283478 from¦283479 the¦283481 wilderness¦283481,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "leaning¦283482 against her¦283485 dearest?\n"
+    "leaning¦283482 against her¦283485 dearest¦283485?\n"
    ]
   },
   {
@@ -4188,21 +4388,21 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Under the apple¦283487 tree¦283487 I awakened¦283488 you.\n"
+    "Under¦283486 the¦283487 apple¦283487 tree¦283487 I¦283488 awakened¦283488 you¦283488.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your mother¦283491 was in labour with you there.\n"
+    "Your¦283491 mother¦283491 was¦283490 in¦283490 labour¦283490 with¦283490 you¦283490 there.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "There she was in labour—she gave¦283494 birth¦283494 to you.\n"
+    "There she¦283493 was¦283493 in¦283493 labour¦283493—she¦283494 gave birth¦283494 to you¦283494.\n"
    ]
   },
   {
@@ -4215,35 +4415,35 @@
      "number": "6",
      "sid": "SNG 8:6"
     },
-    "Place me like the seal on your heart¦283500,\n"
+    "Place¦283496 me¦283496 like¦283497 the seal¦283497 on¦283498 your¦283500 heart¦283500,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "like the seal on your arm,\n"
+    "like¦283501 the seal¦283501 on¦283502 your¦283504 arm¦283504,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because live is strong¦283507 like death¦283508.\n"
+    "because¦283505 live is¦283507 strong¦283507 like¦283508 death¦283508.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Zeal is unyielding like the grave.\n"
+    "Zeal is¦283510 unyielding like¦283511 the grave¦283510.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Its flashes are flashes of fire¦283515—Yah’s flame¦283514.\n"
+    "Its¦283513 flashes are¦283514 flashes of¦283514 fire¦283515—Yah’s flame¦283517.\n"
    ]
   },
   {
@@ -4256,21 +4456,21 @@
      "number": "7",
      "sid": "SNG 8:7"
     },
-    "Many waters¦283520 aren’t¦283522 able to quench¦283524 this love\n"
+    "Many¦283521 waters¦283520 aren’t¦283522 able¦283523 to¦283524 quench¦283524 this love¦283527\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and rivers¦283528 can’t¦283522 drown it.\n"
+    "≈and¦283528 rivers¦283528 can’t¦283529 drown it¦283530.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "If a man would give¦283533 all the ",
+    "If¦283531 a man would¦283533 give¦283533 all¦283537 the¦283539 ",
     {
      "type": "char",
      "marker": "add",
@@ -4278,7 +4478,7 @@
       "≈family’s"
      ]
     },
-    " wealth¦283539 in¦283541 exchange for love,\n"
+    " wealth¦283539 in exchange for¦283541 love¦283541,\n"
    ]
   },
   {
@@ -4316,7 +4516,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈We have a young sister"
+      "≈We have a¦283547 young sister¦283547"
      ]
     },
     "—\n"
@@ -4326,7 +4526,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "small¦283549 and ",
+    "small¦283549 and¦283550 ",
     {
      "type": "char",
      "marker": "add",
@@ -4341,14 +4541,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "What will we do for our sister\n"
+    "What¦283553 will¦283555 we¦283555 do¦283555 for¦283556 our¦283556 sister\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "on¦283560 the day¦283557 when she is spoken¦283558 for?\n"
+    "on the¦283557 day¦283557 when¦283558 she is¦283558 spoken¦283558 for¦283560?\n"
    ]
   },
   {
@@ -4361,7 +4561,7 @@
      "number": "9",
      "sid": "SNG 8:9"
     },
-    "If she’s a wall,",
+    "If¦283562 she’s a¦283564 wall¦283564,",
     {
      "type": "note",
      "marker": "f",
@@ -4378,20 +4578,20 @@
        "type": "char",
        "marker": "ft",
        "content": [
-        "Some consider these analogies to refer to her (still young) flat chest, others to a wall/door¦283572 protecting her virginity."
+        "Some consider these analogies to refer to her (still young) flat chest, others to a wall/door protecting her virginity."
        ]
       }
      ],
      "caller": "+"
     },
-    " we’ll build¦283566 a silver¦283569 turret on her.\n"
+    " we’ll¦283566 build¦283566 a¦283568 silver¦283569 turret on her.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "And if she is a door, we’ll ",
+    "And¦283570 if¦283570 she is¦283572 a¦283572 door¦283572, we’ll¦283574 ",
     {
      "type": "char",
      "marker": "add",
@@ -4419,7 +4619,7 @@
      "number": "10",
      "sid": "SNG 8:10"
     },
-    "I ",
+    "I¦283579 ",
     {
      "type": "char",
      "marker": "add",
@@ -4427,7 +4627,7 @@
       "was"
      ]
     },
-    " a wall¦283580 and¦283581 my breasts¦283581 ",
+    " a¦283580 wall¦283580 and¦283581 my¦283581 breasts¦283581 ",
     {
      "type": "char",
      "marker": "add",
@@ -4435,14 +4635,14 @@
       "were"
      ]
     },
-    " like towers¦283582.\n"
+    " like¦283582 towers¦283582.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Then, in¦283585 his eyes¦283585, I was like a person who finds¦283586 peace¦283587.\n"
+    "Then¦283583, in¦283585 his¦283585 eyes¦283585, I was like¦283586 a person who¦283586 finds¦283586 peace¦283587.\n"
    ]
   },
   {
@@ -4455,21 +4655,29 @@
      "number": "11",
      "sid": "SNG 8:11"
     },
-    "There was a vineyard for Solomon¦283592 at¦283593 Baal-Hamon.\n"
+    "There was a¦283590 vineyard¦283590 for Shelomoh¦283592 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Solomon¦283592)"
+     ]
+    },
+    " at¦283593 Ba’al¦283593-Hamon¦283594.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "He gave¦283595 the vineyard to keepers¦283599.\n"
+    "He¦283595 gave¦283595 the¦283598 vineyard¦283598 to¦283599 keepers¦283599.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Each person brought a thousand¦283603 silver¦283604 ",
+    "Each¦283600 person brought¦283601 a¦283603 thousand¦283603 silver¦283604 ",
     {
      "type": "char",
      "marker": "add",
@@ -4477,7 +4685,7 @@
       "≈coins"
      ]
     },
-    " in¦283593 exchange for its¦283602 fruit¦283602.\n"
+    " in exchange for its¦283602 fruit¦283602.\n"
    ]
   },
   {
@@ -4490,7 +4698,7 @@
      "number": "12",
      "sid": "SNG 8:12"
     },
-    "My¦283611 ",
+    "My ",
     {
      "type": "char",
      "marker": "add",
@@ -4498,12 +4706,12 @@
       "≈own"
      ]
     },
-    " vineyard is ",
+    " vineyard¦283606 is¦283611 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈right in front of me"
+      "≈right in¦283611 front¦283611 of¦283611 me¦283611"
      ]
     },
     ".\n"
@@ -4513,7 +4721,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Those thousand¦283612 ",
+    "Those¦283616 thousand¦283612 ",
     {
      "type": "char",
      "marker": "add",
@@ -4521,22 +4729,14 @@
       "coins"
      ]
     },
-    " belong to you, Shelomoh ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "(Solomon¦283614)"
-     ]
-    },
-    ",\n"
+    " belong to¦283613 you, Shelomoh¦283614,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the two¦283615 hundred¦283615 belong to the people who are keepers of its¦283619 fruit¦283619.\n"
+    "and¦283615 the two¦283615 hundred¦283615 belong¦283616 to¦283616 the people who¦283616 are keepers¦283616 of¦283619 its¦283619 fruit¦283619.\n"
    ]
   },
   {
@@ -4577,14 +4777,14 @@
       "&my"
      ]
     },
-    " companions¦283626 are listening¦283627 intently for your¦283628 voice¦283628—\n"
+    " companions¦283626 are¦283627 listening¦283627 intently for¦283628 your¦283628 voice¦283628—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "let me hear¦283629 it.\n"
+    "let me¦283629 hear¦283629 it.\n"
    ]
   },
   {
@@ -4604,14 +4804,14 @@
      "number": "14",
      "sid": "SNG 8:14"
     },
-    "Flee¦283633, my dearest, and¦283634 be like a gazelle¦283637\n"
+    "Flee, my¦283633 dearest¦283633, and¦283634 be¦283634 like¦283634 a¦283637 gazelle¦283637\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈or a young¦283639 stag on the mountains¦283642 of spices¦283643.\n"
+    "≈or¦283638 a young¦283639 stag on¦283641 the mountains¦283642 of¦283642 spices¦283643.\n"
    ]
   }
  ]

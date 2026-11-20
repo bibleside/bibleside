@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:12 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "Galatikoss\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -320,7 +315,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "+an¦125675"
+      "+a¦125675"
      ]
     },
     "_messenger¦125675 out¦125676_of¦125676 heaven¦125677 may¦125679_be¦125679_good¦125679_message¦125679_preaching¦125679 you¦125678_all¦125678 contrary¦125682_to¦125682 what¦125683 we¦125684_good¦125684_message¦125684_preached¦125684 to¦125685_you¦125685_all¦125685, let¦125687_ him¦125687 _be¦125687 ",
@@ -809,7 +804,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦126146"
+      "&his¦126146"
      ]
     },
     "_face¦126146, because¦126149 he¦126151_was¦126151 having¦126150_been¦126150_condemned¦126150.\n",
@@ -1154,7 +1149,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^your¦126378"
+      "&your¦126378"
      ]
     },
     "_eyes¦126378 ",
@@ -3278,7 +3273,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^our¦127835"
+      "&our¦127835"
      ]
     },
     "_own¦127835, we¦127836_will¦127836_be¦127836_reaping¦127836 not¦127838 being¦127839_exhausted¦127839.\n",

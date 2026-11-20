@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:13 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "1 Petros\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -1122,7 +1117,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦149077"
+      "&his¦149077"
      ]
     },
     "_procuring¦149077, so¦149078_that¦149078 the¦149079 virtues¦149080 you¦149081_all¦149081_may¦149081_proclaim¦149081_out¦149081, of¦149082_the¦149082 ",
@@ -1628,7 +1623,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦149593"
+      "&his¦149593"
      ]
     },
     "_lips¦149593 untr which¦149595untr* not¦149596 to¦149597_speak¦149597 deceit¦149599.\n",
@@ -2774,7 +2769,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^your¦150285"
+      "&your¦150285"
      ]
     },
     "_elders¦150285. And¦150287, all¦150286 tie¦150293_in¦150293 untr the¦150291untr* humility¦150292 to¦150289_one¦150289_another¦150289 because¦150294: -¦150295 ",
@@ -2824,7 +2819,7 @@
       "god¦150310"
      ]
     },
-    ", in¦150311_order¦150311_that¦150311 he¦150313_may¦150313_exalt¦150313 you¦150312_all¦150312 in¦150314 time¦150315,\n",
+    ", in¦150311_order¦150311_that¦150311 he¦150313_may¦150313_elevate¦150313 you¦150312_all¦150312 in¦150314 time¦150315,\n",
     {
      "type": "verse",
      "marker": "v",

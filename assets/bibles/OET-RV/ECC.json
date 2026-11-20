@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "ECC",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.04"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.2"
    ]
   },
   {
@@ -77,7 +77,7 @@
    "type": "para",
    "marker": "mt2",
    "content": [
-    "Ecclesiastes\n"
+    "Kohelet\n"
    ]
   },
   {
@@ -184,7 +184,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -222,7 +222,7 @@
       "The following"
      ]
     },
-    " are the words¦278393 of the leader,",
+    " are the¦278393 words¦278393 of¦278393 the leader,",
     {
      "type": "note",
      "marker": "f",
@@ -245,12 +245,12 @@
      ],
      "caller": "+"
     },
-    " David’s¦278397 son, king¦278398 in¦278399 Yerushalem¦278399 ",
+    " David’s¦278397 son¦278395, king¦278398 in¦278399 Yerushalem¦278399 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "(Jerusalem)"
+      "!(Jerusalem¦278399)"
      ]
     },
     ":\n"
@@ -280,7 +280,7 @@
      "number": "2",
      "sid": "ECC 1:2"
     },
-    "“Totally pointless,” says the leader.\n"
+    "“Totally pointless¦278402,” says¦278403 the¦278407 leader.\n"
    ]
   },
   {
@@ -295,7 +295,7 @@
       "≈A complete waste of time"
      ]
     },
-    ". Everything’s worthless.”\n"
+    ". Everything’s¦278407 worthless.”\n"
    ]
   },
   {
@@ -308,7 +308,7 @@
      "number": "3",
      "sid": "ECC 1:3"
     },
-    "What profit does humanity¦278413 gain from all ",
+    "What¦278410 profit does humanity¦278413 gain from all¦278414 ",
     {
      "type": "char",
      "marker": "add",
@@ -333,7 +333,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Generations come, and generations go"
+      "≈Generations¦278421 come¦278422, and¦278423 generations¦278423 go"
      ]
     },
     ",\n"
@@ -347,7 +347,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but¦278423 the world just carries on going¦278422"
+      "≈but¦278425 the¦278425 world¦278425 just carries on going¦278422"
      ]
     },
     ".\n"
@@ -363,14 +363,14 @@
      "number": "5",
      "sid": "ECC 1:5"
     },
-    "The sun rises¦278429 and¦278429 the sun sets,\n"
+    "The¦278430 sun¦278430 rises¦278429 and¦278431 the¦278432 sun¦278432 sets,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "then¦278429 ",
+    "then¦278433 ",
     {
      "type": "char",
      "marker": "add",
@@ -386,7 +386,7 @@
       "around"
      ]
     },
-    " to its place¦278435, rising¦278437 there¦278439 ",
+    " to¦278433 its¦278435 place¦278435, rising¦278437 there¦278439 ",
     {
      "type": "char",
      "marker": "add",
@@ -407,21 +407,21 @@
      "number": "6",
      "sid": "ECC 1:6"
     },
-    "Going to the south¦278444 then around to the north¦278448,\n"
+    "Going¦278441 to¦278442 the¦278444 south¦278444 then¦278445 around to¦278446 the¦278448 north¦278448,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "the wind is going, changing, turning,\n"
+    "the¦278453 wind¦278453 is¦278452 going¦278452, changing, turning,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "then ",
+    "then¦278454 ",
     {
      "type": "char",
      "marker": "add",
@@ -429,7 +429,7 @@
       "*it’s"
      ]
     },
-    " returning¦278457 on its rounds.\n"
+    " returning¦278457 on¦278454 its¦278456 rounds.\n"
    ]
   },
   {
@@ -442,30 +442,30 @@
      "number": "7",
      "sid": "ECC 1:7"
     },
-    "All the rivers ",
+    "All¦278460 the¦278462 rivers¦278462 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈flow into"
+      "≈flow into¦278464"
      ]
     },
-    " the sea ",
+    " the¦278466 sea¦278466 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but¦278467 it never¦278468 gets"
+      "≈but¦278467 it¦278468 never gets"
      ]
     },
-    " full.\n"
+    " full¦278469.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The place¦278472 that the rivers are going to, they ",
+    "The¦278472 place¦278472 that the¦278473 rivers¦278473 are¦278474 going¦278474 to, they¦278476 ",
     {
      "type": "char",
      "marker": "add",
@@ -473,12 +473,12 @@
       "≈end up"
      ]
     },
-    " going ",
+    " going¦278478 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "there¦278475"
+      "there"
      ]
     },
     " again.\n"
@@ -494,12 +494,12 @@
      "number": "8",
      "sid": "ECC 1:8"
     },
-    "Everything is wearisome¦278483—",
+    "Everything is¦278483 wearisome¦278483—",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈not even worth talking about"
+      "≈not¦278484 even worth talking¦278488 about¦278480"
      ]
     },
     ".\n"
@@ -509,12 +509,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "The ",
+    "The¦278482 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "#eyes"
+      "#eyes¦278492"
      ]
     },
     " ",
@@ -525,7 +525,7 @@
       "≈never stop"
      ]
     },
-    " seeing,\n"
+    " seeing¦278493,\n"
    ]
   },
   {
@@ -537,7 +537,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "&your"
+      "&your¦278497"
      ]
     },
     " ",
@@ -545,7 +545,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "#ears"
+      "#ears¦278497"
      ]
     },
     " ",
@@ -553,7 +553,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈never fill up with everything they hear¦278498"
+      "≈never fill¦278496 up with everything they hear¦278498"
      ]
     },
     ".\n"
@@ -577,7 +577,7 @@
       "in the past"
      ]
     },
-    ", it will be ",
+    ", it will¦278504 be¦278504 ",
     {
      "type": "char",
      "marker": "add",
@@ -592,12 +592,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and ",
+    "and¦278505 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈everything that’s happened before, will happen"
+      "≈everything that’s happened before, will¦278509 happen"
      ]
     },
     " ",
@@ -615,7 +615,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "There’s nothing new ",
+    "There’s¦278510 nothing new¦278513 ",
     {
      "type": "char",
      "marker": "add",
@@ -646,7 +646,7 @@
      ],
      "caller": "+"
     },
-    ".\n"
+    "\n"
    ]
   },
   {
@@ -659,7 +659,7 @@
      "number": "10",
      "sid": "ECC 1:10"
     },
-    "If someone says, “Look at this—it’s new,”\n"
+    "If someone¦278519 says¦278519, “Look¦278520 at this¦278522—it’s new¦278523,”\n"
    ]
   },
   {
@@ -673,7 +673,7 @@
       "well"
      ]
     },
-    ", it was already¦278525 done ",
+    ", it¦278524 was already¦278525 done ",
     {
      "type": "char",
      "marker": "add",
@@ -713,7 +713,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈the same will also happen for future events"
+      "≈the same will also¦278535 happen for¦278541 future events"
      ]
     },
     ".\n"
@@ -727,7 +727,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈People in the future will be exactly the same"
+      "≈People in the future will¦278544 be¦278544 exactly the same"
      ]
     },
     ".\n"
@@ -757,7 +757,23 @@
      "number": "12",
      "sid": "ECC 1:12"
     },
-    "I, the leader, was king¦278551 over Yisrael¦278554 in¦278555 Yerushalem¦278555.\n"
+    "I, the leader, was¦278550 king¦278551 over¦278552 Yisrael¦278554 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Israel¦278554)"
+     ]
+    },
+    " in¦278555 Yerushalem¦278555 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦278555)"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -770,20 +786,20 @@
      "number": "13",
      "sid": "ECC 1:13"
     },
-    "I ",
+    "I¦278557 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈used my mind¦278560 and"
+      "≈used my¦278560 mind¦278560 and"
      ]
     },
-    " wisdom¦278563 to discover¦278562 and to explore¦278562 everything that is done ",
+    " wisdom¦278563 to¦278562 discover¦278562 and to explore everything that¦278567 is¦278568 done¦278568 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈in¦278563 this world"
+      "≈in this world"
      ]
     },
     ".\n"
@@ -793,7 +809,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "It’s a difficult job that God¦278576 has given¦278575 humanity¦278578 to be busy with¦278563.\n"
+    "It’s¦278571 a¦278573 difficult job¦278573 that¦278575 God¦278576 has¦278575 given¦278575 humanity¦278578 to¦278579 be¦278579 busy¦278579 with.\n"
    ]
   },
   {
@@ -806,7 +822,7 @@
      "number": "14",
      "sid": "ECC 1:14"
     },
-    "I saw all the deeds that¦278588 are done ",
+    "I¦278582 saw¦278582 everything that¦278588 gets done¦278588 ",
     {
      "type": "char",
      "marker": "add",
@@ -821,7 +837,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and look—everything’s¦278592 pointless ",
+    "and¦278591 look¦278591—everything’s pointless ",
     {
      "type": "char",
      "marker": "add",
@@ -829,7 +845,7 @@
       "like"
      ]
     },
-    " chasing¦278594 after the wind¦278595.\n"
+    " chasing after the wind¦278595.\n"
    ]
   },
   {
@@ -842,7 +858,7 @@
      "number": "15",
      "sid": "ECC 1:15"
     },
-    "Something that’s bent can’t be straightened¦278601 ",
+    "Something¦278602 that’s¦278597 bent¦278597 can’t¦278598 be¦278600 straightened¦278601 ",
     {
      "type": "char",
      "marker": "add",
@@ -857,7 +873,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and¦278602 what’s missing¦278602 can’t be counted¦278606.\n"
+    "≈and¦278602 what’s missing¦278602 can’t¦278603 be¦278606 counted¦278606.\n"
    ]
   },
   {
@@ -870,7 +886,7 @@
      "number": "16",
      "sid": "ECC 1:16"
     },
-    "I spoke¦278608 with ",
+    "I¦278608 spoke¦278608 with¦278610 ",
     {
      "type": "char",
      "marker": "add",
@@ -878,12 +894,12 @@
       "≈sincerity"
      ]
     },
-    ", saying, “Look at me—I’ve become ",
+    ", saying¦278613, “Look¦278630 at me—I’ve¦278616 become ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈powerful"
+      "≈powerful¦278616"
      ]
     },
     ",\n"
@@ -893,12 +909,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and I’ve ",
+    "and¦278617 I’ve¦278617 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈increased¦278617 in wisdom relative to everyone¦278620 who ruled before me"
+      "≈increased¦278617 in wisdom¦278618 relative to everyone¦278620 who¦278622 ruled before me"
      ]
     },
     " ",
@@ -909,7 +925,15 @@
       "here"
      ]
     },
-    " in Yerushalem¦278628.",
+    " in Yerushalem¦278628 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦278628)"
+     ]
+    },
+    ".",
     {
      "type": "note",
      "marker": "x",
@@ -942,10 +966,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈My mind¦278612 has acquired"
+      "≈My¦278629 mind has acquired"
      ]
     },
-    " much knowledge¦278633 and wisdom.”\n"
+    " much¦278631 knowledge¦278633 and wisdom.”\n"
    ]
   },
   {
@@ -958,15 +982,15 @@
      "number": "17",
      "sid": "ECC 1:17"
     },
-    "I ",
+    "I¦278635 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈made it¦278646 my aim to discover"
+      "≈made it my¦278636 aim to¦278637 discover"
      ]
     },
-    " knowledge and wisdom¦278638 ",
+    " knowledge¦278637 and wisdom¦278638 ",
     {
      "type": "char",
      "marker": "add",
@@ -974,14 +998,14 @@
       "versus"
      ]
     },
-    " madness¦278640 and folly¦278641.\n"
+    " madness¦278640 and¦278641 folly¦278641.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I was aware that that also is chasing after the wind¦278648\n"
+    "I¦278642 was aware that that also¦278643 is¦278647 chasing after the wind¦278648\n"
    ]
   },
   {
@@ -994,7 +1018,7 @@
      "number": "18",
      "sid": "ECC 1:18"
     },
-    "because ",
+    "because¦278650 ",
     {
      "type": "char",
      "marker": "add",
@@ -1017,7 +1041,7 @@
       "also"
      ]
     },
-    " adding pain.\n"
+    " adding pain¦278659.\n"
    ]
   },
   {
@@ -1043,7 +1067,7 @@
      "number": "1",
      "sid": "ECC 2:1"
     },
-    "I said¦278661 ",
+    "I¦278661 said¦278661 ",
     {
      "type": "char",
      "marker": "add",
@@ -1058,12 +1082,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "“Come on¦278663, let me ",
+    "“Come¦278664 on, let¦278667 me¦278667 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈find out what’s good¦278670 and enjoy¦278669 the pleasure¦278666 from them"
+      "≈find out what’s good¦278670 and enjoy the¦278667 pleasure¦278668 from them"
      ]
     },
     ".”\n"
@@ -1073,7 +1097,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "But¦278669 look¦278669, it¦278674 was also pointless.\n"
+    "But¦278669 look¦278669, it¦278674 was¦278675 also¦278672 pointless.\n"
    ]
   },
   {
@@ -1086,19 +1110,19 @@
      "number": "2",
      "sid": "ECC 2:2"
     },
-    "To laughter¦278677, I said¦278678, “It’s madness,”\n"
+    "To laughter¦278677, I¦278678 said¦278678, “It’s¦278679 madness,”\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and¦278680 to joy, “What’s ",
+    "≈and¦278680 to joy¦278680, “What’s¦278681 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈the point of this"
+      "≈the point of this¦278683"
      ]
     },
     "?”\n"
@@ -1114,23 +1138,23 @@
      "number": "3",
      "sid": "ECC 2:3"
     },
-    "I explored in myself how to ",
+    "I¦278686 explored¦278686 in¦278687 myself how to¦278688 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈indulge my body¦278692"
+      "≈indulge¦278688 my body¦278692"
      ]
     },
-    " with¦278687 wine, but¦278693 my ",
+    " with¦278689 wine¦278689, but¦278693 my¦278693 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈mind¦278687"
+      "≈mind"
      ]
     },
-    " was guiding¦278694 me in wisdom¦278695.\n"
+    " was¦278694 guiding¦278694 me in wisdom¦278695.\n"
    ]
   },
   {
@@ -1141,22 +1165,22 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Also,"
+      "≈Also¦278696,"
      ]
     },
-    " how to grasp foolishness\n"
+    " how to¦278696 grasp¦278696 foolishness¦278697\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "until¦278698 I could see whether that’s better for humanity¦278707 to do ",
+    "until¦278698 I¦278701 could see¦278701 whether that’s¦278699 better¦278705 for¦278706 humanity¦278707 to do¦278709 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈while they¦278709 live out their¦278714 lives¦278714 here on¦278687 this earth"
+      "≈while they¦278709 live out their¦278714 lives¦278714 here on this¦278704 earth"
      ]
     },
     ".\n"
@@ -1176,7 +1200,7 @@
      "number": "4",
      "sid": "ECC 2:4"
     },
-    "I expanded my ",
+    "I¦278716 expanded my ",
     {
      "type": "char",
      "marker": "add",
@@ -1191,14 +1215,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "I built¦278718 houses¦278720 for myself.\n"
+    "I¦278718 built¦278718 houses¦278720 for myself.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I planted¦278721 vineyards¦278723 for myself.",
+    "I¦278721 planted¦278721 vineyards¦278723 for myself.",
     {
      "type": "note",
      "marker": "x",
@@ -1233,22 +1257,22 @@
      "number": "5",
      "sid": "ECC 2:5"
     },
-    "I made gardens¦278727 for myself, and royal parks¦278728,\n"
+    "I¦278725 made¦278725 gardens¦278727 for myself, and¦278728 royal parks¦278728,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and I planted¦278729 ",
+    "and¦278729 I¦278729 planted¦278729 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈all different kinds"
+      "≈all¦278732 different kinds"
      ]
     },
-    " of fruit¦278734 trees in them.\n"
+    " of¦278732 fruit¦278734 trees¦278731 in them.\n"
    ]
   },
   {
@@ -1261,14 +1285,14 @@
      "number": "6",
      "sid": "ECC 2:6"
     },
-    "I constructed pools¦278738 for myself\n"
+    "I¦278736 constructed¦278736 pools¦278738 for myself\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "to ",
+    "to¦278740 ",
     {
      "type": "char",
      "marker": "add",
@@ -1276,7 +1300,7 @@
       "≈irrigate"
      ]
     },
-    " a forest¦278742 of growing trees¦278744.\n"
+    " a¦278742 forest¦278742 of¦278742 growing¦278743 trees¦278744.\n"
    ]
   },
   {
@@ -1289,29 +1313,29 @@
      "number": "7",
      "sid": "ECC 2:7"
     },
-    "I acquired¦278746 male and female¦278748 servants,\n"
+    "I¦278746 acquired¦278746 male¦278747 and¦278748 female¦278748 servants¦278748,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and ",
+    "and¦278749 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈the children born to them"
+      "≈the¦278749 children¦278749 born to them"
      ]
     },
-    " belonged to me.\n"
+    " belonged¦278752 to¦278753 me¦278753.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Also ",
+    "Also¦278754 ",
     {
      "type": "char",
      "marker": "add",
@@ -1319,22 +1343,30 @@
       "≈a large number"
      ]
     },
-    " of sheep and cattle belonged to me—\n"
+    " of sheep¦278757 and¦278757 cattle belonged¦278759 to¦278760 me¦278760—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "more than all ",
+    "more than¦278761 all¦278761 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈my predecessors"
+      "≈my¦278763 predecessors"
      ]
     },
-    " in¦278764 Yerushalem¦278764.",
+    " in¦278764 Yerushalem¦278764 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦278764)"
+     ]
+    },
+    ".",
     {
      "type": "note",
      "marker": "x",
@@ -1369,36 +1401,14 @@
      "number": "8",
      "sid": "ECC 2:8"
     },
-    "I also accumulated gold¦278771 and silver¦278770 for myself,\n"
+    "I¦278766 also¦278768 accumulated gold¦278771 and silver¦278770 for myself,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and treasure¦278772 from kings¦278773 and from the provinces¦278774.\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "I appointed male and female¦278778 singers¦278777 for myself,\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "and the pleasures of the sons of humanity¦278781—",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈many women"
-     ]
-    },
-    ".",
+    "and¦278772 treasure¦278772 from kings¦278773 and¦278774 from the¦278774 provinces¦278774.",
     {
      "type": "note",
      "marker": "x",
@@ -1425,6 +1435,28 @@
   },
   {
    "type": "para",
+   "marker": "q1",
+   "content": [
+    "I¦278775 appointed male¦278777 and¦278778 female¦278778 singers¦278778 for myself,\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "and¦278779 the¦278779 pleasures¦278779 of¦278779 the¦278780 sons¦278780 of¦278780 humanity¦278781—",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈many women"
+     ]
+    },
+    ".\n"
+   ]
+  },
+  {
+   "type": "para",
    "marker": "b"
   },
   {
@@ -1441,7 +1473,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈So¦278785 I became¦278785 famous"
+      "≈So¦278785 I¦278785 became¦278785 famous¦278785"
      ]
     },
     ",\n"
@@ -1451,7 +1483,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦278786 I added more than all who ",
+    "and¦278786 I¦278786 added more than¦278787 all¦278787 who¦278788 ",
     {
      "type": "char",
      "marker": "add",
@@ -1459,14 +1491,7 @@
       "≈preceded me"
      ]
     },
-    " in¦278790 Yerushalem¦278790.\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "Also my wisdom¦278792 stayed with¦278790 me.",
+    " in¦278790 Yerushalem¦278790.",
     {
      "type": "note",
      "marker": "x",
@@ -1495,6 +1520,13 @@
    "type": "para",
    "marker": "q1",
    "content": [
+    "Also¦278791 my¦278792 wisdom¦278792 stayed¦278793 with me¦278794.\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
     {
      "type": "verse",
      "marker": "v",
@@ -1505,10 +1537,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Everything my eyes¦278799 wanted"
+      "≈Everything¦278796 my eyes¦278799 wanted"
      ]
     },
-    ", I ",
+    ", I¦278801 ",
     {
      "type": "char",
      "marker": "add",
@@ -1516,22 +1548,22 @@
       "^gave"
      ]
     },
-    " them.\n"
+    " them¦278802.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I didn’t¦278800 ",
+    "I¦278805 didn’t ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈hold back"
+      "≈hold¦278805 back"
      ]
     },
-    " from ",
+    " from¦278809 ",
     {
      "type": "char",
      "marker": "add",
@@ -1546,22 +1578,22 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because ",
+    "because¦278812 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈I was happy inside"
+      "≈I was¦278815 happy inside"
      ]
     },
-    " from all my work\n"
+    " from¦278816 all¦278816 my¦278818 work\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦278819 that was my reward¦278822 from all my effort.\n"
+    "and¦278819 that¦278819 was¦278821 my¦278822 reward¦278822 from¦278823 all¦278823 my¦278825 effort.\n"
    ]
   },
   {
@@ -1574,12 +1606,12 @@
      "number": "11",
      "sid": "ECC 2:11"
     },
-    "And I turned¦278827, I, to all ",
+    "And¦278827 I¦278827 turned¦278827, I¦278828, to all¦278829 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈the things that I’d made"
+      "≈the things that¦278832 I’d made"
      ]
     },
     "\n"
@@ -1589,21 +1621,21 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and to the work that I’d done,\n"
+    "and¦278834 to the work¦278834 that¦278835 I’d¦278835 done¦278836,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and look, everything¦278838 was pointless and chasing¦278840 after the wind¦278841,\n"
+    "and¦278837 look¦278837, everything¦278838 was¦278839 pointless and¦278840 chasing after the wind¦278841,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and there¦278842 wasn’t any profit ",
+    "and¦278842 there¦278842 wasn’t¦278842 any profit ",
     {
      "type": "char",
      "marker": "add",
@@ -1631,22 +1663,22 @@
      "number": "12",
      "sid": "ECC 2:12"
     },
-    "Then¦278847 I¦278848 ",
+    "Then¦278847 I¦278847 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈changed direction to investigate"
+      "≈changed¦278847 direction to¦278849 investigate"
      ]
     },
-    " wisdom¦278850 and madness¦278851 and folly¦278852,\n"
+    " wisdom¦278850 and¦278851 madness¦278851 and¦278852 folly¦278852,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because what could ",
+    "because¦278853 what¦278855 could ",
     {
      "type": "char",
      "marker": "add",
@@ -1654,7 +1686,7 @@
       "≈any future"
      ]
     },
-    " king¦278859 do that¦278861 hasn’t already¦278863 been done?\n"
+    " king¦278859 do that¦278861 hasn’t already¦278863 been done¦278864?\n"
    ]
   },
   {
@@ -1667,7 +1699,7 @@
      "number": "13",
      "sid": "ECC 2:13"
     },
-    "I¦278867 saw¦278866 that wisdom¦278870 ",
+    "I¦278866 saw¦278866 that¦278868 wisdom¦278870 ",
     {
      "type": "char",
      "marker": "add",
@@ -1682,7 +1714,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "just as light¦278875 ",
+    "just as¦278874 light¦278875 ",
     {
      "type": "char",
      "marker": "add",
@@ -1707,7 +1739,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈The wise person uses their¦278895"
+      "≈The¦278880 wise¦278880 person uses their"
      ]
     },
     " eyes¦278881,\n"
@@ -1724,22 +1756,22 @@
       "≈but¦278883"
      ]
     },
-    " the fool walks in¦278882 the darkness¦278884,\n"
+    " the¦278883 fool¦278883 walks¦278885 in¦278884 the darkness¦278884,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and even I know that ",
+    "and¦278886 even I¦278886 know¦278886 that¦278890 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈the same fate comes"
+      "≈the same fate¦278890 comes¦278892"
      ]
     },
-    " to both of them.\n"
+    " to¦278892 both of¦278895 them¦278895.\n"
    ]
   },
   {
@@ -1752,7 +1784,7 @@
      "number": "15",
      "sid": "ECC 2:15"
     },
-    "I said ",
+    "I¦278897 said¦278897 ",
     {
      "type": "char",
      "marker": "add",
@@ -1765,10 +1797,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈The fool’s end will also come"
+      "≈The fool’s¦278901 end will¦278905 also come¦278905"
      ]
     },
-    " to me,\n"
+    " to¦278905 me¦278905,\n"
    ]
   },
   {
@@ -1779,25 +1811,25 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈so what use was it being"
+      "≈so¦278906 what¦278906 use was it being"
      ]
     },
-    " so wise back then¦278897?”\n"
+    " so wise¦278907 back then¦278909?”\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Then¦278897 I ",
+    "Then¦278911 I¦278911 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈told myself"
+      "≈told¦278911 myself"
      ]
     },
-    " that that also is pointless,\n"
+    " that that also¦278913 is¦278916 pointless,\n"
    ]
   },
   {
@@ -1810,12 +1842,12 @@
      "number": "16",
      "sid": "ECC 2:16"
     },
-    "because ",
+    "because¦278918 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈neither the wise person nor the fool will be remembered¦278920 forever"
+      "≈neither the wise person¦278921 nor the¦278924 fool¦278924 will be remembered¦278920 forever"
      ]
     },
     ",\n"
@@ -1829,7 +1861,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈as they’ll both be forgotten¦278930 in¦278926 the days¦278927 to come"
+      "≈as they’ll both be¦278930 forgotten¦278930 in the¦278927 days¦278927 to come¦278928"
      ]
     },
     "—\n"
@@ -1839,15 +1871,15 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦278931 how ",
+    "and¦278931 how¦278931 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "strange it¦278930 is"
+      "strange it is"
      ]
     },
-    " that the wise die¦278932 ",
+    " that¦278926 the¦278933 wise¦278933 die¦278932 ",
     {
      "type": "char",
      "marker": "add",
@@ -1855,20 +1887,7 @@
       "≈just like"
      ]
     },
-    " the fool!\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    {
-     "type": "verse",
-     "marker": "v",
-     "number": "17",
-     "sid": "ECC 2:17"
-    },
-    "Then¦278938 I hated¦278938 life¦278941 because of the misfortune around me—\n"
+    " the¦278936 fool¦278936!\n"
    ]
   },
   {
@@ -1882,7 +1901,20 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "the work¦278945 that¦278946 was done ",
+    {
+     "type": "verse",
+     "marker": "v",
+     "number": "17",
+     "sid": "ECC 2:17"
+    },
+    "Then¦278938 I¦278938 hated¦278938 life¦278941 because¦278942 of the misfortune around me¦278944—\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "the¦278945 work¦278945 that¦278946 was¦278946 done¦278946 ",
     {
      "type": "char",
      "marker": "add",
@@ -1897,7 +1929,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because everything¦278951 was pointless and¦278953 chasing¦278953 after the wind¦278954.\n"
+    "because¦278949 everything¦278951 was¦278952 pointless and¦278953 chasing after the wind¦278954.\n"
    ]
   },
   {
@@ -1910,7 +1942,7 @@
      "number": "18",
      "sid": "ECC 2:18"
     },
-    "Then¦278956 I hated¦278956 all the work that I’d done ",
+    "Then¦278956 I¦278956 hated¦278956 all¦278960 the work¦278962 that¦278963 I’d¦278963 done ",
     {
      "type": "char",
      "marker": "add",
@@ -1925,12 +1957,20 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "that will get left to those who follow me ",
+    "that¦278967 will¦278967 get left¦278967 to¦278968 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "after¦278970 I go"
+      "#those"
+     ]
+    },
+    " who¦278969 follow me¦278970 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "after I go"
      ]
     },
     ".\n"
@@ -1946,7 +1986,7 @@
      "number": "19",
      "sid": "ECC 2:19"
     },
-    "And who knows whether¦278974 ",
+    "And¦278972 who¦278972 knows¦278973 whether ",
     {
      "type": "char",
      "marker": "add",
@@ -1954,14 +1994,14 @@
       "@my successor"
      ]
     },
-    " will be wise or a fool?\n"
+    " will be¦278975 wise or¦278976 a¦278977 fool¦278977?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "He’ll have authority over all my ",
+    "He’ll¦278978 have¦278978 authority over all¦278979 my¦278981 ",
     {
      "type": "char",
      "marker": "add",
@@ -1969,7 +2009,7 @@
       "≈projects"
      ]
     },
-    " that¦278982 I ",
+    " that¦278982 I¦278982 ",
     {
      "type": "char",
      "marker": "add",
@@ -1984,12 +2024,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦278972 which I’ve¦278982 ",
+    "and¦278983 which¦278983 I’ve¦278983 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈applied wisdom¦278983 to in this world"
+      "≈applied wisdom¦278983 to in this¦278988 world"
      ]
     },
     ".\n"
@@ -1999,7 +2039,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "That also was pointless.\n"
+    "That also¦278986 was¦278989 pointless.\n"
    ]
   },
   {
@@ -2012,20 +2052,20 @@
      "number": "20",
      "sid": "ECC 2:20"
     },
-    "Then¦278991 I ",
+    "Then¦278991 I¦278991 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈changed"
+      "≈changed¦278991"
      ]
     },
-    " to despairing¦278993 over all the ",
+    " to¦278993 despairing¦278993 over all¦278998 the¦279000 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈projects in this world that¦279001 I’d worked hard on"
+      "≈projects in this world that¦279001 I’d¦279001 worked hard on"
      ]
     },
     ",\n"
@@ -2041,15 +2081,15 @@
      "number": "21",
      "sid": "ECC 2:21"
     },
-    "because there¦279007 ",
+    "because¦279005 there¦279007 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "#are people"
+      "#are¦279007 people¦279008"
      ]
     },
-    " whose work¦279009 is in wisdom¦279010 and knowledge¦279011, and in skill¦279012.\n"
+    " whose work¦279009 is¦279010 in wisdom¦279010 and¦279011 knowledge¦279011, and¦279012 in skill¦279012.\n"
    ]
   },
   {
@@ -2063,12 +2103,12 @@
       "≈However,"
      ]
     },
-    " then a person¦279008 who hasn’t worked on¦279010 it, will ",
+    " then¦279013 a person¦279013 who¦279014 hasn’t worked on¦279017 it¦279017, will¦279018 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈gain it as their inheritance"
+      "≈gain it¦279018 as their inheritance¦279019"
      ]
     },
     ".\n"
@@ -2078,7 +2118,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "That also is pointless and a great¦279025 misfortune\n"
+    "That¦279022 also¦279020 is¦279023 pointless and¦279024 a great¦279025 misfortune\n"
    ]
   },
   {
@@ -2091,12 +2131,12 @@
      "number": "22",
      "sid": "ECC 2:22"
     },
-    "because what does a person¦279031 get in exchange for all their work and¦279035 ",
+    "because¦279027 what¦279028 does a person¦279031 get¦279030 in¦279032 exchange for all¦279032 their work¦279034 and¦279035 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈their goals in life that¦279040 they work towards in this world"
+      "≈their goals in¦279035 life that¦279040 they work towards in this world"
      ]
     },
     "?\n"
@@ -2112,14 +2152,14 @@
      "number": "23",
      "sid": "ECC 2:23"
     },
-    "Because all his days¦279048 are painful, and¦279050 anger is his business¦279051—\n"
+    "Because¦279045 all¦279046 his¦279048 days¦279048 are¦279049 painful, and¦279050 anger is¦279050 his¦279051 business¦279051—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "even in¦279054 the night¦279054, his ",
+    "even in¦279054 the night¦279054, his¦279058 ",
     {
      "type": "char",
      "marker": "add",
@@ -2127,14 +2167,7 @@
       "≈mind¦279058"
      ]
     },
-    " doesn’t rest.\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "That also is pointless.",
+    " doesn’t rest¦279057.",
     {
      "type": "note",
      "marker": "x",
@@ -2163,35 +2196,35 @@
    "type": "para",
    "marker": "q1",
    "content": [
+    "That¦279061 also¦279059 is¦279062 pointless.\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
     {
      "type": "verse",
      "marker": "v",
      "number": "24",
      "sid": "ECC 2:24"
     },
-    "There’s¦279065 nothing better for humanity other than eating and drinking¦279070,\n"
+    "There’s¦279065 nothing better¦279067 for¦279068 humanity other than eating¦279069 and¦279070 drinking¦279070,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and ",
+    "and¦279071 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈genuinely enjoying their hard work"
+      "≈genuinely enjoying their hard work¦279076"
      ]
     },
-    ".\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "Also I saw that that comes from God",
+    ".",
     {
      "type": "note",
      "marker": "x",
@@ -2220,13 +2253,20 @@
    "type": "para",
    "marker": "q1",
    "content": [
+    "Also¦279077 I¦279080 saw¦279080 that that comes from¦279083 God\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
     {
      "type": "verse",
      "marker": "v",
      "number": "25",
      "sid": "ECC 2:25"
     },
-    "because who could eat¦279089 and¦279090 enjoy¦279091 ",
+    "because¦279087 who¦279088 could eat¦279089 and¦279090 enjoy¦279091 ",
     {
      "type": "char",
      "marker": "add",
@@ -2234,7 +2274,15 @@
       "life"
      ]
     },
-    " apart from him?\n"
+    " apart from¦279093 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%him¦279093"
+     ]
+    },
+    "?\n"
    ]
   },
   {
@@ -2254,37 +2302,15 @@
       "≈Yes,"
      ]
     },
-    " he gives wisdom¦279100 and knowledge¦279101 and happiness to ",
+    " he¦279099 gives¦279099 wisdom¦279100 and¦279101 knowledge¦279101 and¦279102 happiness to ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈people who are good in his sight"
+      "≈people¦279096 who are good¦279097 in his sight"
      ]
     },
-    ".\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "But¦279101 to the sinner¦279103, he gives the job of gathering¦279106 and collecting¦279107 to give to the one who’s good ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈in God’s sight"
-     ]
-    },
-    ".\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "That also is pointless and chasing¦279116 after the wind¦279117.",
+    ".",
     {
      "type": "note",
      "marker": "x",
@@ -2307,6 +2333,28 @@
      "caller": "+"
     },
     "\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "But¦279103 to¦279103 the sinner¦279103, he¦279104 gives¦279104 the¦279105 job¦279105 of gathering¦279106 and¦279107 collecting to¦279108 give¦279108 to the one who’s¦279097 good¦279109 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈in¦279110 God’s sight"
+     ]
+    },
+    ".\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "That¦279114 also¦279112 is¦279115 pointless and¦279116 chasing after the wind¦279117.\n"
    ]
   },
   {
@@ -2339,14 +2387,14 @@
      "number": "1",
      "sid": "ECC 3:1"
     },
-    "There’s an appointed¦279120 time for everything,\n"
+    "There’s an¦279120 appointed¦279120 time¦279120 for everything¦279119,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and an appropriate time for every activity ",
+    "and¦279121 an appropriate time¦279121 for every¦279122 activity ",
     {
      "type": "char",
      "marker": "add",
@@ -2367,14 +2415,14 @@
      "number": "2",
      "sid": "ECC 3:2"
     },
-    "A time to give birth¦279130 and a time to die.\n"
+    "A¦279129 time¦279129 to¦279130 give¦279130 birth¦279130 and¦279131 a¦279131 time¦279131 to¦279132 die¦279132.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "A time to plant and a time to pull out what was planted.\n"
+    "A¦279133 time¦279133 to¦279134 plant¦279134 and¦279135 a¦279135 time¦279135 to¦279136 pull¦279136 out what was¦279137 planted¦279137.\n"
    ]
   },
   {
@@ -2387,14 +2435,14 @@
      "number": "3",
      "sid": "ECC 3:3"
     },
-    "A time to kill and a time to heal.\n"
+    "A¦279139 time¦279139 to¦279140 kill¦279140 and¦279141 a¦279141 time¦279141 to¦279142 heal¦279142.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "A time to tear down and a time to build¦279146 up.\n"
+    "A¦279143 time¦279143 to¦279144 tear¦279144 down¦279144 and¦279145 a¦279145 time¦279145 to¦279146 build¦279146 up.\n"
    ]
   },
   {
@@ -2407,14 +2455,14 @@
      "number": "4",
      "sid": "ECC 3:4"
     },
-    "A time to cry and a time to laugh¦279151.\n"
+    "A¦279148 time¦279148 to¦279149 cry¦279149 and¦279150 a¦279150 time¦279150 to¦279151 laugh¦279151.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "A time to mourn¦279153 and a time to dance.\n"
+    "A¦279152 time¦279152 to¦279153 mourn¦279153 and¦279154 a¦279154 time¦279154 to¦279155 dance¦279155.\n"
    ]
   },
   {
@@ -2427,14 +2475,14 @@
      "number": "5",
      "sid": "ECC 3:5"
     },
-    "A time to throw¦279158 stones and a time to pick up stones.\n"
+    "A¦279157 time¦279157 to¦279158 throw¦279158 stones¦279159 and¦279160 a¦279160 time¦279160 to¦279161 pick up stones¦279162.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "A time to embrace and a time to avoid embracing.\n"
+    "A¦279163 time¦279163 to¦279164 embrace¦279164 and¦279165 a¦279165 time¦279165 to¦279166 avoid embracing¦279167.\n"
    ]
   },
   {
@@ -2447,14 +2495,14 @@
      "number": "6",
      "sid": "ECC 3:6"
     },
-    "A time to search¦279170 and a time to lose.\n"
+    "A¦279169 time¦279169 to¦279170 search¦279170 and¦279171 a¦279171 time¦279171 to¦279172 lose¦279172.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "A time to keep and a time to toss out.\n"
+    "A¦279173 time¦279173 to¦279174 keep¦279174 and¦279175 a¦279175 time¦279175 to¦279176 toss¦279176 out.\n"
    ]
   },
   {
@@ -2467,14 +2515,14 @@
      "number": "7",
      "sid": "ECC 3:7"
     },
-    "A time to tear and a time to mend.\n"
+    "A¦279178 time¦279178 to¦279179 tear¦279179 and¦279180 a¦279180 time¦279180 to¦279181 mend.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "A time to be silent¦279183 and a time to speak¦279185 up.\n"
+    "A¦279182 time¦279182 to¦279183 be¦279183 silent¦279183 and¦279184 a¦279184 time¦279184 to¦279185 speak¦279185 up.\n"
    ]
   },
   {
@@ -2487,14 +2535,14 @@
      "number": "8",
      "sid": "ECC 3:8"
     },
-    "A time to love and a time to hate.\n"
+    "A¦279187 time¦279187 to¦279188 love¦279188 and¦279189 a¦279189 time¦279189 to¦279190 hate¦279190.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "A time for war and a time for peace¦279194.\n"
+    "A¦279191 time¦279191 for war¦279192 and¦279193 a¦279193 time¦279193 for peace¦279194.\n"
    ]
   },
   {
@@ -2521,12 +2569,12 @@
      "number": "9",
      "sid": "ECC 3:9"
     },
-    "What ",
+    "What¦279197 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈do people gain from all the work they do"
+      "≈do people gain from all the work¦279200 they do"
      ]
     },
     "?\n"
@@ -2542,12 +2590,12 @@
      "number": "10",
      "sid": "ECC 3:10"
     },
-    "I’ve¦279205 seen¦279205 the task that¦279209 God¦279211 has given¦279210 people to ",
+    "I’ve¦279205 seen¦279205 the¦279208 task that¦279209 God¦279211 has¦279210 given¦279210 people¦279213 to¦279214 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈keep them occupied"
+      "≈keep them occupied¦279214"
      ]
     },
     ".\n"
@@ -2567,15 +2615,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "@God"
+      "@God¦279220"
      ]
     },
-    " makes everything¦279219 ",
+    " makes¦279220 everything¦279219 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈happen at¦279222 the appropriate"
+      "≈happen at the appropriate"
      ]
     },
     " time¦279222.\n"
@@ -2585,7 +2633,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Also, he puts ",
+    "Also¦279223, he¦279227 puts¦279227 ",
     {
      "type": "char",
      "marker": "add",
@@ -2593,12 +2641,12 @@
       "the awareness of"
      ]
     },
-    " eternity¦279226 into ",
+    " eternity¦279226 into¦279228 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈the human mind¦279228"
+      "≈the¦279234 human mind¦279228"
      ]
     },
     ",\n"
@@ -2608,7 +2656,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "yet humanity can’t¦279229 grasp ",
+    "yet humanity can’t grasp ",
     {
      "type": "char",
      "marker": "add",
@@ -2616,7 +2664,7 @@
       "≈what"
      ]
     },
-    " God has done from ",
+    " God has¦279240 done¦279240 from¦279242 ",
     {
      "type": "char",
      "marker": "add",
@@ -2624,7 +2672,7 @@
       "the"
      ]
     },
-    " beginning¦279242 to ",
+    " beginning¦279242 to¦279243 ",
     {
      "type": "char",
      "marker": "add",
@@ -2645,19 +2693,19 @@
      "number": "12",
      "sid": "ECC 3:12"
     },
-    "I know¦279247 that there’s¦279249 nothing better for them\n"
+    "I¦279247 know¦279247 that¦279248 there’s¦279249 nothing better¦279250 for¦279251 them¦279251\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "than being cheerful and doing good during ",
+    "than being cheerful and¦279256 doing¦279256 good¦279257 during¦279258 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "#their lives"
+      "#their lives¦279258"
      ]
     },
     "\n"
@@ -2673,7 +2721,7 @@
      "number": "13",
      "sid": "ECC 3:13"
     },
-    "and everyone should eat¦279264 and drink¦279265 and see¦279266 good¦279267 in ",
+    "and¦279260 everyone¦279261 should eat¦279264 and¦279265 drink¦279265 and¦279266 see¦279266 good¦279267 in¦279268 ",
     {
      "type": "char",
      "marker": "add",
@@ -2688,7 +2736,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "that’s a gift¦279271 from God¦279272.\n"
+    "that’s a¦279271 gift¦279271 from God¦279272.\n"
    ]
   },
   {
@@ -2701,26 +2749,26 @@
      "number": "14",
      "sid": "ECC 3:14"
     },
-    "I know¦279275 that everything God does will be enduring.\n"
+    "I¦279275 know¦279275 that everything God does¦279280 will¦279283 be¦279283 enduring.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "There’s nothing that needs to be added¦279287 to it, or taken¦279290 away,\n"
+    "There’s¦279286 nothing that needs to¦279287 be added¦279287 to it, or taken¦279290 away¦279290,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and God has ",
+    "and¦279291 God¦279291 has¦279292 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈done it like that so that people¦279293 will respect and want to obey him"
+      "≈done¦279292 it like that so that people¦279293 will¦279293 respect¦279293 and want to obey him¦279294"
      ]
     },
     ".\n"
@@ -2743,19 +2791,19 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and whatever is to be, it already is,\n"
+    "≈and¦279301 whatever is to¦279302 be¦279302, it already is¦279304,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and God¦279305 will ",
+    "and¦279305 God¦279305 will¦279306 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈watch whatever’s being worked on"
+      "≈watch whatever’s being¦279309 worked on"
      ]
     },
     ".\n"
@@ -2785,7 +2833,7 @@
      "number": "16",
      "sid": "ECC 3:16"
     },
-    "Then¦279311 again¦279311 I¦279312 saw ",
+    "Then¦279311 again¦279311 I¦279312 saw¦279312 ",
     {
      "type": "char",
      "marker": "add",
@@ -2793,14 +2841,14 @@
       "≈in this world"
      ]
     },
-    " at the place of judgement, there was wickedness,\n"
+    " at the¦279315 place¦279315 of¦279315 judgement, there was¦279317 wickedness¦279318,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦279311 at the place of righteousness¦279320, there was wickedness.\n"
+    "≈and¦279319 at the¦279319 place¦279319 of¦279319 righteousness¦279320, there was¦279321 wickedness¦279322.\n"
    ]
   },
   {
@@ -2813,7 +2861,7 @@
      "number": "17",
      "sid": "ECC 3:17"
     },
-    "I said¦279324 ",
+    "I¦279324 said¦279324 ",
     {
      "type": "char",
      "marker": "add",
@@ -2821,19 +2869,19 @@
       "≈to myself"
      ]
     },
-    ", “God will judge¦279333 the righteous¦279329 and the wicked¦279332,\n"
+    ", “God will¦279333 judge¦279333 the¦279329 righteous¦279329 and¦279330 the¦279332 wicked¦279332,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because there’s¦279345 a time¦279337 for every matter¦279340, and ",
+    "because¦279335 there’s¦279345 a¦279337 time¦279337 for every¦279338 matter¦279340, and¦279341 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈for every action to be judged"
+      "≈for every¦279342 action to be judged"
      ]
     },
     ".”\n"
@@ -2849,22 +2897,22 @@
      "number": "18",
      "sid": "ECC 3:18"
     },
-    "I said¦279347 ",
+    "I¦279347 said¦279347 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈to myself"
+      "≈to¦279355 myself"
      ]
     },
-    ", “God tests humanity¦279354\n"
+    ", “God tests¦279355 humanity¦279354\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "so they can see¦279357 that they themselves¦279358 are ",
+    "so¦279357 they can see¦279357 that¦279358 they¦279358 themselves are¦279360 ",
     {
      "type": "char",
      "marker": "add",
@@ -2885,12 +2933,12 @@
      "number": "19",
      "sid": "ECC 3:19"
     },
-    "because the ",
+    "because¦279364 the¦279365 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈same one thing happens to both people and animals"
+      "≈same one thing happens to both people¦279368 and¦279369 animals¦279370"
      ]
     },
     ":\n"
@@ -2904,10 +2952,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈just like one dies¦279374, so does the other"
+      "≈just like¦279374 one dies¦279374, so¦279376 does the¦279377 other"
      ]
     },
-    "—they both have the same breath.\n"
+    "—they both have the¦279382 same breath.\n"
    ]
   },
   {
@@ -2918,7 +2966,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈But¦279369 people have no"
+      "≈But people have no"
      ]
     },
     " advantage¦279382 over ",
@@ -2926,10 +2974,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "#animals"
+      "#animals¦279386"
      ]
     },
-    "—everything¦279389 is pointless.\n"
+    "—everything¦279389 is¦279390 pointless.\n"
    ]
   },
   {
@@ -2942,7 +2990,7 @@
      "number": "20",
      "sid": "ECC 3:20"
     },
-    "Both go to ",
+    "Both go¦279393 to¦279394 ",
     {
      "type": "char",
      "marker": "add",
@@ -2965,7 +3013,7 @@
       "came"
      ]
     },
-    " from the dust and¦279403 both return¦279404 to the dust.\n"
+    " from¦279400 the¦279402 dust¦279402 and¦279403 both return¦279404 to¦279405 the¦279407 dust¦279407.\n"
    ]
   },
   {
@@ -2978,7 +3026,7 @@
      "number": "21",
      "sid": "ECC 3:21"
     },
-    "Who can know that¦279414 a ",
+    "Who¦279409 can know¦279410 that a ",
     {
      "type": "char",
      "marker": "add",
@@ -2986,14 +3034,14 @@
       "≈person’s"
      ]
     },
-    " spirit is the one going up—upwards¦279416,\n"
+    " spirit¦279411 is the one going¦279414 up¦279414—upwards¦279416,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the animal’s spirit is the one going down—downwards¦279421 to the earth¦279422?\n"
+    "and¦279417 the animal’s spirit is the one going¦279419 down¦279419—downwards¦279421 to¦279422 the earth¦279422?\n"
    ]
   },
   {
@@ -3006,15 +3054,15 @@
      "number": "22",
      "sid": "ECC 3:22"
     },
-    "Then¦279424 I saw¦279424 that there¦279426 is nothing better than that ",
+    "Then¦279424 I¦279424 saw¦279424 that¦279425 there¦279426 is¦279426 nothing better¦279427 than¦279428 that¦279428 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈people"
+      "≈people¦279430"
      ]
     },
-    " would enjoy their work¦279431,\n"
+    " would¦279429 enjoy their work¦279431,\n"
    ]
   },
   {
@@ -3043,12 +3091,12 @@
       "≈Yes,"
      ]
     },
-    " who can ",
+    " who¦279437 can ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈see¦279439 what will happen¦279441 to them after¦279442 they die"
+      "≈see¦279439 what¦279440 will¦279441 happen to them after¦279442 they die"
      ]
     },
     "?\n"
@@ -3077,12 +3125,12 @@
      "number": "1",
      "sid": "ECC 4:1"
     },
-    "Then¦279444 I turned and I saw¦279446 all the oppression ",
+    "Then¦279444 I¦279444 turned¦279444 and¦279446 I¦279446 saw¦279446 all¦279449 the¦279451 oppression¦279451 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈around the world"
+      "≈around the¦279455 world"
      ]
     },
     ",\n"
@@ -3092,7 +3140,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and, look, see the tears of the oppressed\n"
+    "and¦279456, look, see¦279456 the¦279458 tears¦279458 of¦279458 the¦279459 oppressed¦279459\n"
    ]
   },
   {
@@ -3103,18 +3151,18 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but"
+      "≈but¦279460"
      ]
     },
-    " there was ",
+    " there¦279460 was¦279460 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈no one to comfort"
+      "≈no one to¦279461 comfort"
      ]
     },
-    " them.\n"
+    " them¦279461.\n"
    ]
   },
   {
@@ -3125,7 +3173,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈The oppressors exerted their¦279464 power¦279465 against¦279444 them"
+      "≈The¦279463 oppressors¦279464 exerted their power¦279465 against them"
      ]
     },
     ",\n"
@@ -3139,7 +3187,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but there was no one to comfort the oppressed"
+      "≈but¦279466 there¦279466 was¦279466 no one to¦279467 comfort¦279468 the oppressed"
      ]
     },
     ".\n"
@@ -3155,14 +3203,29 @@
      "number": "2",
      "sid": "ECC 4:2"
     },
-    "So¦279470 I¦279471 praised those who were dead¦279474—who’ve already¦279475 died¦279476,\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦279470"
+     ]
+    },
+    " I praised those ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">who were"
+     ]
+    },
+    " dead¦279474—who’ve already¦279475 died¦279476,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "more than the living¦279479—those who are still¦279483 alive¦279482.\n"
+    "more¦279477 than¦279477 the¦279479 living¦279479—those who¦279480 are¦279482 still¦279483 alive¦279482.\n"
    ]
   },
   {
@@ -3182,14 +3245,14 @@
       "≈But¦279485"
      ]
     },
-    " better than both of them, is the one who hasn’t yet lived—\n"
+    " better¦279485 than¦279486 both¦279486 of¦279486 them¦279486, is the one who¦279488 hasn’t yet lived—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "who hasn’t seen¦279496 the evil¦279500 things that¦279501 are being done ",
+    "who¦279493 hasn’t seen¦279496 the evil¦279500 things that¦279501 are being done¦279502 ",
     {
      "type": "char",
      "marker": "add",
@@ -3219,7 +3282,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈noticed¦279506 all the skills¦279516 used and the work¦279517 that gets done"
+      "≈noticed all¦279510 the¦279512 skills¦279516 used and¦279513 the¦279517 work¦279517 that gets done"
      ]
     },
     ",\n"
@@ -3233,7 +3296,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "but¦279506 also"
+      "but also"
      ]
     },
     " ",
@@ -3249,7 +3312,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈raised the envy of others"
+      "≈raised the envy¦279520 of others"
      ]
     },
     ".\n"
@@ -3259,7 +3322,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "That is also pointless and chasing¦279528 after the wind¦279529.\n"
+    "That¦279526 is¦279527 also¦279524 pointless and¦279528 chasing after the wind¦279529.\n"
    ]
   },
   {
@@ -3272,7 +3335,7 @@
      "number": "5",
      "sid": "ECC 4:5"
     },
-    "The fool folds his hands¦279535 ",
+    "The¦279531 fool¦279531 folds¦279532 his¦279535 hands¦279535 ",
     {
      "type": "char",
      "marker": "add",
@@ -3316,7 +3379,7 @@
      "number": "6",
      "sid": "ECC 4:6"
     },
-    "A ",
+    "A¦279543 ",
     {
      "type": "char",
      "marker": "add",
@@ -3324,14 +3387,14 @@
       "≈small handful"
      ]
     },
-    " of quietness¦279544 is better\n"
+    " of¦279543 quietness¦279544 is better¦279541\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "than ",
+    "than¦279545 ",
     {
      "type": "char",
      "marker": "add",
@@ -3339,28 +3402,7 @@
       "≈two very full handfuls of"
      ]
     },
-    " work and¦279548 chasing¦279548 after the wind¦279549.\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    {
-     "type": "verse",
-     "marker": "v",
-     "number": "7",
-     "sid": "ECC 4:7"
-    },
-    "Then¦279551 I turned and¦279553 I saw¦279553 a pointless thing ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈in this world"
-     ]
-    },
-    ":\n"
+    " work¦279547 and¦279548 chasing after the wind¦279549.\n"
    ]
   },
   {
@@ -3377,38 +3419,18 @@
     {
      "type": "verse",
      "marker": "v",
-     "number": "8",
-     "sid": "ECC 4:8"
+     "number": "7",
+     "sid": "ECC 4:7"
     },
+    "Then¦279551 I¦279551 turned¦279551 and¦279553 I¦279553 saw¦279553 a pointless thing ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Sometimes there’s a person living alone without a child or a relative, who works hard without stopping"
+      "≈in this world"
      ]
     },
-    ".\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈However, wealth¦279580 doesn’t satisfy¦279579 them because they wonder why they’re working so hard and not sitting down to enjoy their good things"
-     ]
-    },
-    ".\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "That also is pointless, and it’s an unpleasant business¦279594.\n"
+    ":\n"
    ]
   },
   {
@@ -3418,18 +3440,38 @@
     {
      "type": "verse",
      "marker": "v",
-     "number": "9",
-     "sid": "ECC 4:9"
+     "number": "8",
+     "sid": "ECC 4:8"
     },
-    "Two ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      ">people"
+      "≈Sometimes there’s a¦279561 person living alone without a¦279563 child¦279563 or a¦279564 relative¦279564, who works hard without stopping"
      ]
     },
-    " are better than one.\n"
+    ".\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈However, wealth¦279580 doesn’t satisfy¦279579 them because they wonder why they’re working¦279572 so hard and¦279568 not¦279568 sitting down to¦279570 enjoy their good¦279589 things"
+     ]
+    },
+    ".\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "That¦279592 also¦279590 is¦279593 pointless, and¦279594 it’s an unpleasant business¦279594.\n"
    ]
   },
   {
@@ -3443,12 +3485,33 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because ",
+    {
+     "type": "verse",
+     "marker": "v",
+     "number": "9",
+     "sid": "ECC 4:9"
+    },
+    "Two¦279599 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈their¦279609 working together can give a better result"
+      ">people"
+     ]
+    },
+    " are¦279598 better¦279598 than¦279600 one¦279602.\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "because¦279606 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈their working¦279609 together can give a¦279607 better¦279608 result"
      ]
     },
     ".\n"
@@ -3471,7 +3534,7 @@
       "≈Yes,"
      ]
     },
-    " if they¦279614 fall, one ",
+    " if they¦279614 fall¦279614, one¦279615 ",
     {
      "type": "char",
      "marker": "add",
@@ -3479,7 +3542,7 @@
       ">person"
      ]
     },
-    " can help his companion¦279619 up,\n"
+    " can help his¦279619 companion¦279619 up,\n"
    ]
   },
   {
@@ -3490,10 +3553,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but¦279620 it wouldn’t end so well"
+      "≈but it wouldn’t end so well"
      ]
     },
-    " if one ",
+    " if one¦279621 ",
     {
      "type": "char",
      "marker": "add",
@@ -3516,7 +3579,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and there’s¦279623 no second¦279624 ",
+    "and¦279623 there’s¦279623 no second¦279624 ",
     {
      "type": "char",
      "marker": "add",
@@ -3524,7 +3587,7 @@
       ">person"
      ]
     },
-    " to ",
+    " to¦279625 ",
     {
      "type": "char",
      "marker": "add",
@@ -3545,7 +3608,7 @@
      "number": "11",
      "sid": "ECC 4:11"
     },
-    "Similarly, if two¦279631 ",
+    "Similarly, if¦279628 two¦279631 ",
     {
      "type": "char",
      "marker": "add",
@@ -3553,7 +3616,7 @@
       ">people"
      ]
     },
-    " lie down together, they¦279630 can ",
+    " lie¦279630 down¦279630 together, they can ",
     {
      "type": "char",
      "marker": "add",
@@ -3561,7 +3624,7 @@
       "help each other"
      ]
     },
-    " stay warm,\n"
+    " stay warm¦279632,\n"
    ]
   },
   {
@@ -3572,10 +3635,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but¦279632"
+      "≈but¦279634"
      ]
     },
-    " how can one ",
+    " how¦279635 can one¦279634 ",
     {
      "type": "char",
      "marker": "add",
@@ -3583,7 +3646,7 @@
       ">person"
      ]
     },
-    " stay warm ",
+    " stay warm¦279636 ",
     {
      "type": "char",
      "marker": "add",
@@ -3604,7 +3667,7 @@
      "number": "12",
      "sid": "ECC 4:12"
     },
-    "And even if one ",
+    "And¦279638 even if¦279638 one¦279640 ",
     {
      "type": "char",
      "marker": "add",
@@ -3612,19 +3675,27 @@
       ">person"
      ]
     },
-    " would be easily overpowered¦279640,\n"
+    " would¦279640 be easily overpowered¦279640,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "two¦279642 people could stand¦279643 against ",
+    "two¦279642 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@an attacker"
+      ">people"
+     ]
+    },
+    " could stand¦279643 against ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@an¦279644 attacker¦279644"
      ]
     },
     ".\n"
@@ -3634,36 +3705,15 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "A three-stranded rope can’t¦279647 be ",
+    "A three-stranded¦279646 rope can’t¦279647 be¦279649 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈easily broken"
+      "≈easily broken¦279649"
      ]
     },
     ".\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    {
-     "type": "verse",
-     "marker": "v",
-     "number": "13",
-     "sid": "ECC 4:13"
-    },
-    "A poor but wise youth¦279652 is better ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "off"
-     ]
-    },
-    "\n"
    ]
   },
   {
@@ -3677,7 +3727,28 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "than an old but foolish¦279657 king¦279655 who ",
+    {
+     "type": "verse",
+     "marker": "v",
+     "number": "13",
+     "sid": "ECC 4:13"
+    },
+    "A¦279652 poor¦279653 but¦279654 wise¦279654 youth¦279652 is better¦279651 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "off"
+     ]
+    },
+    "\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "than¦279655 an old¦279656 but¦279657 foolish¦279657 king¦279655 who¦279658 ",
     {
      "type": "char",
      "marker": "add",
@@ -3685,7 +3756,7 @@
       "≈can’t¦279659 accept"
      ]
     },
-    " advice¦279662,\n"
+    " advice,\n"
    ]
   },
   {
@@ -3698,12 +3769,12 @@
      "number": "14",
      "sid": "ECC 4:14"
     },
-    "because ",
+    "because¦279665 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈coming from a family who’d spent time in prison¦279668"
+      "≈coming¦279669 from¦279667 a family¦279667 who’d spent time in prison¦279668"
      ]
     },
     ", he ",
@@ -3714,7 +3785,7 @@
       "≈made it"
      ]
     },
-    " to become¦279670 king¦279670—yet even in his kingdom¦279673 he was born poor.\n"
+    " to¦279670 become¦279670 king¦279670—yet even in¦279673 his¦279673 kingdom¦279673 he¦279674 was¦279674 born¦279674 poor¦279675.\n"
    ]
   },
   {
@@ -3727,7 +3798,7 @@
      "number": "15",
      "sid": "ECC 4:15"
     },
-    "I saw¦279677 all those walking¦279683 around ",
+    "I¦279677 saw¦279677 all¦279680 those walking¦279683 around¦279683 ",
     {
      "type": "char",
      "marker": "add",
@@ -3735,7 +3806,7 @@
       "≈in this world"
      ]
     },
-    " with the next child who will ",
+    " with¦279686 the¦279687 next child¦279687 who¦279689 will¦279690 ",
     {
      "type": "char",
      "marker": "add",
@@ -3756,12 +3827,12 @@
      "number": "16",
      "sid": "ECC 4:16"
     },
-    "there was no end¦279695 to all the people¦279698 ",
+    "there¦279693 was¦279693 no end¦279695 to¦279696 all¦279696 the¦279698 people¦279698 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "?≈who’ve ruled before¦279703 them"
+      "?≈who’ve ruled before¦279703 them¦279703"
      ]
     },
     ".\n"
@@ -3771,22 +3842,22 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Even the ones who ",
+    "Even the¦279705 ones who ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "?≈follow him won’t¦279693 speak kindly about"
+      "?≈follow him won’t¦279706 speak kindly about"
      ]
     },
-    " him,\n"
+    " him¦279709,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because even that is pointless and¦279716 chasing¦279716 after the wind¦279717.\n"
+    "because¦279710 even that¦279714 is¦279715 pointless and¦279716 chasing after the wind¦279717.\n"
    ]
   },
   {
@@ -3823,10 +3894,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Watch your step"
+      "≈Watch your¦279721 step"
      ]
     },
-    " when you go to God’s house.\n"
+    " when¦279729 you¦279724 go¦279724 to¦279725 God’s house¦279727.\n"
    ]
   },
   {
@@ -3837,15 +3908,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Going in¦279758"
+      "≈Going in"
      ]
     },
-    " to listen is better than fools who offer ",
+    " to¦279730 listen¦279730 is better than¦279731 fools¦279732 who offer ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "#sacrifices"
+      "#sacrifices¦279733"
      ]
     },
     ",\n"
@@ -3855,23 +3926,23 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because they don’t¦279742 ",
+    "because¦279734 they¦279736 don’t¦279736 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈realise"
+      "≈realise¦279737"
      ]
     },
-    " that what they’re doing ",
+    " that what they’re doing¦279738 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "there¦279763"
+      "there"
      ]
     },
-    " is evil.\n"
+    " is evil¦279739.\n"
    ]
   },
   {
@@ -3884,12 +3955,12 @@
      "number": "2",
      "sid": "ECC 5:2"
     },
-    "Don’t ",
+    "Don’t¦279742 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈speak out too quickly"
+      "≈speak¦279747 out too quickly"
      ]
     },
     ",\n"
@@ -3899,12 +3970,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦279777 don’t let your ",
+    "and¦279748 don’t¦279749 let¦279751 your ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈emotions rush to make you request something from"
+      "≈emotions rush¦279751 to make you request something from"
      ]
     },
     " God,\n"
@@ -3914,14 +3985,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because God is in¦279775 the heavens,\n"
+    "because¦279756 God is¦279758 in¦279758 the heavens¦279758,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "but¦279777 you’re on¦279775 the earth, so let your words¦279780 be few.\n"
+    "but¦279759 you’re¦279759 on¦279760 the¦279762 earth¦279762, so¦279765 let¦279767 your¦279768 words¦279768 be few¦279769.\n"
    ]
   },
   {
@@ -3934,12 +4005,12 @@
      "number": "3",
      "sid": "ECC 5:3"
     },
-    "A dream ",
+    "A dream¦279774 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈can lead to a lot of panic"
+      "≈can lead to a lot of¦279775 panic"
      ]
     },
     ",\n"
@@ -3949,7 +4020,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and a fool’s voice brings many words.\n"
+    "and¦279777 a¦279778 fool’s¦279778 voice¦279777 brings many words¦279780.\n"
    ]
   },
   {
@@ -3962,7 +4033,7 @@
      "number": "4",
      "sid": "ECC 5:4"
     },
-    "When you ",
+    "When you¦279784 ",
     {
      "type": "char",
      "marker": "add",
@@ -3970,19 +4041,19 @@
       "≈promise something"
      ]
     },
-    " to God,\n"
+    " to¦279786 God¦279786,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "don’t¦279804 ",
+    "don’t ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈put off doing what you promised"
+      "≈put off doing¦279787 what you promised"
      ]
     },
     "\n"
@@ -3992,22 +4063,22 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because ",
+    "because¦279791 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈no one likes"
+      "≈no one likes¦279793"
      ]
     },
-    " fools.\n"
+    " fools¦279794.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Whatever you promise, do it!",
+    "Whatever you¦279798 promise, do it!",
     {
      "type": "note",
      "marker": "x",
@@ -4042,14 +4113,22 @@
      "number": "5",
      "sid": "ECC 5:5"
     },
-    "It’s¦279835 better not to make a promise\n"
+    "It’s better¦279802 not¦279804 to ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈make a promise"
+     ]
+    },
+    "\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "than to promise something and then not do it.\n"
+    "than¦279807 to promise something and¦279811 then not¦279811 do it.\n"
    ]
   },
   {
@@ -4062,7 +4141,7 @@
      "number": "6",
      "sid": "ECC 5:6"
     },
-    "Don’t allow your mouth to cause your ",
+    "Don’t¦279815 allow¦279817 your¦279820 mouth¦279820 to¦279821 cause¦279821 your ",
     {
      "type": "char",
      "marker": "add",
@@ -4070,14 +4149,14 @@
       "whole"
      ]
     },
-    " body to sin,\n"
+    " body¦279824 to¦279821 sin¦279821,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and don’t tell the ",
+    "and¦279825 don’t¦279825 tell¦279827 the ",
     {
      "type": "char",
      "marker": "add",
@@ -4085,7 +4164,7 @@
       "temple"
      ]
     },
-    " messenger that it was an unintentional sin.\n"
+    " messenger¦279829 that¦279830 it¦279832 was¦279834 an unintentional sin.\n"
    ]
   },
   {
@@ -4097,7 +4176,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈make God angry by what you say"
+      "≈make God angry¦279834 by what¦279833 you say¦279827"
      ]
     },
     "\n"
@@ -4107,7 +4186,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and destroy the ",
+    "and¦279839 destroy¦279839 the¦279842 ",
     {
      "type": "char",
      "marker": "add",
@@ -4143,7 +4222,7 @@
       "≈Yes, there’s"
      ]
     },
-    " many dreams and pointless things and many words—\n"
+    " many dreams¦279848 and¦279849 pointless¦279849 things and¦279850 many words¦279850—\n"
    ]
   },
   {
@@ -4155,7 +4234,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈respect and strive to obey"
+      "≈respect¦279856 and strive to obey"
      ]
     },
     " God.\n"
@@ -4185,14 +4264,14 @@
      "number": "8",
      "sid": "ECC 5:8"
     },
-    "If you see the extortion of the poor\n"
+    "If¦279859 you¦279866 see¦279866 the extortion¦279861 of¦279861 the poor¦279862\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the ",
+    "and¦279863 the ",
     {
      "type": "char",
      "marker": "add",
@@ -4200,12 +4279,12 @@
       "≈perversion"
      ]
     },
-    " of justice and righteousness in¦279888 the ",
+    " of¦279863 justice¦279864 and¦279865 righteousness¦279865 in¦279867 the ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "#provinces"
+      "#provinces¦279867"
      ]
     },
     ",\n"
@@ -4215,7 +4294,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "don’t be amazed about it¦279889 because a high ",
+    "don’t¦279868 be¦279870 amazed¦279870 about it because¦279874 a¦279875 high ",
     {
      "type": "char",
      "marker": "add",
@@ -4223,7 +4302,7 @@
       "official"
      ]
     },
-    " is watching over another ",
+    " is¦279881 watching¦279881 over another ",
     {
      "type": "char",
      "marker": "add",
@@ -4238,7 +4317,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and higher ",
+    "and¦279882 higher ",
     {
      "type": "char",
      "marker": "add",
@@ -4246,7 +4325,15 @@
       "ones"
      ]
     },
-    " are watching over them.\n"
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≡are watching"
+     ]
+    },
+    " over¦279883 them¦279883.\n"
    ]
   },
   {
@@ -4263,7 +4350,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "?≈Land is an advantage for everyone¦279896—the king gets served from the countryside"
+      "?≈Land¦279887 is¦279888 an advantage¦279886 for everyone—the king¦279891 gets served¦279893 from the countryside¦279892"
      ]
     },
     ".\n"
@@ -4279,15 +4366,15 @@
      "number": "10",
      "sid": "ECC 5:10"
     },
-    "A person who loves ",
+    "A person who¦279896 loves¦279896 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈money"
+      "≈money¦279897"
      ]
     },
-    " won’t be satisfied with ",
+    " won’t¦279898 be¦279900 satisfied¦279900 with ",
     {
      "type": "char",
      "marker": "add",
@@ -4302,22 +4389,22 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦279918 whoever loves wealth ",
+    "≈and¦279902 anyone¦279902 who loves¦279904 wealth¦279905 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≡won’t be satisfied"
+      "≡won’t¦279898 be¦279900 satisfied¦279900"
      ]
     },
-    " with their¦279921 income.\n"
+    " with their income¦279907.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "That’s also pointless.\n"
+    "That’s also¦279908 pointless.\n"
    ]
   },
   {
@@ -4330,7 +4417,7 @@
      "number": "11",
      "sid": "ECC 5:11"
     },
-    "When ",
+    "When¦279914 ",
     {
      "type": "char",
      "marker": "add",
@@ -4338,14 +4425,14 @@
       "material"
      ]
     },
-    " goods increase, people’s consumption increases,\n"
+    " goods¦279915 increase¦279916, people’s consumption¦279917 increases¦279914,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and what advantage does the owner get ",
+    "and¦279918 what¦279918 advantage¦279920 does the¦279925 owner¦279921 get ",
     {
      "type": "char",
      "marker": "add",
@@ -4353,7 +4440,7 @@
       "≈other than just feeding"
      ]
     },
-    " his eyes?\n"
+    " his¦279927 eyes¦279927?\n"
    ]
   },
   {
@@ -4366,7 +4453,7 @@
      "number": "12",
      "sid": "ECC 5:12"
     },
-    "The¦279951 labourer has a pleasant sleep, whether they’ve had a lot to eat or just a little,\n"
+    "The¦279932 labourer¦279932 has a pleasant sleep, whether¦279933 they’ve had a lot to eat¦279939 or just a¦279935 little¦279935,\n"
    ]
   },
   {
@@ -4381,7 +4468,7 @@
       "≈but"
      ]
     },
-    " the ",
+    " the¦279940 ",
     {
      "type": "char",
      "marker": "add",
@@ -4389,7 +4476,7 @@
       "≈many investments"
      ]
     },
-    " of the rich person don’t permit them to sleep.\n"
+    " of¦279941 the rich person don’t¦279942 permit¦279943 them to¦279945 sleep¦279945.\n"
    ]
   },
   {
@@ -4402,7 +4489,7 @@
      "number": "13",
      "sid": "ECC 5:13"
     },
-    "There’s a ",
+    "There’s¦279948 a ",
     {
      "type": "char",
      "marker": "add",
@@ -4410,12 +4497,12 @@
       "≈sad contradiction"
      ]
     },
-    " that I’ve seen ",
+    " that¦279951 I’ve¦279951 seen¦279951 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈in¦279963 this world"
+      "≈in this world"
      ]
     },
     ":\n"
@@ -4425,20 +4512,20 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "wealth¦279961 ",
+    "wealth¦279954 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈hoarded up"
+      "≈hoarded¦279955 up"
      ]
     },
-    " by its ",
+    " by¦279956 its¦279956 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈owner, but¦279960 working to destroy him"
+      "≈owner¦279956, but working to¦279957 destroy him"
      ]
     },
     ".\n"
@@ -4454,12 +4541,12 @@
      "number": "14",
      "sid": "ECC 5:14"
     },
-    "Then that¦279985 wealth ",
+    "Then¦279960 that¦279962 wealth¦279961 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈was lost in¦279984 a failed investment"
+      "≈was¦279960 lost¦279960 in¦279963 a¦279963 failed investment"
      ]
     },
     "\n"
@@ -4469,7 +4556,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and ",
+    "and¦279965 ",
     {
      "type": "char",
      "marker": "add",
@@ -4477,7 +4564,7 @@
       "although"
      ]
     },
-    " he ",
+    " he¦279965 ",
     {
      "type": "char",
      "marker": "add",
@@ -4485,12 +4572,12 @@
       "≈had"
      ]
     },
-    " a son, he had nothing left¦279973 ",
+    " a¦279966 son¦279966, he had nothing left ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈to live on¦279984"
+      "≈to live on"
      ]
     },
     ".\n"
@@ -4510,7 +4597,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈He was naked when he was born and he’ll be naked when he goes again"
+      "≈He¦279973 was naked¦279976 when he¦279977 was born and he’ll¦279979 be naked when¦279980 he¦279983 goes¦279978 again"
      ]
     },
     ",\n"
@@ -4525,10 +4612,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈despite all his hard work"
+      "≈despite all his¦279984 hard work¦279984"
      ]
     },
-    ", he won’t ",
+    ", he¦279985 won’t¦279981 ",
     {
      "type": "char",
      "marker": "add",
@@ -4536,7 +4623,7 @@
       "be able to"
      ]
     },
-    " take any ",
+    " take¦279985 any ",
     {
      "type": "char",
      "marker": "add",
@@ -4579,14 +4666,14 @@
      "number": "16",
      "sid": "ECC 5:16"
     },
-    "This is also a sickening misfortune:\n"
+    "This¦279991 is¦279992 also¦279989 a sickening misfortune:\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "He will leave ",
+    "He will¦279999 leave¦279999 ",
     {
      "type": "char",
      "marker": "add",
@@ -4594,7 +4681,7 @@
       "this world"
      ]
     },
-    " just like he¦280013 entered ",
+    " just like he entered ",
     {
      "type": "char",
      "marker": "add",
@@ -4609,7 +4696,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and what profit belongs to him¦280016 who will work hard for the wind?\n"
+    "and¦280000 what¦280000 profit belongs to¦280003 him¦280003 who¦280004 will¦280004 work¦280004 hard for¦280005 the wind¦280005?\n"
    ]
   },
   {
@@ -4622,22 +4709,22 @@
      "number": "17",
      "sid": "ECC 5:17"
     },
-    "What’s more, all his ",
+    "What’s more, all¦280009 his¦280011 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈life¦280045"
+      "≈life"
      ]
     },
-    " he’ll eat¦280029 in darkness,\n"
+    " he’ll¦280013 eat¦280013 in¦280012 darkness¦280012,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and in a lot of distress, as well as sickness and anger.\n"
+    "and in a lot of distress, as well as sickness¦280016 and¦280017 anger¦280017.\n"
    ]
   },
   {
@@ -4650,7 +4737,7 @@
      "number": "18",
      "sid": "ECC 5:18"
     },
-    "Listen, this is what I myself have discovered to be good:\n"
+    "Listen, this is what I¦280023 myself have¦280023 discovered to¦280025 be¦280025 good:\n"
    ]
   },
   {
@@ -4665,14 +4752,14 @@
       "for a person"
      ]
     },
-    " to eat¦280073 and drink\n"
+    " to¦280029 eat¦280029 and¦280031 drink¦280031\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and to see benefit in all the hard work that they’ll do ",
+    "and¦280032 to¦280032 see¦280032 benefit in¦280034 all¦280034 the hard work¦280036 that¦280038 they’ll do ",
     {
      "type": "char",
      "marker": "add",
@@ -4687,12 +4774,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "during the number of the days of their life that God¦280083 has given¦280066 ",
+    "during the¦280042 number¦280042 of¦280042 the¦280043 days¦280043 of¦280043 their life¦280045 that¦280049 God has¦280051 given¦280051 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@that person"
+      "@that¦280053 person¦280053"
      ]
     },
     ",\n"
@@ -4702,7 +4789,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because that’s their allocation ",
+    "because¦280055 that’s their allocation ",
     {
      "type": "char",
      "marker": "add",
@@ -4723,26 +4810,26 @@
      "number": "19",
      "sid": "ECC 5:19"
     },
-    "Also, each person who’s been given wealth and possessions by God and has been empowered\n"
+    "Also¦280061, each person¦280064 who’s¦280065 been given¦280066 wealth¦280070 and¦280071 possessions by God and¦280072 has¦280072 been empowered¦280072\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "to eat from it\n"
+    "to¦280073 eat¦280073 from¦280074 it¦280074\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and to accept their allocation ",
+    "and¦280075 to¦280075 accept¦280075 their allocation ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "in¦280098 life¦280094"
+      "in life"
      ]
     },
     "\n"
@@ -4752,14 +4839,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and to enjoy their hard work:\n"
+    "and¦280079 to¦280079 enjoy their hard work¦280080:\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "that’s a gift from God.\n"
+    "that’s a¦280082 gift¦280082 from God¦280083.\n"
    ]
   },
   {
@@ -4772,7 +4859,7 @@
      "number": "20",
      "sid": "ECC 5:20"
     },
-    "Those people don’t retain a memory of each day ",
+    "Those people don’t¦280088 retain a memory of¦280093 each day¦280093 ",
     {
      "type": "char",
      "marker": "add",
@@ -4787,7 +4874,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because God keeps them full of internal happiness.\n"
+    "because¦280095 God keeps¦280097 them full of¦280098 internal happiness.\n"
    ]
   },
   {
@@ -4813,7 +4900,7 @@
      "number": "1",
      "sid": "ECC 6:1"
     },
-    "There’s¦280104 a problem ",
+    "There’s¦280101 a problem ",
     {
      "type": "char",
      "marker": "add",
@@ -4833,7 +4920,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈troubles people"
+      "≈troubles people¦280111"
      ]
     },
     ":\n"
@@ -4849,19 +4936,19 @@
      "number": "2",
      "sid": "ECC 6:2"
     },
-    "God gives¦280115 wealth¦280119 and possessions¦280120 and prestige to someone,\n"
+    "God gives¦280115 wealth¦280119 and¦280120 possessions and¦280121 prestige to someone¦280113,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and ",
+    "and¦280122 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@that person"
+      "@that¦280122 person¦280122"
      ]
     },
     " ",
@@ -4869,7 +4956,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈has access to everything they want"
+      "≈has access to¦280124 everything they want¦280129"
      ]
     },
     ",\n"
@@ -4879,22 +4966,22 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "but¦280120 God doesn’t ",
+    "but¦280130 God doesn’t ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈allow them to enjoy"
+      "≈allow them to¦280134 enjoy"
      ]
     },
-    " it—\n"
+    " it¦280135—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "instead a foreigner¦280138 will ",
+    "instead a¦280137 foreigner¦280138 will ",
     {
      "type": "char",
      "marker": "add",
@@ -4902,14 +4989,14 @@
       "≈get to enjoy"
      ]
     },
-    " it.\n"
+    " it¦280139.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "That’s ",
+    "That’s¦280127 ",
     {
      "type": "char",
      "marker": "add",
@@ -4917,7 +5004,7 @@
       "totally"
      ]
     },
-    " pointless, and it’s ",
+    " pointless, and¦280142 it’s¦280144 ",
     {
      "type": "char",
      "marker": "add",
@@ -4938,19 +5025,19 @@
      "number": "3",
      "sid": "ECC 6:3"
     },
-    "If a man should father¦280148 a hundred¦280150 children¦280150\n"
+    "If¦280146 a man¦280150 should father¦280148 a hundred¦280150 children¦280150\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and live many years however ",
+    "and¦280151 live¦280153 many¦280154 years¦280159 however ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈long his life might be"
+      "≈long his¦280159 life might be"
      ]
     },
     ",\n"
@@ -4960,12 +5047,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "but¦280151 ",
+    "but¦280160 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈he’s not satisfied¦280163 in himself"
+      "≈he’s not¦280161 satisfied¦280163 in himself"
      ]
     },
     " by his prosperity¦280166\n"
@@ -4975,12 +5062,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and ",
+    "and¦280167 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈he doesn’t have anywhere to be buried"
+      "≈he doesn’t have anywhere to be buried¦280169"
      ]
     },
     ",\n"
@@ -4994,7 +5081,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈then I’d say that¦280156 a stillborn¦280177 child¦280177 would have been better off than him"
+      "≈then I’d¦280174 say¦280174 that¦280156 a stillborn¦280177 child would have been¦280175 better¦280175 off than¦280176 him¦280176"
      ]
     },
     ",\n"
@@ -5010,22 +5097,22 @@
      "number": "4",
      "sid": "ECC 6:4"
     },
-    "because ",
+    "because¦280179 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@that child"
+      "@that¦280182 child¦280182"
      ]
     },
-    " came for no reason\n"
+    " came¦280182 for no reason\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and it went¦280182 in darkness, and its name will be covered¦280187 in darkness.\n"
+    "and¦280183 it¦280184 went¦280184 in¦280185 darkness¦280185, and its¦280186 name¦280186 will be¦280187 covered¦280187 in darkness.\n"
    ]
   },
   {
@@ -5038,14 +5125,14 @@
      "number": "5",
      "sid": "ECC 6:5"
     },
-    "It didn’t¦280192 even see the sun¦280191 or know about it.\n"
+    "It didn’t¦280192 even see¦280194 the¦280191 sun¦280191 or know¦280196 about it¦280194.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "It’ll rest easier than that man will.\n"
+    "It’ll¦280196 rest easier than¦280199 that¦280199 man¦280199 will.\n"
    ]
   },
   {
@@ -5058,22 +5145,22 @@
      "number": "6",
      "sid": "ECC 6:6"
     },
-    "Even if ",
+    "Even if¦280201 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@that man"
+      "@that¦280202 man¦280202"
      ]
     },
-    " lived¦280202 a thousand¦280203 years¦280204 twice over,\n"
+    " lived¦280202 a¦280203 thousand¦280203 years¦280204 twice over,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "but¦280201 ",
+    "but¦280206 ",
     {
      "type": "char",
      "marker": "add",
@@ -5088,7 +5175,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "aren’t¦280207 they both¦280205 going¦280215 to ",
+    "aren’t they both¦280205 going¦280215 to¦280210 ",
     {
      "type": "char",
      "marker": "add",
@@ -5113,7 +5200,7 @@
      "number": "7",
      "sid": "ECC 6:7"
     },
-    "All of humanity’s¦280220 work is for their mouth¦280221,\n"
+    "All¦280217 of¦280217 humanity’s¦280220 work¦280219 is¦280221 for¦280221 their mouth¦280221,\n"
    ]
   },
   {
@@ -5124,7 +5211,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but¦280222 the inner cravings are never fulfilled"
+      "≈but¦280222 the¦280224 inner cravings are¦280226 never fulfilled¦280226"
      ]
     },
     ".\n"
@@ -5147,7 +5234,7 @@
       "≈So"
      ]
     },
-    " what advantage does a wise ",
+    " what¦280229 advantage¦280231 does a wise ",
     {
      "type": "char",
      "marker": "add",
@@ -5155,18 +5242,19 @@
       ">person"
      ]
     },
-    " have over a fool?\n"
+    " have over a fool¦280235?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
+    "≈",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≡What advantage"
+      "≡What¦280229 advantage¦280231"
      ]
     },
     " does a poor ",
@@ -5182,10 +5270,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈knowledge"
+      "≈knowledge¦280239"
      ]
     },
-    " give them over others¦280242?\n"
+    " give them over others?\n"
    ]
   },
   {
@@ -5202,7 +5290,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈It’s better to enjoy what’s right there than to feed the imagination"
+      "≈It’s better to enjoy what’s right there than¦280247 to feed the imagination"
      ]
     },
     ".\n"
@@ -5212,20 +5300,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "That’s also pointless and¦280254 chasing¦280254 after the wind¦280255.\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    {
-     "type": "verse",
-     "marker": "v",
-     "number": "10",
-     "sid": "ECC 6:10"
-    },
-    "Everything that existed¦280259 has already¦280260 been named¦280261.\n"
+    "That’s also¦280250 pointless and¦280254 chasing after the wind¦280255.\n"
    ]
   },
   {
@@ -5239,14 +5314,27 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "It’s known¦280263 what humankind¦280267 is\n"
+    {
+     "type": "verse",
+     "marker": "v",
+     "number": "10",
+     "sid": "ECC 6:10"
+    },
+    "Everything that¦280259 existed has¦280259 already¦280260 been¦280261 named¦280261.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and that ",
+    "It’s¦280263 known¦280263 what¦280257 humankind¦280267 is¦280267\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "and¦280268 that ",
     {
      "type": "char",
      "marker": "add",
@@ -5254,7 +5342,7 @@
       "@humans"
      ]
     },
-    " can’t¦280268 dispute¦280271 with the ",
+    " can’t¦280268 dispute¦280271 with¦280272 the ",
     {
      "type": "char",
      "marker": "add",
@@ -5262,7 +5350,7 @@
       "one"
      ]
     },
-    " who’s stronger¦280273 than them.\n"
+    " who’s¦280273 stronger¦280273 than¦280275 them.\n"
    ]
   },
   {
@@ -5282,7 +5370,7 @@
       "≈Yes,"
      ]
     },
-    " many words¦280280 ",
+    " many¦280281 words¦280280 ",
     {
      "type": "char",
      "marker": "add",
@@ -5297,7 +5385,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "What advantage¦280286 is that¦280282 to anyone¦280287?\n"
+    "What¦280284 advantage¦280286 is that¦280282 to¦280287 anyone?\n"
    ]
   },
   {
@@ -5310,21 +5398,21 @@
      "number": "12",
      "sid": "ECC 6:12"
     },
-    "Who knows what’s good for a person\n"
+    "Who¦280290 knows¦280292 what’s¦280293 good¦280295 for¦280296 a person¦280296\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "for those pointless days that he/she lives?\n"
+    "for those¦280303 pointless days that¦280305 he/she lives¦280297?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The days pass by like a shadow¦280304\n"
+    "The¦280299 days¦280299 pass by like¦280304 a shadow¦280304\n"
    ]
   },
   {
@@ -5335,15 +5423,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "but¦280303"
+      "but"
      ]
     },
-    " who can tell anyone¦280309 what will happen to them next ",
+    " who¦280306 can tell¦280308 anyone what¦280310 will¦280312 happen to them next ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈in¦280297 this world"
+      "≈in this world"
      ]
     },
     "?\n"
@@ -5379,7 +5467,7 @@
      "number": "1",
      "sid": "ECC 7:1"
     },
-    "A ",
+    "A¦280318 ",
     {
      "type": "char",
      "marker": "add",
@@ -5387,7 +5475,15 @@
       "good"
      ]
     },
-    " reputation is better than expensive perfume,",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈reputation¦280318"
+     ]
+    },
+    " is better than¦280319 expensive perfume¦280319,",
     {
      "type": "note",
      "marker": "x",
@@ -5416,7 +5512,15 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the day you die ",
+    "and¦280321 the¦280321 day¦280321 you ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈die¦280322"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -5424,7 +5528,15 @@
       "is more important"
      ]
     },
-    " than the day of your birth¦280324.\n"
+    " than¦280323 the¦280323 day¦280323 of¦280323 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%your¦280324"
+     ]
+    },
+    " birth¦280324.\n"
    ]
   },
   {
@@ -5437,7 +5549,7 @@
      "number": "2",
      "sid": "ECC 7:2"
     },
-    "It’s better to go to a house where there’s mourning¦280332 than to a house where there’s a party,\n"
+    "It’s¦280339 better¦280326 to¦280327 go¦280327 to¦280328 a¦280330 house¦280330 where there’s mourning¦280332 than¦280333 to¦280333 a¦280336 house¦280336 where there’s a¦280337 party,\n"
    ]
   },
   {
@@ -5452,14 +5564,38 @@
       "death"
      ]
     },
-    " is the end of each person¦280344,\n"
+    " is¦280340 the¦280340 end¦280340 of¦280340 each person¦280343,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and those still alive should consider this in¦280338 their hearts¦280348.\n"
+    "and¦280344 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#those"
+     ]
+    },
+    " still alive¦280344 should consider that in ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#their"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#hearts¦280348"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -5472,19 +5608,19 @@
      "number": "3",
      "sid": "ECC 7:3"
     },
-    "Laughter is better than grief\n"
+    "Laughter¦280352 is¦280350 better¦280350 than¦280352 grief¦280351\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because a ",
+    "because¦280353 a ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈serious face¦280356 means that the mind¦280358 is working"
+      "≈serious face¦280356 means that the mind¦280358 is¦280357 working"
      ]
     },
     ".\n"
@@ -5500,7 +5636,7 @@
      "number": "4",
      "sid": "ECC 7:4"
     },
-    "Wise people ",
+    "Wise¦280361 people¦280361 ",
     {
      "type": "char",
      "marker": "add",
@@ -5519,7 +5655,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈whereas foolish people prefer to spend time at a party"
+      "≈whereas foolish¦280365 people prefer to spend time at a party"
      ]
     },
     ".\n"
@@ -5535,14 +5671,38 @@
      "number": "5",
      "sid": "ECC 7:5"
     },
-    "It’s better to accept a rebuke¦280371 from a wise person\n"
+    "It’s better¦280369 to¦280370 accept a rebuke¦280371 from a¦280372 wise¦280372 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">person"
+     ]
+    },
+    "\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "than to listen¦280370 to the songs from foolish people,\n"
+    "than¦280373 to listen¦280374 to¦280374 the¦280375 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#songs¦280375"
+     ]
+    },
+    " from foolish¦280376 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">people"
+     ]
+    },
+    ",\n"
    ]
   },
   {
@@ -5555,14 +5715,14 @@
      "number": "6",
      "sid": "ECC 7:6"
     },
-    "because the laughter¦280384 of a fool\n"
+    "because¦280378 the¦280384 laughter¦280384 of¦280384 a fool¦280385\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "is like the crackling¦280379 of ",
+    "is like¦280379 the¦280379 crackling of¦280379 ",
     {
      "type": "char",
      "marker": "add",
@@ -5578,14 +5738,14 @@
       "twigs"
      ]
     },
-    " under¦280381 a cooking pot—\n"
+    " under¦280381 a cooking pot¦280382—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "that’s also pointless.\n"
+    "that’s also¦280386 pointless.\n"
    ]
   },
   {
@@ -5598,14 +5758,22 @@
      "number": "7",
      "sid": "ECC 7:7"
     },
-    "Oppression drives a wise person insane,\n"
+    "Oppression¦280392 drives a¦280394 wise¦280394 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">person"
+     ]
+    },
+    " insane,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦280395 a bribe¦280399 destroys¦280395 a ",
+    "≈and¦280395 a¦280399 bribe¦280399 destroys¦280395 a¦280398 ",
     {
      "type": "char",
      "marker": "add",
@@ -5630,7 +5798,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Finishing something is better than starting it"
+      "≈Finishing something is¦280401 better¦280401 than¦280404 starting it"
      ]
     },
     ",\n"
@@ -5640,6 +5808,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
+    "≈",
     {
      "type": "char",
      "marker": "add",
@@ -5652,7 +5821,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈being patient is better than being proud¦280409"
+      "≈being patient is¦280405 better¦280405 than¦280409 being proud¦280409"
      ]
     },
     ".\n"
@@ -5668,7 +5837,7 @@
      "number": "9",
      "sid": "ECC 7:9"
     },
-    "Don’t be quick to get angry¦280417,",
+    "Don’t¦280413 be¦280415 quick to¦280417 get¦280417 angry¦280417,",
     {
      "type": "note",
      "marker": "x",
@@ -5697,12 +5866,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because anger¦280419 ",
+    "because¦280418 anger¦280419 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈belongs in¦280416 a fool’s toolbox"
+      "≈belongs in¦280420 a fool’s¦280421 toolbox"
      ]
     },
     ".\n"
@@ -5718,22 +5887,22 @@
      "number": "10",
      "sid": "ECC 7:10"
     },
-    "Don’t ",
+    "Don’t¦280424 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈ask"
+      "≈ask¦280426"
      ]
     },
-    ", “What was it¦280428 about the old days¦280429 that were better than these¦280433?”\n"
+    ", “What was¦280428 it¦280428 about the¦280429 old days¦280429 that were¦280431 better¦280432 than¦280433 these¦280433?”\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because ",
+    "because¦280434 ",
     {
      "type": "char",
      "marker": "add",
@@ -5754,7 +5923,7 @@
      "number": "11",
      "sid": "ECC 7:11"
     },
-    "Wisdom is good¦280442 ",
+    "Wisdom¦280443 is¦280442 good¦280442 ",
     {
      "type": "char",
      "marker": "add",
@@ -5762,14 +5931,14 @@
       "when you get"
      ]
     },
-    " an inheritance¦280446,\n"
+    " an¦280446 inheritance¦280446,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦280447 it’s an advantage¦280447 to ",
+    "and¦280447 it’s an¦280447 advantage¦280447 to¦280448 ",
     {
      "type": "char",
      "marker": "add",
@@ -5790,7 +5959,7 @@
      "number": "12",
      "sid": "ECC 7:12"
     },
-    "Wisdom can protect us just like ",
+    "Wisdom¦280453 can protect¦280454 us just like ",
     {
      "type": "char",
      "marker": "add",
@@ -5812,7 +5981,7 @@
       "≈but¦280456"
      ]
     },
-    " the advantage¦280456 of knowledge¦280457 is that wisdom preserves¦280459 ",
+    " the¦280456 advantage¦280456 of¦280456 knowledge¦280457 is that wisdom¦280458 preserves¦280459 ",
     {
      "type": "char",
      "marker": "add",
@@ -5820,7 +5989,15 @@
       "the life of"
      ]
     },
-    " its¦280460 owner¦280460.\n"
+    " its¦280460 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#owner¦280460"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -5840,7 +6017,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "who can straighten¦280470 what he’s made crooked¦280473?\n"
+    "who¦280468 can straighten¦280470 what he’s¦280469 made¦280470 crooked¦280473?\n"
    ]
   },
   {
@@ -5853,7 +6030,7 @@
      "number": "14",
      "sid": "ECC 7:14"
     },
-    "Be happy on a good day,\n"
+    "Be¦280477 happy on a good¦280478 day,\n"
    ]
   },
   {
@@ -5867,7 +6044,7 @@
       "≈but¦280479"
      ]
     },
-    " on a day of problems, consider¦280481 this:\n"
+    " on¦280479 a¦280479 day¦280479 of¦280479 problems, consider¦280481 this¦280485:\n"
    ]
   },
   {
@@ -5879,7 +6056,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈caused¦280493 one, as well as the other"
+      "≈caused¦280493 one, as well as the¦280490 other"
      ]
     },
     "—\n"
@@ -5889,7 +6066,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "humanity¦280496 can’t¦280494 discover ",
+    "humanity¦280496 can’t¦280494 discover¦280495 ",
     {
      "type": "char",
      "marker": "add",
@@ -5917,14 +6094,14 @@
      "number": "15",
      "sid": "ECC 7:15"
     },
-    "I’ve¦280503 seen¦280503 everything in¦280504 my days¦280504 of pointlessness:\n"
+    "I’ve¦280503 seen¦280503 everything in¦280504 my days¦280504 of¦280504 pointlessness:\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "There’s ",
+    "There’s¦280506 ",
     {
      "type": "char",
      "marker": "add",
@@ -5932,12 +6109,20 @@
       "≈godly¦280507"
      ]
     },
-    " people ",
+    " ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈dying despite doing everything right¦280507"
+      "#people"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈dying¦280508 despite doing everything right¦280509"
      ]
     },
     ",\n"
@@ -5947,12 +6132,20 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦280510 there are wicked¦280511 people ",
+    "and¦280510 there¦280510 are¦280510 wicked¦280511 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈living long lives doing"
+      "#people"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈living long¦280512 lives doing"
      ]
     },
     " evil¦280513.\n"
@@ -5968,7 +6161,7 @@
      "number": "16",
      "sid": "ECC 7:16"
     },
-    "Don’t be highly righteous¦280518 or overly wise—\n"
+    "Don’t¦280515 be¦280517 highly righteous¦280518 or overly wise¦280522—\n"
    ]
   },
   {
@@ -5983,7 +6176,7 @@
       "go to the trouble of"
      ]
     },
-    " destroying¦280525 yourself?\n"
+    " destroying¦280525 yourself¦280525?\n"
    ]
   },
   {
@@ -5996,14 +6189,14 @@
      "number": "17",
      "sid": "ECC 7:17"
     },
-    "Don’t be very wicked¦280529 and¦280531 don’t¦280527 be a fool—\n"
+    "Don’t¦280527 be¦280529 very wicked¦280529 and¦280531 don’t¦280531 be¦280533 a¦280534 fool¦280534—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "why should you¦280536 die¦280536 when it’s not your¦280538 time¦280538?\n"
+    "why should you¦280536 die¦280536 when it’s not¦280537 your¦280538 time¦280538?\n"
    ]
   },
   {
@@ -6016,7 +6209,7 @@
      "number": "18",
      "sid": "ECC 7:18"
     },
-    "It’s good¦280540 to take¦280542 hold of ",
+    "It’s good¦280540 to take¦280542 hold¦280542 of ",
     {
      "type": "char",
      "marker": "add",
@@ -6024,12 +6217,12 @@
       "@wisdom"
      ]
     },
-    " and don’t¦280547 rest from ",
+    " and¦280544 don’t¦280547 rest¦280549 from ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@doing what is right"
+      "@doing¦280552 what¦280552 is¦280552 right¦280552"
      ]
     },
     ",\n"
@@ -6039,7 +6232,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because the godly person should continue with¦280543 both of them.\n"
+    "because¦280553 the godly person should continue with both of them¦280560.\n"
    ]
   },
   {
@@ -6052,14 +6245,14 @@
      "number": "19",
      "sid": "ECC 7:19"
     },
-    "Wisdom gives¦280563 strength¦280563 to the wise—\n"
+    "Wisdom¦280562 gives¦280563 strength¦280563 to¦280564 the wise—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "more than the ten¦280565 most powerful men in¦280569 the city¦280569.\n"
+    "more than¦280565 the ten¦280565 most powerful men in¦280569 the city¦280569.\n"
    ]
   },
   {
@@ -6076,15 +6269,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈But¦280580 yes,"
+      "≈But yes,"
      ]
     },
-    " there’s¦280573 no person on the earth¦280575 who’s ",
+    " there’s¦280573 no person on¦280575 the¦280575 earth¦280575 who’s¦280576 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "truly good¦280579"
+      "truly good"
      ]
     },
     ",\n"
@@ -6101,7 +6294,7 @@
       "only"
      ]
     },
-    " doing what is right¦280574 and¦280580 never disobeying.\n"
+    " doing¦280577 what is right¦280579 and¦280580 never disobeying.\n"
    ]
   },
   {
@@ -6114,7 +6307,7 @@
      "number": "21",
      "sid": "ECC 7:21"
     },
-    "Don’t give¦280591 your attention¦280592 to everything that¦280587 people¦280588 say,\n"
+    "Don’t¦280589 give¦280591 your¦280592 attention to everything that¦280593 people¦280588 say,\n"
    ]
   },
   {
@@ -6128,7 +6321,7 @@
       "otherwise"
      ]
     },
-    " you might hear¦280596 your servant¦280599 ",
+    " you¦280596 might hear¦280596 your¦280599 servant¦280599 ",
     {
      "type": "char",
      "marker": "add",
@@ -6136,7 +6329,7 @@
       "≈speaking¦280588 against"
      ]
     },
-    " you,\n"
+    " you¦280600,\n"
    ]
   },
   {
@@ -6149,7 +6342,7 @@
      "number": "22",
      "sid": "ECC 7:22"
     },
-    "because you know how often you’ve¦280614 belittled others¦280615 ",
+    "because¦280602 you¦280612 know¦280607 how often you’ve¦280614 belittled others¦280615 ",
     {
      "type": "char",
      "marker": "add",
@@ -6174,14 +6367,14 @@
      "number": "23",
      "sid": "ECC 7:23"
     },
-    "I tested all of that with¦280621 wisdom¦280621.\n"
+    "I¦280620 tested¦280620 all¦280617 of¦280617 that¦280619 with wisdom¦280621.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I said¦280622, “Let me be wise,” but¦280624 it ",
+    "I¦280622 said¦280622, “Let¦280623 me¦280623 be¦280623 wise¦280623,” but¦280624 it ",
     {
      "type": "char",
      "marker": "add",
@@ -6189,7 +6382,7 @@
       "≈eluded"
      ]
     },
-    " me.\n"
+    " me¦280626.\n"
    ]
   },
   {
@@ -6209,14 +6402,14 @@
       "≈It seemed"
      ]
     },
-    " far away\n"
+    " far¦280628 away¦280628\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦280632 deeper down than anyone can find.\n"
+    "and¦280632 deeper down than anyone can find¦280636.\n"
    ]
   },
   {
@@ -6229,15 +6422,15 @@
      "number": "25",
      "sid": "ECC 7:25"
     },
-    "I ",
+    "I¦280638 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈changed my mind’s direction"
+      "≈changed¦280638 my¦280640 mind’s direction"
      ]
     },
-    " to ",
+    " to¦280641 ",
     {
      "type": "char",
      "marker": "add",
@@ -6245,14 +6438,14 @@
       "try to"
      ]
     },
-    " learn and explore—\n"
+    " learn¦280641 and¦280642 explore—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "to search¦280642 for wisdom¦280644 and ",
+    "to¦280642 search¦280643 for wisdom¦280644 and¦280645 ",
     {
      "type": "char",
      "marker": "add",
@@ -6267,12 +6460,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and to ",
+    "and¦280646 to¦280646 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈understand the foolishness of wickedness¦280647 and how that leads to"
+      "≈understand¦280646 the¦280649 foolishness¦280649 of wickedness¦280647 and how that leads to"
      ]
     },
     " madness¦280650.\n"
@@ -6292,7 +6485,7 @@
      "number": "26",
      "sid": "ECC 7:26"
     },
-    "I ",
+    "I¦280653 ",
     {
      "type": "char",
      "marker": "add",
@@ -6300,7 +6493,7 @@
       "≈learnt that"
      ]
     },
-    " a woman¦280658 who ",
+    " a woman¦280658 who¦280659 ",
     {
      "type": "char",
      "marker": "add",
@@ -6313,7 +6506,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈leads to more bitterness¦280654 than death¦280655 would be"
+      "≈leads to more¦280655 bitterness¦280654 than¦280655 death¦280655 would be¦280662"
      ]
     },
     "—\n"
@@ -6323,14 +6516,30 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "her heart¦280664 is like a net and¦280652 her hands¦280666 become chains.\n"
+    "her¦280664 heart¦280664 is like a ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#net¦280663"
+     ]
+    },
+    " and her¦280666 hands¦280666 become chains¦280665.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Any person that’s good in¦280674 God’s ",
+    "Any ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">person that’s"
+     ]
+    },
+    " good¦280667 in¦280668 God’s ",
     {
      "type": "char",
      "marker": "add",
@@ -6338,7 +6547,7 @@
       "≈eyes"
      ]
     },
-    " would escape¦280670 from her,\n"
+    " would escape¦280670 from¦280671 her¦280671,\n"
    ]
   },
   {
@@ -6349,7 +6558,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but¦280652 an ungodly person"
+      "≈but¦280672 an ungodly person"
      ]
     },
     " would ",
@@ -6360,7 +6569,7 @@
       "end up"
      ]
     },
-    " captured¦280673 by her.\n"
+    " captured¦280673 by¦280674 her¦280674.\n"
    ]
   },
   {
@@ -6373,7 +6582,7 @@
      "number": "27",
      "sid": "ECC 7:27"
     },
-    "The leader has discovered that—\n"
+    "The leader has¦280678 discovered¦280678 that¦280677—\n"
    ]
   },
   {
@@ -6387,7 +6596,7 @@
       "adding"
      ]
     },
-    " one thing¦280684 to another¦280682 to ",
+    " one¦280681 thing¦280684 to¦280682 another to¦280683 ",
     {
      "type": "char",
      "marker": "add",
@@ -6395,7 +6604,7 @@
       "try to"
      ]
     },
-    " find ",
+    " find¦280683 ",
     {
      "type": "char",
      "marker": "add",
@@ -6421,17 +6630,17 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈tried to learn more"
+      "≈tried¦280689 to learn more"
      ]
     },
-    ", but I didn’t¦280691 find it.\n"
+    ", but¦280691 I didn’t¦280691 find it.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I found one ",
+    "I¦280692 found¦280692 one¦280693 ",
     {
      "type": "char",
      "marker": "add",
@@ -6439,14 +6648,14 @@
       "special"
      ]
     },
-    " man out of a thousand¦280695\n"
+    " man¦280694 out of¦280695 a¦280695 thousand¦280695\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "but I couldn’t find one ",
+    "but I¦280696 couldn’t find¦280696 one ",
     {
      "type": "char",
      "marker": "add",
@@ -6454,7 +6663,7 @@
       "such"
      ]
     },
-    " woman¦280697 out of all of them.\n"
+    " woman¦280697 out of all¦280698 of¦280698 them.\n"
    ]
   },
   {
@@ -6467,7 +6676,7 @@
      "number": "29",
      "sid": "ECC 7:29"
     },
-    "This is the only ",
+    "This¦280707 is the only¦280704 ",
     {
      "type": "char",
      "marker": "add",
@@ -6475,19 +6684,19 @@
       "≈conclusion"
      ]
     },
-    " I came to:\n"
+    " I¦280708 came to:\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "God made humankind¦280714 to ",
+    "God made¦280710 humankind¦280714 to ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈do good, but¦280716"
+      "≈do good¦280715, but¦280716"
      ]
     },
     " ",
@@ -6498,7 +6707,7 @@
       "instead"
      ]
     },
-    " they’ve come up with many ",
+    " they’ve¦280717 come up with many¦280719 ",
     {
      "type": "char",
      "marker": "add",
@@ -6532,7 +6741,15 @@
      "number": "1",
      "sid": "ECC 8:1"
     },
-    "Who’s like the wise person and ",
+    "Who’s¦280721 like¦280722 the¦280722 wise¦280722 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">person"
+     ]
+    },
+    " and¦280723 ",
     {
      "type": "char",
      "marker": "add",
@@ -6547,12 +6764,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "A person’s wisdom¦280727 ",
+    "A¦280726 person’s wisdom¦280727 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈makes¦280729 their face lighten up"
+      "≈makes¦280729 their face¦280730 lighten up"
      ]
     },
     "\n"
@@ -6562,28 +6779,15 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and ",
+    "and¦280731 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈gives their face a certain firmness"
+      "≈gives their face¦280732 a certain firmness"
      ]
     },
     ".\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    {
-     "type": "verse",
-     "marker": "v",
-     "number": "2",
-     "sid": "ECC 8:2"
-    },
-    "Follow the king’s orders\n"
    ]
   },
   {
@@ -6597,7 +6801,20 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because¦280740 of your promise to God¦280743.\n"
+    {
+     "type": "verse",
+     "marker": "v",
+     "number": "2",
+     "sid": "ECC 8:2"
+    },
+    "Follow the¦280736 king’s¦280738 orders\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "because of¦280741 your promise¦280742 to God¦280743.\n"
    ]
   },
   {
@@ -6610,7 +6827,7 @@
      "number": "3",
      "sid": "ECC 8:3"
     },
-    "Don’t rush away from ",
+    "Don’t¦280745 rush away from¦280748 ",
     {
      "type": "char",
      "marker": "add",
@@ -6618,7 +6835,7 @@
       "the king’s"
      ]
     },
-    " presence¦280748\n"
+    " presence\n"
    ]
   },
   {
@@ -6632,14 +6849,14 @@
       "or"
      ]
     },
-    " take a stand¦280752 on¦280753 an evil¦280754 matter¦280753\n"
+    " take a stand¦280752 on an evil¦280754 matter¦280753\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because whatever he wants to do, he’ll do.\n"
+    "because¦280755 whatever he¦280759 wants¦280759 to do, he’ll¦280760 do¦280760.\n"
    ]
   },
   {
@@ -6652,14 +6869,14 @@
      "number": "4",
      "sid": "ECC 8:4"
     },
-    "A king’s word¦280763 is authoritative—\n"
+    "A¦280765 king’s¦280765 word¦280763 is¦280766 authoritative—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "who’ll ask him ",
+    "who’ll¦280767 ask¦280768 him¦280770 ",
     {
      "type": "char",
      "marker": "add",
@@ -6667,7 +6884,7 @@
       "what he thinks"
      ]
     },
-    " he’s doing¦280773?\n"
+    " he’s¦280768 doing¦280773?\n"
    ]
   },
   {
@@ -6680,7 +6897,22 @@
      "number": "5",
      "sid": "ECC 8:5"
     },
-    "Those who follow commands¦280776 will ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#Those"
+     ]
+    },
+    " who¦280775 follow ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#commands¦280776"
+     ]
+    },
+    " will ",
     {
      "type": "char",
      "marker": "add",
@@ -6695,12 +6927,20 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and a wise person will know ",
+    "and a¦280776 wise¦280785 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈the right time¦280781 and place"
+      ">person"
+     ]
+    },
+    " will¦280778 know¦280778 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈the right time¦280781 and¦280782 place"
      ]
     },
     " for something\n"
@@ -6716,7 +6956,7 @@
      "number": "6",
      "sid": "ECC 8:6"
     },
-    "because there’s¦280791 a time¦280792 and¦280793 a ",
+    "because¦280787 there’s¦280791 a time¦280792 and¦280793 a¦280793 ",
     {
      "type": "char",
      "marker": "add",
@@ -6738,7 +6978,7 @@
       "≈otherwise"
      ]
     },
-    " humanity’s¦280797 misery will be severe.\n"
+    " humanity’s¦280797 misery¦280796 will be¦280798 severe.\n"
    ]
   },
   {
@@ -6751,12 +6991,12 @@
      "number": "7",
      "sid": "ECC 8:7"
     },
-    "No one knows ",
+    "No one knows¦280804 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈what the future will bring"
+      "≈what¦280805 the future will bring"
      ]
     },
     "\n"
@@ -6773,12 +7013,12 @@
       "≈so"
      ]
     },
-    " no one can tell you ",
+    " no one can tell¦280812 you ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈what will happen¦280807"
+      "≈what will happen"
      ]
     },
     " ",
@@ -6809,19 +7049,19 @@
       "Just as"
      ]
     },
-    " no person has control over the wind to be able to restrain¦280819 it,\n"
+    " no person has¦280817 control over¦280818 the wind¦280818 to be able to restrain¦280819 it,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "nor does anyone¦280816 have authority over the day¦280825 of ",
+    "nor does anyone¦280816 have authority over the¦280822 day¦280825 of¦280826 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "&their"
+      "&their¦280826"
      ]
     },
     " death¦280826.\n"
@@ -6838,7 +7078,7 @@
       "Just as"
      ]
     },
-    " no one can be discharged¦280828 in¦280818 ",
+    " no one can be¦280827 discharged¦280828 in¦280829 ",
     {
      "type": "char",
      "marker": "add",
@@ -6853,7 +7093,23 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "nor can being wicked¦280833 rescue¦280832 you ",
+    "nor can ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈being wicked¦280833"
+     ]
+    },
+    " rescue¦280832 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you¦280836"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -6881,12 +7137,20 @@
      "number": "9",
      "sid": "ECC 8:9"
     },
-    "I¦280843 saw all that and¦280844 applied¦280844 my mind¦280847 to ",
+    "I¦280843 saw¦280843 all that and¦280844 applied my¦280847 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈everything that happens in¦280859 this world"
+      "≈mind¦280847"
+     ]
+    },
+    " to¦280848 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈everything¦280848 that happens in this¦280842 world"
      ]
     },
     ".\n"
@@ -6900,18 +7164,25 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≡I saw"
+      "≡I¦280843 saw¦280843"
      ]
     },
-    " that sometimes a person can dominate ",
+    " that¦280851 sometimes a¦280859 person¦280859 can dominate ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈someone else to that person’s detriment"
+      "≈someone else to¦280861 that person’s detriment"
      ]
     },
     ".\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "rem",
+   "content": [
+    "/s1 God’s Ways Are Inscrutable\n"
    ]
   },
   {
@@ -6932,14 +7203,7 @@
       ">people"
      ]
     },
-    " being buried¦280866—\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 God’s Ways Are Inscrutable\n"
+    " being¦280866 buried¦280866—\n"
    ]
   },
   {
@@ -6954,14 +7218,14 @@
       "carried"
      ]
     },
-    " out from a sacred¦280869 place¦280868,\n"
+    " out from¦280868 a¦280868 sacred¦280869 place¦280868,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦280863 ",
+    "and¦280871 ",
     {
      "type": "char",
      "marker": "add",
@@ -6969,7 +7233,7 @@
       "what they’d done"
      ]
     },
-    " there in¦280863 the city¦280872 was ",
+    " there in¦280872 the city¦280872 was ",
     {
      "type": "char",
      "marker": "add",
@@ -6984,7 +7248,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "That’s also pointless.\n"
+    "That’s also¦280877 pointless.\n"
    ]
   },
   {
@@ -6997,14 +7261,14 @@
      "number": "11",
      "sid": "ECC 8:11"
     },
-    "When an evil activity isn’t¦280883 quickly¦280889 condemned,\n"
+    "When an evil¦280888 activity isn’t¦280883 quickly¦280889 condemned,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "then humanity¦280897 will become totally determined to do evil.\n"
+    "then humanity¦280897 will become totally determined to do¦280899 evil¦280900.\n"
    ]
   },
   {
@@ -7032,7 +7296,7 @@
       "≈an ungodly person"
      ]
     },
-    " does some evil¦280905 thing a hundred¦280906 times¦280906 ",
+    " does¦280904 some evil¦280905 thing a¦280906 hundred¦280906 times¦280906 ",
     {
      "type": "char",
      "marker": "add",
@@ -7040,7 +7304,7 @@
       "over"
      ]
     },
-    " and ",
+    " and¦280907 ",
     {
      "type": "char",
      "marker": "add",
@@ -7055,12 +7319,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "I know that things will go better ",
+    "I¦280913 know¦280912 that¦280914 things will¦280915 go better¦280917 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈for those¦280918 who respect and obey"
+      "≈for those¦280918 who¦280920 respect¦280921 and obey"
      ]
     },
     " God.\n"
@@ -7076,12 +7340,12 @@
      "number": "13",
      "sid": "ECC 8:13"
     },
-    "It won’t go well for the wicked¦280928 and¦280929 ",
+    "It¦280927 won’t go well for the wicked¦280928 and¦280929 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "what they¦280935 do"
+      "what they do"
      ]
     },
     " ",
@@ -7099,7 +7363,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because they’ve shown no respect for God’s presence.\n"
+    "because they’ve shown no respect¦280936 for¦280937 God’s¦280938 presence¦280937.\n"
    ]
   },
   {
@@ -7112,28 +7376,36 @@
      "number": "14",
      "sid": "ECC 8:14"
     },
-    "There’s¦280940 something else strange that¦280943 happens in this world:\n"
+    "There’s¦280940 something else strange that¦280943 happens in this¦280966 world¦280947:\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "when bad things happen to godly¦280951 people\n"
+    "when bad things happen¦280953 to godly ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">people"
+     ]
+    },
+    "\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and when good things happen to evil people.\n"
+    "and¦280957 when good things happen¦280959 to evil people.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "That’s¦280963 also hard to understand.\n"
+    "That’s¦280964 also¦280964 hard to understand.\n"
    ]
   },
   {
@@ -7146,14 +7418,14 @@
      "number": "15",
      "sid": "ECC 8:15"
     },
-    "Then¦280969 I recommended enjoyment¦280973\n"
+    "Then¦280969 I¦280969 recommended¦280969 enjoyment¦280973\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because there’s¦280975 nothing better for a person ",
+    "because¦280981 there’s¦280975 nothing better¦280977 for¦280978 a person¦280978 ",
     {
      "type": "char",
      "marker": "add",
@@ -7161,29 +7433,29 @@
       "≈in this world"
      ]
     },
-    " than to eat¦280984 and drink¦280985 and be cheery,\n"
+    " than to¦280984 eat¦280984 and¦280985 drink¦280985 and¦280986 be cheery,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "then¦280969 ",
+    "then¦280987 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@that¦280992 attitude"
+      "@that attitude"
      ]
     },
-    " will be with¦280989 them as they work\n"
+    " will¦280988 be with them as they work¦280989\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "during the days¦280990 of their life¦280991 that God gives them ",
+    "during¦280989 the¦280990 days¦280990 of¦280990 their life¦280991 that¦280992 God gives¦280994 them ",
     {
      "type": "char",
      "marker": "add",
@@ -7204,12 +7476,12 @@
      "number": "16",
      "sid": "ECC 8:16"
     },
-    "So when I ",
+    "So when I¦281002 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈set my mind¦281005"
+      "≈set my¦281005 mind¦281005"
      ]
     },
     " on gaining wisdom¦281007\n"
@@ -7219,14 +7491,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and observing all the business¦281011 done on this earth¦281016,\n"
+    "and¦281008 observing all the¦281011 business¦281011 done¦281013 on¦281014 this earth¦281016,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because day¦281019 and night¦281020 there’s someone not sleeping¦281021,\n"
+    "because¦281017 day¦281019 and¦281020 night¦281020 there’s someone not¦281023 sleeping¦281021,\n"
    ]
   },
   {
@@ -7239,14 +7511,14 @@
      "number": "17",
      "sid": "ECC 8:17"
     },
-    "and¦281026 I saw¦281026 everything that God does—\n"
+    "and¦281026 I¦281026 saw¦281026 everything that God does—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "realising that humanity can’t¦281034 discover everything that’s done ",
+    "realising that humanity can’t discover¦281037 everything that’s¦281041 done¦281042 ",
     {
      "type": "char",
      "marker": "add",
@@ -7261,21 +7533,29 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "they’ll try to discover it but¦281026 fail.\n"
+    "they’ll try¦281050 to discover¦281052 it but¦281053 fail.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Even if a wise person claimed to know¦281058,\n"
+    "Even if¦281054 a wise¦281057 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">person"
+     ]
+    },
+    " claimed to¦281058 know¦281058,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "they wouldn’t be able to discover it.\n"
+    "they wouldn’t be¦281060 able¦281060 to¦281061 discover¦281061 it.\n"
    ]
   },
   {
@@ -7305,24 +7585,40 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Indeed I set my mind¦281072"
+      "≈Indeed I¦281069 set my¦281072 mind¦281072"
      ]
     },
-    " to examine all this\n"
+    " to¦281073 examine all¦281076 this¦281078\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and concluded¦281073 that godly¦281080 and wise people and their¦281082 work is in¦281083 God’s hands.\n"
+    "and concluded that¦281079 godly¦281080 and¦281081 wise¦281081 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">people"
+     ]
+    },
+    " and¦281082 their¦281082 work is¦281083 in¦281083 God’s ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#hands¦281083"
+     ]
+    },
+    ".\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Being loved or being hated, humankind¦281093 doesn’t know what’s ahead of them.\n"
+    "Being loved¦281087 or being hated¦281090, humankind¦281093 doesn’t know¦281092 what’s ahead¦281095 of¦281095 them¦281095.\n"
    ]
   },
   {
@@ -7335,21 +7631,21 @@
      "number": "2",
      "sid": "ECC 9:2"
     },
-    "We all have the same fate whether godly¦281102 or wicked¦281103,\n"
+    "We all have the same fate¦281100 whether godly¦281102 or wicked¦281103,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "or good or pure or impure,\n"
+    "or good¦281104 or pure or impure¦281106,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "whether you sacrifice¦281107 or not,\n"
+    "whether you sacrifice¦281107 or not¦281109,\n"
    ]
   },
   {
@@ -7363,12 +7659,20 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "or you make a promise or you’re ",
+    "or you ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈the subject of"
+      "≈make a promise"
+     ]
+    },
+    " or you’re ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈the¦281113 subject of"
      ]
     },
     " a promise.\n"
@@ -7384,12 +7688,12 @@
      "number": "3",
      "sid": "ECC 9:3"
     },
-    "There’s evil in everything that’s done ",
+    "There’s evil¦281120 in¦281121 everything that’s¦281122 done¦281124 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈in this world"
+      "≈in this¦281118 world"
      ]
     },
     ":\n"
@@ -7407,21 +7711,21 @@
       "≈final event"
      ]
     },
-    " for everyone¦281130.\n"
+    " for¦281127 everyone¦281131.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Yes, humankind’s¦281136 minds are full of evil and madness¦281140 during their¦281141 lifetimes,\n"
+    "Yes, humankind’s¦281136 minds are¦281137 full¦281137 of evil¦281139 and¦281140 madness¦281140 during¦281141 their¦281141 lifetimes¦281142,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and after¦281143 that ",
+    "and¦281143 after¦281143 that ",
     {
      "type": "char",
      "marker": "add",
@@ -7429,7 +7733,7 @@
       "they join"
      ]
     },
-    " the dead¦281146.\n"
+    " the¦281146 dead¦281146.\n"
    ]
   },
   {
@@ -7449,14 +7753,14 @@
       "≈Anyone¦281151"
      ]
     },
-    " who’s joined to the living has hope,\n"
+    " who’s¦281151 joined¦281152 to¦281154 the¦281157 living¦281157 has hope¦281159,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because a dog that’s alive is better than a lion¦281168 that’s dead,\n"
+    "because¦281160 a¦281162 dog¦281162 that’s alive¦281163 is¦281165 better¦281165 than¦281166 a lion¦281168 that’s dead¦281169,\n"
    ]
   },
   {
@@ -7469,7 +7773,15 @@
      "number": "5",
      "sid": "ECC 9:5"
     },
-    "because the living know that we’ll die¦281174\n"
+    "because¦281171 the¦281172 living¦281172 know¦281173 that¦281174 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%we’ll¦281174"
+     ]
+    },
+    " die¦281174\n"
    ]
   },
   {
@@ -7483,14 +7795,14 @@
       "≈but¦281175"
      ]
     },
-    " the dead¦281175 don’t¦281176 know anything¦281178\n"
+    " the¦281175 dead¦281175 don’t¦281176 know¦281177 anything¦281178\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and have no further reward¦281183 because their¦281186 memory¦281186 is forgotten¦281185.\n"
+    "and¦281179 have no further reward¦281183 because¦281184 their¦281186 memory¦281186 is¦281185 forgotten¦281185.\n"
    ]
   },
   {
@@ -7503,14 +7815,14 @@
      "number": "6",
      "sid": "ECC 9:6"
     },
-    "Their love¦281189 and hatred¦281192 and their envy will have already¦281196 perished¦281197,\n"
+    "Their¦281189 love¦281189 and hatred¦281192 and their¦281192 envy¦281195 will have already¦281196 perished¦281197,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and they no longer have a part in everything that’s done ",
+    "and¦281198 they no longer have a¦281198 part¦281198 in¦281204 everything that’s¦281205 done¦281207 ",
     {
      "type": "char",
      "marker": "add",
@@ -7538,14 +7850,14 @@
       "So"
      ]
     },
-    " go and enjoy eating your food and drinking¦281215 your wine\n"
+    " go¦281211 and enjoy eating¦281212 your¦281214 food¦281214 and¦281215 drinking¦281215 your¦281219 wine¦281219\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because God has already¦281221 approved ",
+    "because¦281220 God has already¦281221 approved ",
     {
      "type": "char",
      "marker": "add",
@@ -7566,7 +7878,7 @@
      "number": "8",
      "sid": "ECC 9:8"
     },
-    "Always let your clothes¦281232 be ",
+    "Always let¦281231 your¦281232 clothes¦281232 be ",
     {
      "type": "char",
      "marker": "add",
@@ -7581,7 +7893,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and don’t¦281238 ",
+    "and¦281234 don’t¦281238 ",
     {
      "type": "char",
      "marker": "add",
@@ -7589,7 +7901,7 @@
       "≈spare the use of lotion"
      ]
     },
-    " on your head¦281237.\n"
+    " on your¦281237 head¦281237.\n"
    ]
   },
   {
@@ -7602,14 +7914,21 @@
      "number": "9",
      "sid": "ECC 9:9"
     },
-    "Live together with¦281267 the wife that you love\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈Live¦281243"
+     ]
+    },
+    " together with¦281244 the wife¦281246 that you¦281249 love¦281249\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "for all the length of your pointless life that you’re given¦281256 ",
+    "for all¦281250 the length of your pointless life that¦281255 you’re given¦281256 ",
     {
      "type": "char",
      "marker": "add",
@@ -7624,14 +7943,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because that’s your allocation in your life\n"
+    "because¦281264 that’s your¦281266 allocation in¦281267 your life¦281267\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and in the work that you’re doing ",
+    "and¦281268 in¦281268 the work¦281268 that¦281269 you’re¦281271 doing ",
     {
      "type": "char",
      "marker": "add",
@@ -7652,7 +7971,7 @@
      "number": "10",
      "sid": "ECC 9:10"
     },
-    "Everything¦281289 that you¦281291 find to do, do it¦281278 ",
+    "Everything that¦281277 you find¦281278 to do¦281280, do¦281282 it ",
     {
      "type": "char",
      "marker": "add",
@@ -7667,7 +7986,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because in¦281281 ",
+    "because¦281283 in¦281289 ",
     {
      "type": "char",
      "marker": "add",
@@ -7675,7 +7994,7 @@
       "≈the grave"
      ]
     },
-    " where¦281290 you’ll be going¦281292,\n"
+    " where¦281290 you’ll¦281291 be¦281292 going¦281292,\n"
    ]
   },
   {
@@ -7714,7 +8033,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "that the fastest ",
+    "that¦281301 the fastest ",
     {
      "type": "char",
      "marker": "add",
@@ -7722,7 +8041,7 @@
       ">ones"
      ]
     },
-    " don’t ",
+    " don’t¦281302 ",
     {
      "type": "char",
      "marker": "add",
@@ -7730,14 +8049,14 @@
       "always"
      ]
     },
-    " win the race,\n"
+    " win the¦281304 race¦281304,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "the most powerful ",
+    "≈the most powerful ",
     {
      "type": "char",
      "marker": "add",
@@ -7768,7 +8087,7 @@
       ">people"
      ]
     },
-    " don’t ",
+    " don’t¦281309 ",
     {
      "type": "char",
      "marker": "add",
@@ -7776,14 +8095,14 @@
       "always"
      ]
     },
-    " have enough to eat,\n"
+    " have enough to¦281310 eat,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "intelligent¦281314 ",
+    "≈intelligent ",
     {
      "type": "char",
      "marker": "add",
@@ -7791,7 +8110,7 @@
       ">people"
      ]
     },
-    " don’t ",
+    " don’t¦281313 ",
     {
      "type": "char",
      "marker": "add",
@@ -7806,7 +8125,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and people with understanding¦281298 don’t ",
+    "≈and¦281316 people with understanding¦281314 don’t¦281317 ",
     {
      "type": "char",
      "marker": "add",
@@ -7821,7 +8140,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because chance¦281323 and timing affects them all.\n"
+    "because¦281320 chance¦281323 and timing affects them¦281327 all¦281327.\n"
    ]
   },
   {
@@ -7841,12 +8160,12 @@
       "≈You see,"
      ]
     },
-    " humanity doesn’t know ",
+    " humanity¦281334 doesn’t know¦281333 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈when their time is about to be up"
+      "≈when their time¦281337 is about¦281337 to be up"
      ]
     },
     ":\n"
@@ -7863,14 +8182,14 @@
       "just"
      ]
     },
-    " like a fish¦281338 getting caught in a deadly net¦281340,\n"
+    " like¦281338 a fish¦281338 getting caught¦281339 in¦281340 a¦281340 deadly net¦281340,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "or birds¦281342 that¦281339 get caught in a trap,\n"
+    "≈or birds¦281342 that¦281343 get caught¦281343 in¦281344 a trap¦281344,\n"
    ]
   },
   {
@@ -7884,7 +8203,7 @@
       "so too"
      ]
     },
-    " people can get caught out when trouble suddenly¦281353 hits them.\n"
+    " people¦281348 can get caught out when¦281351 trouble suddenly¦281353 hits them.\n"
    ]
   },
   {
@@ -7911,7 +8230,7 @@
      "number": "13",
      "sid": "ECC 9:13"
     },
-    "I¦281358 also saw this ",
+    "I also¦281355 saw¦281358 this¦281357 ",
     {
      "type": "char",
      "marker": "add",
@@ -7934,14 +8253,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦281362 found it¦281363 powerful:\n",
+    "and¦281362 found it¦281363 powerful¦281362:\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "ECC 9:14"
     },
-    "There was a small¦281367 ",
+    "There was a¦281366 small¦281367 ",
     {
      "type": "char",
      "marker": "add",
@@ -7949,15 +8268,15 @@
       "walled"
      ]
     },
-    " city¦281366 with¦281369 ",
+    " city¦281366 with ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈not so many inhabitants"
+      "≈not so¦281368 many inhabitants"
      ]
     },
-    " and a powerful king¦281374 ",
+    " and¦281371 a¦281374 powerful king¦281374 ",
     {
      "type": "char",
      "marker": "add",
@@ -7973,7 +8292,7 @@
       "so he"
      ]
     },
-    " surrounded¦281376 it and built¦281378 large siege¦281380 ramps against ",
+    " surrounded¦281376 it¦281377 and¦281378 built¦281378 large siege¦281380 ramps against ",
     {
      "type": "char",
      "marker": "add",
@@ -7988,15 +8307,15 @@
      "number": "15",
      "sid": "ECC 9:15"
     },
-    "There was a poor man in¦281384 ",
+    "There was a¦281385 poor man in¦281384 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "@the city¦281393"
+      "@the city"
      ]
     },
-    " who was wise and¦281383 used his wisdom¦281394 to save it ",
+    " who was wise¦281387 and¦281388 used his¦281394 wisdom¦281394 to save¦281388 it ",
     {
      "type": "char",
      "marker": "add",
@@ -8009,10 +8328,26 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but¦281383 the people soon forgot about"
+      "≈but¦281395 the¦281400 people¦281400 soon"
      ]
     },
-    " that poor man.\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "^forgot"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈about¦281394"
+     ]
+    },
+    " that¦281402 poor man.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -8023,15 +8358,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈So I concluded"
+      "≈So¦281407 I concluded"
      ]
     },
-    " that wisdom is better than strength¦281411 and yet the poor person’s wisdom ",
+    " that wisdom is¦281409 better¦281409 than¦281411 strength¦281411 and¦281412 yet the¦281413 poor¦281413 person’s wisdom ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈wasn’t appreciated and his words¦281415 were soon forgotten"
+      "≈wasn’t appreciated and¦281415 his words¦281415 were¦281417 soon forgotten"
      ]
     },
     ".\n"
@@ -8047,14 +8382,30 @@
      "number": "17",
      "sid": "ECC 9:17"
     },
-    "The words¦281419 of wise people are quietly¦281421 heeded—\n"
+    "The¦281419 words¦281419 of¦281419 wise¦281420 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">people"
+     ]
+    },
+    " are ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈quietly¦281421"
+     ]
+    },
+    " heeded—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "more than those of a ruler¦281424 shouting¦281423 at¦281421 a ",
+    "more¦281423 than¦281423 those of¦281423 a¦281424 ruler¦281424 shouting¦281423 at a ",
     {
      "type": "char",
      "marker": "add",
@@ -8075,7 +8426,7 @@
      "number": "18",
      "sid": "ECC 9:18"
     },
-    "It’s better to be wise than to have many weapons¦281429,\n"
+    "It’s better to be¦281427 wise¦281428 than¦281429 to have many weapons¦281429,\n"
    ]
   },
   {
@@ -8089,7 +8440,7 @@
       "≈but¦281431"
      ]
     },
-    " one disobedient person will destroy¦281433 a lot of good.\n"
+    " one¦281432 disobedient person will¦281433 destroy¦281433 a lot of good¦281434.\n"
    ]
   },
   {
@@ -8115,7 +8466,7 @@
      "number": "1",
      "sid": "ECC 10:1"
     },
-    "Dead flies make a perfumer’s¦281442 ",
+    "Dead flies¦281437 make¦281439 a¦281442 perfumer’s¦281442 ",
     {
      "type": "char",
      "marker": "add",
@@ -8138,12 +8489,20 @@
       "Similarly"
      ]
     },
-    ", a little¦281447 foolishness can ruin ",
+    ", a¦281447 little¦281447 foolishness¦281446 can ruin ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "all your"
+      "all"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&your"
      ]
     },
     " wisdom¦281444 or honour¦281445.\n"
@@ -8159,7 +8518,7 @@
      "number": "2",
      "sid": "ECC 10:2"
     },
-    "A wise person’s ",
+    "A¦281450 wise¦281450 person’s ",
     {
      "type": "char",
      "marker": "add",
@@ -8167,7 +8526,7 @@
       "≈thoughts"
      ]
     },
-    " lead to ",
+    " lead to¦281451 ",
     {
      "type": "char",
      "marker": "add",
@@ -8187,10 +8546,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but"
+      "≈but¦281452"
      ]
     },
-    " a fool’s ",
+    " a¦281453 fool’s¦281453 ",
     {
      "type": "char",
      "marker": "add",
@@ -8198,7 +8557,7 @@
       "≈thoughts"
      ]
     },
-    " lead to ",
+    " lead to¦281454 ",
     {
      "type": "char",
      "marker": "add",
@@ -8219,7 +8578,7 @@
      "number": "3",
      "sid": "ECC 10:3"
     },
-    "and while they’re walking¦281462 along the road¦281458,\n"
+    "and¦281456 while they’re walking¦281462 along the road¦281458,\n"
    ]
   },
   {
@@ -8248,12 +8607,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and everyone¦281466 ",
+    "and¦281465 everyone¦281466 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈is aware of what a fool they are"
+      "≈is¦281467 aware of what a¦281467 fool¦281467 they are"
      ]
     },
     ".\n"
@@ -8269,7 +8628,7 @@
      "number": "4",
      "sid": "ECC 10:4"
     },
-    "If a ruler¦281473 ",
+    "If¦281470 a ruler¦281473 ",
     {
      "type": "char",
      "marker": "add",
@@ -8277,19 +8636,19 @@
       "≈gets upset with"
      ]
     },
-    " you¦281475, don’t¦281477 quit your¦281476 position,\n"
+    " you¦281475, don’t¦281477 quit your¦281476 position¦281476,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because calmness will ",
+    "because¦281480 calmness will¦281482 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈smooth over large offenses"
+      "≈smooth over large¦281484 offenses"
      ]
     },
     ".\n"
@@ -8305,7 +8664,7 @@
      "number": "5",
      "sid": "ECC 10:5"
     },
-    "I¦281488 saw ",
+    "I¦281488 saw¦281488 ",
     {
      "type": "char",
      "marker": "add",
@@ -8328,7 +8687,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "where an error¦281491 happened in front of a ruler¦281494.\n"
+    "where an¦281491 error¦281491 happened in front¦281493 of a ruler¦281494.\n"
    ]
   },
   {
@@ -8341,14 +8700,22 @@
      "number": "6",
      "sid": "ECC 10:6"
     },
-    "Foolishness can happen even in high¦281498 positions,\n"
+    "Foolishness¦281497 can happen even in¦281498 high positions,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "^and wealthy¦281500 people can be in low positions.\n"
+    "^and¦281500 wealthy¦281500 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">people"
+     ]
+    },
+    " can be in¦281501 low positions.\n"
    ]
   },
   {
@@ -8361,14 +8728,14 @@
      "number": "7",
      "sid": "ECC 10:7"
     },
-    "I’ve¦281504 seen slaves riding horses¦281508\n"
+    "I’ve¦281504 seen¦281504 slaves¦281505 riding horses¦281508\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "^and princes¦281509 walking on the ground like slaves.\n"
+    "^and¦281509 princes¦281509 walking¦281510 on¦281512 the¦281514 ground¦281514 like¦281511 slaves¦281511.\n"
    ]
   },
   {
@@ -8381,7 +8748,7 @@
      "number": "8",
      "sid": "ECC 10:8"
     },
-    "A person who digs a pit can fall into it,",
+    "A person who¦281516 digs¦281516 a¦281517 pit¦281517 can fall¦281519 into¦281518 it¦281518,",
     {
      "type": "note",
      "marker": "x",
@@ -8410,7 +8777,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and ",
+    "≈and¦281520 ",
     {
      "type": "char",
      "marker": "add",
@@ -8418,7 +8785,7 @@
       "an attacker who"
      ]
     },
-    " breaks¦281520 through¦281520 a wall¦281521 gets bitten¦281522 by a snake¦281523.\n"
+    " breaks¦281520 through¦281520 a¦281521 wall¦281521 gets bitten¦281522 by a¦281523 snake¦281523.\n"
    ]
   },
   {
@@ -8431,14 +8798,14 @@
      "number": "9",
      "sid": "ECC 10:9"
     },
-    "A person who pulls out rocks¦281526 might be hurt by them.\n"
+    "A person who¦281525 pulls out rocks¦281526 might be¦281527 hurt¦281527 by them¦281528.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Someone who splits wood might get injured by it.\n"
+    "Someone¦281529 who¦281529 splits¦281529 wood¦281530 might get injured by¦281532 it.\n"
    ]
   },
   {
@@ -8451,7 +8818,15 @@
      "number": "10",
      "sid": "ECC 10:10"
     },
-    "If your iron axe¦281537 head gets blunt¦281536 and ",
+    "If¦281534 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&your¦281537"
+     ]
+    },
+    " iron¦281537 axe¦281537 head gets blunt¦281536 and¦281538 ",
     {
      "type": "char",
      "marker": "add",
@@ -8466,7 +8841,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "then he has to use lots of strength¦281543,\n"
+    "then¦281543 he has to use lots of strength¦281543,\n"
    ]
   },
   {
@@ -8477,7 +8852,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈so use wisdom¦281549 if you want to succeed¦281546"
+      "≈so¦281545 use wisdom¦281549 if you want to¦281546 succeed¦281546"
      ]
     },
     ".\n"
@@ -8493,19 +8868,19 @@
      "number": "11",
      "sid": "ECC 10:11"
     },
-    "If a snake bites before it’s charmed,\n"
+    "If¦281551 a snake bites¦281553 before it’s¦281553 charmed¦281557,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "the snake charmer ",
+    "the¦281554 snake¦281554 charmer ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈won’t¦281555 be able to charge"
+      "≈won’t¦281555 be¦281558 able to charge"
      ]
     },
     " ",
@@ -8529,14 +8904,14 @@
      "number": "12",
      "sid": "ECC 10:12"
     },
-    "A wise person’s words¦281563 earn them favour¦281567,\n"
+    "A¦281566 wise¦281566 person’s words¦281563 earn them favour¦281567,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "but¦281568 a fool’s lips¦281568 destroy him¦281570—\n"
+    "but¦281568 a¦281569 fool’s¦281569 lips¦281568 destroy him¦281570—\n"
    ]
   },
   {
@@ -8553,7 +8928,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈as soon as he opens his mouth¦281575, foolishness comes out"
+      "≈as soon as he opens his¦281575 mouth¦281575, foolishness¦281576 comes out"
      ]
     },
     ",\n"
@@ -8563,7 +8938,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the end¦281577 of his chatter is wicked madness¦281579.\n"
+    "and¦281577 the¦281577 end¦281577 of¦281577 his¦281578 chatter is¦281579 wicked¦281580 madness¦281579.\n"
    ]
   },
   {
@@ -8576,7 +8951,7 @@
      "number": "14",
      "sid": "ECC 10:14"
     },
-    "Then¦281582 the fool ",
+    "Then¦281582 the¦281582 fool¦281582 ",
     {
      "type": "char",
      "marker": "add",
@@ -8595,7 +8970,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "No one knows¦281587 what will happen ",
+    "No one knows¦281587 what¦281589 will happen ",
     {
      "type": "char",
      "marker": "add",
@@ -8610,7 +8985,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Who can tell ",
+    "Who¦281595 can tell¦281596 ",
     {
      "type": "char",
      "marker": "add",
@@ -8639,14 +9014,14 @@
      "number": "15",
      "sid": "ECC 10:15"
     },
-    "A foolish person’s work wears him out,\n"
+    "A foolish¦281600 person’s work¦281599 wears¦281601 him¦281601 out,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because he doesn’t know how to get to a city¦281609.\n"
+    "because he¦281605 doesn’t know¦281605 how to¦281606 get to¦281607 a¦281609 city¦281609.\n"
    ]
   },
   {
@@ -8663,7 +9038,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈A¦281614 country won’t end well"
+      "≈A country¦281614 won’t end well"
      ]
     },
     "\n"
@@ -8673,7 +9048,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "if its king¦281615 is young and its princes¦281617 feast in¦281618 the morning¦281618.\n"
+    "if its king¦281615 is¦281616 young¦281616 and¦281617 its princes¦281617 feast in¦281618 the morning¦281618.\n"
    ]
   },
   {
@@ -8690,7 +9065,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈A¦281622 country is blessed¦281621 if its king¦281623 comes from a noble¦281626 family"
+      "≈A country¦281622 is blessed¦281621 if its king¦281623 comes from a¦281624 noble¦281626 family"
      ]
     },
     "\n"
@@ -8700,15 +9075,23 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and its princes¦281627 eat¦281629 ",
+    "and¦281627 its princes¦281627 eat¦281629 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "and drink¦281632"
+      "and drink"
      ]
     },
-    " for strength¦281630 and not for drunkenness¦281632.\n"
+    " for¦281630 strength¦281630 and¦281631 not¦281631 for¦281632 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈drunkenness¦281632"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -8729,7 +9112,7 @@
       "≈a lazy owner"
      ]
     },
-    ", the roof¦281636 beams will sag.\n"
+    ", the¦281636 roof¦281636 beams will sag.\n"
    ]
   },
   {
@@ -8741,7 +9124,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈will result in¦281637 a leaky house¦281640"
+      "≈will result in a leaky house¦281640"
      ]
     },
     ".\n"
@@ -8771,14 +9154,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "wine makes¦281646 people¦281643 glad,\n"
+    "wine¦281645 makes¦281646 people¦281643 glad¦281646,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and money¦281648 is the answer¦281649 to everything¦281652.\n"
+    "and¦281648 money¦281648 is the¦281652 answer¦281649 to everything¦281652.\n"
    ]
   },
   {
@@ -8791,29 +9174,29 @@
      "number": "20",
      "sid": "ECC 10:20"
     },
-    "Don’t curse the king¦281656 even in your mind,\n"
+    "Don’t¦281657 curse¦281659 the king¦281656 even in your¦281661 mind¦281655,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and don’t¦281657 curse the rich even in your bedroom,\n"
+    "≈and don’t¦281662 curse¦281664 the rich¦281665 even in your bedroom¦281660,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because a ",
+    "because¦281666 a ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈little birdie"
+      "≈little birdie¦281667"
      ]
     },
-    " will carry¦281669 ",
+    " will¦281669 carry¦281669 ",
     {
      "type": "char",
      "marker": "add",
@@ -8828,7 +9211,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and some ",
+    "≈and¦281673 some ",
     {
      "type": "char",
      "marker": "add",
@@ -8836,7 +9219,7 @@
       "≈feathered critter"
      ]
     },
-    " will pass on¦281655 ",
+    " will¦281676 pass on ",
     {
      "type": "char",
      "marker": "add",
@@ -8885,14 +9268,14 @@
       "out"
      ]
     },
-    " onto the waters¦281684\n"
+    " onto the¦281684 waters¦281684\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because you’ll find it¦281689 ",
+    "because¦281685 you’ll¦281689 find¦281689 it¦281689 ",
     {
      "type": "char",
      "marker": "add",
@@ -8900,7 +9283,7 @@
       "again"
      ]
     },
-    " in¦281687 several days¦281688.\n"
+    " in several days¦281688.\n"
    ]
   },
   {
@@ -8917,7 +9300,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Share it¦281702 around"
+      "≈Share¦281693 it around"
      ]
     },
     " seven¦281694 or eight¦281696 ",
@@ -8935,7 +9318,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "because you¦281699 don’t¦281698 know¦281699 when a calamity¦281703 will hit ",
+    "because¦281697 you¦281699 don’t¦281698 know¦281699 when¦281695 a calamity¦281703 will¦281702 hit ",
     {
      "type": "char",
      "marker": "add",
@@ -8956,21 +9339,21 @@
      "number": "3",
      "sid": "ECC 11:3"
     },
-    "If the clouds¦281711 are filled¦281710 with¦281721 rain, they’ll pour it out,\n"
+    "If¦281708 the¦281711 clouds¦281711 are¦281710 filled¦281710 with rain¦281712, they’ll¦281716 pour¦281716 it out¦281716,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and if a tree falls to the north¦281723 or the south¦281721,\n"
+    "and¦281717 if¦281717 a¦281720 tree¦281720 falls¦281719 to the north¦281723 or the¦281724 south¦281721,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "wherever it falls, that’s where it’ll be.\n"
+    "wherever¦281725 it¦281725 falls¦281725, that’s where¦281725 it’ll¦281728 be.\n"
    ]
   },
   {
@@ -8983,12 +9366,12 @@
      "number": "4",
      "sid": "ECC 11:4"
     },
-    "A person who ",
+    "A person who¦281730 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈worries about"
+      "≈worries about¦281730"
      ]
     },
     " the wind¦281731,\n"
@@ -8998,7 +9381,7 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "won’t¦281732 sow ",
+    "won’t¦281732 sow¦281733 ",
     {
      "type": "char",
      "marker": "add",
@@ -9013,7 +9396,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and¦281734 someone who ",
+    "≈and¦281734 someone¦281734 who¦281734 ",
     {
      "type": "char",
      "marker": "add",
@@ -9021,14 +9404,14 @@
       "keeps"
      ]
     },
-    " looking at¦281735 the clouds¦281735,\n"
+    " looking¦281734 at the clouds¦281735,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "will never harvest ",
+    "will¦281737 never harvest¦281737 ",
     {
      "type": "char",
      "marker": "add",
@@ -9049,12 +9432,12 @@
      "number": "5",
      "sid": "ECC 11:5"
     },
-    "Just as you don’t¦281740 know ",
+    "Just¦281739 as¦281739 you¦281740 don’t know¦281741 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈how the winds work"
+      "≈how the¦281744 winds¦281745 work¦281754"
      ]
     },
     ",\n"
@@ -9071,14 +9454,14 @@
       "or how"
      ]
     },
-    " the bones¦281746 get into a pregnant¦281748 woman’s womb,\n"
+    " the bones¦281746 get into¦281747 a pregnant woman’s womb¦281747,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "nor do you know how God does everything¦281760 that he does.\n"
+    "nor do you¦281751 know¦281751 how God does everything¦281760 that¦281756 he¦281757 does.\n"
    ]
   },
   {
@@ -9091,21 +9474,21 @@
      "number": "6",
      "sid": "ECC 11:6"
     },
-    "Sow your seed in the morning¦281762\n"
+    "Sow¦281763 your¦281766 seed¦281766 in the morning¦281762\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "and don’t stop planting until the evening¦281767,\n"
+    "and¦281767 don’t stop planting until the evening¦281767,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because you¦281773 don’t know which ",
+    "because¦281772 you¦281773 don’t know¦281774 which ",
     {
      "type": "char",
      "marker": "add",
@@ -9113,14 +9496,14 @@
       "areas"
      ]
     },
-    " will grow well,\n"
+    " will¦281778 grow well,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "or whether¦281779 it¦281778 will all ",
+    "or whether it¦281778 will all ",
     {
      "type": "char",
      "marker": "add",
@@ -9128,12 +9511,19 @@
       "≈succeed¦281778"
      ]
     },
-    " equally¦281786.\n"
+    " equally.\n"
    ]
   },
   {
    "type": "para",
    "marker": "b"
+  },
+  {
+   "type": "para",
+   "marker": "rem",
+   "content": [
+    "/s1 Advice for Old and Young; Youth and Old Age; Remember Your Creator While Young\n"
+   ]
   },
   {
    "type": "para",
@@ -9145,21 +9535,14 @@
      "number": "7",
      "sid": "ECC 11:7"
     },
-    "Light is sweet¦281789\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Advice for Old and Young; Youth and Old Age; Remember Your Creator While Young\n"
+    "Light¦281790 is¦281789 sweet¦281789\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "and¦281791 it’s good¦281791 for ",
+    "and¦281791 it’s good¦281791 for¦281792 ",
     {
      "type": "char",
      "marker": "add",
@@ -9167,7 +9550,7 @@
       "&your"
      ]
     },
-    " eyes¦281792 to see¦281793 the sun¦281796.\n"
+    " eyes¦281792 to¦281793 see¦281793 the¦281796 sun¦281796.\n"
    ]
   },
   {
@@ -9180,14 +9563,14 @@
      "number": "8",
      "sid": "ECC 11:8"
     },
-    "Even if a person lives for many years¦281801,\n"
+    "Even if a person¦281804 lives¦281803 for many years¦281801,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "they¦281815 should¦281806 take¦281806 pleasure¦281806 in¦281805 all of them,\n"
+    "they should¦281806 take¦281806 pleasure¦281806 in¦281805 all¦281805 of¦281805 them¦281805,\n"
    ]
   },
   {
@@ -9201,14 +9584,22 @@
       "≈but¦281807"
      ]
     },
-    " remember¦281807 the dark days¦281810\n"
+    " remember¦281807 the¦281810 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈dark¦281811"
+     ]
+    },
+    " days¦281810\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because everything that happens is pointless.\n"
+    "because¦281812 everything that¦281818 happens is¦281819 pointless.\n"
    ]
   },
   {
@@ -9235,12 +9626,20 @@
      "number": "9",
      "sid": "ECC 11:9"
     },
-    "Young people, enjoy ",
+    "Young¦281822 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈being young¦281822 and strong"
+      "#people¦281822"
+     ]
+    },
+    ", enjoy ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈being young¦281823 and strong"
      ]
     },
     "\n"
@@ -9250,7 +9649,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and stay cheerful¦281824 during ",
+    "and stay cheerful during¦281826 ",
     {
      "type": "char",
      "marker": "add",
@@ -9265,7 +9664,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Follow your ",
+    "Follow¦281828 your¦281830 ",
     {
      "type": "char",
      "marker": "add",
@@ -9273,12 +9672,12 @@
       "≈ambitions"
      ]
     },
-    " and your ",
+    " and¦281831 your¦281832 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈desires¦281831"
+      "≈desires"
      ]
     },
     "\n"
@@ -9292,10 +9691,26 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but¦281824"
+      "≈but¦281833"
      ]
     },
-    " be aware that God will judge¦281842 you concerning all those things.\n"
+    " be aware¦281833 that¦281834 God ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈will¦281840 judge¦281842"
+     ]
+    },
+    " you¦281840 concerning all¦281837 those¦281839 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">things"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -9316,24 +9731,24 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Don’t allow yourself to be controlled by"
+      "^Don’t allow yourself to be controlled by anger"
      ]
     },
-    " anger\n"
+    "\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and keep your body¦281849 away from evil¦281848,\n"
+    "and¦281844 keep your¦281846 body¦281849 away¦281847 from evil¦281848,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because youth¦281852 and ",
+    "because¦281850 youth¦281852 and¦281853 ",
     {
      "type": "char",
      "marker": "add",
@@ -9341,7 +9756,7 @@
       "≈good looks"
      ]
     },
-    " are a vapour ",
+    " are¦281854 a vapour ",
     {
      "type": "char",
      "marker": "add",
@@ -9372,15 +9787,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Think about"
+      "≈Think¦281856 about¦281856"
      ]
     },
-    " your¦281861 creator¦281859 ",
+    " your¦281859 creator¦281859 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈while you’re still young"
+      "≈while you’re still young¦281861"
      ]
     },
     ",\n"
@@ -9395,7 +9810,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈troubling¦281868 times"
+      "≈troubling times"
      ]
     },
     " come¦281866\n"
@@ -9405,7 +9820,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦281856 the years¦281870 arrive¦281869 when you’ll say¦281872 that¦281871 you no longer ",
+    "and the years¦281870 arrive¦281869 when you’ll¦281872 say¦281872 that¦281863 you no longer ",
     {
      "type": "char",
      "marker": "add",
@@ -9413,7 +9828,7 @@
       "find"
      ]
     },
-    " pleasure¦281877 in¦281860 them.\n"
+    " pleasure¦281877 in¦281876 them¦281876.\n"
    ]
   },
   {
@@ -9433,7 +9848,7 @@
       "Yes,"
      ]
     },
-    " before the sun¦281884 and the light¦281885, and the moon¦281886 and the stars¦281887 ",
+    " before the¦281884 sun¦281884 and¦281885 the¦281885 light¦281885, and¦281886 the¦281886 moon¦281886 and¦281887 the¦281887 stars¦281887 ",
     {
      "type": "char",
      "marker": "add",
@@ -9441,14 +9856,14 @@
       "seem"
      ]
     },
-    " darker,\n"
+    " darker¦281883,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the clouds¦281889 return¦281888 after¦281890 the rain.\n"
+    "and¦281888 the¦281889 clouds¦281889 return¦281888 after¦281890 the¦281891 rain¦281891.\n"
    ]
   },
   {
@@ -9461,21 +9876,29 @@
      "number": "3",
      "sid": "ECC 12:3"
     },
-    "That day¦281893 when the guards of the house¦281896 will get the trembles¦281894\n"
+    "That day¦281893 when¦281894 the guards¦281895 of the¦281896 house¦281896 will¦281897 get¦281903 the¦281898 trembles¦281894\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the strong¦281899 men will be bent over,\n"
+    "and the¦281899 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈strong¦281899"
+     ]
+    },
+    " men¦281898 will be bent¦281897 over,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the ",
+    "and the¦281901 ",
     {
      "type": "char",
      "marker": "add",
@@ -9491,7 +9914,7 @@
       "grain"
      ]
     },
-    " will stop because there’s only a few of them ",
+    " will¦281900 stop¦281900 because¦281902 there’s only a few¦281903 of them ",
     {
      "type": "char",
      "marker": "add",
@@ -9506,7 +9929,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the ",
+    "and¦281904 the¦281905 ",
     {
      "type": "char",
      "marker": "add",
@@ -9514,7 +9937,7 @@
       "women"
      ]
     },
-    " looking out the windows will no longer see¦281904 clearly.",
+    " looking¦281905 out the windows¦281906 will no longer see clearly.",
     {
      "type": "note",
      "marker": "f",
@@ -9550,14 +9973,14 @@
      "number": "4",
      "sid": "ECC 12:4"
     },
-    "Then¦281908 the doors¦281909 in¦281910 the street¦281910 will be shut\n"
+    "Then¦281908 the¦281909 doors¦281909 in the street¦281910 will¦281908 be¦281908 shut¦281908\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "so that the grinding¦281913 that ",
+    "so that the¦281913 grinding¦281913 that ",
     {
      "type": "char",
      "marker": "add",
@@ -9565,7 +9988,7 @@
       "≈gets louder"
      ]
     },
-    " with¦281910 the first birdsong will be ",
+    " with the first birdsong will be ",
     {
      "type": "char",
      "marker": "add",
@@ -9580,7 +10003,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦281908 all the girls singing will be ",
+    "and¦281917 all¦281918 the¦281920 girls¦281920 singing¦281921 will be ",
     {
      "type": "char",
      "marker": "add",
@@ -9601,49 +10024,81 @@
      "number": "5",
      "sid": "ECC 12:5"
     },
-    "The people¦281925 will also become afraid¦281925 of heights¦281924\n"
+    "The people¦281925 will¦281925 also¦281923 become afraid¦281925 of heights¦281924\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the road¦281927 will have its¦281941 terrors¦281926.\n"
+    "and¦281926 the road¦281927 will have ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&its"
+     ]
+    },
+    " terrors¦281926.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The almond¦281929 trees will blossom¦281928\n"
+    "The¦281929 almond¦281929 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#trees¦281929"
+     ]
+    },
+    " will¦281928 blossom¦281928\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the locusts will drag themselves along¦281930.\n"
+    "and¦281930 the¦281931 locusts will¦281930 drag¦281930 themselves along¦281930.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Normal desires¦281933 will be lost\n"
+    "Normal desires will¦281932 be lost\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because you’ll be heading for your eternal¦281941 home\n"
+    "because¦281934 you’ll be¦281936 heading for your ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈eternal¦281941"
+     ]
+    },
+    " home\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and the mourners¦281947 will be in¦281927 the streets¦281943.\n"
+    "and¦281942 the mourners¦281947 will¦281942 be in¦281943 the¦281947 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#streets¦281943"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -9663,28 +10118,28 @@
       "≡Think about God"
      ]
     },
-    " before the silver¦281956 cord gets broken¦281960\n"
+    " before the¦281956 silver¦281956 cord¦281955 gets broken\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and the golden¦281959 bowl breaks,\n"
+    "≈and¦281957 the¦281958 golden¦281959 bowl¦281958 breaks¦281960,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "the pitcher shatters¦281960 at the well\n"
+    "the¦281961 pitcher shatters at¦281962 the¦281964 well¦281969\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and the wheel¦281966 is crushed at the cistern¦281969,\n"
+    "≈and¦281965 the¦281966 wheel¦281966 is¦281965 crushed¦281965 at the¦281969 cistern,\n"
    ]
   },
   {
@@ -9697,14 +10152,14 @@
      "number": "7",
      "sid": "ECC 12:7"
     },
-    "the dust returns to the earth¦281975 as it was\n"
+    "the¦281972 dust¦281972 returns¦281971 to¦281973 the¦281975 earth¦281975 as¦281976 it¦281976 was¦281976\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦281971 the spirit¦281977 returns to God¦281981 who gave¦281983 it.\n"
+    "and¦281977 the¦281977 spirit¦281977 returns¦281978 to¦281979 God who¦281982 gave¦281983 it¦281983.\n"
    ]
   },
   {
@@ -9722,10 +10177,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Nothing but a puff of air"
+      "≈Nothing but a puff of¦281985 air"
      ]
     },
-    ",” says the leader. “Everything is pointless.”\n"
+    ",” says¦281987 the¦281989 leader. “Everything¦281989 is¦281990 pointless¦281986.”\n"
    ]
   },
   {
@@ -9752,7 +10207,7 @@
      "number": "9",
      "sid": "ECC 12:9"
     },
-    "Besides the fact that the leader was wise, he still taught¦281997 the people¦282002 knowledge¦281999, and he searched¦282004 and evaluated. He ",
+    "Besides the fact that¦281993 the leader was¦281993 wise¦281995, he¦281997 still taught¦281997 the¦282002 people¦282002 knowledge¦281999, and he searched¦282004 and evaluated. He¦282005 ",
     {
      "type": "char",
      "marker": "add",
@@ -9760,19 +10215,19 @@
       "≈arranged¦282005 and edited"
      ]
     },
-    " many proverbs¦282006.\n",
+    " many¦282007 proverbs¦282006.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "ECC 12:10"
     },
-    "The leader searched for pleasing words, and¦282015 wrote¦282015 down many truthful¦282018 words ",
+    "The leader searched¦282009 for pleasing¦282014 words¦282012, and¦282015 wrote¦282015 down many truthful¦282018 words¦282017 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "that¦282015 would lead to"
+      "that would lead to"
      ]
     },
     " godliness.\n"
@@ -9788,12 +10243,20 @@
      "number": "11",
      "sid": "ECC 12:11"
     },
-    "The words¦282020 of wise people ",
+    "The¦282020 words¦282020 of¦282020 wise¦282021 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈can prod"
+      ">people"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈can prod¦282022"
      ]
     },
     " ",
@@ -9811,14 +10274,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and¦282023 they’re like nails¦282023 holding things firm.\n"
+    "and¦282023 they’re like¦282023 nails¦282023 holding things firm¦282024.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "They’re ",
+    "They’re¦282027 ",
     {
      "type": "char",
      "marker": "add",
@@ -9826,7 +10289,7 @@
       "all"
      ]
     },
-    " given¦282027 by one shepherd¦282028.\n"
+    " given¦282027 by one¦282029 shepherd¦282028.\n"
    ]
   },
   {
@@ -9839,7 +10302,7 @@
      "number": "12",
      "sid": "ECC 12:12"
     },
-    "My¦282033 son, be careful of anything in addition¦282031 to these¦282032,\n"
+    "My¦282033 son¦282033, be¦282034 careful of anything in addition to¦282035 these,\n"
    ]
   },
   {
@@ -9858,7 +10321,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈too much study¦282040 wears you out"
+      "≈too much¦282041 study¦282040 wears you out"
      ]
     },
     ".\n"
@@ -9878,7 +10341,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈So after listening to everything¦282047, here’s the final conclusion"
+      "≈So after listening¦282048 to everything¦282047, here’s the¦282051 final conclusion¦282045"
      ]
     },
     ":\n"
@@ -9892,17 +10355,17 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Respect God and strive to follow him"
+      "≈Respect¦282052 God and strive to follow him"
      ]
     },
-    " and obey his commands¦282055,\n"
+    " and obey his¦282055 commands¦282055,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because that’s humanity’s¦282062 whole ",
+    "because¦282057 that’s humanity’s¦282062 whole¦282060 ",
     {
      "type": "char",
      "marker": "add",
@@ -9930,12 +10393,12 @@
       "≈Yes,"
      ]
     },
-    " God will ",
+    " God will¦282071 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈judge¦282072 everything we do"
+      "≈judge¦282072 everything¦282074 we do"
      ]
     },
     "\n"

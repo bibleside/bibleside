@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:12 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "Filippaʸsios\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -1000,7 +995,7 @@
       "god¦131389"
      ]
     },
-    " him¦131390 highly¦131391_exalted¦131391, and¦131392 granted¦131393 to¦131394_him¦131394 the¦131395 name¦131396 untr which¦131397untr* above¦131398 every¦131399 name¦131400,\n",
+    " him¦131390 highly¦131391_elevated¦131391, and¦131392 granted¦131393 to¦131394_him¦131394 the¦131395 name¦131396 untr which¦131397untr* above¦131398 every¦131399 name¦131400,\n",
     {
      "type": "verse",
      "marker": "v",
