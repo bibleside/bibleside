@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "PHM",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.51"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.3"
    ]
   },
   {
@@ -35,21 +35,21 @@
    "type": "para",
    "marker": "h",
    "content": [
-    "Philemon\n"
+    "Filemon\n"
    ]
   },
   {
    "type": "para",
    "marker": "toc1",
    "content": [
-    "Philemon\n"
+    "Filemon\n"
    ]
   },
   {
    "type": "para",
    "marker": "toc2",
    "content": [
-    "Philemon\n"
+    "Filemon\n"
    ]
   },
   {
@@ -63,14 +63,14 @@
    "type": "para",
    "marker": "mt2",
    "content": [
-    "Paul’s letter to\n"
+    "Paulos’s letter to\n"
    ]
   },
   {
    "type": "para",
    "marker": "mt1",
    "content": [
-    "Philemon\n"
+    "Filemon\n"
    ]
   },
   {
@@ -84,22 +84,22 @@
    "type": "para",
    "marker": "ip",
    "content": [
-    "Philemon was known to be a follower of Yeshua and he was a member of a group of believers in the city of Colossae. He was the owner of a slave named Onesimus. Onesimus had fled from his master and eventually met Paul the missionary in prison in Rome. It was there that Onesimus became a believer in Yeshua because of Paul’s sharing of the good message. Here in ",
+    "Filemon was known to be a follower of Yeshua and he was a member of a group of believers in Kolossai city. He was the owner of a slave named Onesimos. Onesimos had fled from his master and eventually met Paulos the missionary in prison in Romai/Rome. It was there that Onesimos became a believer in Yeshua because of Paulos’s sharing of the good message. Here in ",
     {
      "type": "char",
      "marker": "bk",
      "content": [
-      "Paul’s letter to Philemon"
+      "Paulos’s letter to Filemon"
      ]
     },
-    ", Paul requests that the good relationship be restored between Philemon and his slave, Onesimus. Because Paul sent Onesimus back to Philemon, he wanted Philemon to take his slave back in, not just because he’d forgiven his slave, but also because his slave was now a fellow believer and hence his brother.\n"
+    ", Paulos requests that the good relationship be restored between Filemon and his slave, Onesimos. Because Paulos sent Onesimos back to Filemon, he wanted Filemon to take his slave back in, not just because he’d forgiven his slave, but also because his slave was now a fellow believer and hence his brother.\n"
    ]
   },
   {
    "type": "para",
    "marker": "iot",
    "content": [
-    "Main components of Paul’s letter\n"
+    "Main components of Paulos’s letter\n"
    ]
   },
   {
@@ -120,7 +120,7 @@
    "type": "para",
    "marker": "io1",
    "content": [
-    "Praising Philemon ",
+    "Praising Filemon ",
     {
      "type": "char",
      "marker": "ior",
@@ -134,7 +134,7 @@
    "type": "para",
    "marker": "io1",
    "content": [
-    "Paul’s request to Philemon concerning Onesimus ",
+    "Paulos’s request to Filemon concerning Onesimos ",
     {
      "type": "char",
      "marker": "ior",
@@ -162,7 +162,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -180,14 +180,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Greetings from Paul\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Salutation\n"
+    "/s1 Greetings from Paul; Salutation\n"
    ]
   },
   {
@@ -207,15 +200,23 @@
       "This letter is from"
      ]
     },
-    " Paul, a prisoner¦140603 of ",
+    " Paulos¦140602, a¦140603 prisoner¦140603 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "messiah¦140604 Yeshua"
+      "of¦140604 messiah¦140604 Yeshua¦140605"
      ]
     },
-    ", and our brother¦140609 Timothy¦140607. ",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦140605; Grk¦140605. Yesus¦140605)"
+     ]
+    },
+    ", and¦140606 our¦140608 brother¦140609 Timotheos¦140607. ",
     {
      "type": "char",
      "marker": "add",
@@ -223,13 +224,30 @@
       "I’m writing"
      ]
     },
-    " to our dear co-worker Philemon¦140610,\n",
+    " to¦140610 our¦140615 dear¦140612 co-worker Filemon¦140610 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Philemon¦140610)"
+     ]
+    },
+    ",\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "PHM 1:2"
     },
+    "as well as ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&our¦140618"
+     ]
+    },
+    " sister¦140619 Apfia¦140617 and¦140621 our¦140625 fellow-soldier¦140624 Arkippos¦140622,",
     {
      "type": "note",
      "marker": "x",
@@ -251,15 +269,7 @@
      ],
      "caller": "+"
     },
-    "as well as ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "our"
-     ]
-    },
-    " sister¦140619 Apphia¦140617 and our fellow-soldier Archippus¦140622, and to the assembly¦140631 ",
+    " and¦140626 to¦140627 the¦140627 assembly¦140631 ",
     {
      "type": "char",
      "marker": "add",
@@ -267,7 +277,7 @@
       "that meets"
      ]
     },
-    " in your¦140630 home.\n",
+    " in¦140628 your¦140630 home¦140629.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -278,10 +288,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "May you¦140633 all experience"
+      "May you all experience"
      ]
     },
-    " grace¦140632 and peace¦140635 from our¦140639 father¦140638 ",
+    " grace¦140632 and¦140634 peace¦140635 from¦140636 our¦140639 father¦140638 ",
     {
      "type": "char",
      "marker": "nd",
@@ -289,12 +299,12 @@
       "God¦140637"
      ]
     },
-    " and from the ",
+    " and¦140640 from ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "master¦140641 Yeshua"
+      "the¦140641 master¦140641 Yeshua¦140642"
      ]
     },
     " ",
@@ -320,28 +330,14 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "Paul’s prayer and gratefulness\n"
+    "Paulos’s prayer and gratefulness\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Paul’s Thanksgiving and Prayer\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Thanksgiving and Prayer\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Philemon’s Love and Faith\n"
+    "/s1 Paul’s Thanksgiving and Prayer; Philemon’s Love and Faith\n"
    ]
   },
   {
@@ -358,10 +354,18 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Philemon,"
+      "Filemon"
      ]
     },
-    " I’m always¦140648 thanking¦140644 my ",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Philemon)"
+     ]
+    },
+    ", I’m¦140644 always¦140648 thanking¦140644 my ",
     {
      "type": "char",
      "marker": "nd",
@@ -369,7 +373,7 @@
       "God¦140646"
      ]
     },
-    " and mentioning¦140649 you¦140650 in my prayers¦140654\n",
+    " and mentioning¦140649 you¦140650 in¦140652 my prayers¦140654\n",
     {
      "type": "verse",
      "marker": "v",
@@ -383,7 +387,7 @@
       "after"
      ]
     },
-    " hearing¦140656 your faith¦140662 and about your love¦140659 for the ",
+    " hearing¦140656 your¦140657 faith¦140662 and about your love¦140659 for the¦140667 ",
     {
      "type": "char",
      "marker": "nd",
@@ -391,7 +395,15 @@
       "master¦140668 Yeshua¦140669"
      ]
     },
-    " and for all the believers.\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦140669; Grk¦140669. Yesus¦140669)"
+     ]
+    },
+    " and¦140670 for all¦140672 the¦140673 believers.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -402,10 +414,18 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "I pray that¦140687"
+      "I pray that"
      ]
     },
-    " the fellowship¦140677 of your¦140680 faith¦140679 may become¦140682 active¦140681 in the knowledge¦140684 of every¦140685 good¦140686 thing in us toward¦140691 ",
+    " the¦140676 fellowship¦140677 of¦140678 your¦140680 faith¦140679 may¦140682 become¦140682 active¦140681 in¦140683 the¦140684 knowledge¦140684 of¦140685 every¦140685 good¦140686 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">thing"
+     ]
+    },
+    " in¦140688 us¦140689 toward¦140691 ",
     {
      "type": "char",
      "marker": "add",
@@ -421,49 +441,28 @@
       "messiah¦140692"
      ]
     },
-    ", [WHAT DOES THAT MEAN???]\n",
+    ", [WHAT DOES THAT¦140675 MEAN???]\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "PHM 1:7"
     },
-    "because I was very happy and encouraged by your¦140705 love¦140704, because the hearts¦140708 of the believers have been refreshed¦140711 by you, brother¦140714.\n"
+    "because¦140696 I¦140699 was very happy and¦140700 encouraged by¦140702 your¦140705 love¦140704, because¦140706 the¦140707 hearts¦140708 of¦140709 the¦140709 believers have¦140711 been¦140711 refreshed¦140711 by¦140712 you¦140713, brother¦140714.\n"
    ]
   },
   {
    "type": "para",
    "marker": "s1",
    "content": [
-    "Paul’s request to Philemon concerning Onesimus\n"
+    "Paulos’s request to Filemon concerning Onesimos\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 A Request for Onesimus\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Paul’s Plea for Onesimus\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Paul’s Appeal for Onesimus\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 A runaway slave\n"
+    "/s1 A Request for Onesimus; Paul’s Plea for Onesimus; Paul’s Appeal for Onesimus; A runaway slave\n"
    ]
   },
   {
@@ -476,44 +475,45 @@
      "number": "8",
      "sid": "PHM 1:8"
     },
-    "Therefore¦140715, with the help of the ",
+    "Therefore¦140715, with the help of ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "messiah¦140718"
+      "the¦140718 messiah¦140718"
      ]
     },
-    ", I would be brave enough to tell you what you need to do,\n",
+    ", I would be¦140721 brave enough to¦140722 tell you¦140722 what¦140723 you need to do,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "PHM 1:9"
     },
-    "but¦140738 because¦140725 of love¦140728 as Paul¦140734, an older¦140735 man¦140735 and¦140738 now also a prisoner¦140740 for ",
+    "but because¦140725 of¦140725 love¦140728 as¦140733 Paulos¦140734, an¦140735 older¦140735 man¦140735 and¦140738 now¦140736 also¦140739 a¦140740 prisoner¦140740 for ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "Yeshua¦140742 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦140742; Grk¦140742. Yesus¦140742)"
+       ]
+      },
+      " the¦140741 messiah¦140741"
      ]
     },
-    " the ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "messiah¦140741"
-     ]
-    },
-    ", I’m just going to encourage you¦140730 to do it.\n",
+    ", I’m¦140730 just going to encourage you¦140730 to do it.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "PHM 1:10"
     },
+    "So I’m¦140744 going to encourage you¦140745 concerning Onesimos¦140757",
     {
      "type": "note",
      "marker": "x",
@@ -535,7 +535,7 @@
      ],
      "caller": "+"
     },
-    "So I’m going to encourage you¦140745 concerning Onesimus¦140757 who became my ",
+    " who¦140750 became my¦140754 ",
     {
      "type": "char",
      "marker": "add",
@@ -543,14 +543,14 @@
       "spiritual"
      ]
     },
-    " ‘son’ since I’ve been imprisoned.\n",
+    " ‘son¦140749’ since I’ve¦140752 been imprisoned.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "PHM 1:11"
     },
-    "Before, he was useless¦140761 to you, but¦140766 now he’s useful¦140768 to both of us.\n"
+    "Before, he was useless¦140761 to¦140760 you¦140760, but¦140763 now¦140762 he’s useful¦140768 to both of us.\n"
    ]
   },
   {
@@ -563,14 +563,14 @@
      "number": "12",
      "sid": "PHM 1:12"
     },
-    "I sent¦140770 him¦140774 to you¦140772 (even though in my heart¦140779\n",
+    "I¦140770 sent¦140770 him¦140774 to¦140772 you¦140772 (even though in my¦140778 heart¦140779\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "PHM 1:13"
     },
-    "I wanted to keep him ",
+    "I¦140782 wanted¦140783 to¦140786 keep¦140786 him ",
     {
      "type": "char",
      "marker": "add",
@@ -578,7 +578,7 @@
       "here"
      ]
     },
-    ") so that he might be serving¦140791 me ",
+    ") so that¦140787 he¦140791 might¦140791 be¦140791 serving¦140791 me ",
     {
      "type": "char",
      "marker": "add",
@@ -586,14 +586,14 @@
       "here due to"
      ]
     },
-    " the bonds¦140795 of the good¦140797 message¦140797,\n",
+    " the¦140794 bonds¦140795 of¦140796 the¦140796 good¦140797 message¦140797,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "PHM 1:14"
     },
-    "but I didn’t¦140807 want to do anything without ",
+    "but¦140799 I¦140804 didn’t want¦140804 to¦140805 do¦140805 anything without ",
     {
      "type": "char",
      "marker": "add",
@@ -601,7 +601,7 @@
       "hearing"
      ]
     },
-    " your¦140813 opinion¦140802, so that you’re not doing good¦140812 because you have to, but rather because you want to.\n"
+    " your¦140801 opinion¦140802, so that¦140806 you’re not¦140807 doing good¦140812 because you¦140813 have to, but¦140815 rather because you want to¦140816.\n"
    ]
   },
   {
@@ -614,7 +614,7 @@
      "number": "15",
      "sid": "PHM 1:15"
     },
-    "It was possibly¦140818 because¦140820 of that that he¦140822 was separated¦140822 ",
+    "It was possibly¦140818 because¦140820 of¦140820 that that he¦140822 was¦140822 separated¦140822 ",
     {
      "type": "char",
      "marker": "add",
@@ -622,7 +622,7 @@
       "from you"
      ]
     },
-    " for a while, so that on the eternal¦140826 ",
+    " for¦140823 a while, so that¦140825 on the eternal¦140826 ",
     {
      "type": "char",
      "marker": "add",
@@ -630,14 +630,14 @@
       "scale"
      ]
     },
-    " you could fully¦140828 accept him¦140827,\n",
+    " you¦140828 could¦140828 fully¦140828 accept¦140828 him,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "PHM 1:16"
     },
-    "no longer¦140829 as a slave, but better than a slave—a dear brother to me most of all, but preferably ",
+    "no¦140829 longer¦140829 as¦140830 a¦140831 slave¦140831, but¦140832 better than a¦140834 slave¦140834—a¦140835 dear¦140836 brother¦140835 to me most¦140837 of¦140837 all¦140837, but¦140840 preferably ",
     {
      "type": "char",
      "marker": "add",
@@ -645,7 +645,7 @@
       "also"
      ]
     },
-    " to you—a brother in the body¦140845 and in ",
+    " to¦140842 you¦140842—a brother in¦140844 the¦140845 body¦140845 and¦140846 in¦140847 ",
     {
      "type": "char",
      "marker": "nd",
@@ -666,14 +666,14 @@
      "number": "17",
      "sid": "PHM 1:17"
     },
-    "Therefore¦140850, if you consider me as your partner¦140853, accept him¦140855 like you’d accept me,\n",
+    "Therefore¦140850, if¦140849 you¦140852 consider me as your partner¦140853, accept¦140854 him¦140855 like¦140856 you’d accept me¦140857,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "18",
      "sid": "PHM 1:18"
     },
-    "but¦140859 if he¦140861 did anything wrong¦140861 to you or owes you anything, charge it to me.\n",
+    "but¦140859 if¦140858 he¦140861 did¦140861 anything wrong¦140861 to¦140862 you¦140862 or¦140863 owes¦140864 you¦140864 anything, charge it to¦140867 me¦140867.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -684,7 +684,7 @@
      "type": "char",
      "marker": "sig",
      "content": [
-      "I, Paul¦140870, wrote¦140871 this bit in my own handwriting. I will pay back anything ",
+      "I¦140869, Paulos¦140870, wrote¦140871 this bit in my¦140873 own handwriting¦140874. I¦140875 will¦140876 pay¦140876 back¦140876 anything ",
       {
        "type": "char",
        "marker": "add",
@@ -692,7 +692,7 @@
         "he owes you"
        ]
       },
-      ", then I won’t¦140878 need to be reminding you that you ",
+      ", then I¦140879 won’t¦140878 need to¦140880 be reminding you¦140880 that¦140881 you ",
       {
        "type": "char",
        "marker": "add",
@@ -700,7 +700,7 @@
         "pretty much"
        ]
       },
-      " owe yourself¦140883 to me."
+      " owe¦140887 yourself¦140883 to¦140886 me¦140886."
      ]
     },
     "\n",
@@ -714,7 +714,7 @@
      "type": "char",
      "marker": "sig",
      "content": [
-      "Yes, brother¦140889, ",
+      "Yes¦140888, brother¦140889, ",
       {
        "type": "char",
        "marker": "add",
@@ -722,7 +722,7 @@
         "with both of us being"
        ]
       },
-      " in ",
+      " in¦140893 ",
       {
        "type": "char",
        "marker": "nd",
@@ -730,7 +730,7 @@
         "Yahweh¦140894"
        ]
       },
-      ", I might¦140892 ",
+      ", I¦140890 might¦140892 ",
       {
        "type": "char",
        "marker": "add",
@@ -738,7 +738,7 @@
         "hopefully"
        ]
       },
-      " benefit¦140892 from you¦140891—refresh¦140895 my¦140896 heart¦140898 in ",
+      " benefit¦140892 from you—refresh¦140895 my¦140896 heart¦140898 in¦140899 ",
       {
        "type": "char",
        "marker": "add",
@@ -774,7 +774,7 @@
      "type": "char",
      "marker": "sig",
      "content": [
-      "I wrote¦140906 to you because I was sure that you’d obey ",
+      "I¦140906 wrote¦140906 to¦140907 you¦140907 because I was sure that you’d obey ",
       {
        "type": "char",
        "marker": "add",
@@ -782,7 +782,7 @@
         "my request"
        ]
       },
-      ", in fact knowing¦140908 that you’d do even more than what I ask."
+      ", in fact knowing¦140908 that¦140909 you’d do even¦140910 more than what¦140912 I¦140914 ask¦140914."
      ]
     },
     "\n"
@@ -792,7 +792,7 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "Paul’s final greetings\n"
+    "Paulos’s final greetings\n"
    ]
   },
   {
@@ -813,10 +813,10 @@
        "type": "char",
        "marker": "add",
        "content": [
-        "Go ahead and¦140917"
+        "Go ahead and"
        ]
       },
-      " prepare¦140919 somewhere for me to stay, because¦140923 I’m hoping¦140922 that I’ll¦140929 be able to visit, ",
+      " prepare¦140919 somewhere for¦140920 me¦140920 to stay, because¦140923 I’m¦140922 hoping¦140922 that¦140924 I’ll¦140929 be¦140929 able to visit, ",
       {
        "type": "char",
        "marker": "add",
@@ -824,7 +824,7 @@
         "thanks"
        ]
       },
-      " to you all praying ",
+      " to you¦140930 all¦140930 praying ",
       {
        "type": "char",
        "marker": "add",
@@ -840,21 +840,7 @@
      "type": "para",
      "marker": "rem",
      "content": [
-      "/s1 Paul’s Final Greetings\n"
-     ]
-    },
-    {
-     "type": "para",
-     "marker": "rem",
-     "content": [
-      "/s1 Final Greetings\n"
-     ]
-    },
-    {
-     "type": "para",
-     "marker": "rem",
-     "content": [
-      "/s1 Final Greetings and Benediction\n"
+      "/s1 Paul’s Final Greetings; Final Greetings and Benediction\n"
      ]
     },
     {
@@ -864,31 +850,40 @@
      "sid": "PHM 1:23"
     },
     {
-     "type": "note",
-     "marker": "x",
-     "content": [
-      {
-       "type": "char",
-       "marker": "xo",
-       "content": [
-        "23: "
-       ]
-      },
-      {
-       "type": "char",
-       "marker": "xt",
-       "content": [
-        "Col 1:7; 4:12."
-       ]
-      }
-     ],
-     "caller": "+"
-    },
-    {
      "type": "char",
      "marker": "sig",
      "content": [
-      "Epaphras¦140934, my¦140937 fellow¦140936 prisoner in ",
+      "Epafras¦140934 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Epaphras¦140934)"
+       ]
+      },
+      ",",
+      {
+       "type": "note",
+       "marker": "x",
+       "content": [
+        {
+         "type": "char",
+         "marker": "xo",
+         "content": [
+          "23: "
+         ]
+        },
+        {
+         "type": "char",
+         "marker": "xt",
+         "content": [
+          "Col 1:7; 4:12."
+         ]
+        }
+       ],
+       "caller": "+"
+      },
+      " my¦140937 fellow prisoner in¦140938 ",
       {
        "type": "char",
        "marker": "nd",
@@ -896,7 +891,23 @@
         "Yeshua¦140940"
        ]
       },
-      " the ",
+      " ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦140940; Grk¦140940. Yesus¦140940)"
+       ]
+      },
+      " ",
+      {
+       "type": "char",
+       "marker": "nd",
+       "content": [
+        "the¦140939"
+       ]
+      },
+      " ",
       {
        "type": "char",
        "marker": "nd",
@@ -915,6 +926,87 @@
      "sid": "PHM 1:24"
     },
     {
+     "type": "char",
+     "marker": "sig",
+     "content": [
+      "as do my¦140947 fellow-workers¦140946 Markos¦140941,",
+      {
+       "type": "note",
+       "marker": "x",
+       "content": [
+        {
+         "type": "char",
+         "marker": "xo",
+         "content": [
+          "24: "
+         ]
+        },
+        {
+         "type": "char",
+         "marker": "xt",
+         "content": [
+          "Acts 12:12,25; 13:13; 15:37-39; Col 4:10."
+         ]
+        }
+       ],
+       "caller": "+"
+      },
+      " Aristarkos¦140942,",
+      {
+       "type": "note",
+       "marker": "x",
+       "content": [
+        {
+         "type": "char",
+         "marker": "xo",
+         "content": [
+          "24: "
+         ]
+        },
+        {
+         "type": "char",
+         "marker": "xt",
+         "content": [
+          "Acts 19:29; 27:2; Col 4:10."
+         ]
+        }
+       ],
+       "caller": "+"
+      },
+      " Demas¦140943,",
+      {
+       "type": "note",
+       "marker": "x",
+       "content": [
+        {
+         "type": "char",
+         "marker": "xo",
+         "content": [
+          "24: "
+         ]
+        },
+        {
+         "type": "char",
+         "marker": "xt",
+         "content": [
+          "Col 4:14; 2Tim 4:10."
+         ]
+        }
+       ],
+       "caller": "+"
+      },
+      " and Lukas¦140944 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Luke¦140944)"
+       ]
+      },
+      "."
+     ]
+    },
+    {
      "type": "note",
      "marker": "x",
      "content": [
@@ -922,49 +1014,7 @@
        "type": "char",
        "marker": "xo",
        "content": [
-        "24: a "
-       ]
-      },
-      {
-       "type": "char",
-       "marker": "xt",
-       "content": [
-        "Acts 12:12,25; 13:13; 15:37-39; Col 4:10; "
-       ]
-      },
-      {
-       "type": "char",
-       "marker": "xo",
-       "content": [
-        "b "
-       ]
-      },
-      {
-       "type": "char",
-       "marker": "xt",
-       "content": [
-        "Acts 19:29; 27:2; Col 4:10; "
-       ]
-      },
-      {
-       "type": "char",
-       "marker": "xo",
-       "content": [
-        "c "
-       ]
-      },
-      {
-       "type": "char",
-       "marker": "xt",
-       "content": [
-        "Col 4:14; 2Tim 4:10; "
-       ]
-      },
-      {
-       "type": "char",
-       "marker": "xo",
-       "content": [
-        "d "
+        "24: "
        ]
       },
       {
@@ -976,13 +1026,6 @@
       }
      ],
      "caller": "+"
-    },
-    {
-     "type": "char",
-     "marker": "sig",
-     "content": [
-      "as do my¦140947 fellow-workers Mark, Aristarchus¦140942, Demas¦140943, and Luke¦140944."
-     ]
     },
     "\n"
    ]
@@ -1008,7 +1051,7 @@
         "May"
        ]
       },
-      " the grace¦140949 of our¦140952 ",
+      " the¦140948 grace¦140949 of¦140950 our¦140952 ",
       {
        "type": "char",
        "marker": "nd",
@@ -1021,10 +1064,18 @@
        "type": "char",
        "marker": "nd",
        "content": [
-        "Yeshua"
+        "Yeshua¦140953"
        ]
       },
-      " the ",
+      " ",
+      {
+       "type": "char",
+       "marker": "nd",
+       "content": [
+        "the¦140954"
+       ]
+      },
+      " ",
       {
        "type": "char",
        "marker": "nd",
@@ -1032,7 +1083,7 @@
         "messiah¦140954"
        ]
       },
-      " be with the spirit¦140957 of you¦140958 all ",
+      " be with¦140955 the¦140956 spirit¦140957 of¦140958 you¦140958 all¦140958 ",
       {
        "type": "char",
        "marker": "add",
@@ -1040,7 +1091,15 @@
         "there"
        ]
       },
-      ". May it¦140959 be so¦140959."
+      ". ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "≈May¦140959 it¦140959 be¦140959 so¦140959"
+       ]
+      },
+      "."
      ]
     },
     "\n"

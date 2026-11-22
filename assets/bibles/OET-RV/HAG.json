@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "HAG",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.02"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.2"
    ]
   },
   {
@@ -35,21 +35,21 @@
    "type": "para",
    "marker": "h",
    "content": [
-    "Haggai\n"
+    "Hagay\n"
    ]
   },
   {
    "type": "para",
    "marker": "toc1",
    "content": [
-    "Haggai\n"
+    "Hagay\n"
    ]
   },
   {
    "type": "para",
    "marker": "toc2",
    "content": [
-    "Haggai\n"
+    "Hagay\n"
    ]
   },
   {
@@ -63,7 +63,7 @@
    "type": "para",
    "marker": "mt1",
    "content": [
-    "Haggai\n"
+    "Hagay\n"
    ]
   },
   {
@@ -77,7 +77,7 @@
    "type": "para",
    "marker": "ip",
    "content": [
-    "This document contains a number of messages from Yahweh that the prophet Haggai passed on to the people in Yerushalem (Jerusalem). These events happened around 520 before Yeshua/Jesus (B.C.), after many of God’s people had gone back to Yerushalem after being taken into captivity in Babylon. However, even though they’d been back for a considerable time, they hadn’t worked on rebuilding the temple. Therefore, these messages from Yahweh encourage the people to change their priorities and obey God and rebuild the temple. God then promised to prosper the people and bless their living situation.\n"
+    "This document contains a number of messages from Yahweh that the prophet Hagay passed on to the people in Yerushalem (Jerusalem). These events happened around 520 before Yeshua/Jesus (B.C.), after many of God’s people had gone back to Yerushalem after being taken into captivity in Bavel. However, even though they’d been back for a considerable time, they hadn’t worked on rebuilding the temple. Therefore, these messages from Yahweh encourage the people to change their priorities and obey God and rebuild the temple. God then promised to prosper the people and bless their living situation.\n"
    ]
   },
   {
@@ -119,7 +119,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -157,12 +157,12 @@
      "number": "1",
      "sid": "HAG 1:1"
     },
-    "In Dareyavesh’s ",
+    "In¦375561 Dareyavesh’s¦375563 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "(Darius’s¦375563)"
+      "!(Darius’¦375563)"
      ]
     },
     " second year¦375561 as king¦375564 ",
@@ -170,17 +170,34 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "of Persia"
+      "of Paras"
      ]
     },
-    ", on¦375565 the 1st of the sixth¦375566 month, the prophet¦375577 Haggai¦375576 brought Yahweh’s message¦375571 to the governor¦375584 of Yehudah¦375585, Zerubavel¦375580 (Shealtiyel’s¦375583 son), and to the high¦375593 priest¦375592, Yehoshua (Yehotsadak’s¦375591 son), telling ",
+    " ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "them that"
+      "!(Persia)"
      ]
     },
+    ", on¦375567 the 1st of¦375569 the¦375574 sixth¦375566 month¦375569, the¦375577 prophet¦375577 Hagay¦375576 brought Yahweh’s¦375573 message¦375571 to¦375578 the¦375584 governor¦375584 of¦375584 Yehudah¦375585 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Judah¦375585)"
+     ]
+    },
+    ", Zerubavel¦375580 (Shealtiyel’s¦375583 son), and¦375586 to¦375586 the high priest¦375592, Yehoshua¦375588 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Joshua¦375588)"
+     ]
+    },
+    " (Yehotsadak’s¦375591 son),",
     {
      "type": "note",
      "marker": "x",
@@ -202,6 +219,14 @@
      ],
      "caller": "+"
     },
+    " telling¦375594 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "them that"
+     ]
+    },
     "\n",
     {
      "type": "verse",
@@ -209,15 +234,15 @@
      "number": "2",
      "sid": "HAG 1:2"
     },
-    "army¦375599 commander¦375599 Yahweh says, “These people¦375601 say that ",
+    "Commander-in-chief Yahweh¦375598 says¦375597, “These people¦375601 say¦375603 that¦375602 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈it’s not the right"
+      "≈it’s not¦375604 the¦375608 right"
      ]
     },
-    " time to rebuild¦375612 Yahweh’s ",
+    " time¦375608 to¦375612 rebuild¦375612 Yahweh’s ",
     {
      "type": "char",
      "marker": "add",
@@ -238,7 +263,7 @@
      "number": "3",
      "sid": "HAG 1:3"
     },
-    "Then Yahweh¦375618 ",
+    "Then¦375615 Yahweh¦375618 ",
     {
      "type": "char",
      "marker": "add",
@@ -246,7 +271,7 @@
       "≈gave this message¦375616"
      ]
     },
-    " to the prophet¦375622 Haggai¦375621 ",
+    " to the¦375619 prophet¦375622 Hagay¦375621 ",
     {
      "type": "char",
      "marker": "add",
@@ -267,12 +292,12 @@
      "number": "4",
      "sid": "HAG 1:4"
     },
-    "Is it a time¦375625 for all of you to live in your panelled¦375630 houses¦375629, while ",
+    "Is it a¦375625 time¦375625 for¦375626 all of you to¦375628 live¦375628 in¦375629 your¦375629 panelled¦375630 houses¦375631, while ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Yahweh’s temple lies in ruins"
+      "≈Yahweh’s temple lies in ruins¦375633"
      ]
     },
     "?\n",
@@ -289,7 +314,7 @@
       "≈So¦375635"
      ]
     },
-    " now army¦375639 commander¦375639 Yahweh¦375638 says¦375637: “",
+    " now¦375635 Commander-in-chief Yahweh¦375638 says¦375637: “",
     {
      "type": "char",
      "marker": "add",
@@ -304,12 +329,12 @@
      "number": "6",
      "sid": "HAG 1:6"
     },
-    "You’ve all planted a lot, ",
+    "You’ve¦375646 all planted¦375646 a lot, ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but only harvested¦375648 a little¦375649. You’ve eaten¦375650, but it never fills you. You all drink, but never enough to satisfy¦375653 you. You put on clothes, but never feel warm enough. You earn wages¦375664, but your pockets seem to be full of holes"
+      "≈but¦375648 only harvested a little¦375649. You’ve¦375650 eaten¦375650, but¦375651 it never fills you. You all drink¦375654, but¦375655 never enough to¦375657 satisfy¦375653 you. You put on clothes, but¦375659 never feel warm¦375661 enough. You earn wages, but your pockets seem to¦375665 be full of holes"
      ]
     },
     ".”\n"
@@ -329,10 +354,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈So"
+      "≈So¦375671"
      ]
     },
-    " army¦375674 commander¦375674 Yahweh¦375673 says¦375672 ",
+    " Commander-in-chief Yahweh¦375673 says¦375672 ",
     {
      "type": "char",
      "marker": "add",
@@ -355,15 +380,15 @@
      "number": "8",
      "sid": "HAG 1:8"
     },
-    "Go up into the hills¦375682 and bring¦375683 back timber to build¦375685 the ",
+    "Go¦375681 up¦375681 into the¦375682 hills¦375682 and¦375683 bring¦375683 back timber¦375684 to build¦375685 the¦375686 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈temple"
+      "≈temple¦375686"
      ]
     },
-    ". This will please¦375687 and honour¦375690 me,” says¦375692 Yahweh¦375693.\n"
+    ". This will please¦375687 and¦375690 honour¦375690 me,” says¦375692 Yahweh¦375693.\n"
    ]
   },
   {
@@ -376,15 +401,15 @@
      "number": "9",
      "sid": "HAG 1:9"
     },
-    "“You ",
+    "“You¦375695 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈expected"
+      "≈expected¦375695"
      ]
     },
-    " much, but¦375699 ",
+    " much¦375698, but¦375699 ",
     {
      "type": "char",
      "marker": "add",
@@ -392,7 +417,7 @@
       "gained"
      ]
     },
-    " little¦375700. Anything you brought¦375701 home¦375702, I blew away ",
+    " little¦375700. Anything you¦375701 brought¦375701 home¦375702, I¦375703 blew¦375703 away ",
     {
      "type": "char",
      "marker": "add",
@@ -400,7 +425,15 @@
       "again"
      ]
     },
-    ". Why? Army¦375709 commander¦375709 Yahweh¦375708 says it’s because my residence is still in ruins, while you’re all ",
+    ". Why? Commander-in-chief Yahweh¦375708 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈says¦375707"
+     ]
+    },
+    " it’s because¦375710 my¦375711 residence is¦375715 still in ruins¦375715, while you’re¦375716 all ",
     {
      "type": "char",
      "marker": "add",
@@ -416,14 +449,22 @@
       "≈working on"
      ]
     },
-    " your own houses.\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%your¦375719"
+     ]
+    },
+    " own¦375719 houses¦375719.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "HAG 1:10"
     },
-    "That’s why the sky withholds the dew and¦375731 the soil withholds its¦375733 crops.\n",
+    "That’s why the¦375726 sky¦375726 withholds¦375725 the dew¦375730 and¦375731 the¦375731 soil withholds¦375732 its¦375733 crops.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -438,7 +479,7 @@
       "≈summoned¦375735"
      ]
     },
-    " a drought¦375736 onto the land and into the hills¦375742, onto the grain¦375745 and the new wine, onto the oil and crops from the ground, onto ",
+    " a¦375736 drought¦375736 onto the¦375739 land¦375739 and¦375740 into the¦375742 hills¦375742, onto the¦375745 grain¦375745 and¦375746 the¦375748 new¦375748 wine¦375748, onto the¦375751 oil¦375751 and¦375752 crops from the¦375755 ground¦375755, onto ",
     {
      "type": "char",
      "marker": "add",
@@ -446,12 +487,12 @@
       "both"
      ]
     },
-    " people and livestock, and onto ",
+    " people¦375758 and¦375759 livestock¦375761, and¦375762 onto ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈everything you all do"
+      "≈everything you all¦375763 do"
      ]
     },
     ".”\n"
@@ -481,7 +522,15 @@
      "number": "12",
      "sid": "HAG 1:12"
     },
-    "Then Shealtiyel’s son Zerubavel and Yehotsadak’s son Yehoshua, the high priest¦375779, and all the rest of the people listened¦375769 to the voice¦375785 of their god Yahweh ",
+    "Then¦375769 Shealtiyel’s¦375774 son Zerubavel¦375770 and Yehotsadak’s¦375778 son Yehoshua¦375775 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Joshua¦375775)"
+     ]
+    },
+    ", the high priest¦375779, and¦375781 all¦375781 the¦375783 rest of¦375783 the¦375784 people¦375784 listened¦375769 to¦375785 the¦375785 voice¦375785 of¦375785 their god Yahweh¦375786 ",
     {
      "type": "char",
      "marker": "add",
@@ -489,7 +538,7 @@
       "≈via"
      ]
     },
-    " the words¦375790 of the prophet¦375792 Haggai¦375791, because Yahweh their god had sent him, and the people ",
+    " the¦375790 words¦375790 of¦375790 the¦375792 prophet¦375792 Hagay¦375791, because Yahweh their god had¦375794 sent¦375794 him¦375794, and¦375797 the¦375798 people¦375798 ",
     {
      "type": "char",
      "marker": "add",
@@ -497,21 +546,29 @@
       "≈respected"
      ]
     },
-    " Yahweh.\n",
+    " Yahweh¦375800.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "HAG 1:13"
     },
-    "Then¦375802 Yahweh’s messenger¦375804 Haggai¦375803 passed this message¦375806 from Yahweh onto the people¦375808, “Yahweh declares that I’m with¦375806 you¦375811 all.”\n",
+    "Then¦375802 Yahweh’s messenger¦375804 Hagay¦375803 passed this message¦375806 from Yahweh¦375805 onto the¦375806 people¦375808, “Yahweh¦375807 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈declares¦375812"
+     ]
+    },
+    " that I’m¦375810 with¦375811 you¦375811 all.”\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "HAG 1:14"
     },
-    "Then¦375816 Yahweh ",
+    "Then¦375816 Yahweh¦375817 ",
     {
      "type": "char",
      "marker": "add",
@@ -519,7 +576,15 @@
       "≈inspired"
      ]
     },
-    " Shealtiyel’s son Zerubavel, the governor¦375825 of Yehudah¦375826, ",
+    " Shealtiyel’s¦375824 son Zerubavel¦375821, the¦375825 governor¦375825 of¦375825 Yehudah¦375826 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Judah¦375826)"
+     ]
+    },
+    ", ",
     {
      "type": "char",
      "marker": "add",
@@ -527,7 +592,7 @@
       "≈inspired"
      ]
     },
-    " Yehotsadak’s son Yehoshua, the high¦375835 priest¦375834, and ",
+    " Yehotsadak’s¦375833 son Yehoshua¦375830, the high priest¦375834, and¦375836 ",
     {
      "type": "char",
      "marker": "add",
@@ -535,7 +600,7 @@
       "≈inspired"
      ]
     },
-    " all the rest of the people¦375841, and they came¦375842 and ",
+    " all¦375839 the¦375840 rest of¦375840 the¦375841 people¦375841, and¦375842 they¦375842 came¦375842 and¦375843 ",
     {
      "type": "char",
      "marker": "add",
@@ -548,22 +613,38 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈temple"
+      "≈temple¦375845"
      ]
     },
-    " for their¦375849 god¦375849, army¦375848 commander¦375848 Yahweh,\n",
+    " for their¦375849 god¦375849, Commander-in-chief Yahweh¦375847,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "HAG 1:15"
     },
-    "on¦375856 the twenty-fourth day¦375852 of the sixth¦375856 month¦375855 of the second year¦375857 of Dareyavesh the king¦375860 ",
+    "on¦375852 the twenty-fourth day¦375852 of¦375855 the sixth month of the second year¦375857 of¦375859 Dareyavesh¦375859 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "of Persia"
+      "!(Darius¦375859)"
+     ]
+    },
+    " the¦375860 king¦375860 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "of Paras"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Persia)"
      ]
     },
     ".\n"
@@ -599,7 +680,7 @@
      "number": "1",
      "sid": "HAG 2:1"
     },
-    "On the 21st of the seventh¦375862 month ",
+    "On¦375863 the 21st of the seventh month ",
     {
      "type": "char",
      "marker": "add",
@@ -623,14 +704,14 @@
       "again"
      ]
     },
-    " through the prophet¦375873 Haggai¦375872:\n",
+    " through¦375870 the¦375870 prophet¦375873 Hagay¦375872:\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "HAG 2:2"
     },
-    "Please ",
+    "Please¦375878 ",
     {
      "type": "char",
      "marker": "add",
@@ -638,7 +719,15 @@
       "≈ask"
      ]
     },
-    " Shealtiyel’s son Zerubavel, the governor¦375885 of Yehudah¦375886, and ",
+    " Shealtiyel’s¦375884 son Zerubavel¦375881, the¦375885 governor¦375885 of¦375885 Yehudah¦375886 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Judah¦375886)"
+     ]
+    },
+    ", and¦375887 ",
     {
      "type": "char",
      "marker": "add",
@@ -646,7 +735,15 @@
       "≈ask"
      ]
     },
-    " Yehotsadak’s son Yehoshua, the high¦375894 priest¦375893, and ",
+    " Yehotsadak’s¦375892 son Yehoshua¦375889 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Joshua¦375889)"
+     ]
+    },
+    ", the high priest¦375893, and¦375895 ",
     {
      "type": "char",
      "marker": "add",
@@ -654,7 +751,7 @@
       "≈ask"
      ]
     },
-    " the rest of the people¦375898,\n",
+    " the¦375897 rest of¦375897 the¦375898 people¦375898,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -666,7 +763,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Are there any of you still alive who saw¦375905 the splendour¦375910 of the former¦375911 temple"
+      "≈Are there any of you¦375902 still alive who saw¦375905 the¦375909 splendour¦375910 of¦375910 the¦375911 former¦375911 temple¦375908"
      ]
     },
     "? How does it look to you now? ",
@@ -682,7 +779,7 @@
         "nothing¦375919"
        ]
       },
-      " in¦375902 comparison"
+      " in¦375920 comparison"
      ]
     },
     ".",
@@ -714,7 +811,15 @@
      "number": "4",
      "sid": "HAG 2:4"
     },
-    "Yahweh is telling you now, Zerubavel, to be strong. And be strong, high¦375935 priest¦375934 Yehoshua, and¦375922 be strong all you people¦375939 of the land. Army¦375951 commander¦375951 Yahweh declares that I’m with you ",
+    "Yahweh is telling you now¦375922, Zerubavel¦375924, to be¦375923 strong¦375923. And¦375929 be¦375929 strong¦375929, high priest¦375934 Yehoshua¦375930, and¦375936 be¦375936 strong¦375936 all¦375937 you people¦375939 of¦375939 the¦375940 land¦375940. Commander-in-chief Yahweh¦375943 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈declares"
+     ]
+    },
+    " that I’m¦375947 with¦375948 you ",
     {
      "type": "char",
      "marker": "add",
@@ -733,10 +838,26 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈That’s what I promised¦375955 your¦375964 ancestors when they"
+      "≈That’s¦375956 what I¦375958 promised your ancestors when¦375960 they"
      ]
     },
-    " came¦375960 out of Egypt¦375961,",
+    " came¦375960 out¦375960 of Mitsrayim¦375961 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Egypt¦375961)"
+     ]
+    },
+    ", and¦375962 my¦375962 spirit¦375962 remains ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈among¦375964 you¦375964"
+     ]
+    },
+    ".",
     {
      "type": "note",
      "marker": "x",
@@ -758,22 +879,14 @@
      ],
      "caller": "+"
     },
-    " and¦375962 my spirit¦375962 remains ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "≈among¦375964 you¦375960"
-     ]
-    },
-    ". Don’t be afraid¦375967,\n",
+    " Don’t¦375965 be¦375967 afraid¦375967,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "HAG 2:6"
     },
-    "because army¦375974 commander¦375974 Yahweh¦375973 says¦375972 that in a little¦375977 while, I’ll¦375979 shake¦375980 the heavens¦375983 and the earth¦375986, the sea¦375989 and the dry land, once more.",
+    "because¦375970 Commander-in-chief Yahweh¦375973 says¦375972 that in a¦375977 little¦375977 while, I’ll¦375979 shake¦375980 the¦375983 heavens¦375983 and¦375984 the¦375986 earth¦375986, the¦375989 sea¦375989 and¦375990 the¦375992 dry¦375992 land¦375992, once more.",
     {
      "type": "note",
      "marker": "x",
@@ -802,7 +915,7 @@
      "number": "7",
      "sid": "HAG 2:7"
     },
-    "I’ll shake¦375994 all the nations, and¦375994 they’ll come ",
+    "I’ll¦375994 shake¦375994 all¦375997 the¦375999 nations¦375999, and¦376000 they’ll¦376000 come¦376000 ",
     {
      "type": "char",
      "marker": "add",
@@ -810,12 +923,12 @@
       "here bringing"
      ]
     },
-    " their treasure. Then¦375994 I’ll fill this ",
+    " their treasure. Then¦376005 I’ll¦376005 fill¦376005 this¦376009 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈temple"
+      "≈temple¦376008"
      ]
     },
     " with ",
@@ -826,22 +939,30 @@
       "my"
      ]
     },
-    " splendour¦376010, says army¦376013 commander¦376013 Yahweh¦376012.\n",
+    " splendour¦376010, says¦376011 Commander-in-chief Yahweh¦376012.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "HAG 2:8"
     },
-    "Army¦376021 commander¦376021 Yahweh¦376020 declares that the gold¦376018 and¦376017 silver¦376016 ",
+    "Commander-in-chief Yahweh¦376020 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "belong¦376017"
+      "≈declares¦376019"
      ]
     },
-    " to me.\n",
+    " that the¦376018 gold¦376018 and silver¦376016 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "belong"
+     ]
+    },
+    " to¦376017 me¦376017.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -860,15 +981,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈temple"
+      "≈temple¦376026"
      ]
     },
-    " will be ",
+    " will¦376024 be¦376024 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈greater in the future than it¦376024 was in the past"
+      "≈greater¦376023 in the future than¦376029 it was in the past"
      ]
     },
     ", and ",
@@ -879,14 +1000,14 @@
       "also"
      ]
     },
-    " that I will give¦376037 peace¦376038 and prosperity to this place¦376035.”\n"
+    " that¦376036 I¦376037 will¦376037 give¦376037 peace¦376038 and prosperity to this place¦376035.”\n"
    ]
   },
   {
    "type": "para",
    "marker": "s1",
    "content": [
-    "The questioning of Haggai of priests\n"
+    "Hagay consults the priests\n"
    ]
   },
   {
@@ -906,7 +1027,7 @@
      "number": "10",
      "sid": "HAG 2:10"
     },
-    "On the 24th of the ninth¦376046 month in¦376044 ",
+    "On¦376044 the 24th of¦376046 the ninth month¦376046 in¦376047 ",
     {
      "type": "char",
      "marker": "add",
@@ -914,12 +1035,20 @@
       "King"
      ]
     },
-    " Dareyavesh’s second year¦376047 ",
+    " Dareyavesh’s¦376049 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "(about two¦376048 months later)"
+      "!(Darius’¦376049)"
+     ]
+    },
+    " second year¦376047 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "(about two months later)"
      ]
     },
     ", Yahweh¦376053 ",
@@ -930,19 +1059,27 @@
       "≈gave a message¦376051"
      ]
     },
-    " to the prophet¦376057 Haggai¦376056:\n",
+    " to¦376054 the¦376057 prophet¦376057 Hagay¦376056:\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "HAG 2:11"
     },
-    "Army¦376063 commander¦376063 Yahweh¦376062 says¦376061, “Ask the priests¦376069 about ",
+    "Commander-in-chief Yahweh¦376062 says¦376061, “Ask¦376064 the¦376069 priests¦376069 about ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "Mosheh’s"
+      "&Mosheh’s"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Moses’)"
      ]
     },
     " ",
@@ -965,22 +1102,22 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈If a priest took some meat¦376078 that had been offered to God and carried it wrapped in¦376081 a piece of clothing, then if the clothing touched¦376083 some other food, would that other food "
+      "≈If a priest took some meat¦376078 that had been offered to God and carried¦376075 it wrapped in¦376081 a piece of¦376081 clothing¦376082, then¦376083 if the clothing touched¦376083 some other food¦376090, would that other food¦376101"
      ]
     },
-    " become¦376102 holy?’ ”\n"
+    " become¦376102 holy¦376102?’ ”\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "“No, it wouldn’t,” the priests¦376104 ",
+    "“No¦376106, it wouldn’t,” the¦376104 priests¦376104 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈replied"
+      "≈replied¦376105"
      ]
     },
     ".\n"
@@ -996,15 +1133,15 @@
      "number": "13",
      "sid": "HAG 2:13"
     },
-    "Then¦376108 Haggai¦376109 asked, “",
+    "Then¦376108 Hagay¦376109 asked¦376108, “",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "But¦376108"
+      "But"
      ]
     },
-    " if a person became unclean by touching a corpse¦376115 and¦376108 then¦376108 touched any of that ",
+    " if¦376110 a¦376113 person became unclean¦376113 by touching a¦376115 corpse¦376115 and then touched¦376112 any of that ",
     {
      "type": "char",
      "marker": "add",
@@ -1012,7 +1149,22 @@
       "food"
      ]
     },
-    ", would it become unclean?”",
+    ", would¦376119 it¦376119 become¦376119 unclean¦376119?”\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "p",
+   "content": [
+    "“",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "Yes,"
+     ]
+    },
+    " it¦376123 would¦376123 become¦376123 unclean¦376123,”",
     {
      "type": "note",
      "marker": "x",
@@ -1034,22 +1186,7 @@
      ],
      "caller": "+"
     },
-    "\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "p",
-   "content": [
-    "“",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "Yes,"
-     ]
-    },
-    " it would become unclean,” the priests¦376121 answered¦376120.\n"
+    " the¦376121 priests¦376121 answered¦376120.\n"
    ]
   },
   {
@@ -1067,15 +1204,15 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈That’s what Yahweh¦376139 declares about you"
+      "≈That’s what Yahweh¦376139 declares¦376137 about you"
      ]
     },
-    " people¦376129,” Haggai¦376126 ",
+    " people¦376129,” Hagay¦376126 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈continued¦376125"
+      "≈continued¦376127"
      ]
     },
     ". “",
@@ -1091,7 +1228,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈that’s how this country¦376134 acts towards him"
+      "≈that’s how this¦376131 country¦376134 acts towards him"
      ]
     },
     ". ",
@@ -1099,7 +1236,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Your actions are dishonourable, and¦376125 then¦376125 that same disrespect transfers to your offerings"
+      "≈Your actions¦376143 are dishonourable, and¦376145 then that¦376145 same disrespect transfers to your offerings"
      ]
     },
     ".\n",
@@ -1116,7 +1253,14 @@
      "number": "15",
      "sid": "HAG 2:15"
     },
-    "So¦376151 now think back to before¦376161 stones were being laid for Yahweh’s¦376169 temple.\n",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦376151"
+     ]
+    },
+    " now¦376151 think back to before¦376161 stones were being laid for Yahweh’s¦376169 temple.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1130,7 +1274,7 @@
       "≈During that time"
      ]
     },
-    ", when someone went to get twenty ",
+    ", when¦376171 someone¦376172 went¦376172 to¦376173 get twenty¦376176 ",
     {
      "type": "char",
      "marker": "add",
@@ -1138,7 +1282,7 @@
       "containers of grain"
      ]
     },
-    ", there were ",
+    ", there were¦376177 ",
     {
      "type": "char",
      "marker": "add",
@@ -1146,7 +1290,7 @@
       "only"
      ]
     },
-    " ten¦376178 there, and when someone went to fill fifty¦376184 ",
+    " ten¦376178 there, and when someone¦376179 went¦376179 to fill fifty¦376184 ",
     {
      "type": "char",
      "marker": "add",
@@ -1154,7 +1298,7 @@
       "jars of wine"
      ]
     },
-    " from the vat, there was ",
+    " from the vat, there was¦376186 ",
     {
      "type": "char",
      "marker": "add",
@@ -1162,14 +1306,30 @@
       "only enough for"
      ]
     },
-    " twenty.\n",
+    " twenty¦376187.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "HAG 2:17"
     },
-    "Yahweh¦376205 declares that he ",
+    "Yahweh¦376205 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈declares¦376203"
+     ]
+    },
+    " that ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%he"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -1177,15 +1337,15 @@
       "≈caused"
      ]
     },
-    " blight¦376191 and mildew¦376192 and hail to affect your work¦376197, ",
+    " blight¦376191 and¦376192 mildew¦376192 and¦376193 hail¦376193 to affect your work¦376197, ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but¦376192"
+      "≈but¦376199"
      ]
     },
-    " you ",
+    " you¦376201 ",
     {
      "type": "char",
      "marker": "add",
@@ -1193,21 +1353,37 @@
       "still"
      ]
     },
-    " didn’t¦376199 turn to him.\n",
+    " didn’t¦376199 turn to¦376202 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%him¦376202"
+     ]
+    },
+    ".\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "18",
      "sid": "HAG 2:18"
     },
-    "Think back to the time from when the foundation¦376225 of Yahweh’s temple¦376226 was laid, until today (this 24th of the ninth¦376219 month¦376219). Consider that.\n",
+    "Think back to the¦376213 time¦376213 from¦376216 when¦376218 the¦376222 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈foundation¦376225"
+     ]
+    },
+    " of¦376226 Yahweh’s¦376228 temple¦376226 was laid¦376229, until today (this¦376214 24th of¦376230 the ninth month¦376219). Consider that.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "19",
      "sid": "HAG 2:19"
     },
-    "Is ",
+    "Is¦376233 ",
     {
      "type": "char",
      "marker": "add",
@@ -1215,7 +1391,7 @@
       "any grain"
      ]
     },
-    " left in¦376234 the storehouse for seed? ",
+    " left in the¦376233 storehouse for seed¦376233? ",
     {
      "type": "char",
      "marker": "add",
@@ -1223,7 +1399,15 @@
       "What’s more,"
      ]
     },
-    " the vines, and the fig¦376238 trees and pomegranate¦376239 trees and olive trees, haven’t produced fruit. ",
+    " the¦376237 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#vines¦376237"
+     ]
+    },
+    ", and¦376238 the¦376238 fig¦376238 trees¦376238 and¦376239 pomegranate¦376239 trees and¦376240 olive¦376241 trees, haven’t produced fruit¦376243. ",
     {
      "type": "char",
      "marker": "add",
@@ -1231,7 +1415,23 @@
       "However,"
      ]
     },
-    " Yahweh will bless you from today onwards.”\n"
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yahweh¦376248"
+     ]
+    },
+    " will¦376248 bless¦376248 you from today ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "onwards"
+     ]
+    },
+    ".”\n"
    ]
   },
   {
@@ -1258,29 +1458,45 @@
      "number": "20",
      "sid": "HAG 2:20"
     },
-    "Then Yahweh¦376254 gave a second¦376256 message¦376252 to Haggai¦376259 on¦376260 the 24th:\n",
+    "Then¦376251 Yahweh¦376254 gave a¦376256 second¦376256 message¦376252 to¦376257 Hagay¦376259 on¦376260 the 24th:\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "21",
      "sid": "HAG 2:21"
     },
-    "Tell Zerubavel, the governor¦376269 of Yehudah¦376271, “I’m ",
+    "Tell¦376265 Zerubavel¦376268, the¦376269 governor¦376269 of¦376269 Yehudah¦376271 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "about¦376274 to"
+      "!(Judah¦376271)"
      ]
     },
-    " shake¦376274 the heavens¦376277 and the earth¦376280.\n",
+    ", “I’m¦376273 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "about to"
+     ]
+    },
+    " shake¦376274 the¦376277 heavens¦376277 and¦376278 the¦376280 earth¦376280.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "22",
      "sid": "HAG 2:22"
     },
-    "I’ll overthrow the thrones¦376283 of kingdoms¦376288, and destroy¦376285 the strength¦376286 of the nations¦376288. I’ll overthrow chariots¦376290 and riders—horses¦376293 and their¦376294 riders will fall and ",
+    "I’ll¦376282 overthrow¦376282 the¦376283 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#thrones¦376283"
+     ]
+    },
+    " of¦376283 kingdoms¦376284, and¦376285 destroy¦376285 the¦376286 strength¦376286 of¦376286 the¦376288 nations¦376288. I’ll¦376289 overthrow¦376289 chariots¦376290 and¦376291 riders¦376291—horses¦376293 and their¦376294 riders¦376294 will¦376292 fall¦376292 and¦376294 ",
     {
      "type": "char",
      "marker": "add",
@@ -1293,7 +1509,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈will kill¦376285 each other"
+      "≈will kill each¦376295 other"
      ]
     },
     ".\n",
@@ -1303,15 +1519,39 @@
      "number": "23",
      "sid": "HAG 2:23"
     },
-    "Army¦376304 commander¦376304 Yahweh declares that on that day¦376299 he will take¦376305 Shealtiyel’s son Zerubavel and ",
+    "Commander-in-chief Yahweh¦376303 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈cause him to place Yahweh’s mark on the nation"
+      "≈declares"
      ]
     },
-    " like a signet¦376315 ring, because he’s been chosen¦376319.”\n"
+    " that on that day¦376299 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%he¦376305"
+     ]
+    },
+    " will¦376305 take¦376305 Shealtiyel’s¦376309 son¦376307 Zerubavel¦376306 and¦376314 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈cause¦376314 him to place Yahweh’s mark on the nation"
+     ]
+    },
+    " like¦376315 a signet¦376315 ring, because¦376316 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%he’s"
+     ]
+    },
+    " been chosen¦376319.”\n"
    ]
   }
  ]

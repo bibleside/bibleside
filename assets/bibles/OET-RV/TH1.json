@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "1TH",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.50"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.1"
    ]
   },
   {
@@ -35,21 +35,21 @@
    "type": "para",
    "marker": "h",
    "content": [
-    "1 Thessalonians\n"
+    "1 Thessalonikai\n"
    ]
   },
   {
    "type": "para",
    "marker": "toc1",
    "content": [
-    "1 Thessalonians\n"
+    "1 Thessalonikai\n"
    ]
   },
   {
    "type": "para",
    "marker": "toc2",
    "content": [
-    "1 Thessalonians\n"
+    "1 Thessalonikai\n"
    ]
   },
   {
@@ -63,14 +63,14 @@
    "type": "para",
    "marker": "mt2",
    "content": [
-    "Paul’s first letter to the believers in\n"
+    "Paulos’s first letter to the believers in\n"
    ]
   },
   {
    "type": "para",
    "marker": "mt1",
    "content": [
-    "Thessalonica\n"
+    "Thessalonikai\n"
    ]
   },
   {
@@ -84,29 +84,29 @@
    "type": "para",
    "marker": "ip",
    "content": [
-    "Thessalonica was the capital city of the Roman province of Macedonia (and is now the large, modern city of Thessaloniki in Greece). Paul taught God’s message there in Thessalonica after he left Philippi (Acts 17:1-4). Before long, there was disagreement from Jews upset about Paul’s preaching to non-Jews (Acts 17:5-9). So Paul was forced to leave Thessalonica and he went on to Berea (Acts 17:10-13). Then after a while he went on to Athens (Acts 17:14-15). Finally, he continued on to Corinth (Acts 18:1-17). On his arrival there, he heard Timothy’s account of his other work. He had been told by Timothy about the what the group of believers there in Thessalonica had been facing.\n"
+    "Thessalonikai was the capital city of the Roman province of Makedonia (and is now the large, modern city of Thessaloniki in Greece). Paulos taught God’s message there in Thessalonikai after he left Filippou (Acts 17:1-4). Before long, there was disagreement from Yehudim upset about Paulos’s preaching to non-Jews (Acts 17:5-9). So Paulos was forced to leave Thessalonikai and he went on to Beroia (Acts 17:10-13). Then after a while he went on to Athainai (Acts 17:14-15). Finally, he continued on to Korinthos (Acts 18:1-17). On his arrival there, he heard Timotheos’s account of his other work. He had been told by Timotheos about the what the group of believers there in Thessalonikai had been facing.\n"
    ]
   },
   {
    "type": "para",
    "marker": "ip",
    "content": [
-    "Paul wrote this ",
+    "Paulos wrote this ",
     {
      "type": "char",
      "marker": "bk",
      "content": [
-      "First letter of Paul to the believers in Thessalonica"
+      "First letter of Paulos to the believers in Thessalonikai"
      ]
     },
-    " in order to encourage and strengthen the believers there. He gave thanks for the account about their faith and their love. He also reminded them about the lifestyle that he demonstrated to them while he was still there with them. He answered questions again from the believers concerning the return of the messiah, and if the deceased believers would come back to life before the messiah returns. Paul used this letter to tell them it’s necessary that they continue to work in their day-to-day jobs while they wait for the return of the messiah.\n"
+    " in order to encourage and strengthen the believers there. He gave thanks for the account about their faith and their love. He also reminded them about the lifestyle that he demonstrated to them while he was still there with them. He answered questions again from the believers concerning the return of the messiah, and if the deceased believers would come back to life before the messiah returns. Paulos used this letter to tell them it’s necessary that they continue to work in their day-to-day jobs while they wait for the return of the messiah.\n"
    ]
   },
   {
    "type": "para",
    "marker": "iot",
    "content": [
-    "Main components of Paul’s letter\n"
+    "Main components of Paulos’s letter\n"
    ]
   },
   {
@@ -141,7 +141,7 @@
    "type": "para",
    "marker": "io1",
    "content": [
-    "Timothy’s good report ",
+    "Timotheos’s good report ",
     {
      "type": "char",
      "marker": "ior",
@@ -211,7 +211,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -243,34 +243,13 @@
      "sid": "1TH 1:1"
     },
     {
-     "type": "note",
-     "marker": "x",
-     "content": [
-      {
-       "type": "char",
-       "marker": "xo",
-       "content": [
-        "1:1: "
-       ]
-      },
-      {
-       "type": "char",
-       "marker": "xt",
-       "content": [
-        "Acts 17:1."
-       ]
-      }
-     ],
-     "caller": "+"
-    },
-    {
      "type": "char",
      "marker": "add",
      "content": [
       "This letter is from"
      ]
     },
-    " Paul, Silas, and Timothy¦134298.\n",
+    " Paulos¦134294, Silas, and Timotheos¦134298.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -291,7 +270,7 @@
       "It’s written"
      ]
     },
-    " to the assembly¦134300 of ",
+    " to¦134299 the¦134299 assembly¦134300 of¦134301 ",
     {
      "type": "char",
      "marker": "add",
@@ -299,12 +278,28 @@
       "believers"
      ]
     },
-    " in God the father¦134304 and the ",
+    " in¦134302 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "master¦134307 Yeshua Messiah¦134310"
+      "God¦134303"
+     ]
+    },
+    " the¦134304 father¦134304 and¦134306 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "the¦134307 master¦134307 Yeshua¦134309 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦134309; Grk¦134309. Yesus¦134309)"
+       ]
+      },
+      " Messiah¦134310"
      ]
     },
     " ",
@@ -315,7 +310,29 @@
       "there"
      ]
     },
-    " in Thessalonica¦134301.\n"
+    " in Thessalonikai¦134301.",
+    {
+     "type": "note",
+     "marker": "x",
+     "content": [
+      {
+       "type": "char",
+       "marker": "xo",
+       "content": [
+        "1:1: "
+       ]
+      },
+      {
+       "type": "char",
+       "marker": "xt",
+       "content": [
+        "Acts 17:1."
+       ]
+      }
+     ],
+     "caller": "+"
+    },
+    "\n"
    ]
   },
   {
@@ -334,17 +351,17 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "his"
+      "&his"
      ]
     },
-    " grace¦134312 and peace¦134315 to all of you¦134313.\n"
+    " grace¦134312 and¦134314 peace¦134315 to all¦134313 of you.\n"
    ]
   },
   {
    "type": "para",
    "marker": "s1",
    "content": [
-    "Paul praises the believers\n"
+    "Paulos praises the believers\n"
    ]
   },
   {
@@ -357,7 +374,7 @@
      "number": "2",
      "sid": "1TH 1:2"
     },
-    "We ",
+    "We¦134324 ",
     {
      "type": "char",
      "marker": "add",
@@ -365,7 +382,7 @@
       "here"
      ]
     },
-    " are always thanking¦134324 ",
+    " are¦134324 always thanking¦134324 ",
     {
      "type": "char",
      "marker": "nd",
@@ -373,7 +390,15 @@
       "God¦134326"
      ]
     },
-    " for all of you and remembering¦134332 you in our¦134340 prayers¦134338—always\n",
+    " for all¦134330 of¦134331 you¦134331 and ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈remembering¦134332"
+     ]
+    },
+    " you in¦134336 our¦134340 prayers¦134338—always\n",
     {
      "type": "verse",
      "marker": "v",
@@ -388,12 +413,20 @@
       "God¦134365"
      ]
     },
-    " and father¦134367 about¦134344 your¦134343 striving for the faith¦134347 and the labour¦134350 of love¦134352 and the endurance¦134355 of the hope in our ",
+    " and¦134366 father¦134367 about¦134344 your¦134343 striving for the¦134346 faith¦134347 and¦134348 the¦134349 labour¦134350 of¦134352 love¦134352 and¦134353 the¦134354 endurance¦134355 of¦134357 the¦134356 hope¦134357 in our ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "master¦134359 Yeshua¦134361 Messiah¦134362"
+      "master¦134359 Yeshua¦134361 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦134361; Grk¦134361. Yesus¦134361)"
+       ]
+      },
+      " Messiah¦134362"
      ]
     },
     ".\n",
@@ -403,7 +436,14 @@
      "number": "4",
      "sid": "1TH 1:4"
     },
-    "Brothers¦134370 and sisters, we know that you’re all loved¦134371 by ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈Brothers¦134370 and¦134370 sisters¦134370"
+     ]
+    },
+    ", we know¦134369 that you’re¦134377 all¦134377 loved¦134371 by¦134372 ",
     {
      "type": "char",
      "marker": "nd",
@@ -411,14 +451,14 @@
       "God¦134374"
      ]
     },
-    "—the one who chose you.\n",
+    "—the¦134375 one who chose you.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "1TH 1:5"
     },
-    "The good message ",
+    "The¦134379 good¦134380 message¦134380 ",
     {
      "type": "char",
      "marker": "add",
@@ -426,7 +466,15 @@
       "that we brought"
      ]
     },
-    " wasn’t just any old message, but¦134396 also comes in the holy ",
+    " wasn’t just any old message¦134390, but¦134392 also¦134393 comes in ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "the¦134398"
+     ]
+    },
+    " holy¦134399 ",
     {
      "type": "char",
      "marker": "nd",
@@ -434,7 +482,7 @@
       "spirit¦134398"
      ]
     },
-    " with power¦134395 and with full assurance¦134402 ",
+    " with power¦134395 and¦134400 with full¦134402 assurance¦134402 ",
     {
      "type": "char",
      "marker": "add",
@@ -442,20 +490,52 @@
       "of its truth"
      ]
     },
-    ". You know how we lived among you because of ",
+    ". You¦134405 know¦134405 how we¦134407 lived among you¦134409 because¦134410 of¦134410 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "our¦134383 concern"
+      "our concern"
      ]
     },
-    " for you all,\n",
+    " for you¦134411 all¦134411,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "1TH 1:6"
+    },
+    "and¦134412 then you¦134413 all¦134413 imitated¦134414 both us¦134415 and¦134417 the¦134418 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "master¦134420"
+     ]
+    },
+    " after receiving¦134421 the¦134422 message¦134423 in¦134424 tribulation¦134425 with¦134427 a lot ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "of¦134430"
+     ]
+    },
+    " excitement about ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "the¦134430"
+     ]
+    },
+    " holy¦134431 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "spirit¦134430"
+     ]
     },
     {
      "type": "note",
@@ -478,22 +558,6 @@
      ],
      "caller": "+"
     },
-    "and then¦134412 you¦134413 all imitated¦134414 both us and the ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "master¦134420"
-     ]
-    },
-    " after receiving¦134421 the message¦134423 in tribulation¦134425 with a lot of excitement about the holy ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "spirit¦134430"
-     ]
-    },
     "—\n",
     {
      "type": "verse",
@@ -501,14 +565,14 @@
      "number": "7",
      "sid": "1TH 1:7"
     },
-    "so much so that you¦134434 all became examples¦134435 to all the believers¦134439 in Macedonia¦134442 and¦134443 Achaia¦134446.\n",
+    "so much so that you¦134434 all¦134434 became¦134433 examples¦134435 to¦134437 all¦134437 the¦134438 believers¦134439 in¦134440 Makedonia¦134442 and¦134443 Akaia¦134446.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "1TH 1:8"
     },
-    "So now the message¦134452 of the ",
+    "So now the¦134451 message¦134452 of¦134453 the¦134453 ",
     {
      "type": "char",
      "marker": "nd",
@@ -516,7 +580,7 @@
       "master¦134455"
      ]
     },
-    " has been heard not only in Macedonia¦134460 and¦134461 Achaia¦134464, but¦134465 in every¦134468 place¦134469 where your¦134472 faith¦134471 towards¦134474 ",
+    " has been heard not¦134456 only¦134457 in¦134458 Makedonia¦134460 and¦134461 Akaia¦134464, but¦134465 in¦134467 every¦134468 place¦134469 where your¦134472 faith¦134471 towards¦134474 ",
     {
      "type": "char",
      "marker": "nd",
@@ -524,21 +588,37 @@
       "God¦134476"
      ]
     },
-    " has been seen—so that¦134473 now we don’t¦134456 even need to say anything¦134487.\n",
+    " has¦134477 been seen—so¦134478 that¦134473 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "now"
+     ]
+    },
+    " we don’t even need¦134480 to¦134482 say¦134486 anything¦134487.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "1TH 1:9"
     },
-    "They’ve been reporting¦134493 back to us about kindly we were accepted by you all and how you all turned¦134502 from idols¦134508 to God, to serve the living¦134511 and true God\n",
+    "They’ve¦134488 been¦134493 reporting¦134493 back¦134502 to¦134503 us about¦134490 kindly we¦134496 were accepted by you¦134499 all¦134499 and¦134500 how¦134501 you¦134502 all¦134502 turned¦134502 from¦134506 idols¦134508 to God, to serve¦134509 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "the¦134510"
+     ]
+    },
+    " living¦134511 and¦134512 true¦134513 God\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "1TH 1:10"
     },
-    "and waiting¦134516 for his¦134519 son, Yeshua to ",
+    "and¦134514 waiting¦134516 for¦134517 his¦134519 son¦134518, Yeshua to ",
     {
      "type": "char",
      "marker": "add",
@@ -546,12 +626,28 @@
       "return"
      ]
     },
-    " from the heavens¦134522. Yeshua is the one that¦134536 he brought back to life and who rescues¦134530 us from ",
+    " from¦134520 the¦134521 heavens¦134522. ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "Yeshua¦134528"
+     ]
+    },
+    " is the¦134529 one that he ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "God’s"
+      "≈brought back to life"
+     ]
+    },
+    " and who rescues¦134530 us¦134531 from¦134532 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&God’s¦134534"
      ]
     },
     " severe¦134535 anger¦134535 which¦134536 is coming¦134537.\n"
@@ -567,7 +663,7 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "Paul recalls his visit to Thessalonica\n"
+    "Paulos recalls his visit to Thessalonikai\n"
    ]
   },
   {
@@ -587,12 +683,19 @@
      "number": "1",
      "sid": "1TH 2:1"
     },
-    "Brothers¦134541 and sisters, you yourselves¦134538 know that¦134545 our¦134544 going to ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "Thessalonica"
+      "≈Brothers¦134541 and¦134541 sisters¦134541"
+     ]
+    },
+    ", you¦134547 yourselves know¦134540 that¦134548 our¦134544 going to¦134546 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "Thessalonikai"
      ]
     },
     " wasn’t wasted,\n",
@@ -602,6 +705,15 @@
      "number": "2",
      "sid": "1TH 2:2"
     },
+    "but¦134552 after previously¦134554 suffering¦134554 and¦134555 being¦134556 mistreated¦134556 in¦134559 Filippou¦134560 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Philippi¦134560)"
+     ]
+    },
+    ",",
     {
      "type": "note",
      "marker": "x",
@@ -610,21 +722,45 @@
        "type": "char",
        "marker": "xo",
        "content": [
-        "2:2: a "
+        "2:2: "
        ]
       },
       {
        "type": "char",
        "marker": "xt",
        "content": [
-        "Acts 16:19-24; "
+        "Acts 16:19-24."
        ]
-      },
+      }
+     ],
+     "caller": "+"
+    },
+    " we¦134561 spoke¦134561 boldly¦134561 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "at your place with God’s help"
+     ]
+    },
+    ", to¦134566 tell¦134566 you¦134568 all¦134568 the¦134569 good¦134570 message¦134570 from God despite a lot of opposition ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "there"
+     ]
+    },
+    ".",
+    {
+     "type": "note",
+     "marker": "x",
+     "content": [
       {
        "type": "char",
        "marker": "xo",
        "content": [
-        "b "
+        "2:2: "
        ]
       },
       {
@@ -637,23 +773,7 @@
      ],
      "caller": "+"
     },
-    "but¦134555 after previously¦134554 suffering¦134554 and being mistreated¦134556 in Philippi¦134560, we spoke¦134561 boldly¦134561 ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "at your place with God’s help"
-     ]
-    },
-    ", to tell you all the good¦134570 message¦134570 from God despite a lot of opposition ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "there"
-     ]
-    },
-    ".\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
@@ -675,7 +795,15 @@
      "number": "4",
      "sid": "1TH 2:4"
     },
-    "but since God has approved us and entrusted¦134596 the good¦134598 message¦134598 to us, that’s what we talk about. We don’t¦134601 aim to bring pleasure¦134604 to people¦134603, but rather to bring them to God—the one who approves our¦134612 ",
+    "but¦134590 since God has¦134592 approved¦134592 us and entrusted¦134596 the¦134597 good¦134598 message¦134598 to us, that’s what we¦134600 talk¦134600 about. We don’t¦134601 aim to¦134603 bring¦134604 pleasure¦134604 to people¦134603, but¦134605 rather to bring them ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "to¦134607 God¦134607"
+     ]
+    },
+    "—the¦134608 one who approves¦134609 our¦134612 ",
     {
      "type": "char",
      "marker": "add",
@@ -690,53 +818,61 @@
      "number": "5",
      "sid": "1TH 2:5"
     },
-    "As you all know, we never once came with a message¦134617 of flattery¦134618, nor did we come under¦134624 any pretenses¦134624 (",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "God¦134626"
-     ]
-    },
-    " is ",
+    "As¦134620 you¦134621 all¦134621 know¦134621, we never once¦134615 came with¦134616 a message¦134617 of¦134618 flattery¦134618, nor¦134622 did we come under¦134624 any ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "our"
+      "#pretenses¦134624"
      ]
     },
-    " witness¦134627) trying to get anything from you,\n",
+    " (",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦134626 is¦134626"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&our"
+     ]
+    },
+    " witness¦134627) trying to get¦134619 anything from you,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "1TH 2:6"
     },
-    "nor did we try to earn respect from people¦134631—neither¦134633 from you¦134636 all nor from anyone else\n",
+    "nor¦134628 did we try¦134629 to earn respect from¦134630 people¦134631—neither¦134633 from¦134634 you¦134636 all¦134636 nor¦134637 from¦134638 anyone else\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "1TH 2:7"
     },
-    "even though we could request support as ambassadors¦134647 of ",
+    "even though we could¦134641 request support as¦134645 ambassadors¦134647 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Messiah¦134646"
+      "of¦134646 Messiah¦134646"
      ]
     },
-    ". But we became ",
+    ". But¦134648 we¦134649 became¦134649 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "unsophisticated "
+      "unsophisticated"
      ]
     },
-    " among you, ",
+    " among¦134653 you¦134654, ",
     {
      "type": "char",
      "marker": "add",
@@ -744,14 +880,14 @@
       "just"
      ]
     },
-    " like children, or like a breast-feeding mother¦134658 who cherishes¦134659 her own children.\n",
+    " like children, or like a¦134658 breast-feeding¦134658 mother¦134658 who cherishes¦134659 her own children¦134662.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "1TH 2:8"
     },
-    "So in longing¦134664 for you all like that, we were happy to share¦134667 with you all—not only the good¦134672 message¦134672 from ",
+    "So¦134663 in longing¦134664 for¦134665 you¦134665 all¦134665 like that, we¦134666 were¦134666 happy to¦134667 share¦134667 with¦134668 you¦134668 all¦134668—not¦134669 only¦134670 the¦134671 good¦134672 message¦134672 from ",
     {
      "type": "char",
      "marker": "nd",
@@ -759,7 +895,7 @@
       "God¦134674"
      ]
     },
-    ", but also ",
+    ", but¦134675 also¦134676 ",
     {
      "type": "char",
      "marker": "add",
@@ -767,14 +903,21 @@
       "exposing"
      ]
     },
-    " our own lives¦134679 because¦134680 you all became dear to us.\n",
+    " our own lives¦134679 because¦134680 you¦134684 all¦134684 became¦134684 dear¦134681 to¦134682 us¦134682.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "1TH 2:9"
     },
-    "Brothers¦134687 and sisters, you’re remembering¦134685 our¦134690 work and the hardship¦134693 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈Brothers¦134687 and¦134687 sisters¦134687"
+     ]
+    },
+    ", you’re remembering¦134685 our¦134690 work and¦134691 the¦134692 hardship¦134693 ",
     {
      "type": "char",
      "marker": "add",
@@ -782,7 +925,7 @@
       "that we endured"
      ]
     },
-    ", working¦134698 day¦134697 and night¦134694 so that we wouldn’t burden¦134702 any of you as we proclaimed¦134705 good¦134710 message¦134710 from ",
+    ", working¦134698 day¦134697 and night¦134694 so¦134696 that¦134700 we wouldn’t burden¦134702 any of¦134704 you¦134704 as we¦134705 declared¦134705 good¦134710 message¦134710 from ",
     {
      "type": "char",
      "marker": "nd",
@@ -803,7 +946,7 @@
      "number": "10",
      "sid": "1TH 2:10"
     },
-    "You’re all witnesses¦134714, and ",
+    "You’re¦134713 all¦134713 witnesses¦134714, and¦134715 ",
     {
      "type": "char",
      "marker": "nd",
@@ -811,21 +954,21 @@
       "God¦134717"
      ]
     },
-    " also, as to how devoutly¦134719 and justly¦134721 and blamelessly¦134723 we¦134728 were to the believers¦134726,\n",
+    " also, as to how¦134718 devoutly¦134719 and¦134720 justly¦134721 and¦134722 blamelessly¦134723 we were to¦134724 the¦134725 believers¦134726,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "1TH 2:11"
     },
-    "just as each one of you who’s a father¦134736 to his own children¦134737 has known¦134730\n",
+    "just¦134729 as¦134729 each¦134730 one¦134732 of¦134734 you¦134734 who’s a¦134736 father¦134736 to¦134737 his own children¦134737 has known¦134730\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "1TH 2:12"
     },
-    "how to encourage and to console¦134742 ",
+    "how to encourage and¦134741 to console¦134742 ",
     {
      "type": "char",
      "marker": "add",
@@ -833,7 +976,7 @@
       "them"
      ]
     },
-    ". We testified¦134744 to you so that you all would ",
+    ". We testified¦134744 to you so that¦134746 you¦134749 all¦134749 would ",
     {
      "type": "char",
      "marker": "add",
@@ -841,15 +984,15 @@
       "live lives"
      ]
     },
-    " worthy¦134750 of ",
+    " worthy¦134750 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "God¦134752"
+      "of¦134752 God¦134752"
      ]
     },
-    "—the one who invited you into his kingdom¦134760 and to ",
+    "—the¦134753 one who invited¦134755 you¦134756 into¦134757 his kingdom¦134760 and¦134761 to ",
     {
      "type": "char",
      "marker": "add",
@@ -857,7 +1000,7 @@
       "share"
      ]
     },
-    " his honour.\n"
+    " his honour¦134762.\n"
    ]
   },
   {
@@ -870,13 +1013,117 @@
      "number": "13",
      "sid": "1TH 2:13"
     },
-    "We also never stop thanking¦134768 God that when you accepted God’s message that you heard from us, it wasn’t a message from humans¦134783, but¦134763 truly¦134786 was a message from God who is working¦134793 in all of you who believed¦134798.\n",
+    "We¦134767 also never stop thanking¦134768 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦134770"
+     ]
+    },
+    " that¦134772 when¦134763 you accepted¦134773 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s"
+     ]
+    },
+    " message¦134774 that you heard¦134775 from¦134776 us¦134777, it wasn’t a message¦134782 from humans¦134783, but¦134784 truly¦134786 was¦134787 a message¦134789 from ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦134790"
+     ]
+    },
+    " who is¦134793 working¦134793 in¦134794 all of you who believed¦134798.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "1TH 2:14"
     },
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈Brothers¦134819 and¦134819 sisters¦134819"
+     ]
+    },
+    ", you became¦134818 imitators¦134817 of¦134820 the¦134820 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "other"
+     ]
+    },
+    " assemblies¦134821 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "of¦134823 God¦134823"
+     ]
+    },
+    " in¦134835 Yehudah¦134837 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Judea¦134837)"
+     ]
+    },
+    " which¦134833 are¦134834 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "founded on"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "Messiah¦134839 Yeshua¦134840"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦134840; Grk. Yesus)"
+     ]
+    },
+    ". You¦134845 all¦134845 suffered¦134845 the¦134843 same¦134844 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">things"
+     ]
+    },
+    " from your¦134849 own¦134850 countrymen that the¦134856 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "strict"
+     ]
+    },
+    " Yehudim¦134857 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jews¦134857)"
+     ]
+    },
+    " did to them.",
     {
      "type": "note",
      "marker": "x",
@@ -898,53 +1145,22 @@
      ],
      "caller": "+"
     },
-    "Brothers¦134819 and sisters, you became imitators¦134817 of the ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "other"
-     ]
-    },
-    " assemblies¦134821 of ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "God¦134823"
-     ]
-    },
-    " in Yudea¦134837 which¦134833 are ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "founded on"
-     ]
-    },
-    " ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "Messiah¦134839 Yeshua"
-     ]
-    },
-    ". You all suffered¦134845 the same¦134844 things from your own countrymen that¦134833 the ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "strict"
-     ]
-    },
-    " Jews did to them.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "1TH 2:15"
     },
+    "They executed their¦134865 own prophets¦134867 as well as the¦134860 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "master¦134861 Yeshua¦134863"
+     ]
+    },
+    ". They drove¦134871 us¦134870 out¦134871,",
     {
      "type": "note",
      "marker": "x",
@@ -966,15 +1182,7 @@
      ],
      "caller": "+"
     },
-    "They executed their¦134865 own prophets¦134867 as well as the ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "master¦134861 Yeshua"
-     ]
-    },
-    ". They drove us out, displeasing ",
+    " displeasing ",
     {
      "type": "char",
      "marker": "nd",
@@ -982,14 +1190,14 @@
       "God¦134873"
      ]
     },
-    " and contrary¦134879 to all people¦134878—\n",
+    " and contrary¦134879 to¦134877 all¦134877 people¦134878—\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "1TH 2:16"
     },
-    "forbidding¦134880 us from telling non-Jews that they ",
+    "forbidding¦134880 us¦134881 from telling¦134884 non-Jews that¦134885 they¦134886 ",
     {
      "type": "char",
      "marker": "add",
@@ -997,12 +1205,12 @@
       "need"
      ]
     },
-    " to be saved¦134886 so that they stay in their¦134890 sins¦134892, but¦134896 ",
+    " to be¦134886 saved¦134886 so that¦134888 they stay in their¦134890 sins¦134892, but¦134896 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "God’s"
+      "&God’s¦134899"
      ]
     },
     " severe¦134900 anger¦134900 will finish them off.\n"
@@ -1012,7 +1220,7 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "Paul’s desire to visit Thessalonica again\n"
+    "Paulos’s desire to visit Thessalonikai again\n"
    ]
   },
   {
@@ -1032,34 +1240,66 @@
      "number": "17",
      "sid": "1TH 2:17"
     },
-    "But we, brothers¦134907 and sisters¦134907, have been cut off from you for a while, but¦134906 only physically and not in ",
+    "But¦134906 we¦134905, ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "our"
+      "≈brothers¦134907 and¦134907 sisters¦134907"
      ]
     },
-    " hearts¦134916, in fact we long to see¦134922 you even more.\n",
+    ", have¦134908 been¦134908 cut off from you¦134910 for¦134911 a while, but only physically and not¦134915 in¦134916 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&our"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#hearts¦134916"
+     ]
+    },
+    ", in fact we¦134918 long to¦134922 see¦134922 you even more¦134917.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "18",
      "sid": "1TH 2:18"
     },
-    "We wanted¦134928 to come and see you all—I, Paul¦134935, even tried twice¦134939 to come—but¦134938 Satan¦134944 held us back.\n",
+    "We¦134928 wanted¦134928 to¦134929 come¦134929 and see you¦134932 all¦134932—I¦134933, Paulos¦134935, even tried twice¦134939 to come—but¦134940 Satan¦134944 held us back.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "19",
      "sid": "1TH 2:19"
     },
-    "Because¦134946 who is it that encourages and pleases us and that we can brag about? Won’t it be you all there in front of our¦134947 ",
+    "Because¦134946 who¦134945 is¦134945 it that encourages and pleases us¦134947 and that we can brag¦134954 about? Won’t¦134956 it be¦134956 you¦134958 all¦134958 there ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈in¦134959 front¦134959 of¦134959"
+     ]
+    },
+    " our¦134962 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "master¦134961 Yeshua"
+      "master¦134961 Yeshua¦134963"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦134963; Grk¦134963. Yesus¦134963)"
      ]
     },
     " when he ",
@@ -1077,7 +1317,7 @@
      "number": "20",
      "sid": "1TH 2:20"
     },
-    "because¦134970 you¦134969 all make us ",
+    "because¦134970 you¦134969 all¦134969 make us¦134974 ",
     {
      "type": "char",
      "marker": "add",
@@ -1104,6 +1344,7 @@
      "number": "1",
      "sid": "1TH 3:1"
     },
+    "When we could endure¦134981 it no¦134980 longer¦134980, we¦134982 were happy to¦134983 be¦134983 left¦134983 alone¦134986 in¦134984 Athainai¦134985.",
     {
      "type": "note",
      "marker": "x",
@@ -1125,14 +1366,22 @@
      ],
      "caller": "+"
     },
-    "When we could endure¦134981 it no longer¦134980, we were happy to be left alone¦134986 in Athens¦134985.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "1TH 3:2"
     },
-    "We sent¦134988 Timothy¦134989, who’s our¦134992 brother¦134991 and God’s servant¦134994 in the ",
+    "We¦134988 sent¦134988 Timotheos¦134989, who’s our¦134992 brother¦134991 and¦134993 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦134997"
+     ]
+    },
+    " servant¦134994 in¦135001 the¦135002 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1140,14 +1389,14 @@
       "messiah’s¦135005"
      ]
     },
-    " good¦135003 message¦135003, so that he could strengthen¦135008 you all and encourage you in your¦135017 faith¦135016\n",
+    " good¦135003 message¦135003, so that¦135007 he could strengthen¦135008 you¦135009 all¦135009 and¦135010 encourage you in your¦135017 faith¦135016\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "1TH 3:3"
     },
-    "so that no one will be upset by these¦135025 difficulties because¦135027 you¦135028 all know that ",
+    "so that¦135018 no¦135020 one¦135020 will be¦135021 upset¦135021 by¦135022 these¦135025 difficulties because¦135027 you¦135028 all¦135028 know¦135028 that¦135029 ",
     {
      "type": "char",
      "marker": "add",
@@ -1155,29 +1404,37 @@
       "God"
      ]
     },
-    " has appointed¦135032 us for those.\n",
+    " has appointed¦135032 us for¦135030 those.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "1TH 3:4"
     },
-    "Also, when we were with you all previously¦135039, we told you that we were going¦135042 to be oppressed¦135043, and then it¦135046 happened as you know.\n",
+    "Also¦135033, when¦135035 we were with¦135036 you¦135037 all¦135037 previously¦135039, we told¦135039 you¦135040 that¦135041 we¦135042 were¦135042 going¦135042 to¦135043 be¦135043 oppressed¦135043, and¦135045 then it¦135046 happened as¦135044 you¦135048 know¦135048.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "1TH 3:5"
     },
-    "So again when I could no longer¦135052 endure¦135053 it, I sent¦135054 ",
+    "So again when I¦135051 could no¦135052 longer¦135052 endure¦135053 it, I¦135054 sent¦135054 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "Timothy"
+      "Timotheos"
      ]
     },
-    " to find out about your¦135060 faith¦135059, just in case you’d been tempted by the tempter and¦135068 then our¦135074 work ",
+    " to¦135057 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈find out"
+     ]
+    },
+    " about your faith¦135059, just¦135050 in¦135055 case you’d¦135060 been tempted¦135064 by the¦135066 tempter¦135067 and¦135068 then our¦135074 work¦135073 ",
     {
      "type": "char",
      "marker": "add",
@@ -1205,6 +1462,7 @@
      "number": "6",
      "sid": "1TH 3:6"
     },
+    "But¦135076 now¦135075 Timotheos’s¦135078 returned¦135077 here to¦135079 us,",
     {
      "type": "note",
      "marker": "x",
@@ -1226,7 +1484,7 @@
      ],
      "caller": "+"
     },
-    "But¦135083 now Timothy’s¦135078 returned here to us, telling us the good news about your¦135093 faith¦135089 and love¦135092, and how you’re always¦135100 mentioning¦135097 good ",
+    " telling us the good¦135084 news¦135084 about¦135087 your¦135093 faith¦135089 and¦135090 love¦135092, and¦135094 how you’re¦135096 always¦135100 mentioning¦135097 good¦135099 ",
     {
      "type": "char",
      "marker": "add",
@@ -1234,7 +1492,7 @@
       "things about"
      ]
     },
-    " us and wanting to see us, just like we’d like to see all of you.\n",
+    " us¦135102 and wanting to¦135103 see¦135103 us, just¦135104 like¦135104 we’d¦135106 like to see all of you.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1249,14 +1507,22 @@
       "even"
      ]
     },
-    " in our¦135123 distress and sufferings, we’re comforted¦135110 by your¦135128 faith¦135129, brothers¦135112 and sisters¦135112\n",
+    " in¦135115 our¦135123 distress and sufferings, we’re¦135110 comforted¦135110 by¦135113 your¦135128 faith¦135129, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈brothers¦135112 and¦135112 sisters¦135112"
+     ]
+    },
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "1TH 3:8"
     },
-    "because now we¦135133 can live ",
+    "because¦135131 now¦135132 we¦135133 can live¦135133 ",
     {
      "type": "char",
      "marker": "add",
@@ -1264,7 +1530,7 @@
       "happily"
      ]
     },
-    " since you’re all standing¦135136 firm in ",
+    " since you’re¦135135 all¦135135 standing¦135136 firm¦135136 in¦135138 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1279,7 +1545,15 @@
      "number": "9",
      "sid": "1TH 3:9"
     },
-    "We’re not able to repay¦135147 God for the thankfulness¦135142 that we have about you, because we are certainly thrilled in God’s presence because of you all.\n"
+    "We’re¦135143 not able¦135143 to repay¦135147 God for¦135151 the¦135153 thankfulness¦135142 that¦135155 we have about you, because we are¦135156 certainly thrilled in ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s"
+     ]
+    },
+    " presence because¦135157 of¦135157 you¦135158 all¦135158.\n"
    ]
   },
   {
@@ -1292,7 +1566,7 @@
      "number": "10",
      "sid": "1TH 3:10"
     },
-    "Day and night we’re strongly requesting ",
+    "Day¦135166 and night¦135164 we’re strongly requesting ",
     {
      "type": "char",
      "marker": "add",
@@ -1300,7 +1574,7 @@
       "God"
      ]
     },
-    " that we’ll be able to ",
+    " that¦135170 we’ll be able to¦135171 ",
     {
      "type": "char",
      "marker": "add",
@@ -1308,7 +1582,15 @@
       "go and"
      ]
     },
-    " see¦135171 you all again, and to ",
+    " see¦135171 you¦135172 all¦135172 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "again"
+     ]
+    },
+    ", and¦135175 to¦135176 ",
     {
      "type": "char",
      "marker": "add",
@@ -1316,14 +1598,14 @@
       "teach"
      ]
     },
-    " anything that’s lacking¦135178 in your¦135172 faith¦135180,\n",
+    " anything that’s lacking¦135178 in¦135179 your¦135181 faith¦135180,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "1TH 3:11"
     },
-    "and that ",
+    "and¦135183 that ",
     {
      "type": "char",
      "marker": "nd",
@@ -1331,7 +1613,7 @@
       "God¦135185"
      ]
     },
-    " our father¦135187 himself¦135182 and our ",
+    " our father¦135187 himself and¦135189 our ",
     {
      "type": "char",
      "marker": "nd",
@@ -1339,7 +1621,15 @@
       "master¦135191 Yeshua¦135193"
      ]
     },
-    " might¦135195 show us how we could get to you¦135201 all.\n"
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦135193; Grk¦135193. Yesus¦135193)"
+     ]
+    },
+    " might¦135195 show us¦135199 how we could get to¦135200 you¦135201 all¦135201.\n"
    ]
   },
   {
@@ -1352,7 +1642,7 @@
      "number": "12",
      "sid": "1TH 3:12"
     },
-    "May the ",
+    "May the¦135204 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1368,22 +1658,22 @@
       "numbers"
      ]
     },
-    " and give you all an excess of love¦135211 towards each other and toward everyone¦135213, just like we also have toward all of you,\n",
+    " and¦135208 give you all an excess of love¦135211 towards¦135212 each other and¦135214 toward¦135215 everyone¦135216, just¦135217 like¦135217 we also¦135218 have toward¦135220 all of you,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "1TH 3:13"
     },
-    "in order¦135222 to strengthen¦135224 your¦135225 ",
+    "in¦135222 order¦135222 to¦135224 strengthen¦135224 your¦135225 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "faith and make you¦135225"
+      "faith and make you"
      ]
     },
-    " blameless¦135229 and spotless before¦135233 our father¦135237 ",
+    " blameless¦135229 and spotless before¦135233 our¦135244 father¦135237 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1391,7 +1681,7 @@
       "God¦135235"
      ]
     },
-    ", when our ",
+    ", when¦135236 our¦135238 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1399,7 +1689,23 @@
       "master¦135243 Yeshua¦135245"
      ]
     },
-    " comes with all his¦135251 holy people. May¦135252 it¦135252 be¦135252 so¦135252.\n"
+    " comes¦135241 with¦135247 all¦135248 his¦135251 holy¦135250 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">people"
+     ]
+    },
+    ". ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈May¦135252 it¦135252 be¦135252 so¦135252"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -1432,7 +1738,15 @@
      "number": "1",
      "sid": "1TH 4:1"
     },
-    "So¦135255 finally¦135254, brothers¦135256 and sisters¦135256, you learnt from us about how to live in a way that¦135270 pleases¦135276 ",
+    "So¦135255 finally¦135254, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈brothers¦135256 and¦135256 sisters¦135256"
+     ]
+    },
+    ", you learnt from¦135268 us¦135269 about how¦135271 to live in¦135281 a way that¦135281 pleases¦135276 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1440,7 +1754,7 @@
       "God¦135277"
      ]
     },
-    " as indeed you are. Now we are requesting you all, and we’re instructing ",
+    " as¦135278 indeed you¦135280 are. Now we are requesting¦135257 you¦135282 all¦135282, and we’re instructing ",
     {
      "type": "char",
      "marker": "add",
@@ -1448,22 +1762,30 @@
       "you"
      ]
     },
-    " from the ",
+    " from ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "master¦135263 Yeshua"
+      "the¦135263 master¦135263 Yeshua¦135264"
      ]
     },
-    " to do this even more,\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦135264; Grk¦135264. Yesus¦135264)"
+     ]
+    },
+    " to do this even¦135279 more¦135284,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "1TH 4:2"
     },
-    "because¦135286 you all know the instructions that we gave¦135289 to you through¦135292 the ",
+    "because¦135286 you¦135285 all¦135285 know¦135285 the instructions that we¦135289 gave¦135289 to¦135291 you¦135291 through¦135292 the¦135293 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1478,29 +1800,45 @@
      "number": "3",
      "sid": "1TH 4:3"
     },
-    "Because¦135297 this is God’s will: that you all stay holy, keeping¦135306 away from all sexual¦135310 immorality¦135310,\n",
+    "Because¦135297 this¦135296 is¦135298 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦135302"
+     ]
+    },
+    " will: that you¦135305 all¦135305 stay holy, keeping¦135306 away¦135306 from¦135308 all sexual¦135310 immorality¦135310,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "1TH 4:4"
     },
-    "knowing¦135311 that each of ",
+    "knowing¦135311 that each¦135312 of¦135314 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "your¦135314 bodies"
+      "your bodies"
      ]
     },
-    " is like a container that you¦135314 can fill with holiness¦135320 and¦135321 honour¦135323.\n",
+    " is like a container¦135317 that you¦135314 can fill with holiness¦135320 and¦135321 honour¦135323.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "1TH 4:5"
     },
-    "Don’t fill them with lustful passions¦135326 like those who don’t¦135324 know ",
+    "Don’t¦135324 fill them with lustful ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#passions¦135326"
+     ]
+    },
+    " like¦135328 those who don’t¦135333 know¦135334 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1523,7 +1861,15 @@
       "lusts"
      ]
     },
-    " and exploiting¦135341 your fellow believers, because¦135348 ",
+    " and¦135340 exploiting¦135341 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%your¦135347"
+     ]
+    },
+    " fellow believers, because¦135348 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1531,7 +1877,23 @@
       "Yahweh¦135351"
      ]
     },
-    " is the one who avenges¦135349 all those things as we’ve told you before and testified¦135360 to you all.\n",
+    " is¦135349 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "the¦135351"
+     ]
+    },
+    " one who avenges¦135349 all¦135353 those¦135354 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">things"
+     ]
+    },
+    " as¦135355 we’ve¦135357 told¦135357 you before and¦135359 testified¦135360 to you¦135358 all¦135358.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1545,14 +1907,22 @@
       "God¦135366"
      ]
     },
-    " has not called¦135363 us to impurity¦135368 but¦135369 to holiness¦135371,\n",
+    " has not¦135361 called¦135363 us¦135364 to¦135367 impurity¦135368 but¦135369 to holiness¦135371,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "1TH 4:8"
     },
-    "so whoever rejects this is not rejecting a human¦135376 but¦135378 rejecting ",
+    "so¦135372 anyone who rejects¦135374 this¦135374 is not¦135375 rejecting a¦135376 human¦135376 but¦135378 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≡rejecting"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "nd",
@@ -1560,7 +1930,7 @@
       "God¦135380"
      ]
     },
-    "—the one who gives his¦135388 holy ",
+    "—the¦135381 one who gives¦135383 his¦135388 holy¦135390 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1568,7 +1938,7 @@
       "spirit¦135387"
      ]
     },
-    " to you¦135392 all.\n"
+    " to¦135391 you¦135392 all¦135392.\n"
    ]
   },
   {
@@ -1581,7 +1951,7 @@
      "number": "9",
      "sid": "1TH 4:9"
     },
-    "Then¦135395 concerning¦135394 brotherly¦135397 love¦135397, you don’t need me to write about that because¦135405 you yourselves¦135404 have been taught by God to be loving¦135411 each other\n",
+    "Then¦135395 concerning¦135394 brotherly¦135397 love¦135397, you don’t need¦135399 me¦135400 to¦135402 write¦135402 about that¦135410 because¦135405 you yourselves¦135404 have been¦135408 taught by God to¦135411 be¦135411 loving¦135411 each other\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1595,21 +1965,45 @@
       "and"
      ]
     },
-    " because¦135414 you’re all already doing¦135415 it to the believers¦135421 all over Macedonia¦135427. But we advise you, brothers and sisters to do it even more\n",
+    " because¦135414 you’re¦135415 all¦135415 already doing¦135415 it¦135416 to the¦135420 believers¦135421 all¦135425 over Makedonia¦135427. But¦135429 we¦135428 advise you¦135430, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈brothers¦135432 and¦135432 sisters¦135432"
+     ]
+    },
+    " to¦135433 do it even more¦135434\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "1TH 4:11"
     },
-    "and to make it your ambition¦135436 to live quietly¦135438 and to look after your own selves. Work with your own hands¦135447 as we instructed¦135451 you,\n",
+    "and¦135435 to¦135436 make¦135440 it your¦135448 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈ambition¦135436"
+     ]
+    },
+    " to¦135438 live¦135438 quietly¦135438 and¦135439 to¦135440 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈look after"
+     ]
+    },
+    " your¦135441 own¦135442 selves. Work¦135444 with¦135445 your¦135445 own¦135446 hands¦135447 as¦135449 we¦135451 instructed¦135451 you,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "1TH 4:12"
     },
-    "so that you have a good attitude towards¦135456 ",
+    "so that¦135453 you¦135454 have a good attitude towards¦135456 ",
     {
      "type": "char",
      "marker": "add",
@@ -1617,7 +2011,15 @@
       "non-believers"
      ]
     },
-    " and so that you don’t have any outstanding needs.\n"
+    " and¦135459 so that you¦135462 don’t have¦135462 any outstanding ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#needs¦135461"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -1644,14 +2046,62 @@
      "number": "13",
      "sid": "1TH 4:13"
     },
-    "But we don’t want you to be ignorant, brothers¦135469 and¦135469 sisters¦135469, about those who’ve died so that you won’t¦135468 mourn like others who don’t have any hope,\n",
+    "But¦135466 we¦135464 don’t want¦135464 you¦135467 to¦135468 be¦135468 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "^ignorant"
+     ]
+    },
+    ", ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈brothers¦135469 and¦135469 sisters¦135469"
+     ]
+    },
+    ", about¦135470 those who’ve ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈died"
+     ]
+    },
+    " so that¦135474 you¦135476 won’t mourn like¦135478 others who don’t¦135483 have¦135484 any hope¦135485,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "1TH 4:14"
     },
-    "because¦135487 if we believe that Yeshua died and came back to life, then we can also believe that ",
+    "because¦135487 if¦135486 we¦135488 believe¦135488 that¦135490 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "Yeshua¦135491"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦135491; Grk¦135491. Yesus¦135491)"
+     ]
+    },
+    " died¦135492 and¦135493 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈came back to life"
+     ]
+    },
+    ", then we can also¦135496 believe that ",
     {
      "type": "char",
      "marker": "add",
@@ -1659,12 +2109,44 @@
       "when he returns,"
      ]
     },
-    " Yeshua will be bringing¦135505 with him those who have died.\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "Yeshua¦135504"
+     ]
+    },
+    " will¦135505 be¦135505 bringing¦135505 with¦135506 him¦135507 those who have died.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "1TH 4:15"
+    },
+    "So this¦135508 is¦135511 what we’re saying¦135511 in¦135512 Yahweh’s message¦135513: those who¦135515 are still living¦135518 when the¦135524 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "master¦135526"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "returns"
+     ]
+    },
+    ", we certainly won’t¦135528 precede¦135529 those who’ve already ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈died"
+     ]
     },
     {
      "type": "note",
@@ -1687,22 +2169,22 @@
      ],
      "caller": "+"
     },
-    "So this is what we’re saying¦135511 in Yahweh’s message¦135513: those who are still living¦135518 when the master ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "returns"
-     ]
-    },
-    ", we certainly won’t¦135528 precede¦135529 those who’ve already died\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "1TH 4:16"
     },
-    "because there’ll be an announcement from the archangel¦135540 and God’s trumpet¦135543 ",
+    "because¦135532 there’ll be an¦135540 announcement from the archangel¦135540 and¦135541 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦135544"
+     ]
+    },
+    " trumpet¦135543 ",
     {
      "type": "char",
      "marker": "add",
@@ -1710,7 +2192,7 @@
       "will sound"
      ]
     },
-    " and then the ",
+    " and then the¦135534 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1718,7 +2200,7 @@
       "master¦135535"
      ]
     },
-    " will come down from heaven¦135547 with a loud¦135537 shout. The dead¦135550 ",
+    " will¦135545 come¦135545 down¦135545 from¦135546 heaven¦135547 with a¦135537 loud¦135537 shout. The¦135549 dead¦135550 ",
     {
      "type": "char",
      "marker": "add",
@@ -1726,7 +2208,7 @@
       "believers"
      ]
     },
-    " in ",
+    " in¦135551 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1734,19 +2216,49 @@
       "Messiah¦135552"
      ]
     },
-    " will come to life again first¦135554,\n",
+    " will¦135553 come to life again first¦135554,",
+    {
+     "type": "note",
+     "marker": "x",
+     "content": [
+      {
+       "type": "char",
+       "marker": "xo",
+       "content": [
+        "4:16: "
+       ]
+      },
+      {
+       "type": "char",
+       "marker": "xt",
+       "content": [
+        "1Cor 15:51-52."
+       ]
+      }
+     ],
+     "caller": "+"
+    },
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "1TH 4:17"
     },
-    "then we who are still alive will be pulled up into the clouds¦135567 together¦135562 with them to meet the master in the air, and from then will always¦135576 remain¦135560 with ",
+    "then¦135555 we¦135556 who are still alive¦135558 will¦135565 be¦135565 pulled up into¦135566 the¦135567 clouds¦135567 together¦135562 with¦135563 them¦135564 to meet¦135569 the¦135570 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yahweh¦135571"
+      "master¦135571"
+     ]
+    },
+    " in¦135572 the¦135573 air¦135573, and¦135574 from then will always¦135576 remain¦135560 with¦135578 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "Yahweh¦135579"
      ]
     },
     ".\n",
@@ -1756,7 +2268,7 @@
      "number": "18",
      "sid": "1TH 4:18"
     },
-    "So ",
+    "So¦135581 ",
     {
      "type": "char",
      "marker": "add",
@@ -1764,7 +2276,7 @@
       "when someone dies,"
      ]
     },
-    " comfort¦135582 each other with those truths.\n"
+    " comfort¦135582 each other with¦135584 those¦135587 truths.\n"
    ]
   },
   {
@@ -1790,13 +2302,30 @@
      "number": "1",
      "sid": "1TH 5:1"
     },
-    "Concerning the times¦135591 and seasons¦135594, brothers¦135595 and sisters¦135595, you don’t need anything to be written¦135601\n",
+    "Concerning¦135588 the¦135590 times¦135591 and¦135592 seasons¦135594, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈brothers¦135595 and¦135595 sisters¦135595"
+     ]
+    },
+    ", you don’t need¦135597 anything to be¦135601 written¦135601\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "1TH 5:2"
     },
+    "because¦135604 you¦135606 already know¦135606 that¦135607 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "Yahweh’s"
+     ]
+    },
+    " day¦135609 will come like¦135611 a¦135612 thief¦135612 comes at night¦135614.",
     {
      "type": "note",
      "marker": "x",
@@ -1818,22 +2347,14 @@
      ],
      "caller": "+"
     },
-    "because¦135604 you¦135606 already know that ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "Yahweh’s"
-     ]
-    },
-    " day¦135609 will come like a thief¦135612 comes at night¦135614.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "1TH 5:3"
     },
-    "Just when they’re saying¦135620 there’s peace and security¦135623, then they’ll suddenly¦135625 recognise¦135627 the ",
+    "Just when¦135617 they’re¦135620 saying¦135620 there’s peace¦135621 and¦135622 security¦135623, then¦135624 they’ll suddenly¦135625 recognise¦135627 the ",
     {
      "type": "char",
      "marker": "add",
@@ -1841,21 +2362,37 @@
       "imminent"
      ]
     },
-    " destruction¦135630, like a pregnant¦135636 woman¦135634 having¦135637 birth¦135633 pains¦135633. They certainly won’t¦135640 be able to escape¦135641,\n",
+    " destruction¦135630, like¦135631 a pregnant¦135636 woman¦135634 having birth¦135633 pains¦135633. They certainly won’t¦135640 be able to escape¦135641,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "1TH 5:4"
     },
-    "but¦135643 you, brothers¦135644 and sisters¦135644, aren’t¦135645 in darkness¦135648 and likely to get surprised by a thief in the night\n",
+    "but¦135643 you¦135642, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈brothers¦135644 and¦135644 sisters¦135644"
+     ]
+    },
+    ", aren’t¦135645 in¦135647 darkness¦135648 and likely to get surprised by a ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#thief¦135656"
+     ]
+    },
+    " in¦135649 the¦135651 night\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "1TH 5:5"
     },
-    "because¦135659 you’re all children of the light¦135662 and¦135664 of the day¦135666. ",
+    "because¦135659 you’re¦135660 all¦135660 children¦135661 of¦135662 the light¦135662 and¦135664 of¦135666 the day¦135666. ",
     {
      "type": "char",
      "marker": "add",
@@ -1863,7 +2400,7 @@
       "No,"
      ]
     },
-    " we’re not ",
+    " we’re¦135668 not ",
     {
      "type": "char",
      "marker": "add",
@@ -1871,27 +2408,44 @@
       "part"
      ]
     },
-    " of the night¦135669 or of the darkness¦135671\n",
+    " of¦135669 the night¦135669 or of¦135671 the darkness¦135671\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "1TH 5:6"
     },
-    "so as a result, we won’t¦135674 be sleeping¦135675 like the others, but¦135682 we’ll be alert and sober¦135683.\n",
+    "so¦135673 as a result, we¦135675 won’t¦135674 be¦135675 sleeping¦135675 like¦135676 the¦135678 others, but¦135680 we’ll¦135681 be¦135681 alert¦135681 and¦135682 sober¦135683.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "1TH 5:7"
     },
-    "Those who sleep do it at night, and those who get drunk do it at night,\n",
+    "Those who sleep¦135687 do it at night¦135688, and¦135690 those who get drunk¦135693 do it at night¦135694,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "1TH 5:8"
     },
+    "but¦135697 we¦135696 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "belong"
+     ]
+    },
+    " to the¦135698 day¦135698. We’ll be¦135700 dressed¦135701 in¦135701 the¦135702 armour of¦135703 faith¦135703 and¦135704 love¦135705, and¦135706 the¦135707 helmet¦135707 which is the¦135708 hope¦135708 of¦135709 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&our"
+     ]
+    },
+    " salvation¦135709.",
     {
      "type": "note",
      "marker": "x",
@@ -1913,23 +2467,7 @@
      ],
      "caller": "+"
     },
-    "but¦135697 we¦135696 ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "belong"
-     ]
-    },
-    " to the day¦135698. We’ll be dressed¦135701 in the armour of faith¦135703 and love¦135705, and the helmet¦135707 which is the hope of ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "our"
-     ]
-    },
-    " salvation¦135709.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1943,20 +2481,28 @@
       "God¦135715"
      ]
     },
-    " hasn’t assigned us to ",
+    " hasn’t assigned¦135712 us¦135713 to ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "his"
+      "&his"
      ]
     },
-    " severe¦135718 anger¦135718, but¦135719 rather for obtaining salvation¦135722 through¦135723 our¦135726 ",
+    " severe¦135718 anger¦135718, but¦135719 rather for¦135720 obtaining salvation¦135722 through¦135723 our¦135726 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "master¦135725 Yeshua¦135727 Messiah¦135728"
+      "master¦135725 Yeshua¦135727 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦135727; Grk¦135727. Yesus¦135727)"
+       ]
+      },
+      " Messiah¦135728"
      ]
     },
     "—\n",
@@ -1966,7 +2512,7 @@
      "number": "10",
      "sid": "1TH 5:10"
     },
-    "the one who was executed on our behalf so that whether we might be ",
+    "the¦135729 one who was executed on our behalf so that¦135735 whether¦135736 we¦135737 might¦135737 be¦135737 ",
     {
      "type": "char",
      "marker": "add",
@@ -1974,7 +2520,7 @@
       "alert and"
      ]
     },
-    " watching¦135737, or whether we’re ",
+    " watching¦135737, or¦135738 whether we’re¦135739 ",
     {
      "type": "char",
      "marker": "add",
@@ -1990,7 +2536,7 @@
       "either way"
      ]
     },
-    " we’ll ",
+    " we’ll¦135743 ",
     {
      "type": "char",
      "marker": "add",
@@ -1998,14 +2544,14 @@
       "all"
      ]
     },
-    " live¦135743 together¦135740 with him¦135742.\n",
+    " live¦135743 together¦135740 with¦135741 him¦135742.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "1TH 5:11"
     },
-    "So¦135745 comfort¦135746 and¦135748 encourage each other as you’ve all been doing¦135756 already.\n"
+    "So¦135745 comfort¦135746 and¦135748 encourage each other as¦135754 you’ve¦135756 all¦135756 been¦135756 doing¦135756 already.\n"
    ]
   },
   {
@@ -2032,7 +2578,15 @@
      "number": "12",
      "sid": "1TH 5:12"
     },
-    "But¦135766 we’re asking¦135757 you, brothers¦135760 and sisters¦135760, to be aware of the people who are working among¦135764 you all and the ones leading¦135767 you in ",
+    "But¦135758 we’re¦135757 asking¦135757 you¦135759, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈brothers¦135760 and¦135760 sisters¦135760"
+     ]
+    },
+    ", to¦135761 be aware of the¦135762 people who are working¦135763 among¦135764 you¦135765 all¦135765 and¦135766 the ones leading¦135767 you¦135768 in¦135769 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2040,14 +2594,14 @@
       "Yahweh¦135770"
      ]
     },
-    " and instructing you all,\n",
+    " and¦135771 instructing you¦135774 all¦135774,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "1TH 5:13"
     },
-    "and show them love¦135782 over-and-beyond because¦135783 of their¦135786 work¦135785. Be at peace¦135788 with each other.\n"
+    "and¦135775 show them¦135778 love¦135782 over-and-beyond because¦135783 of¦135783 their¦135786 work¦135785. Be¦135788 at¦135788 peace¦135788 with each other.\n"
    ]
   },
   {
@@ -2060,14 +2614,22 @@
      "number": "14",
      "sid": "1TH 5:14"
     },
-    "We advise you¦135794, brothers¦135795 and sisters¦135795, to scold those who are lazy, comfort those who are discouraged, help the weak up, and be patient¦135807 towards¦135808 everyone.\n",
+    "We¦135792 advise you¦135794, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈brothers¦135795 and¦135795 sisters¦135795"
+     ]
+    },
+    ", to scold those who are¦135796 lazy¦135798, comfort¦135799 those who are¦135802 discouraged, help the¦135803 weak¦135804 up, and be¦135807 patient¦135807 towards¦135808 everyone¦135809.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "1TH 5:15"
     },
-    "Don’t let anyone¦135816 repay evil for evil, but¦135823 always¦135819 be doing what is good towards each other and towards everyone¦135825 else.\n"
+    "Don’t¦135811 let anyone¦135816 repay¦135817 evil¦135813 for¦135814 evil¦135815, but¦135818 always¦135819 be doing what is good¦135821 towards¦135824 each other and¦135826 towards¦135827 everyone¦135828 else.\n"
    ]
   },
   {
@@ -2088,7 +2650,7 @@
       "find something to"
      ]
     },
-    " be happy about.\n",
+    " be¦135830 happy about.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2110,19 +2672,43 @@
       "God"
      ]
     },
-    " about everything¦135834.\n"
+    " ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "about¦135841"
+     ]
+    },
+    " everything¦135834.\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "This is what God wants for you¦135848 in ",
+    "This¦135836 is¦135836 what ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Messiah¦135845 Yeshua"
+      "God¦135841"
+     ]
+    },
+    " wants for you in¦135844 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "Messiah¦135845 Yeshua¦135846"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦135846; Grk. Yesus)"
      ]
     },
     ":\n",
@@ -2132,7 +2718,7 @@
      "number": "19",
      "sid": "1TH 5:19"
     },
-    "Don’t smother the ",
+    "Don’t¦135851 smother the¦135849 ",
     {
      "type": "char",
      "marker": "add",
@@ -2155,7 +2741,7 @@
      "number": "20",
      "sid": "1TH 5:20"
     },
-    "Don’t scorn¦135855 prophesies.\n",
+    "Don’t¦135854 scorn¦135855 prophesies¦135853.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2169,7 +2755,7 @@
      "number": "22",
      "sid": "1TH 5:22"
     },
-    "but keeping¦135866 away from everything¦135863 that seems to be evil¦135865.\n",
+    "but keeping¦135866 away¦135866 from¦135862 everything¦135863 that seems to be evil¦135865.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -2189,7 +2775,7 @@
      "number": "23",
      "sid": "1TH 5:23"
     },
-    "May the ",
+    "May the¦135871 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2197,7 +2783,31 @@
       "God¦135872"
      ]
     },
-    " of peace¦135874 himself¦135868 make you completely holy and may your¦135880 entire¦135876 spirits¦135882, souls, and bodies be kept¦135898 irreproachable at the ",
+    " of¦135874 peace¦135874 himself make you¦135876 completely¦135877 holy and¦135878 may your¦135880 entire¦135880 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#spirits¦135882"
+     ]
+    },
+    ", ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#souls¦135885"
+     ]
+    },
+    ", and¦135886 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#bodies¦135888"
+     ]
+    },
+    " be kept¦135898 irreproachable at¦135890 the¦135891 ",
     {
      "type": "char",
      "marker": "add",
@@ -2205,12 +2815,12 @@
       "returning"
      ]
     },
-    " of our¦135895 ",
+    " of¦135893 our¦135895 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "master¦135894 Yeshua Messiah¦135897"
+      "master¦135894 Yeshua¦135896 Messiah¦135897"
      ]
     },
     ".\n",
@@ -2220,7 +2830,7 @@
      "number": "24",
      "sid": "1TH 5:24"
     },
-    "The one calling¦135901 you¦135903 all is faithful and he will also see it¦135906 through.\n"
+    "The¦135900 one calling¦135901 you¦135903 all¦135903 is¦135899 faithful¦135899 and¦135905 he will¦135906 also¦135905 see it¦135906 through.\n"
    ]
   },
   {
@@ -2233,7 +2843,14 @@
      "number": "25",
      "sid": "1TH 5:25"
     },
-    "Brothers¦135907 and¦135907 sisters¦135907, pray for us also.\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈Brothers¦135907 and¦135907 sisters¦135907"
+     ]
+    },
+    ", pray¦135908 for¦135910 us¦135911 also¦135909.\n"
    ]
   },
   {
@@ -2246,7 +2863,7 @@
      "number": "26",
      "sid": "1TH 5:26"
     },
-    "Greet¦135912 the brothers¦135914 with a holy kiss¦135917 ",
+    "Greet¦135912 the¦135913 brothers¦135914 with¦135916 a¦135917 holy¦135918 kiss¦135917 ",
     {
      "type": "char",
      "marker": "add",
@@ -2267,7 +2884,7 @@
      "number": "27",
      "sid": "1TH 5:27"
     },
-    "I request you¦135921 by the ",
+    "I¦135919 request you¦135921 by¦135922 the¦135922 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2275,12 +2892,12 @@
       "master¦135923"
      ]
     },
-    " to read my letter¦135926 to all the ",
+    " to¦135924 read¦135924 my¦135925 letter¦135926 to¦135927 all¦135927 the¦135928 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "believers¦135930 there"
+      "believers there"
      ]
     },
     ".\n"
@@ -2296,15 +2913,23 @@
      "number": "28",
      "sid": "1TH 5:28"
     },
-    "May you¦135941 all experience the grace¦135934 that comes from our¦135937 ",
+    "May you¦135941 all¦135941 experience the¦135933 grace¦135934 that comes from our¦135937 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "master¦135936 Yeshua Messiah¦135939"
+      "master¦135936 Yeshua¦135938 Messiah¦135939"
      ]
     },
-    ". May it¦135942 be¦135942 so¦135942.\n"
+    ". ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈May¦135942 it¦135942 be¦135942 so¦135942"
+     ]
+    },
+    ".\n"
    ]
   }
  ]

@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "3JN",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.02"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.0"
    ]
   },
   {
@@ -112,7 +112,7 @@
    "type": "para",
    "marker": "ip",
    "content": [
-    "This letter was sent to one of Yohan’s friends named Gaius. Yohan praises Gaius for the way he’d looked after other believers and for his living out God’s truth. Yohan also warns Gaius about a person named Diotrephes who was opposing the believers.\n"
+    "This letter was sent to one of Yohan’s friends named Gaios. Yohan praises Gaios for the way he’d looked after other believers and for his living out God’s truth. Yohan also warns Gaios about a person named Diotrefes who was opposing the believers.\n"
    ]
   },
   {
@@ -140,7 +140,7 @@
    "type": "para",
    "marker": "io1",
    "content": [
-    "Praising Gaius ",
+    "Praising Gaios ",
     {
      "type": "char",
      "marker": "ior",
@@ -154,7 +154,7 @@
    "type": "para",
    "marker": "io1",
    "content": [
-    "Scolding Diotrephes ",
+    "Scolding Diotrefes ",
     {
      "type": "char",
      "marker": "ior",
@@ -168,7 +168,7 @@
    "type": "para",
    "marker": "io1",
    "content": [
-    "Boasting about Demetrius ",
+    "Boasting about Demetrios ",
     {
      "type": "char",
      "marker": "ior",
@@ -196,7 +196,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -214,21 +214,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Salutation\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Greetings\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Trouble in the church\n"
+    "/s1 Salutation; Greetings; Trouble in the church\n"
    ]
   },
   {
@@ -241,6 +227,15 @@
      "number": "1",
      "sid": "3JN 1:1"
     },
+    "This letter is from Yohan ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(John; Grk. Yoannes)"
+     ]
+    },
+    " the¦154476 elder¦154477 to¦154478 my dear¦154480 friend Gaios¦154478",
     {
      "type": "note",
      "marker": "x",
@@ -262,7 +257,7 @@
      ],
      "caller": "+"
     },
-    "This letter is from Yohan the elder¦154477 to my dear friend Gaius¦154478 who I love ",
+    " who¦154481 I¦154482 love¦154483 ",
     {
      "type": "char",
      "marker": "add",
@@ -290,14 +285,14 @@
      "number": "2",
      "sid": "3JN 1:2"
     },
-    "My dear friend, I trust that you are healthy¦154493 and doing well in everything just as you are also doing well spiritually.\n",
+    "My dear¦154486 friend, I¦154489 trust¦154489 that you¦154490 are healthy¦154493 and doing well in everything just as¦154494 you¦154496 are also doing well spiritually.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "3JN 1:3"
     },
-    "I was very happy when some of our ",
+    "I¦154499 was¦154499 very¦154501 happy¦154499 when some of our ",
     {
      "type": "char",
      "marker": "add",
@@ -305,35 +300,28 @@
       "spiritual"
      ]
     },
-    " brothers¦154503 came and told us about your¦154507 faithfulness to the truth and how you are living it out.\n",
+    " brothers¦154503 came¦154502 and¦154504 told us about your¦154507 faithfulness to the¦154508 truth¦154509 and how you¦154511 are¦154514 living it out.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "3JN 1:4"
     },
-    "Nothing makes me more happy than hearing¦154524 that other believers that I’ve helped are living out the truth¦154530.\n"
+    "Nothing makes me more happy than¦154515 hearing¦154524 that other believers that I’ve¦154524 helped are¦154524 living out the¦154529 truth¦154530.\n"
    ]
   },
   {
    "type": "para",
    "marker": "s1",
    "content": [
-    "Praising Gaius\n"
+    "Praising Gaios\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Caring for the Lord’s Workers\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Gaius Is Praised\n"
+    "/s1 Caring for the Lord’s Workers; Gaius Is Praised\n"
    ]
   },
   {
@@ -346,14 +334,22 @@
      "number": "5",
      "sid": "3JN 1:5"
     },
-    "My dear friend, you are faithful¦154533 in what you do for other believers¦154541. Even strangers¦154546\n",
+    "My dear¦154532 friend, you¦154534 are¦154534 faithful¦154533 in what¦154535 you¦154537 do¦154537 for¦154539 other believers¦154541. Even strangers¦154546\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "3JN 1:6"
     },
-    "have told the assembly¦154553 about your¦154549 caring for them before¦154552 sending them on. Your¦154549 actions will be praised by ",
+    "have told the¦154553 assembly¦154553 about¦154554 your ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈caring for"
+     ]
+    },
+    " them before¦154552 sending¦154559 them on. Your actions will¦154557 be¦154557 praised by ",
     {
      "type": "char",
      "marker": "nd",
@@ -368,21 +364,29 @@
      "number": "7",
      "sid": "3JN 1:7"
     },
-    "because¦154565 they¦154570 went¦154570 out to serve God, not getting any help from the unbelievers.\n",
+    "because¦154565 they¦154570 went¦154570 out¦154570 to serve God, not getting¦154572 any help from¦154573 the¦154574 unbelievers.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "3JN 1:8"
     },
-    "We should be supporting¦154580 believers like them so that we may also become¦154586 their workmates in sharing the truth¦154590.\n"
+    "We¦154577 should¦154579 be¦154580 supporting¦154580 believers like them so¦154578 that¦154584 we¦154586 may¦154586 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "also"
+     ]
+    },
+    " become¦154586 their workmates in sharing the¦154588 truth¦154590.\n"
    ]
   },
   {
    "type": "para",
    "marker": "s1",
    "content": [
-    "Diotrephes and Demetrius\n"
+    "Diotrefes and Demetrios\n"
    ]
   },
   {
@@ -395,14 +399,14 @@
      "number": "9",
      "sid": "3JN 1:9"
     },
-    "I wrote¦154591 something¦154593 to the assembly¦154595, but Diotrephes¦154600 won’t¦154601 listen to us—he always wants the limelight for himself.\n",
+    "I¦154591 wrote¦154591 something¦154593 to¦154594 the¦154594 assembly¦154595, but¦154596 Diotrefes¦154600 won’t¦154601 listen to us¦154603—he always wants the limelight for himself.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "3JN 1:10"
     },
-    "Because¦154604 of that, if I do end up coming, I will be reminding¦154609 him about what he’s been doing¦154614—rambling¦154617 on against¦154617 us with evil¦154616 talks, and then, not being¦154622 happy with that, he doesn’t accept other believers¦154629 and expels them from the assembly¦154638 then forbids¦154634 others from accepting¦154627 them either.\n"
+    "Because¦154604 of¦154604 that¦154605, if¦154607 I¦154608 do end up coming¦154608, I¦154609 will¦154609 be¦154609 reminding¦154609 him¦154610 about what he’s¦154614 been¦154614 doing¦154614—rambling¦154617 on against¦154617 us¦154619 with evil¦154616 talks, and¦154620 then, not¦154621 being¦154622 happy with¦154623 that, he doesn’t accept¦154627 other believers¦154629 and¦154635 expels¦154639 them from¦154636 the¦154637 assembly¦154638 then forbids¦154634 others from accepting them¦154639 either.\n"
    ]
   },
   {
@@ -415,7 +419,7 @@
      "number": "11",
      "sid": "3JN 1:11"
     },
-    "My dear friend, don’t¦154641 copy the evil things ",
+    "My dear¦154640 friend, don’t¦154641 copy¦154642 the¦154643 evil¦154644 things ",
     {
      "type": "char",
      "marker": "add",
@@ -423,7 +427,23 @@
       "that others do"
      ]
     },
-    ", just the good things. Anyone who does what is good belongs to God—anyone who does evil things has not seen¦154658 God.\n"
+    ", just the¦154646 good¦154647 things. Anyone who does¦154649 what is good¦154649 belongs to ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦154652"
+     ]
+    },
+    "—anyone who does¦154656 evil¦154656 things has¦154658 not seen¦154658 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦154660"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -436,7 +456,7 @@
      "number": "12",
      "sid": "3JN 1:12"
     },
-    "Demetrius¦154661 has been talked about by everyone and even the truth¦154672 itself¦154667 speaks. We have also spoken about him, and you¦154679 know that what we¦154674 say is true.\n"
+    "Demetrios¦154661 has¦154662 been¦154662 talked about by¦154663 everyone¦154664 and¦154665 even the¦154671 truth¦154672 itself speaks. We have also¦154673 spoken about him, and you¦154679 know¦154679 that¦154680 what we say is true¦154687.\n"
    ]
   },
   {
@@ -450,14 +470,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Final Greetings\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Conclusion\n"
+    "/s1 Conclusion; Final Greetings\n"
    ]
   },
   {
@@ -470,14 +483,22 @@
      "number": "13",
      "sid": "3JN 1:13"
     },
-    "I had many things I wanted to write¦154692 about, but¦154694 won’t¦154695 do it by means of ink¦154699 and¦154700 pen¦154701,\n",
+    "I had many¦154689 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">things"
+     ]
+    },
+    " I¦154690 wanted¦154697 to¦154692 write¦154692 about, but¦154694 won’t¦154695 do it by means of ink¦154699 and¦154700 pen¦154701,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "3JN 1:14"
     },
-    "but¦154707 instead I hope to see¦154711 you¦154710 soon and¦154712 then we¦154717 can speak¦154717 face to face.\n"
+    "but¦154707 instead I¦154706 hope¦154706 to¦154711 see¦154711 you soon and¦154712 then we¦154717 can speak¦154717 face to face.\n"
    ]
   },
   {
@@ -490,23 +511,31 @@
      "number": "15",
      "sid": "3JN 1:15"
     },
-    "Wishing all peace and happiness for you. ",
+    "Wishing all peace¦154718 and happiness for you. ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "Your"
+      "&Your¦154722"
      ]
     },
-    " friends here also greet you. Please greet ",
+    " friends¦154724 here ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "our"
+      "also"
      ]
     },
-    " friends there by name.\n"
+    " greet you. Please greet ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&our¦154727"
+     ]
+    },
+    " friends¦154728 there by¦154729 name¦154730.\n"
    ]
   }
  ]

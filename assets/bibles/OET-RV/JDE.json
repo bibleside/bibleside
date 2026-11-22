@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "JUD",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.51"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.4"
    ]
   },
   {
@@ -35,21 +35,21 @@
    "type": "para",
    "marker": "h",
    "content": [
-    "Yudas\n"
+    "Yehudah\n"
    ]
   },
   {
    "type": "para",
    "marker": "toc1",
    "content": [
-    "Yudas (Jude)\n"
+    "Yehudah (Jude)\n"
    ]
   },
   {
    "type": "para",
    "marker": "toc2",
    "content": [
-    "Yudas\n"
+    "Yehudah\n"
    ]
   },
   {
@@ -63,7 +63,7 @@
    "type": "para",
    "marker": "mt1",
    "content": [
-    "Yudas (Jude)\n"
+    "Yehudah (Jude)\n"
    ]
   },
   {
@@ -84,7 +84,7 @@
    "type": "para",
    "marker": "ip",
    "content": [
-    "This letter was written by Yudas the younger brother of Yacob. (Note that he wasn’t the Yudas who handed Yeshua over to the Jewish religious leaders. Note also that Yudas is mistakenly called Yude in most English Bibles, and Yacob is quite wrongly called James in most English Bibles.)\n"
+    "This letter was written by Yehudah the younger brother of Ya’akov. (Note that he wasn’t the Yudas who handed Yeshua over to the Jewish religious leaders. Note also that Yudas is mistakenly called Yude in most English Bibles, and Yacob is quite wrongly called James in most English Bibles.)\n"
    ]
   },
   {
@@ -98,14 +98,14 @@
    "type": "para",
    "marker": "ip",
    "content": [
-    "We don’t know which group of believers that this letter was sent to. Here in this letter, Yudas warns the believers about teachers of false doctrines who teach that it’s okay for believers to continue sinning since they’ll just be forgiven due to God’s mercy. That’s the reason Yudas wrote this, to warn the believers so that they won’t fall for false beliefs, but instead will continue to follow the true teaching that came from God. He also encourages the readers that it’s necessary to strive to continue in their faith in God along with turning away from evil actions.\n"
+    "We don’t know which group of believers that this letter was sent to. Here in this letter, Yehudah warns the believers about teachers of false doctrines who teach that it’s okay for believers to continue sinning since they’ll just be forgiven due to God’s mercy. That’s the reason Yehudah wrote this, to warn the believers so that they won’t fall for false beliefs, but instead will continue to follow the true teaching that came from God. He also encourages the readers that it’s necessary to strive to continue in their faith in God along with turning away from evil actions.\n"
    ]
   },
   {
    "type": "para",
    "marker": "iot",
    "content": [
-    "Main components of Yudas’ letter\n"
+    "Main components of Yehudah’s letter\n"
    ]
   },
   {
@@ -168,7 +168,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -200,6 +200,46 @@
      "sid": "JUD 1:1"
     },
     {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "This letter is from"
+     ]
+    },
+    " Yehudah¦154731 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jude¦154731; Grk¦154731. Yudas¦154731)"
+     ]
+    },
+    ", a slave¦154734 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "of¦154732 Yeshua¦154732 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦154732; Grk¦154732. Yesus¦154732)"
+       ]
+      },
+      " the¦154733 messiah¦154733"
+     ]
+    },
+    ", and¦154736 brother¦154735 of¦154737 Ya’akov¦154737 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(James¦154737; Grk¦154737. Yakobos¦154737)"
+     ]
+    },
+    ".",
+    {
      "type": "note",
      "marker": "x",
      "content": [
@@ -220,14 +260,7 @@
      ],
      "caller": "+"
     },
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "This letter is from"
-     ]
-    },
-    " Yudas, a slave¦154734 of Yeshua the messiah, and brother¦154735 of Yacob. It’s written to all those who have been called¦154750 and loved¦154742 by ",
+    " It’s written to¦154738 all those who have¦154742 been¦154742 called¦154750 and loved¦154742 by¦154739 ",
     {
      "type": "char",
      "marker": "nd",
@@ -235,7 +268,7 @@
       "God¦154740"
      ]
     },
-    " the father¦154741 and who have kept¦154749 ",
+    " the¦154741 father¦154741 and¦154744 who have¦154749 kept¦154749 ",
     {
      "type": "char",
      "marker": "add",
@@ -243,7 +276,15 @@
       "believing"
      ]
     },
-    " in Yeshua the messiah.\n"
+    " ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "in¦154745 Yeshua¦154745 the¦154747 messiah¦154747"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -263,15 +304,15 @@
       "I pray"
      ]
     },
-    " that you¦154752 all will experience ",
+    " that you¦154752 all¦154752 will experience ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "God’s"
+      "&God’s"
      ]
     },
-    " mercy¦154751 and peace¦154754, and a bountiful supply of love¦154756.\n"
+    " mercy¦154751 and¦154753 peace¦154754, and¦154755 a bountiful supply of love¦154756.\n"
    ]
   },
   {
@@ -298,14 +339,14 @@
      "number": "3",
      "sid": "JUD 1:3"
     },
-    "Friends, I was so enthusiastic to write to you concerning¦154766 our¦154769 salvation¦154770 that we have in common¦154768, but I needed to write to you all, encouraging you to stand strong for the teaching that was entrusted to the believers at a certain point in time.\n",
+    "Friends, I was so enthusiastic to¦154764 write¦154764 to¦154765 you¦154765 concerning¦154766 our¦154769 salvation¦154770 that we have in common¦154768, but I¦154774 needed to¦154775 write¦154775 to¦154777 you¦154777 all¦154777, encouraging¦154778 you¦154778 to¦154779 stand strong for¦154781 the¦154781 teaching that was¦154783 entrusted to¦154785 the¦154785 believers at a certain point in time.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "JUD 1:4"
     },
-    "Because¦154790 some people¦154792 have quietly come into ",
+    "Because¦154790 some¦154791 people¦154792 have¦154796 quietly come into ",
     {
      "type": "char",
      "marker": "add",
@@ -313,23 +354,39 @@
       "our groups"
      ]
     },
-    " who think they can take advantage of God’s grace¦154807 to bring in immoral lifestyles and disowning¦154824 the only master, and our boss who’s ",
+    " who think they can ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈take advantage of¦154804"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "God’s¦154805"
      ]
     },
-    " the ",
+    " grace¦154807 to bring in immoral lifestyles and¦154811 disowning¦154824 the¦154812 only¦154814 master¦154816, and¦154818 our¦154820 boss who’s ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "messiah¦154822"
+      "Yeshua¦154821 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦154821; Grk¦154821. Yesus¦154821)"
+       ]
+      },
+      " the¦154822 messiah¦154822"
      ]
     },
-    ". But¦154811 they are destined for judgement¦154800.\n",
+    ". But they are destined for judgement¦154800.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -349,6 +406,23 @@
      "number": "5",
      "sid": "JUD 1:5"
     },
+    "Now I¦154830 want¦154830 to¦154826 remind¦154826 you¦154829 that¦154838 although you¦154833 all¦154833 know how ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "Yeshua¦154842"
+     ]
+    },
+    " rescued¦154849 our people¦154845 out¦154846 of¦154846 Mitsrayim¦154848 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Egypt¦154848)"
+     ]
+    },
+    ",",
     {
      "type": "note",
      "marker": "x",
@@ -357,21 +431,37 @@
        "type": "char",
        "marker": "xo",
        "content": [
-        "5: a "
+        "5: "
        ]
       },
       {
        "type": "char",
        "marker": "xt",
        "content": [
-        "Exo 12:51; "
+        "Exo 12:51."
        ]
-      },
+      }
+     ],
+     "caller": "+"
+    },
+    " yet ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "at the same time"
+     ]
+    },
+    " he destroyed¦154855 the¦154852 ones who didn’t¦154853 believe¦154854.",
+    {
+     "type": "note",
+     "marker": "x",
+     "content": [
       {
        "type": "char",
        "marker": "xo",
        "content": [
-        "b "
+        "5: "
        ]
       },
       {
@@ -384,36 +474,59 @@
      ],
      "caller": "+"
     },
-    "Now I want to remind¦154826 you that although you all know how ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "Yeshua"
-     ]
-    },
-    " rescued our people¦154845 out of Egypt¦154848, yet ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "at the same time"
-     ]
-    },
-    " he destroyed¦154855 the ones who didn’t¦154853 believe¦154854.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "JUD 1:6"
     },
-    "Even the messengers¦154856 who broke their own rules and¦154858 left their own domain have been held in eternal¦154876 chains in the darkness¦154878 until the time of judgement¦154872 in the great¦154873 day¦154874.\n",
+    "Even the¦154856 messengers¦154856 who broke their own ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#rules¦154864"
+     ]
+    },
+    " and left¦154866 their¦154868 own¦154869 domain have¦154879 been held¦154879 in¦154875 eternal¦154876 chains¦154875 in the darkness¦154878 until the¦154872 time of judgement¦154872 in the¦154873 great¦154873 day¦154874.",
+    {
+     "type": "note",
+     "marker": "x",
+     "content": [
+      {
+       "type": "char",
+       "marker": "xo",
+       "content": [
+        "1:6: "
+       ]
+      },
+      {
+       "type": "char",
+       "marker": "xt",
+       "content": [
+        "2Pe 2:4."
+       ]
+      }
+     ],
+     "caller": "+"
+    },
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "JUD 1:7"
     },
+    "Similarly Sedom¦154881 and¦154882 Amorah¦154883 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Gomorrah¦154883)"
+     ]
+    },
+    " and¦154884 the¦154885 towns¦154888 around¦154886 them¦154887 stay in¦154890 our minds as an¦154904 example¦154904 of¦154905 the¦154907 judgement of eternal¦154906 fire¦154905 due to similar¦154890 sexual perversions.",
     {
      "type": "note",
      "marker": "x",
@@ -435,15 +548,7 @@
      ],
      "caller": "+"
     },
-    "Similarly Sodom¦154881 and Amorah ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "(Gomorrah¦154883)"
-     ]
-    },
-    " and the towns around¦154886 them stay in our minds as an example¦154904 of the judgement of eternal¦154906 fire¦154905 due to similar¦154890 sexual perversions.\n"
+    "\n"
    ]
   },
   {
@@ -456,13 +561,38 @@
      "number": "8",
      "sid": "JUD 1:8"
     },
-    "in the same way these¦154918 dreamers¦154919 defile¦154922 their own bodies while rejecting¦154926 authority and dishonouring those who should be honoured.\n",
+    "in the same way these¦154918 dreamers¦154919 defile¦154922 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&their"
+     ]
+    },
+    " own bodies while rejecting¦154926 authority and dishonouring those who should be¦154930 honoured.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "JUD 1:9"
     },
+    "Even¦154934 Mika’el¦154934 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Michael¦154934)"
+     ]
+    },
+    ", ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "one of"
+     ]
+    },
+    " the¦154935 top messengers,",
     {
      "type": "note",
      "marker": "x",
@@ -471,35 +601,75 @@
        "type": "char",
        "marker": "xo",
        "content": [
-        "9: a "
+        "9: "
        ]
       },
       {
        "type": "char",
        "marker": "xt",
        "content": [
-        "Dan 10:13,21; 12:1; Rev 12:7; "
+        "Dan 10:13,21; 12:1; Rev 12:7."
        ]
-      },
+      }
+     ],
+     "caller": "+"
+    },
+    " when¦154938 he was arguing with¦154939 the¦154939 devil¦154940 about¦154943 Mosheh’s¦154945 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Moses’¦154945)"
+     ]
+    },
+    " body¦154946,",
+    {
+     "type": "note",
+     "marker": "x",
+     "content": [
       {
        "type": "char",
        "marker": "xo",
        "content": [
-        "b "
+        "9: "
        ]
       },
       {
        "type": "char",
        "marker": "xt",
        "content": [
-        "Deu 34:6; "
+        "Deu 34:6."
        ]
-      },
+      }
+     ],
+     "caller": "+"
+    },
+    " he didn’t¦154947 belittle him, but left it to ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "Yahweh¦154959"
+     ]
+    },
+    " to¦154956 punish ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%him¦154956"
+     ]
+    },
+    ".",
+    {
+     "type": "note",
+     "marker": "x",
+     "content": [
       {
        "type": "char",
        "marker": "xo",
        "content": [
-        "c "
+        "9: "
        ]
       },
       {
@@ -512,37 +682,28 @@
      ],
      "caller": "+"
     },
-    "Even Michael¦154934, ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "one of"
-     ]
-    },
-    " the top messengers, when he was arguing with the devil¦154940 about¦154943 Mosheh’s body¦154946, he didn’t¦154947 belittle him, but¦154933 left it to ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "Yahweh¦154959"
-     ]
-    },
-    " to punish him.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "JUD 1:10"
     },
-    "But these people mock what they don’t¦154964 even grasp, but¦154961 they’ll be destroyed by what their animal¦154973 instincts do understand¦154974.\n",
+    "But¦154961 these¦154960 people mock what they¦154965 don’t¦154964 even grasp, but they’ll¦154966 be¦154966 destroyed by what their animal¦154973 instincts do understand¦154974.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "JUD 1:11"
     },
-    "Oh dear! Because¦154981 they’ve followed the actions of Cain¦154985",
+    "Oh dear! Because¦154981 they’ve¦154986 followed the¦154982 actions of¦154985 Kayin¦154985 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Cain¦154985)"
+     ]
+    },
     {
      "type": "note",
      "marker": "x",
@@ -564,7 +725,15 @@
      ],
      "caller": "+"
     },
-    " and have embraced the deception¦154989 of Balaam¦154992",
+    " and¦154987 have embraced the¦154988 deception¦154989 of¦154992 Bil’am¦154992 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Balaam¦154992)"
+     ]
+    },
+    " for¦154993 monetary gain,",
     {
      "type": "note",
      "marker": "x",
@@ -586,7 +755,7 @@
      ],
      "caller": "+"
     },
-    " for monetary gain, so too they’ll perish¦155000 like Korah’s destruction.",
+    " so¦154995 too they’ll¦155000 perish¦155000 like Korah’s¦154999 destruction.",
     {
      "type": "note",
      "marker": "x",
@@ -615,22 +784,38 @@
      "number": "12",
      "sid": "JUD 1:12"
     },
-    "These¦155001 are the people who ruin your¦155015 love¦155013 feasts¦155013 when they eat without shame and only look after themselves¦155023. They’re like clouds¦155025 that are blown away by the wind without bringing the needed rain or trees¦155034 that don’t produce any fruit then are doubly useless by falling over;\n",
+    "These¦155001 are¦155002 the people who ruin your¦155015 love¦155013 feasts¦155013 when they eat without shame and only ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈look after"
+     ]
+    },
+    " themselves¦155023. They’re like clouds¦155025 that are¦155031 blown away¦155031 by¦155028 the ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#wind¦155029"
+     ]
+    },
+    " without bringing the needed rain or trees¦155034 that don’t produce any fruit then are¦155040 doubly useless by falling over;\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "JUD 1:13"
     },
-    "like wild waves¦155042 in the ocean that foam in their own shame¦155051 or like ",
+    "like wild¦155044 waves¦155042 in the¦155046 ocean¦155046 that foam¦155048 in their own shame¦155051 or like ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "unreliable "
+      "unreliable"
      ]
     },
-    " wandering¦155053 stars¦155052 that are already doomed to the darkest darkness in the next age.\n"
+    " wandering¦155053 stars¦155052 that are¦155062 already doomed to¦155054 the¦155055 darkest¦155056 darkness¦155058 in the¦155061 next age¦155061.\n"
    ]
   },
   {
@@ -643,6 +828,15 @@
      "number": "14",
      "sid": "JUD 1:14"
     },
+    "Hanok¦155071 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Enoch¦155071)"
+     ]
+    },
+    " (the¦155068 seventh¦155068 generation from¦155069 Adam¦155070)",
     {
      "type": "note",
      "marker": "x",
@@ -664,12 +858,12 @@
      ],
      "caller": "+"
     },
-    "Enoch¦155071 (the seventh¦155068 generation from Adam¦155070) prophesied¦155064 ",
+    " prophesied¦155064 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "way back then¦155065"
+      "way back then"
      ]
     },
     " about these¦155067 people, “Look¦155073, ",
@@ -680,7 +874,7 @@
       "Yahweh¦155076"
      ]
     },
-    ", surrounded by tens of thousands¦155081 of his¦155085 holy ",
+    ", surrounded by tens¦155081 of¦155081 thousands¦155081 of¦155085 his holy¦155078 ",
     {
      "type": "char",
      "marker": "add",
@@ -695,14 +889,22 @@
      "number": "15",
      "sid": "JUD 1:15"
     },
-    "to sentence everybody and to punish everyone who rejected God for everything they did that¦155105 demonstrated this rejection and everything they said against him¦155117.”\n",
+    "to¦155086 sentence everybody and¦155090 to¦155092 punish everyone who rejected God for everything they¦155106 did¦155106 that demonstrated this rejection and¦155107 everything they said¦155115 against¦155116 him¦155117.”\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "JUD 1:16"
     },
-    "This includes their grumbling¦155122 and complaining¦155123, the fulfilling of their own lustful desires, the arrogant¦155137 way that they spoke, and their flattering of others in order to gain from them.\n"
+    "That includes ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&their"
+     ]
+    },
+    " grumbling¦155122 and complaining¦155123, the¦155125 fulfilling of¦155129 their own lustful desires, the¦155132 arrogant¦155137 way that they spoke¦155133, and their¦155134 flattering of¦155141 others in order to gain¦155140 from them.\n"
    ]
   },
   {
@@ -729,27 +931,20 @@
      "number": "17",
      "sid": "JUD 1:17"
     },
+    "But¦155143 you¦155142, friends, always be¦155146 thinking about¦155147 how the missionaries¦155154 of¦155155 our¦155157 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "But"
-     ]
-    },
-    " you¦155142, friends, always be thinking about how the missionaries of our¦155157 ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "master¦155156 Yeshua"
-     ]
-    },
-    " the ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "messiah¦155159"
+      "master¦155156 Yeshua¦155158 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦155158; Grk¦155158. Yesus¦155158)"
+       ]
+      },
+      " the¦155159 messiah¦155159"
      ]
     },
     "\n",
@@ -759,6 +954,7 @@
      "number": "18",
      "sid": "JUD 1:18"
     },
+    "told¦155161 you¦155162 that¦155160 mockers¦155173 near the¦155166 end¦155166 of time¦155169 would¦155172 come out following¦155180 their own god-rejecting lusts¦155178.",
     {
      "type": "note",
      "marker": "x",
@@ -780,19 +976,19 @@
      ],
      "caller": "+"
     },
-    "told you¦155162 that mockers¦155173 near the end of time¦155169 would come out following¦155180 their own god-rejecting lusts¦155178.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "19",
      "sid": "JUD 1:19"
     },
-    "These¦155183 people will cause division as they just demonstrate sensuality since they don’t¦155190 know ",
+    "These¦155183 people will¦155184 cause division as they just demonstrate sensuality since they don’t¦155190 know ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "God’s"
+      "&God’s¦155189"
      ]
     },
     " ",
@@ -810,7 +1006,15 @@
      "number": "20",
      "sid": "JUD 1:20"
     },
-    "But you, friends, work to increase your¦155203 faith¦155204 in God, praying¦155211 as the holy ",
+    "But¦155194 you¦155192, friends, work to increase your¦155203 faith¦155204 in God, praying¦155211 as ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "the¦155209"
+     ]
+    },
+    " holy¦155210 ",
     {
      "type": "char",
      "marker": "nd",
@@ -825,7 +1029,23 @@
      "number": "21",
      "sid": "JUD 1:21"
     },
-    "Keep receiving God’s love¦155216 as you look forward to living forever thanks to the mercy¦155222 of our¦155227 ",
+    "Keep¦155218 receiving ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦155217"
+     ]
+    },
+    " love¦155216 as you look¦155220 forward¦155220 to¦155230 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈living¦155231"
+     ]
+    },
+    " forever¦155232 thanks to the¦155221 mercy¦155222 of¦155223 our¦155227 ",
     {
      "type": "char",
      "marker": "nd",
@@ -838,15 +1058,7 @@
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
-     ]
-    },
-    " the ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "messiah¦155229"
+      "Yeshua¦155228 the¦155229 messiah¦155229"
      ]
     },
     ".\n"
@@ -862,7 +1074,7 @@
      "number": "22",
      "sid": "JUD 1:22"
     },
-    "Show grace to those ",
+    "Show¦155236 grace to¦155234 those ",
     {
      "type": "char",
      "marker": "add",
@@ -877,7 +1089,7 @@
      "number": "23",
      "sid": "JUD 1:23"
     },
-    "whereas others¦155244 need to be ‘snatched¦155251 out of the fire¦155250’ in order to be saved. To some, show mercy¦155254 but¦155253 very carefully, hating¦155257 even their clothes¦155265 which reflect their crude lifestyles.\n"
+    "whereas others¦155244 need to be ‘snatched¦155251 out¦155248 of¦155248 the¦155250 fire¦155250’ in order to be saved¦155247. To¦155252 some¦155252, show¦155254 mercy¦155254 but very carefully, hating¦155257 even¦155258 their clothes¦155265 which reflect their crude lifestyles.\n"
    ]
   },
   {
@@ -904,7 +1116,95 @@
      "number": "24-25",
      "sid": "JUD 1:24-25"
     },
-    "Our master, Yeshua the messiah, is the infallible¦155274 one who is quite capable of looking after all of us so that we can stand¦155279 blameless¦155287 in front¦155280 of him and praise him in his full honour and greatness. Let us honour and praise our only God and saviour, acknowledging his greatness and power and authority through Yeshua from before the creation, right through these current times, and in the age to come. May it be so.\n"
+    "Our¦155294 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "master¦155303"
+     ]
+    },
+    ", Yeshua ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus; Grk. Yesus)"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "the¦155301 messiah¦155301"
+     ]
+    },
+    ", is the¦155266 infallible¦155274 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "one"
+     ]
+    },
+    " who is¦155268 quite capable¦155268 of ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈looking after"
+     ]
+    },
+    " all of ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%us"
+     ]
+    },
+    " so¦155275 that ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%we"
+     ]
+    },
+    " can stand¦155279 blameless¦155287 in¦155280 front¦155280 of¦155280 him and praise him in his¦155285 full honour and greatness. Let us honour and praise our¦155305 only¦155290 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦155292"
+     ]
+    },
+    " and saviour¦155293, acknowledging ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&his¦155302"
+     ]
+    },
+    " greatness¦155308 and power and authority¦155313 through Yeshua from before¦155314 the¦155316 creation, right through ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈these current times"
+     ]
+    },
+    ", and in the¦155323 age¦155325 to come. ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈May¦155326 it¦155326 be¦155326 so¦155326"
+     ]
+    },
+    ".\n"
    ]
   }
  ]

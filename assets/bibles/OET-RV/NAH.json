@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "NAM",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.04"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.5"
    ]
   },
   {
@@ -77,7 +77,7 @@
    "type": "para",
    "marker": "ip",
    "content": [
-    "This document is about the destruction of Nineveh (Heb. Ninveh), the capital city of Assyria—an ancient enemy of Yisrael/Israel. It was written between 663 before Yeshua/Jesus (B.C.) and 612 before Yeshua/Jesus (B.C.) The prophet Nahum was pleased that Yahweh destroyed Nineveh, because that was a sign that God does indeed punish sinners.\n"
+    "This document is about the destruction of Nineveh, the capital city of Ashur/Assyria—an ancient enemy of Yisrael/Israel, and was written between 663 and 612 B.C. The prophet Nahum was pleased that Yahweh destroyed Nineveh, because that was a sign that God does indeed punish sinners.\n"
    ]
   },
   {
@@ -149,7 +149,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -173,7 +173,14 @@
      "number": "1",
      "sid": "NAM 1:1"
     },
-    "This document¦373138 is a declaration about Nineveh¦373137 city which was given to Nahum¦373140 from Elkosh as a vision¦373139.",
+    "This document¦373138 is a declaration about¦373136 Nineveh¦373137 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "city"
+     ]
+    },
     {
      "type": "note",
      "marker": "x",
@@ -195,7 +202,7 @@
      ],
      "caller": "+"
     },
-    "\n"
+    " which was given to Nahum¦373140 from Elkosh as a vision¦373139.\n"
    ]
   },
   {
@@ -222,7 +229,7 @@
      "number": "2",
      "sid": "NAM 1:2"
     },
-    "Yahweh is a jealous¦373144",
+    "Yahweh is¦373143 a¦373143 jealous¦373144",
     {
      "type": "note",
      "marker": "f",
@@ -245,28 +252,35 @@
      ],
      "caller": "+"
     },
-    " God¦373143 who avenges.\n"
+    " God¦373143 who avenges¦373145.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Yahweh avenges and is full of anger.\n"
+    "≈Yahweh avenges¦373147 and¦373149 is full of¦373149 anger¦373150.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "He takes vengeance on his opponents,\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*He¦373152"
+     ]
+    },
+    " takes vengeance on his¦373153 opponents,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and he¦373155 continues to be angry with his enemies¦373156.\n"
+    "≈and¦373154 he¦373155 continues to¦373156 be angry with his¦373156 enemies¦373156.\n"
    ]
   },
   {
@@ -279,7 +293,15 @@
      "number": "3",
      "sid": "NAM 1:3"
     },
-    "Yahweh¦373158 is slow to get angry, ",
+    "Yahweh¦373158 is¦373159 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈slow to get angry¦373160"
+     ]
+    },
+    ", ",
     {
      "type": "char",
      "marker": "add",
@@ -294,15 +316,22 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "He certainly¦373165 won’t¦373166 allow ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "guilty¦373165 people"
+      "*He"
      ]
     },
-    " to go unpunished.\n"
+    " certainly¦373165 won’t¦373166 allow ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "guilty people"
+     ]
+    },
+    " to go unpunished¦373165.\n"
    ]
   },
   {
@@ -313,14 +342,22 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "He walks among whirlwinds¦373169 and storms¦373170,\n"
+    "He¦373167 walks among whirlwinds and¦373170 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#storms¦373170"
+     ]
+    },
+    ",\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and clouds¦373172 are ",
+    "≈and¦373172 clouds¦373172 are¦373173 ",
     {
      "type": "char",
      "marker": "add",
@@ -328,7 +365,7 @@
       "≈like"
      ]
     },
-    " dust ",
+    " dust¦373173 ",
     {
      "type": "char",
      "marker": "add",
@@ -336,7 +373,7 @@
       "stirred up"
      ]
     },
-    " by his feet¦373174.\n"
+    " by his¦373174 feet¦373174.\n"
    ]
   },
   {
@@ -349,7 +386,7 @@
      "number": "4",
      "sid": "NAM 1:4"
     },
-    "He scolds the ocean and makes it ",
+    "He¦373176 scolds the ocean¦373177 and¦373178 makes¦373178 it¦373178 ",
     {
      "type": "char",
      "marker": "add",
@@ -364,21 +401,21 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈He dries¦373182 up all the rivers¦373181.\n"
+    "≈He dries¦373178 up all¦373179 the¦373181 rivers¦373181.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Bashan¦373184 and Karmel¦373185 wither up.\n"
+    "Bashan¦373184 and¦373185 Karmel¦373185 wither up.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈He makes the flowers wilt in¦373177 Lebanon¦373187.\n"
+    "≈He makes the¦373186 flowers¦373186 wilt in Levanon¦373187.\n"
    ]
   },
   {
@@ -391,7 +428,7 @@
      "number": "5",
      "sid": "NAM 1:5"
     },
-    "The mountains shake ",
+    "The mountains¦373190 shake¦373191 ",
     {
      "type": "char",
      "marker": "add",
@@ -406,21 +443,21 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and the hills¦373193 melt.\n"
+    "≈and¦373193 the¦373193 hills¦373193 melt¦373194.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The ground heaves¦373195 at¦373202 his¦373197 presence¦373197—\n"
+    "The¦373196 ground¦373196 heaves¦373195 at his¦373197 presence—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "actually the entire¦373199 world¦373198 and all its residents.\n"
+    "actually the¦373198 entire world¦373198 and¦373199 all¦373199 its residents.\n"
    ]
   },
   {
@@ -445,28 +482,28 @@
       "≈withstand"
      ]
     },
-    " his indignation¦373205?\n"
+    " his¦373205 indignation¦373205?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Who can resist his fierce¦373210 anger?\n"
+    "≈Who¦373206 can resist¦373207 his¦373211 fierce¦373210 anger¦373211?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "His anger is poured¦373213 out like fire,\n"
+    "His¦373211 anger¦373212 is¦373213 poured¦373213 out¦373213 like¦373214 fire¦373214,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "and rocks¦373215 shatter in¦373210 front¦373204 of him.\n"
+    "and¦373215 rocks¦373215 shatter in¦373204 front¦373204 of¦373204 him¦373217.\n"
    ]
   },
   {
@@ -479,12 +516,12 @@
      "number": "7",
      "sid": "NAM 1:7"
     },
-    "Yahweh¦373220 is good¦373219 ",
+    "Yahweh¦373220 is¦373219 good¦373219 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈at sheltering us when trouble¦373223 comes"
+      "≈at sheltering us when¦373224 trouble¦373223 comes"
      ]
     },
     ".\n"
@@ -494,12 +531,12 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈He ",
+    "≈He¦373224 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈recognises those¦373225 go to him for protection"
+      "≈recognises¦373224 those¦373225 go to him¦373226 for protection"
      ]
     },
     ".\n"
@@ -515,7 +552,7 @@
      "number": "8",
      "sid": "NAM 1:8"
     },
-    "He’ll ",
+    "He’ll¦373234 ",
     {
      "type": "char",
      "marker": "add",
@@ -523,14 +560,14 @@
       "≈completely¦373230 destroy¦373230"
      ]
     },
-    " his opponents with¦373228 a rushing flood¦373228.\n"
+    " his opponents with¦373228 a¦373228 rushing flood¦373228.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈He will chase his enemies¦373233 into the darkness¦373236.\n"
+    "≈He¦373231 will¦373231 chase¦373234 his¦373233 enemies¦373233 into the darkness¦373236.\n"
    ]
   },
   {
@@ -543,21 +580,29 @@
      "number": "9",
      "sid": "NAM 1:9"
     },
-    "Whatever¦373238 is plotted against¦373241 Yahweh¦373243,\n"
+    "Whatever¦373238 is plotted¦373240 against¦373241 Yahweh¦373243,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "he’ll completely¦373244 destroy¦373244 it¦373249.\n"
+    "he’ll completely¦373244 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈destroy¦373244"
+     ]
+    },
+    " it¦373249.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Trouble won’t¦373247 return a second time.\n"
+    "≈Trouble¦373251 won’t¦373247 return a second time¦373250.\n"
    ]
   },
   {
@@ -570,7 +615,7 @@
      "number": "10",
      "sid": "NAM 1:10"
     },
-    "They’ll get tangled up as if in thorns¦373256,\n"
+    "They’ll get tangled up as if¦373253 in thorns¦373256,\n"
    ]
   },
   {
@@ -585,14 +630,14 @@
       "walk"
      ]
     },
-    " like drunks¦373259.\n"
+    " like¦373258 drunks¦373259.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "They’ll be ",
+    "They’ll¦373260 be¦373260 ",
     {
      "type": "char",
      "marker": "add",
@@ -600,7 +645,7 @@
       "≈burnt up completely"
      ]
     },
-    " like dry stubble¦373261.\n"
+    " like¦373261 dry¦373262 stubble¦373261.\n"
    ]
   },
   {
@@ -617,7 +662,15 @@
      "number": "11",
      "sid": "NAM 1:11"
     },
-    "Someone in Nineveh ",
+    "Someone in ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Nineveh¦373265"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -632,7 +685,7 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "to plot evil¦373271 against Yahweh¦373270.\n"
+    "to plot¦373267 evil¦373271 against Yahweh¦373270.\n"
    ]
   },
   {
@@ -643,10 +696,17 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Someone with wicked plans"
+      "≈Someone with wicked¦373271 plans"
      ]
     },
     ".\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "rem",
+   "content": [
+    "/s1 Good News for Judah; Israel and Judah rid of the invaders\n"
    ]
   },
   {
@@ -664,13 +724,6 @@
   },
   {
    "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Good News for Judah; Israel and Judah rid of the invaders\n"
-   ]
-  },
-  {
-   "type": "para",
    "marker": "q1",
    "content": [
     "Even though¦373280 ",
@@ -681,7 +734,7 @@
       "@the Assyrians"
      ]
     },
-    " are numerous¦373284 and ",
+    " are numerous¦373284 and¦373285 ",
     {
      "type": "char",
      "marker": "add",
@@ -696,14 +749,14 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "they’ll be destroyed anyway and will be no more.\n"
+    "they’ll¦373286 be¦373286 destroyed anyway and¦373287 will¦373287 be no more.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Although I’ve¦373288 afflicted you ",
+    "Although I’ve¦373288 afflicted¦373288 you¦373288 ",
     {
      "type": "char",
      "marker": "add",
@@ -718,7 +771,7 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "I won’t¦373289 afflict you any more.\n"
+    "I¦373290 won’t¦373289 afflict¦373290 you¦373290 any more.\n"
    ]
   },
   {
@@ -731,7 +784,7 @@
      "number": "13",
      "sid": "NAM 1:13"
     },
-    "I’ll free your¦373297 ",
+    "I’ll¦373294 free your ",
     {
      "type": "char",
      "marker": "add",
@@ -739,27 +792,27 @@
       "neck"
      ]
     },
-    " from their harness.\n"
+    " from¦373296 their harness.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈I’ll ",
+    "≈I’ll¦373298 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈snap their"
+      "≈snap¦373298 their"
      ]
     },
-    " chains ",
+    " chains¦373297 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "that are holding you¦373296"
+      "that are holding you"
      ]
     },
     ".\n"
@@ -779,7 +832,7 @@
      "number": "14",
      "sid": "NAM 1:14"
     },
-    "Yahweh¦373302 has ",
+    "Yahweh¦373302 has¦373300 ",
     {
      "type": "char",
      "marker": "add",
@@ -806,17 +859,17 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈You’ll have no more descendants to carry on"
+      "≈You’ll have no more descendants to carry on¦373301"
      ]
     },
-    " your name¦373306.\n"
+    " your¦373306 name¦373306.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I’ll ",
+    "I’ll¦373310 ",
     {
      "type": "char",
      "marker": "add",
@@ -829,7 +882,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "your"
+      "&your"
      ]
     },
     " ",
@@ -837,7 +890,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "#idols and¦373300 images¦373312"
+      "#idols¦373311 and¦373312 images¦373312"
      ]
     },
     " in your ",
@@ -845,7 +898,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "#temples"
+      "#temples¦373308"
      ]
     },
     ".\n"
@@ -855,7 +908,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "I’ll ",
+    "I’ll¦373313 ",
     {
      "type": "char",
      "marker": "add",
@@ -863,7 +916,7 @@
       "≈dig"
      ]
     },
-    " your grave¦373314 because you’re¦373316 despised.\n"
+    " your¦373314 grave¦373314 because¦373315 you’re¦373316 despised.\n"
    ]
   },
   {
@@ -887,7 +940,14 @@
       "My people,"
      ]
     },
-    " look, a messenger is running across the hills.",
+    " look, a messenger is running across the¦373323 hills¦373323.\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "He’ll¦373335 be bringing good news¦373325—announcing peace¦373327.",
     {
      "type": "note",
      "marker": "x",
@@ -916,21 +976,22 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "He’ll be bringing good news—announcing peace.\n"
+    "So celebrate¦373328 your festivals¦373328 Yehudah¦373329 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Judah¦373329)"
+     ]
+    },
+    ", and keep your¦373330 promises¦373332,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "So celebrate your festivals Yehudah, and keep your promises,\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "because that wicked ",
+    "because¦373333 that wicked ",
     {
      "type": "char",
      "marker": "add",
@@ -938,7 +999,7 @@
       "country"
      ]
     },
-    " won’t invade you again—it’ll be destroyed.\n"
+    " won’t¦373334 invade you again¦373336—it’ll¦373343 be¦373343 destroyed.\n"
    ]
   },
   {
@@ -971,7 +1032,7 @@
      "number": "1",
      "sid": "NAM 2:1"
     },
-    "The ones who’ll scatter you ",
+    "The ones who’ll¦373347 scatter¦373347 you ",
     {
      "type": "char",
      "marker": "add",
@@ -986,14 +1047,22 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "Guard the city walls.\n"
+    "Guard¦373351 the¦373352 city walls.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "Watch the roads.\n"
+    "Watch¦373353 the¦373355 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#roads¦373355"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -1034,12 +1103,12 @@
      "number": "2",
      "sid": "NAM 2:2"
     },
-    "Yahweh is restoring Yakob’s ",
+    "Yahweh¦373365 is restoring¦373364 Ya’akov’s¦373369 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "(Jacob’s)"
+      "!(Jacob’s¦373369)"
      ]
     },
     " greatness,\n"
@@ -1049,7 +1118,15 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "like Yisrael’s greatness ",
+    "like¦373370 Yisrael’s¦373371 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Israel’s¦373371)"
+     ]
+    },
+    " greatness ",
     {
      "type": "char",
      "marker": "add",
@@ -1072,7 +1149,7 @@
       "≈invaders took their valuables"
      ]
     },
-    " and destroyed their ",
+    " and¦373375 destroyed¦373376 their ",
     {
      "type": "char",
      "marker": "add",
@@ -1081,6 +1158,13 @@
      ]
     },
     ".\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "rem",
+   "content": [
+    "/s1 Nineveh’s enemies triumphant\n"
    ]
   },
   {
@@ -1100,42 +1184,51 @@
       "The enemy’s"
      ]
     },
-    " powerful warriors hold red shields,\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Nineveh’s enemies triumphant\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "q1",
-   "content": [
-    "≈and his soldiers are dressed in scarlet.\n"
+    " powerful¦373384 warriors¦373380 hold red¦373381 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#shields¦373379"
+     ]
+    },
+    ",\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The metal on their chariots gleams\n"
+    "≈and his soldiers are¦373385 dressed¦373385 in¦373385 scarlet¦373385.\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "q1",
+   "content": [
+    "The¦373389 metal on¦373390 their chariots¦373389 gleams\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "as they¦373376 get them ready that day,\n"
+    "as they get them ready that day¦373390,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and their cypress spears are held ready.\n"
+    "and¦373392 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&their¦373392"
+     ]
+    },
+    " cypress¦373392 spears are¦373393 held ready.\n"
    ]
   },
   {
@@ -1159,21 +1252,29 @@
       "&Their"
      ]
     },
-    " chariots¦373389 drive madly through the streets,\n"
+    " chariots¦373398 drive¦373397 madly¦373397 through the streets¦373396,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈and rush back and forth across the squares.\n"
+    "≈and rush¦373399 back and forth across the ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "town"
+     ]
+    },
+    " squares.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "They look like ",
+    "They look like¦373402 ",
     {
      "type": "char",
      "marker": "add",
@@ -1181,7 +1282,7 @@
       "flaming"
      ]
     },
-    " torches,\n"
+    " torches¦373402,\n"
    ]
   },
   {
@@ -1196,7 +1297,7 @@
       "≈dart across"
      ]
     },
-    " like lightning.\n"
+    " like¦373403 lightning.\n"
    ]
   },
   {
@@ -1209,14 +1310,14 @@
      "number": "5",
      "sid": "NAM 2:5"
     },
-    "He calls his officers—\n"
+    "He¦373407 calls his¦373408 officers¦373408—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "They stumble as they march.\n"
+    "They¦373409 stumble¦373409 as they march¦373410.\n"
    ]
   },
   {
@@ -1227,7 +1328,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "They hurry to ",
+    "They¦373412 hurry¦373412 to ",
     {
      "type": "char",
      "marker": "add",
@@ -1235,14 +1336,14 @@
       "attack the city"
      ]
     },
-    " wall,\n"
+    " wall¦373413,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and to set up the ",
+    "and¦373414 to set¦373414 up the¦373415 ",
     {
      "type": "char",
      "marker": "add",
@@ -1271,19 +1372,19 @@
      "number": "6",
      "sid": "NAM 2:6"
     },
-    "The river gates are forced open,\n"
+    "The¦373418 river¦373419 gates¦373418 are¦373420 forced open¦373420,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "and¦373414 the palace collapses ",
+    "and¦373421 the¦373421 palace¦373421 collapses ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "in¦373410 the flood"
+      "in the flood"
      ]
     },
     ".\n"
@@ -1316,20 +1417,20 @@
        "type": "char",
        "marker": "ft",
        "content": [
-        "Possibly referring to the city of Nineveh itself, or possibly to its queen."
+        "Possibly referring to Nineveh city itself, or possibly to its queen."
        ]
       }
      ],
      "caller": "+"
     },
-    " stripped ready to be taken away.\n"
+    " stripped ready to be taken¦373427 away¦373427.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Her slave girls moan like doves as they¦373420 beat their chests.\n"
+    "Her slave¦373428 girls moan¦373429 like¦373430 doves¦373431 as they¦373432 beat¦373432 their¦373435 chests.\n"
    ]
   },
   {
@@ -1346,10 +1447,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈In the good days"
+      "≈In the¦373442 good days¦373442"
      ]
     },
-    ", Nineveh was like a ",
+    ", Nineveh¦373438 was¦373439 like¦373439 a¦373439 ",
     {
      "type": "char",
      "marker": "add",
@@ -1357,7 +1458,7 @@
       "refreshing"
      ]
     },
-    " pool of water.\n"
+    " pool¦373439 of¦373439 water¦373441.\n"
    ]
   },
   {
@@ -1368,17 +1469,17 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but"
+      "≈but¦373444"
      ]
     },
-    " now they’re fleeing from it.\n"
+    " now they’re¦373444 fleeing¦373445 from it.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "“Stop, stop,” ",
+    "“Stop¦373446, stop¦373447,” ",
     {
      "type": "char",
      "marker": "add",
@@ -1391,10 +1492,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈but"
+      "≈but¦373448"
      ]
     },
-    " no one comes back.\n"
+    " no one¦373449 comes¦373449 back¦373449.\n"
    ]
   },
   {
@@ -1411,21 +1512,21 @@
      "number": "9",
      "sid": "NAM 2:9"
     },
-    "“Grab the gold, seize the silver.”\n"
+    "“Grab the gold¦373455, seize the silver¦373453.”\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "There’s no end to the treasure.\n"
+    "There’s¦373456 no end¦373457 to¦373458 the treasure.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Plenty of valuable things.\n"
+    "≈Plenty of¦373461 valuable things.\n"
    ]
   },
   {
@@ -1456,14 +1557,22 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "devastation and hearts melting.\n"
+    "devastation¦373467 and¦373468 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#hearts¦373468"
+     ]
+    },
+    " melting¦373469.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Knees trembling and ",
+    "Knees¦373471 trembling and¦373472 ",
     {
      "type": "char",
      "marker": "add",
@@ -1478,7 +1587,7 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "Their faces all gone very pale.\n"
+    "Their¦373477 faces¦373476 all¦373477 gone very pale.\n"
    ]
   },
   {
@@ -1498,21 +1607,29 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "the place where young cubs were fed?\n"
+    "the place where¦373482 young ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#cubs"
+     ]
+    },
+    " were¦373483 fed?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The place where the lion and lioness walked—\n"
+    "≈The¦373483 place¦373483 where the lion and lioness walked¦373489—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "where the cubs were ",
+    "where the cubs¦373493 were¦373495 ",
     {
      "type": "char",
      "marker": "add",
@@ -1520,7 +1637,7 @@
       "safe"
      ]
     },
-    " with nothing to terrify them.\n"
+    " with nothing to terrify¦373496 them.\n"
    ]
   },
   {
@@ -1533,28 +1650,28 @@
      "number": "12",
      "sid": "NAM 2:12"
     },
-    "The lion tore apart enough for the cubs,\n"
+    "The¦373499 lion¦373499 tore¦373500 apart enough¦373501 for¦373501 the¦373501 cubs¦373502,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "≈and strangled prey for his lionesses.\n"
+    "≈and¦373503 strangled¦373503 prey for¦373504 his lionesses¦373504.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "He filled his lairs with prey\n"
+    "He filled¦373505 his lairs with prey¦373507\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "≈and his dens with torn flesh.\n"
+    "≈and¦373509 his dens¦373509 with torn¦373510 flesh¦373510.\n"
    ]
   },
   {
@@ -1567,26 +1684,34 @@
      "number": "13",
      "sid": "NAM 2:13"
     },
-    "Army commander Yahweh declares that he’s against you.\n"
+    "Commander-in-chief Yahweh¦373516 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈declares¦373515"
+     ]
+    },
+    " that he’s against¦373514 you¦373514.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "He’ll burn your chariots up in¦373501 smoke,\n"
+    "He’ll burn¦373518 your chariots¦373520 up in¦373519 smoke¦373519,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "and ",
+    "and¦373521 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "≈your young men will be killed with¦373501 swords"
+      "≈your¦373521 young¦373521 men will be killed with swords¦373523"
      ]
     },
     ".\n"
@@ -1600,7 +1725,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈He’ll take your prey away from you"
+      "≈He’ll take your prey¦373526 away from you"
      ]
     },
     ",\n"
@@ -1610,7 +1735,15 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "and the voices of your messengers won’t be heard anymore.\n"
+    "and¦373527 the¦373531 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#voices¦373531"
+     ]
+    },
+    " of¦373531 your¦373532 messengers¦373532 won’t¦373527 be¦373529 heard¦373529 anymore.\n"
    ]
   },
   {
@@ -1636,14 +1769,14 @@
      "number": "1",
      "sid": "NAM 3:1"
     },
-    "The city¦373536 of bloodshed¦373537 will have a bad end.\n"
+    "The¦373536 city¦373536 of¦373536 bloodshed¦373537 will have a bad end.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "It’s full of lies and stolen property.\n"
+    "It’s¦373538 full¦373541 of¦373538 lies¦373539 and stolen property.\n"
    ]
   },
   {
@@ -1654,7 +1787,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≈Always taking plunder¦373540—never letting go"
+      "≈Always taking plunder¦373540—never letting go¦373543"
      ]
     },
     ".\n"
@@ -1670,14 +1803,45 @@
      "number": "2",
      "sid": "NAM 3:2"
     },
-    "The sound¦373546 of whips and the rattling¦373549 of wheels¦373550.\n"
+    "The¦373546 sound¦373546 of¦373546 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#whips¦373547"
+     ]
+    },
+    " and¦373548 the¦373549 rattling¦373549 of¦373549 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#wheels¦373550"
+     ]
+    },
+    ".\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Horses galloping¦373552 and chariots¦373553 jolting¦373554.\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#Horses¦373551"
+     ]
+    },
+    " galloping¦373552 and¦373553 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#chariots¦373553"
+     ]
+    },
+    " jolting¦373554.\n"
    ]
   },
   {
@@ -1690,14 +1854,38 @@
      "number": "3",
      "sid": "NAM 3:3"
     },
-    "Charging horsemen¦373556, flashing¦373558 swords¦373559, glittering¦373560 spears¦373561.\n"
+    "Charging ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#horsemen¦373556"
+     ]
+    },
+    ", flashing¦373560 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#swords¦373559"
+     ]
+    },
+    ", glittering¦373560 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#spears¦373561"
+     ]
+    },
+    ".\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Many slain¦373563—heaps¦373564 of corpses¦373565.\n"
+    "Many slain¦373563—heaps of¦373564 corpses¦373565.\n"
    ]
   },
   {
@@ -1712,7 +1900,7 @@
       "≈Uncountable"
      ]
     },
-    " bodies¦373568—people¦373562 trip over them.\n"
+    " bodies¦373568—people¦373562 trip over¦373571 them.\n"
    ]
   },
   {
@@ -1725,14 +1913,14 @@
      "number": "4",
      "sid": "NAM 3:4"
     },
-    "That will happen because the beautiful prostitute had so much business.\n"
+    "That will happen because the beautiful prostitute¦373575 had so¦373583 much business.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "She’s the mistress¦373578 of witchcraft.\n"
+    "She’s the mistress¦373578 of¦373578 witchcraft.\n"
    ]
   },
   {
@@ -1747,7 +1935,7 @@
       "≈attracts other countries¦373581"
      ]
     },
-    " with her prostitution.\n"
+    " with her¦373584 prostitution¦373582.\n"
    ]
   },
   {
@@ -1762,7 +1950,7 @@
       "≈attracts"
      ]
     },
-    " other peoples¦373583 with her sorceries.\n"
+    " other peoples¦373583 with her¦373582 sorceries¦373584.\n"
    ]
   },
   {
@@ -1775,14 +1963,45 @@
      "number": "5",
      "sid": "NAM 3:5"
     },
-    "Army¦373590 commander¦373590 Yahweh¦373589 declares that he’s against¦373587 you¦373587.\n"
+    "Commander-in-chief Yahweh¦373589 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈declares¦373588"
+     ]
+    },
+    " that ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%he’s¦373586"
+     ]
+    },
+    " against¦373587 you¦373587.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "He’ll lift your skirt¦373592 up over your ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%He’ll¦373591"
+     ]
+    },
+    " lift your¦373592 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#skirt¦373592"
+     ]
+    },
+    " up over¦373593 your¦373595 ",
     {
      "type": "char",
      "marker": "add",
@@ -1797,7 +2016,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "and show your nakedness¦373598 to the ",
+    "and¦373596 show¦373596 your¦373598 nakedness¦373598 to the ",
     {
      "type": "char",
      "marker": "add",
@@ -1816,10 +2035,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "≡Show"
+      "≡Show¦373596"
      ]
     },
-    " your shame¦373600 to the ",
+    " your¦373600 shame¦373600 to the ",
     {
      "type": "char",
      "marker": "add",
@@ -1840,21 +2059,21 @@
      "number": "6",
      "sid": "NAM 3:6"
     },
-    "I throw¦373602 disgusting filth at you\n"
+    "I¦373602 throw¦373602 disgusting filth at you¦373603\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "and¦373602 treat¦373605 you with contempt¦373605.\n"
+    "and¦373605 treat¦373605 you¦373605 with¦373605 contempt¦373605.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "I’ll¦373602 make a spectacle¦373607 of you.\n"
+    "I’ll¦373606 make¦373606 a¦373607 spectacle¦373607 of you.\n"
    ]
   },
   {
@@ -1867,28 +2086,36 @@
      "number": "7",
      "sid": "NAM 3:7"
     },
-    "Everyone who sees you will run away\n"
+    "Everyone¦373610 who¦373612 sees¦373612 you¦373612 will¦373613 run¦373613 away\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "and¦373609 say, ‘Nineveh¦373617 is destroyed.’\n"
+    "and¦373615 say¦373615, ‘Nineveh¦373617 is¦373616 destroyed.’\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Who will weep for her?\n"
+    "Who¦373618 will¦373619 weep for¦373620 her¦373620?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Where can I find someone who’ll comfort¦373623 her?\n"
+    "Where¦373621 can I¦373622 find someone who’ll comfort¦373623 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%her¦373624"
+     ]
+    },
+    "?\n"
    ]
   },
   {
@@ -1905,7 +2132,14 @@
      "number": "8",
      "sid": "NAM 3:8"
     },
-    "Are you¦373626 better than Thebes¦373627 city",
+    "Are you¦373626 better¦373626 than¦373627 No¦373627 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "city"
+     ]
+    },
     {
      "type": "note",
      "marker": "f",
@@ -1922,7 +2156,7 @@
        "type": "char",
        "marker": "ft",
        "content": [
-        "Ancient No-Amon—modern Luxor in Egypt."
+        "Ancient No-Amon—modern Luxor in Mitsrayim."
        ]
       }
      ],
@@ -1935,7 +2169,7 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "where the Nile surrounded ",
+    "where the Nile surrounded¦373632 ",
     {
      "type": "char",
      "marker": "add",
@@ -1943,14 +2177,22 @@
       "and protected"
      ]
     },
-    " her?\n"
+    " her¦373633?\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈Where the water¦373631 was one of her secure walls.\n"
+    "≈Where the¦373637 water¦373631 was¦373638 one of¦373639 her secure ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#walls¦373639"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -1963,21 +2205,45 @@
      "number": "9",
      "sid": "NAM 3:9"
     },
-    "Ethiopia and Egypt¦373643 were her strength,\n"
+    "Kush¦373641 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ethiopia¦373641)"
+     ]
+    },
+    " and¦373643 Mitsrayim¦373643 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Egypt¦373643)"
+     ]
+    },
+    " were her strength,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "and her strength had no limit.\n"
+    "and¦373644 her strength had no limit.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Put¦373646 and Libya¦373647 were her allies¦373649.\n"
+    "Put¦373646 and¦373647 Libya were¦373648 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%her¦373649"
+     ]
+    },
+    " allies.\n"
    ]
   },
   {
@@ -1999,7 +2265,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "@Thebes"
+      "@No¦373653"
      ]
     },
     " was taken as an exile¦373654—\n"
@@ -2009,14 +2275,14 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "≈taken into captivity¦373656.\n"
+    "≈taken into¦373656 captivity¦373656.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Her¦373658 young children¦373658 were dashed¦373659 to pieces¦373659 at¦373656 the top of every street¦373663.\n"
+    "Her young children¦373658 were¦373659 dashed¦373659 to pieces¦373659 at the top of every¦373661 street¦373663.\n"
    ]
   },
   {
@@ -2027,17 +2293,25 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "@Her captors"
+      "@Her¦373666 captors¦373666"
      ]
     },
-    " threw dice for her nobles¦373666.\n"
+    " threw¦373667 dice for her ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈leading citizens"
+     ]
+    },
+    ".\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈All her leading men were bound¦373672 in¦373656 chains¦373673.\n"
+    "≈All¦373669 her leading¦373660 men were¦373672 bound¦373672 in chains¦373673.\n"
    ]
   },
   {
@@ -2054,21 +2328,29 @@
      "number": "11",
      "sid": "NAM 3:11"
     },
-    "You, too, will become¦373678 drunk¦373678.\n"
+    "You, too, will¦373678 become¦373678 drunk¦373678.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "You’ll look for places to hide.\n"
+    "You’ll look for places to hide¦373680.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "≈You’ll try to find somewhere to be safe from your enemies.\n"
+    "≈You’ll¦373684 try¦373684 to find somewhere to be safe from¦373686 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&your¦373686"
+     ]
+    },
+    " enemies¦373686.\n"
    ]
   },
   {
@@ -2081,21 +2363,29 @@
      "number": "12",
      "sid": "NAM 3:12"
     },
-    "All your¦373690 fortresses¦373690 will be like fig¦373691 trees¦373691\n"
+    "All¦373688 your¦373690 fortresses¦373690 will be¦373691 like fig¦373691 trees¦373691\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "with the early fruit now ready.\n"
+    "with¦373692 the early fruit ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "now"
+     ]
+    },
+    " ready.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "When they’re shaken¦373697\n"
+    "When¦373698 they’re¦373697 shaken¦373697\n"
    ]
   },
   {
@@ -2109,7 +2399,7 @@
       "the fruit"
      ]
     },
-    " falls right into the mouth¦373701 of the eater.\n"
+    " falls¦373698 right into the¦373701 mouth¦373701 of¦373701 the eater.\n"
    ]
   },
   {
@@ -2122,7 +2412,7 @@
      "number": "13",
      "sid": "NAM 3:13"
     },
-    "See, your troops¦373705 are ",
+    "See, your¦373705 troops are¦373706 ",
     {
      "type": "char",
      "marker": "add",
@@ -2137,7 +2427,7 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your ",
+    "Your¦373707 ",
     {
      "type": "char",
      "marker": "add",
@@ -2145,7 +2435,7 @@
       "city"
      ]
     },
-    " gates¦373711 will be opened¦373710 wide¦373709 to your enemies¦373708—\n"
+    " gates¦373711 will¦373710 be¦373710 opened¦373710 wide¦373709 to your¦373712 enemies¦373708—\n"
    ]
   },
   {
@@ -2165,7 +2455,7 @@
      "number": "14",
      "sid": "NAM 3:14"
     },
-    "Get water ",
+    "Get water¦373717 ",
     {
      "type": "char",
      "marker": "add",
@@ -2180,14 +2470,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Strengthen your¦373723 fortifications¦373723.\n"
+    "Strengthen¦373722 your¦373723 fortifications¦373723.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Fetch clay and¦373726 ",
+    "Fetch clay¦373725 and¦373726 ",
     {
      "type": "char",
      "marker": "add",
@@ -2202,7 +2492,7 @@
    "type": "para",
    "marker": "q2",
    "content": [
-    "Get the molds ready to make bricks¦373729.\n"
+    "Get¦373728 the molds ready to make bricks.\n"
    ]
   },
   {
@@ -2222,14 +2512,14 @@
       "Even so,"
      ]
     },
-    " fire¦373733 will devour¦373732 you.\n"
+    " fire¦373733 will devour you.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "The sword¦373735 will cut you down.\n"
+    "The¦373735 sword¦373735 will¦373736 cut¦373734 you down.\n"
    ]
   },
   {
@@ -2244,14 +2534,14 @@
       "≈chew you up"
      ]
     },
-    " like locusts.\n"
+    " like¦373737 locusts¦373737.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "You need to multiply like locusts and grasshoppers¦373741.\n"
+    "You need to multiply like¦373739 locusts¦373739 and grasshoppers.\n"
    ]
   },
   {
@@ -2264,21 +2554,29 @@
      "number": "16",
      "sid": "NAM 3:16"
     },
-    "You have so many merchants¦373744—\n"
+    "You¦373743 have¦373743 so many merchants¦373744—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "more than the stars¦373745 in the sky.\n"
+    "more¦373745 than¦373745 the¦373745 stars¦373745 in the¦373746 sky¦373746.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Like locusts¦373747, they strip¦373748 valuables and¦373749 then fly away.\n"
+    "Like ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#locusts¦373747"
+     ]
+    },
+    ", they strip¦373748 valuables and¦373749 then fly¦373749 away¦373749.\n"
    ]
   },
   {
@@ -2291,7 +2589,7 @@
      "number": "17",
      "sid": "NAM 3:17"
     },
-    "Your ",
+    "Your¦373751 ",
     {
      "type": "char",
      "marker": "add",
@@ -2299,35 +2597,43 @@
       "many"
      ]
     },
-    " guards are like locusts¦373752,\n"
+    " guards are¦373752 like¦373752 locusts¦373752,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "and you have a swarm¦373754 of officials¦373753.\n"
+    "≈and¦373753 you have a swarm of officials¦373753.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "On a cold morning they settle¦373756 on¦373757 the walls¦373757,\n"
+    "On a ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈cold¦373759"
+     ]
+    },
+    " morning they settle¦373756 on the walls¦373757,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "but¦373753 when the sun¦373760 rises¦373761 they fly away\n"
+    "but when the¦373760 sun¦373760 rises¦373761 they fly¦373762 away¦373762\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "to some place¦373766 that¦373756 nobody knows about.\n"
+    "to some place¦373766 that¦373756 nobody knows¦373765 about.\n"
    ]
   },
   {
@@ -2351,21 +2657,37 @@
       "You,"
      ]
     },
-    " king¦373771 of Assyia,\n"
+    " king¦373771 of¦373771 Ashur¦373772 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Assyria¦373772)"
+     ]
+    },
+    ",\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "your shepherds¦373770 have fallen asleep.\n"
+    "your¦373770 shepherds¦373770 have fallen asleep.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "≈Your nobles¦373774 have settled¦373773 down ",
+    "≈Your¦373774 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈leading¦373774 citizens¦373774"
+     ]
+    },
+    " have settled¦373773 down¦373773 ",
     {
      "type": "char",
      "marker": "add",
@@ -2380,14 +2702,14 @@
    "type": "para",
    "marker": "q1",
    "content": [
-    "Your people¦373776 will be scattered¦373775 across the hills,\n"
+    "Your¦373776 people¦373776 will be¦373775 scattered¦373775 across the¦373779 hills¦373779,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q2",
    "content": [
-    "with no one to gather¦373781 them again.\n"
+    "with no one¦373781 to gather¦373781 them again.\n"
    ]
   },
   {
@@ -2400,28 +2722,28 @@
      "number": "19",
      "sid": "NAM 3:19"
     },
-    "Your¦373792 pain will get no relief¦373785—\n"
+    "Your pain will get no relief¦373785—\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "your wound¦373788 is too severe¦373787.\n"
+    "your¦373786 wound¦373788 is¦373787 too severe¦373787.\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "Everyone who hears the news¦373792 about you¦373795 will do a high-five,\n"
+    "Everyone¦373789 who¦373791 hears¦373791 the news¦373792 about¦373792 you¦373795 will do a¦373794 high-five,\n"
    ]
   },
   {
    "type": "para",
    "marker": "q1",
    "content": [
-    "because there’s no one who hasn’t experienced your cruelty¦373803.\n"
+    "because¦373796 there’s¦373783 no one who¦373799 hasn’t experienced your¦373803 cruelty.\n"
    ]
   }
  ]

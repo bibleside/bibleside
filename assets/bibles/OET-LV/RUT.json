@@ -47,14 +47,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file created 2026-04-01 09:24 by extract_glossed_OSHB_OT_to_ESFM v1.0\n"
+    "ESFM file created 2026-10-31 14:30 by extract_glossed_OSHB_OT_to_ESFM v1.0.8\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedOTUpdates\n"
    ]
   },
   {
@@ -93,11 +93,6 @@
    ]
   },
   {
-   "type": "para",
-   "marker": "ie",
-   "content": []
-  },
-  {
    "type": "chapter",
    "marker": "c",
    "number": "1",
@@ -113,7 +108,7 @@
      "number": "1",
      "sid": "Rut 1:1"
     },
-    "And¦123780=he/it¦123780_was¦123780 in¦123781÷the¦123781_days¦123781_of¦123781 the¦123782_judging¦123782 of¦123783÷the¦123783_judges¦123783 and¦123784=he/it¦123784_was¦123784 a¦123785_famine¦123785 on¦123786_the¦123786=earth¦123786 and¦123787=he/it¦123787_went¦123787 a¦123788_man¦123788 from¦123789 food/grain/bread¦123790 Yəhūdāh/(Judah)¦123791 to¦123792÷sojourn¦123792 in¦123793÷the¦123793_region(s)¦123793_of¦123793 Mōʼāⱱ¦123794 he¦123795 and¦123796=his/its¦123796=woman/wife¦123796 and¦123797÷the¦123797_two¦123797_of¦123797 sons¦123798_of¦123798÷his¦123798.\n",
+    "And¦123780=he/it¦123780_was¦123780 in¦123781÷the¦123781_days¦123781_of¦123781 the¦123783_judges¦123783 of¦123782_the¦123782_judging¦123782 and¦123784=he/it¦123784_was¦123784 a¦123785_famine¦123785 on¦123786_the¦123786=earth¦123786 and¦123787=he/it¦123787_went¦123787 a¦123788_man¦123788 from¦123789÷Bēyt-¦123789 food/grain/bread¦123790 Yəhūdāh/(Judah)¦123791 to¦123792÷sojourn¦123792 in¦123793÷the¦123793_region(s)¦123793_of¦123793 Mōʼāⱱ¦123794 he¦123795 and¦123796=his/its¦123796=woman/wife¦123796 and¦123797÷the¦123797_two¦123797_of¦123797 sons¦123798_of¦123798÷his¦123798.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -136,7 +131,7 @@
       "+was¦123805"
      ]
     },
-    "_Nāˊₒmī¦123805 and¦123806=name¦123806_of¦123806 the¦123807_two¦123807_of¦123807 sons¦123809_of¦123809÷his¦123809 ",
+    "_Noˊₒmī¦123805 and¦123806=name¦123806_of¦123806 the¦123807_two¦123807_of¦123807 sons¦123809_of¦123809÷his¦123809 ",
     {
      "type": "char",
      "marker": "add",
@@ -144,21 +139,21 @@
       "+was¦123811"
      ]
     },
-    "_Maḩlōn¦123811 and¦123812÷Kilion¦123812 ʼEfrātī¦123813 from¦123814 food/grain/bread¦123815 Yəhūdāh¦123816 and¦123817=they¦123817_came¦123817 the¦123818_region(s)¦123818_of¦123818 Mōʼāⱱ¦123820 and¦123821=they¦123821_were¦123821 there¦123823.\n",
+    "_Maḩlōn¦123811 and¦123812÷Kilion¦123812 ʼEfrātī¦123813 from¦123814÷Bēyt-¦123814 food/grain/bread¦123815 Yəhūdāh¦123816 and¦123817=they¦123817_came¦123817 the¦123818_region(s)¦123818_of¦123818 Mōʼāⱱ¦123820 and¦123821=they¦123821_were¦123821 there¦123823.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "Rut 1:3"
     },
-    "And¦123825= ʼElīmelek¦123826 =he/it¦123825_died¦123825 the¦123827_husband¦123827_of¦123827 Nāˊₒmī¦123828 and¦123829÷she¦123829_was¦123829_left¦123829 she¦123830 and¦123831÷the¦123831_two¦123831_of¦123831 sons¦123832_of¦123832÷her¦123832.\n",
+    "And¦123825= ʼElīmelek¦123826 the¦123827_husband¦123827_of¦123827 Noˊₒmī¦123828 =he/it¦123825_died¦123825 and¦123829= she¦123830 and¦123831÷the¦123831_two¦123831_of¦123831 sons¦123832_of¦123832÷her¦123832 =she¦123829_was¦123829_left¦123829.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "Rut 1:4"
     },
-    "And¦123834÷they¦123834_took¦123834 to/for¦123835=them¦123835 wives¦123836 Mōʼāⱱite¦123837 the¦123838_name¦123838_of¦123838 the¦123839=one(f)¦123839 ",
+    "And¦123834÷they¦123834_took¦123834 to/for¦123835=them¦123835 wives¦123836 Mōʼāⱱites¦123837 the¦123838_name¦123838_of¦123838 the¦123839=one(f)¦123839 ",
     {
      "type": "char",
      "marker": "add",
@@ -181,14 +176,14 @@
      "number": "5",
      "sid": "Rut 1:5"
     },
-    "And¦123849÷they¦123849_died¦123849 also¦123850 both¦123852_of¦123852=them¦123852 Maḩlōn¦123853 and¦123854÷Kilion¦123854 and¦123855÷she¦123855_was¦123855_left¦123855 the¦123856=woman¦123856 from¦123857÷both¦123857_of¦123857 children¦123858_of¦123858÷her¦123858 and¦123859÷from¦123859÷her¦123859_of¦123859÷husband¦123859.\n",
+    "And¦123849= also¦123850 both¦123852_of¦123852=them¦123852 Maḩlōn¦123853 and¦123854÷Kilion¦123854 =they¦123849_died¦123849 and¦123855= the¦123856=woman¦123856 =she¦123855_was¦123855_left¦123855 from¦123857÷both¦123857_of¦123857 children¦123858_of¦123858÷her¦123858 and¦123859÷from¦123859÷husband¦123859_of¦123859÷her¦123859.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "Rut 1:6"
     },
-    "And¦123861=she/it¦123861_arose¦123861 she¦123862 and¦123863÷her¦123863_of¦123863÷daughters-in-law¦123863 and¦123864÷she¦123864_returned¦123864 from¦123865÷the¦123865_region(s)¦123865_of¦123865 Mōʼāⱱ¦123866 if/because¦123867 she¦123868_had¦123868_heard¦123868 in¦123869÷the¦123869_region¦123869_of¦123869 Mōʼāⱱ¦123870 if/because¦123871_that¦123871 he¦123873_had¦123873_visited¦123873 ",
+    "And¦123861= she¦123862 and¦123863÷daughters-in-law¦123863_of¦123863÷her¦123863 =she/it¦123861_arose¦123861 and¦123864÷she¦123864_returned¦123864 from¦123865÷the¦123865_region(s)¦123865_of¦123865 Mōʼāⱱ¦123866 if/because¦123867 she¦123868_had¦123868_heard¦123868 in¦123869÷the¦123869_region¦123869_of¦123869 Mōʼāⱱ¦123870 if/because¦123871_that¦123871 ",
     {
      "type": "char",
      "marker": "nd",
@@ -196,21 +191,21 @@
       "YHWH¦123874"
      ]
     },
-    " untr DOM¦123875untr* people¦123877_of¦123877÷his¦123877 by¦123878÷giving¦123878 to/for¦123879=them¦123879 food¦123880.\n",
+    " he¦123873_had¦123873_visited¦123873 untr DOM¦123875untr* people¦123877_of¦123877÷his¦123877 by¦123878÷giving¦123878 to/for¦123879=them¦123879 food¦123880.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "Rut 1:7"
     },
-    "And¦123882÷she¦123882_went¦123882_out¦123882 from¦123883 the¦123885÷place¦123885 where¦123886 she¦123887_had¦123887_been¦123887 (to)¦123889÷there¦123889 and¦123890÷the¦123890_two¦123890_of¦123890 daughters-in-law¦123891_of¦123891÷her¦123891 with¦123892=her/it¦123892 and¦123893÷they¦123893_went¦123893 on¦123894÷way¦123894 to¦123895÷return¦123895 to¦123896 the¦123898_land¦123898_of¦123898 Yəhūdāh/(Judah)¦123899.\n",
+    "And¦123882÷she¦123882_went¦123882_out¦123882 from¦123883 the¦123885÷place¦123885 where¦123886 she¦123887_had¦123887_been¦123887 there¦123889÷(to)¦123889 and¦123890÷the¦123890_two¦123890_of¦123890 daughters-in-law¦123891_of¦123891÷her¦123891 with¦123892=her/it¦123892 and¦123893÷they¦123893_went¦123893 on¦123894÷way¦123894 to¦123895÷return¦123895 to¦123896 the¦123898_land¦123898_of¦123898 Yəhūdāh/(Judah)¦123899.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "Rut 1:8"
     },
-    "And¦123901= Nāˊₒmī¦123902 =she/it¦123901_said¦123901 to¦123903÷the¦123903_two¦123903_of¦123903 daughters-in-law¦123904_of¦123904÷her¦123904 go¦123905 return¦123906 ",
+    "And¦123901= Noˊₒmī¦123902 =she/it¦123901_said¦123901 to¦123903÷the¦123903_two¦123903_of¦123903 daughters-in-law¦123904_of¦123904÷her¦123904 go¦123905 return¦123906 ",
     {
      "type": "char",
      "marker": "add",
@@ -218,7 +213,7 @@
       "each¦123907"
      ]
     },
-    "_woman¦123907 to¦123908÷the¦123908_house¦123908_of¦123908 her¦123909_mother¦123909_of¦123909÷of¦123909 may¦123910_he¦123910_deal¦123910",
+    "_woman¦123907 to¦123908÷the¦123908_house¦123908_of¦123908 her¦123909_mother¦123909_of¦123909÷her¦123909 may¦123910_he¦123910_deal¦123910",
     {
      "type": "note",
      "marker": "f",
@@ -263,7 +258,7 @@
       "YHWH¦123923"
      ]
     },
-    " May¦123922_he¦123922_give¦123922 to/for¦123924=you(pl)¦123924 and¦123925÷find¦123925 rest¦123926 ",
+    " may¦123922_he¦123922_give¦123922 to/for¦123924=you(pl)¦123924 and¦123925÷find¦123925 rest¦123926 ",
     {
      "type": "char",
      "marker": "add",
@@ -278,14 +273,14 @@
      "number": "10",
      "sid": "Rut 1:10"
     },
-    "And¦123936÷they¦123936_said¦123936 to¦123938÷her¦123938 if/because¦123939 with¦123941÷you¦123941 we¦123942_will¦123942_return¦123942 to¦123943÷your¦123943_of¦123943÷people¦123943.\n",
+    "And¦123936÷they¦123936_said¦123936 to¦123938÷her¦123938 if/because¦123939 with¦123941÷you¦123941 we¦123942_will¦123942_return¦123942 to¦123943÷people¦123943_of¦123943÷your¦123943.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "Rut 1:11"
     },
-    "And¦123945= Nāˊₒmī¦123946 =she/it¦123945_said¦123945 go¦123947_back¦123947 my¦123948_daughters¦123948_of¦123948÷Oh¦123948 to/for¦123949=what¦123949 will¦123950_you(pl)¦123950_go¦123950 with¦123951÷me¦123951 still¦123952 to¦123954=me¦123954 ",
+    "And¦123945= Noˊₒmī¦123946 =she/it¦123945_said¦123945 go¦123947_back¦123947 my¦123948_daughters¦123948_of¦123948÷my¦123948 to/for¦123949=what¦123949 will¦123950_you(pl)¦123950_go¦123950 with¦123951÷me¦123951 still¦123952 to¦123954=me¦123954 ",
     {
      "type": "char",
      "marker": "add",
@@ -293,14 +288,14 @@
       "do¦123955"
      ]
     },
-    "_sons¦123955 in¦123956÷my¦123956_inward¦123956_of¦123956÷parts¦123956 and¦123957=they¦123957_will¦123957_be¦123957 to/for¦123958=you(pl)¦123958 (into)¦123959÷husbands¦123959.\n",
+    "_sons¦123955 in¦123956÷inward¦123956_parts¦123956_of¦123956÷my¦123956 and¦123957=they¦123957_will¦123957_be¦123957 to/for¦123958=you(pl)¦123958 (into)¦123959÷husbands¦123959.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "Rut 1:12"
     },
-    "Go¦123961_back¦123961 my¦123962_daughters¦123962_of¦123962÷Oh¦123962 go¦123963 if/because¦123964 I¦123965_am¦123965_",
+    "Go¦123961_back¦123961 my¦123962_daughters¦123962_of¦123962÷my¦123962 go¦123963 if/because¦123964 I¦123965_am¦123965_",
     {
      "type": "char",
      "marker": "add",
@@ -323,7 +318,7 @@
      "number": "13",
      "sid": "Rut 1:13"
     },
-    "Therefore¦123982 will¦123984_you(pl)¦123984_wait¦123984 until¦123985 that¦123986 they¦123987_will¦123987_grow¦123987_up¦123987 therefore¦123988 will¦123989_you¦123989_shut¦123989_yourselves¦123989_off¦123989 to¦123990=not¦123990 to¦123991_belong¦123991 to¦123992÷a¦123992_husband¦123992 no¦123993 my¦123994_daughters¦123994_of¦123994÷Oh¦123994 if/because¦123995 it¦123997_is¦123997_bitter¦123997 to¦123999=me¦123999 very¦124000 more¦124001÷than¦124001_you(pl)¦124001 if/because¦124002 it¦124004_has¦124004_gone¦124004_forth¦124004 on¦124005÷me¦124005 the¦124006_hand¦124006_of¦124006 ",
+    "Therefore¦123982 will¦123984_you(pl)¦123984_wait¦123984 until¦123985 that¦123986 they¦123987_will¦123987_grow¦123987_up¦123987 therefore¦123988 will¦123989_you¦123989_shut¦123989_yourselves¦123989_off¦123989 to¦123990=not¦123990 to¦123991_belong¦123991 to¦123992÷a¦123992_husband¦123992 no¦123993 my¦123994_daughters¦123994_of¦123994÷my¦123994 if/because¦123995 it¦123997_is¦123997_bitter¦123997 to¦123999=me¦123999 very¦124000 more¦124001÷than¦124001_you(pl)¦124001 if/because¦124002 it¦124004_has¦124004_gone¦124004_forth¦124004 on¦124005÷me¦124005 the¦124006_hand¦124006_of¦124006 ",
     {
      "type": "char",
      "marker": "nd",
@@ -338,53 +333,21 @@
      "number": "14",
      "sid": "Rut 1:14"
     },
-    "And¦124010÷they¦124010_raised¦124010 voice¦124011_of¦124011÷their¦124011 and¦124012÷they¦124012_wept¦124012 again¦124013 and¦124014= Orpah¦124015 =she¦124014_kissed¦124014 (to)¦124016÷her¦124016_of¦124016÷mother-in-law¦124016 and¦124017÷Rūt¦124017 she¦124018_clung¦124018 to¦124019÷her¦124019.\n",
+    "And¦124010÷they¦124010_raised¦124010 voice¦124011_of¦124011÷their¦124011 and¦124012÷they¦124012_wept¦124012 again¦124013 and¦124014= Orpah¦124015 =she¦124014_kissed¦124014 (to)¦124016÷mother-in-law¦124016_of¦124016÷her¦124016 and¦124017÷Rūt¦124017 she¦124018_clung¦124018 to¦124019÷her¦124019.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "Rut 1:15"
     },
-    "And¦124021=she/it¦124021_said¦124021 there¦124022 she¦124023_has¦124023_returned¦124023 sister-in-law¦124024_of¦124024÷your¦124024 to¦124025 people¦124027_of¦124027÷her¦124027 and¦124028=near/to¦124028 gods¦124030_of¦124030÷her¦124030 go¦124031_back¦124031 after¦124032 sister-in-law¦124033_of¦124033÷your¦124033.\n",
+    "And¦124021=she/it¦124021_said¦124021 THERE¦124022 sister-in-law¦124024_of¦124024÷your¦124024 she¦124023_has¦124023_returned¦124023 to¦124025 people¦124027_of¦124027÷her¦124027 and¦124028=near/to¦124028 gods¦124030_of¦124030÷her¦124030 go¦124031_back¦124031 after¦124032 sister-in-law¦124033_of¦124033÷your¦124033.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "Rut 1:16"
     },
-    "And¦124035= Rūt¦124036 =she/it¦124035_said¦124035 do¦124037_not¦124037 entreat¦124039 (on)¦124041÷me¦124041 to¦124042÷abandon¦124042÷you¦124042 to¦124043÷turn¦124043_back¦124043 from¦124044÷after¦124044÷you¦124044 if/because¦124045 to¦124046 where¦124048 you¦124049_will¦124049_go¦124049 I¦124050_will¦124050_go¦124050 and¦124051÷at¦124051÷where¦124051 you¦124052_will¦124052_lodge¦124052 I¦124053_will¦124053_lodge¦124053 people¦124054_of¦124054÷your¦124054 ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "+be¦124055"
-     ]
-    },
-    "_my¦124055_people¦124055_of¦124055÷",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "+will¦124055"
-     ]
-    },
-    " and¦124056÷your(pl)¦124056_of¦124056÷god¦124056 ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "+be¦124057"
-     ]
-    },
-    "_my¦124057_god¦124057_of¦124057÷",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "+will¦124057"
-     ]
-    },
-    ".\n",
+    "And¦124035= Rūt¦124036 =she/it¦124035_said¦124035 do¦124037_not¦124037 entreat¦124039 (on)¦124041÷me¦124041 to¦124042÷abandon¦124042÷you¦124042 to¦124043÷turn¦124043_back¦124043 from¦124044÷after¦124044÷you¦124044 if/because¦124045 to¦124046 where¦124048 you¦124049_will¦124049_go¦124049 I¦124050_will¦124050_go¦124050 and¦124051÷at¦124051÷where¦124051 you¦124052_will¦124052_lodge¦124052 I¦124053_will¦124053_lodge¦124053 people¦124054_of¦124054÷your¦124054 people¦124055_of¦124055÷my¦124055 and¦124056÷god¦124056_of¦124056÷your¦124056 god¦124057_of¦124057÷my¦124057.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -406,7 +369,7 @@
      "number": "18",
      "sid": "Rut 1:18"
     },
-    "And¦124076=she/it¦124076_saw¦124076 if/because¦124077_that¦124077 ",
+    "And¦124076=she/it¦124076_saw¦124076 if/because¦124077_that¦124077 she¦124080 ",
     {
      "type": "char",
      "marker": "add",
@@ -414,14 +377,14 @@
       "+was¦124079"
      ]
     },
-    "_determined¦124079 she¦124080 to¦124081=go¦124081 with¦124082÷her¦124082 and¦124083÷she¦124083_ceased¦124083 to¦124084÷speak¦124084 to¦124085÷her¦124085.\n",
+    "_determined¦124079 to¦124081=go¦124081 with¦124082÷her¦124082 and¦124083÷she¦124083_ceased¦124083 to¦124084÷speak¦124084 to¦124085÷her¦124085.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "19",
      "sid": "Rut 1:19"
     },
-    "And¦124087÷they¦124087_went¦124087 the¦124088_two¦124088_of¦124088÷of¦124088_them¦124088 until¦124089 they¦124091÷came¦124091 Bēyt-¦124092 leḩem¦124093 and¦124094=he/it¦124094_was¦124094 just¦124095÷as¦124095÷they¦124095_came¦124095 Bēyt-¦124096 leḩem¦124097 and¦124098= all¦124099_of¦124099 =it¦124098_was¦124098_stirred¦124098 the¦124101=city¦124101 on¦124102÷them¦124102 and¦124103÷they(f)¦124103_said¦124103 ",
+    "And¦124087= the¦124088_two¦124088_of¦124088÷of¦124088_them¦124088 =they¦124087_went¦124087 until¦124089 came¦124091÷they¦124091 Bēyt-¦124092 leḩem¦124093 and¦124094=he/it¦124094_was¦124094 just¦124095÷as¦124095÷they¦124095_came¦124095 Bēyt-¦124096 leḩem¦124097 and¦124098= all¦124099_of¦124099 the¦124101=city¦124101 =it¦124098_was¦124098_stirred¦124098 on¦124102÷them¦124102 and¦124103÷they(f)¦124103_said¦124103 ",
     {
      "type": "char",
      "marker": "add",
@@ -429,14 +392,14 @@
       "+is¦124104"
      ]
     },
-    "÷this¦124104 Nāˊₒmī¦124105.\n",
+    "÷this¦124104 Noˊₒmī¦124105.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "20",
      "sid": "Rut 1:20"
     },
-    "And¦124107=she/it¦124107_said¦124107 to¦124108÷them¦124108 do¦124109_not¦124109 call¦124111 to¦124112=me¦124112 Nāˊₒmī¦124113 call¦124114 to¦124115=me¦124115 Mara¦124116 if/because¦124117 ",
+    "And¦124107=she/it¦124107_said¦124107 to¦124108÷them¦124108 do¦124109_not¦124109 call¦124111 to¦124112=me¦124112 Noˊₒmī¦124113 call¦124114 to¦124115=me¦124115 Mara¦124116 if/because¦124117 ",
     {
      "type": "char",
      "marker": "add",
@@ -451,7 +414,7 @@
      "number": "21",
      "sid": "Rut 1:21"
     },
-    "I¦124124 full¦124125 I¦124126_went¦124126 and¦124127÷empty¦124127 he¦124128÷has¦124128_brought¦124128_me¦124128_back¦124128 ",
+    "I¦124124 full¦124125 I¦124126_went¦124126 and¦124127÷empty¦124127 bring¦124128_back¦124128÷me¦124128 ",
     {
      "type": "char",
      "marker": "nd",
@@ -459,7 +422,7 @@
       "YHWH¦124129"
      ]
     },
-    " to/for¦124130=what¦124130 do¦124131_you(pl)¦124131_call¦124131 to¦124132=me¦124132 Nāˊₒmī¦124133 and¦124134=",
+    " to/for¦124130=what¦124130 do¦124131_you(pl)¦124131_call¦124131 to¦124132=me¦124132 Noˊₒmī¦124133 and¦124134=",
     {
      "type": "char",
      "marker": "nd",
@@ -527,7 +490,7 @@
      "number": "22",
      "sid": "Rut 1:22"
     },
-    "And¦124143= Nāˊₒmī¦124144 =she¦124143_returned¦124143 and¦124145÷Rūt¦124145 the¦124146_Mōʼāⱱite¦124146÷",
+    "And¦124143= Noˊₒmī¦124144 =she¦124143_returned¦124143 and¦124145÷Rūt¦124145 the¦124146_Mōʼāⱱite¦124146÷",
     {
      "type": "char",
      "marker": "add",
@@ -578,7 +541,7 @@
       "belonged¦124160"
      ]
     },
-    "÷to¦124160÷Nāˊₒmī¦124160 a¦124161_relative¦124161",
+    "÷to¦124160÷Noˊₒmī¦124160 a¦124161_relative¦124161",
     {
      "type": "note",
      "marker": "f",
@@ -616,7 +579,7 @@
      "number": "2",
      "sid": "Rut 2:2"
     },
-    "And¦124172= Rūt¦124173 =she/it¦124172_said¦124172 the¦124174_Mōʼāⱱite¦124174÷",
+    "And¦124172= Rūt¦124173 the¦124174_Mōʼāⱱite¦124174÷",
     {
      "type": "char",
      "marker": "add",
@@ -624,7 +587,7 @@
       ">woman¦124174"
      ]
     },
-    " to¦124175 Nāˊₒmī¦124177 let¦124178_me¦124178_go¦124178 please¦124180 the¦124181=field¦124181 so¦124182÷that¦124182_I¦124182_may¦124182_glean¦124182",
+    " =she/it¦124172_said¦124172 to¦124175 Noˊₒmī¦124177 let¦124178_me¦124178_go¦124178 please¦124180 the¦124181=field¦124181 so¦124182÷that¦124182_I¦124182_may¦124182_glean¦124182",
     {
      "type": "note",
      "marker": "f",
@@ -774,14 +737,14 @@
       ">one¦124191"
      ]
     },
-    "_whom¦124191 I¦124192_will¦124192_find¦124192 favour¦124194 in¦124195÷his¦124195_of¦124195÷eyes¦124195 and¦124196=she/it¦124196_said¦124196 to/for¦124197=her/it¦124197 go¦124198 my¦124199_daughter¦124199_of¦124199÷Oh¦124199.\n",
+    "_whom¦124191 I¦124192_will¦124192_find¦124192 favour¦124194 in¦124195÷eyes¦124195_of¦124195÷his¦124195 and¦124196=she/it¦124196_said¦124196 to/for¦124197=her/it¦124197 go¦124198 my¦124199_daughter¦124199_of¦124199÷my¦124199.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "Rut 2:3"
     },
-    "And¦124201÷she¦124201_went¦124201 and¦124202÷she¦124202_came¦124202 and¦124203÷she¦124203_gleaned¦124203 in¦124204_the¦124204=field¦124204 behind¦124205 the¦124206÷harvesters¦124206 chance¦124208_of¦124208÷her¦124208 and¦124207÷it¦124207_chanced¦124207_on¦124207 the¦124209_portion¦124209_of¦124209 the¦124210=field¦124210 of¦124211÷Boˊaz¦124211 who¦124212 ",
+    "And¦124201÷she¦124201_went¦124201 and¦124202÷she¦124202_came¦124202 and¦124203÷she¦124203_gleaned¦124203 in¦124204_the¦124204=field¦124204 behind¦124205 the¦124206÷harvesters¦124206 and¦124207= chance¦124208_of¦124208÷her¦124208 =it¦124207_chanced¦124207_on¦124207 the¦124209_portion¦124209_of¦124209 the¦124210=field¦124210 of¦124211÷Boˊaz¦124211 who¦124212 ",
     {
      "type": "char",
      "marker": "add",
@@ -796,7 +759,7 @@
      "number": "4",
      "sid": "Rut 2:4"
     },
-    "And¦124216=see/lo/see¦124216 Boˊaz¦124218 ",
+    "And¦124216=BEHOLD/LO/SEE¦124216 Boˊaz¦124218 ",
     {
      "type": "char",
      "marker": "add",
@@ -804,7 +767,7 @@
       "+was¦124219"
      ]
     },
-    "_coming¦124219 from¦124220 food/grain/bread¦124221 and¦124222=he/it¦124222_said¦124222 to¦124223÷harvesters¦124223 ",
+    "_coming¦124219 from¦124220÷Bēyt-¦124220 food/grain/bread¦124221 and¦124222=he/it¦124222_said¦124222 to¦124223÷harvesters¦124223 ",
     {
      "type": "char",
      "marker": "nd",
@@ -835,7 +798,7 @@
      "number": "5",
      "sid": "Rut 2:5"
     },
-    "And¦124231= Boˊaz¦124232 =he/it¦124231_said¦124231 to¦124233÷his¦124233_of¦124233÷servant¦124233 ",
+    "And¦124231= Boˊaz¦124232 =he/it¦124231_said¦124231 to¦124233÷servant¦124233_of¦124233÷his¦124233 ",
     {
      "type": "char",
      "marker": "add",
@@ -858,7 +821,7 @@
      "number": "6",
      "sid": "Rut 2:6"
     },
-    "And¦124242÷he¦124242_answered¦124242 the¦124243÷servant¦124243 ",
+    "And¦124242= the¦124243÷servant¦124243 ",
     {
      "type": "char",
      "marker": "add",
@@ -866,7 +829,7 @@
       "who¦124244÷was¦124244"
      ]
     },
-    "_appointed¦124244 over¦124245 the¦124247÷harvesters¦124247 and¦124248÷he¦124248_said¦124248 ",
+    "_appointed¦124244 over¦124245 the¦124247÷harvesters¦124247 =he¦124242_answered¦124242 and¦124248÷he¦124248_said¦124248 ",
     {
      "type": "char",
      "marker": "add",
@@ -874,21 +837,21 @@
       "+is¦124249"
      ]
     },
-    "_a¦124249_young¦124249_woman¦124249 Mōʼāⱱite¦124250 she¦124251 who¦124252÷she¦124252_returned¦124252 with¦124253 Nāˊₒmī¦124255 from¦124256÷the¦124256_region¦124256_of¦124256 Mōʼāⱱ¦124257.\n",
+    "_a¦124249_young¦124249_woman¦124249 Mōʼāⱱite¦124250 she¦124251 who¦124252÷she¦124252_returned¦124252 with¦124253 Noˊₒmī¦124255 from¦124256÷the¦124256_region¦124256_of¦124256 Mōʼāⱱ¦124257.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "Rut 2:7"
     },
-    "And¦124259=she/it¦124259_said¦124259 let¦124260_me¦124260_glean¦124260 please¦124262 and¦124263÷I¦124263_will¦124263_gather¦124263 among¦124264÷sheaves¦124264 behind¦124265 the¦124266÷harvesters¦124266 and¦124267÷she¦124267_came¦124267 and¦124268÷she¦124268_has¦124268_stayed¦124268 from¦124269÷then¦124269 this¦124270÷morning¦124270 and¦124271=unto¦124271 now¦124273 this¦124274 her¦124275÷sitting¦124275 the¦124276÷house¦124276 little¦124277.\n",
+    "And¦124259=she/it¦124259_said¦124259 let¦124260_me¦124260_glean¦124260 please¦124262 and¦124263÷I¦124263_will¦124263_gather¦124263 among¦124264÷sheaves¦124264 behind¦124265 the¦124266÷harvesters¦124266 and¦124267÷she¦124267_came¦124267 and¦124268÷she¦124268_has¦124268_stayed¦124268 from¦124269÷then¦124269 this¦124270÷morning¦124270 and¦124271=unto¦124271 now¦124273 this¦124274 sitting¦124275÷her¦124275 the¦124276÷house¦124276 little¦124277.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "Rut 2:8"
     },
-    "And¦124279= Boˊaz¦124280 =he/it¦124279_said¦124279 to¦124281 Rūt¦124283 am¦124284=not¦124284 have¦124285_you¦124285_heard¦124285 my¦124286_daughter¦124286_of¦124286÷Oh¦124286 do¦124287_not¦124287 go¦124289 to¦124290÷glean¦124290 in¦124291÷a¦124291_field¦124291 another¦124292 and¦124293=also¦124293 not¦124294 you¦124295_must¦124295_pass¦124295_on¦124295 from¦124296÷this¦124296_",
+    "And¦124279= Boˊaz¦124280 =he/it¦124279_said¦124279 to¦124281 Rūt¦124283 am¦124284=not¦124284 have¦124285_you¦124285_heard¦124285 my¦124286_daughter¦124286_of¦124286÷my¦124286 do¦124287_not¦124287 go¦124289 to¦124290÷glean¦124290 in¦124291÷a¦124291_field¦124291 another¦124292 and¦124293=also¦124293 not¦124294 you¦124295_must¦124295_pass¦124295_on¦124295 from¦124296÷this¦124296_",
     {
      "type": "char",
      "marker": "add",
@@ -903,7 +866,7 @@
      "number": "9",
      "sid": "Rut 2:9"
     },
-    "Eyes¦124303_of¦124303÷your¦124303 in¦124304_the¦124304=field¦124304 which¦124305 mmm¦124307 and¦124308",
+    "Eyes¦124303_of¦124303÷your¦124303 in¦124304_the¦124304=field¦124304 which¦124305 they¦124307÷are¦124307_harvesting¦124307 and¦124308÷you¦124308_will¦124308_go¦124308",
     {
      "type": "note",
      "marker": "f",
@@ -970,7 +933,15 @@
      ],
      "caller": "+"
     },
-    " mmm¦124312 am¦124313=not¦124313 wwww¦124314 untr DOM¦124315untr* the¦124317 to¦124318=not¦124318 mmm¦124319 and¦124320 and¦124321 to/towards¦124322 the¦124324=vessels¦124324 and¦124325 from¦124326 mmm¦124327 the¦124328.\n",
+    " behind¦124312÷them¦124312 am¦124313=not¦124313 have¦124314_I¦124314_commanded¦124314 untr DOM¦124315untr* the¦124317_young¦124317÷men¦124317 to¦124318=not¦124318 to¦124319÷touch¦124319_you¦124319 and¦124320÷you¦124320_will¦124320_be¦124320_thirsty¦124320 and¦124321÷you¦124321_will¦124321_go¦124321 to¦124322 the¦124324=vessels¦124324 and¦124325÷you¦124325_will¦124325_drink¦124325 some¦124326÷of¦124326_",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "that¦124326"
+     ]
+    },
+    "_which¦124326 they¦124327÷will¦124327_draw¦124327 the¦124328_young¦124328÷men¦124328.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -985,7 +956,7 @@
       "+the¦124335"
      ]
     },
-    " and¦124336=she/it¦124336_said¦124336 to¦124337=him/it¦124337 why¦124338 have¦124339_I¦124339_found¦124339 favour¦124340 in¦124341÷your¦124341_two's¦124341_of¦124341÷eyes¦124341 to¦124342÷pay¦124342÷regard¦124342_to¦124342_me¦124342 and¦124343÷I¦124343",
+    " and¦124336=she/it¦124336_said¦124336 to¦124337=him/it¦124337 why¦124338 have¦124339_I¦124339_found¦124339 favour¦124340 in¦124341÷eyes¦124341_of¦124341÷your¦124341 to¦124342÷pay¦124342÷regard¦124342_to¦124342_me¦124342 and¦124343÷I¦124343",
     {
      "type": "note",
      "marker": "f",
@@ -1134,7 +1105,7 @@
      ],
      "caller": "+"
     },
-    " and¦124371÷your¦124371_of¦124371÷mother¦124371 and¦124372÷the¦124372_land¦124372_of¦124372 your¦124373_kindred¦124373_of¦124373÷of¦124373 and¦124374÷you¦124374_came¦124374 to¦124375 a¦124377_people¦124377 which¦124378 not¦124379 you¦124381_knew¦124381 yesterday¦124382 three¦124383_days¦124383_ago¦124383.\n",
+    " and¦124371÷mother¦124371_of¦124371÷your¦124371 and¦124372÷the¦124372_land¦124372_of¦124372 your¦124373_kindred¦124373_of¦124373÷your¦124373 and¦124374÷you¦124374_came¦124374 to¦124375 a¦124377_people¦124377 which¦124378 not¦124379 you¦124381_knew¦124381 yesterday¦124382 three¦124383_days¦124383_ago¦124383.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1148,7 +1119,7 @@
       "YHWH¦124386"
      ]
     },
-    " May¦124385_he¦124385_reward¦124385 deed[s]¦124387_of¦124387÷your¦124387 and¦124388÷may¦124388_it¦124388_be¦124388 wage[s]¦124389_of¦124389÷your¦124389 complete¦124390 from¦124391÷with¦124391 ",
+    " may¦124385_he¦124385_reward¦124385 deed[s]¦124387_of¦124387÷your¦124387 and¦124388÷may¦124388_it¦124388_be¦124388 wage[s]¦124389_of¦124389÷your¦124389 complete¦124390 from¦124391÷with¦124391 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1171,7 +1142,7 @@
      "number": "13",
      "sid": "Rut 2:13"
     },
-    "And¦124403=she/it¦124403_said¦124403 I¦124404_am¦124404_finding¦124404 favour¦124406 in¦124407÷your¦124407_two's¦124407_of¦124407÷eyes¦124407 my¦124408=master¦124408 if/because¦124409 you¦124410÷have¦124410_comforted¦124410_me¦124410 and¦124411=because/when¦124411 you¦124412_have¦124412_spoken¦124412 to¦124413 the¦124415_heart¦124415_of¦124415 your¦124416_maidservant¦124416_of¦124416÷of¦124416 and¦124417÷I¦124417 not¦124418 I¦124419_am¦124419 like¦124420÷one¦124420_of¦124420 your(pl)¦124421_maidservants¦124421_of¦124421÷of¦124421.\n",
+    "And¦124403=she/it¦124403_said¦124403 I¦124404_am¦124404_finding¦124404 favour¦124406 in¦124407÷eyes¦124407_of¦124407÷your¦124407 my¦124408=master¦124408 if/because¦124409 you¦124410÷have¦124410_comforted¦124410_me¦124410 and¦124411=because/when¦124411 you¦124412_have¦124412_spoken¦124412 to¦124413 the¦124415_heart¦124415_of¦124415 your¦124416_maidservant¦124416_of¦124416÷your¦124416 and¦124417÷I¦124417 not¦124418 I¦124419_am¦124419 like¦124420÷one¦124420_of¦124420 your(pl)¦124421_maidservants¦124421_of¦124421÷your¦124421.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1238,7 +1209,7 @@
       ">it¦124492"
      ]
     },
-    "_up¦124492 and¦124493÷she¦124493_went¦124493 the¦124494=city¦124494 mother-in-law¦124496_of¦124496÷her¦124496 and¦124495=she/it¦124495_saw¦124495 untr DOM¦124497untr* ",
+    "_up¦124492 and¦124493÷she¦124493_went¦124493 the¦124494=city¦124494 and¦124495= mother-in-law¦124496_of¦124496÷her¦124496 =she/it¦124495_saw¦124495 untr DOM¦124497untr* ",
     {
      "type": "char",
      "marker": "add",
@@ -1254,7 +1225,7 @@
       "that¦124506"
      ]
     },
-    "_which¦124506 she¦124508_had¦124508_left¦124508_over¦124508 from¦124509÷her¦124509_of¦124509÷abundance¦124509.\n",
+    "_which¦124506 she¦124508_had¦124508_left¦124508_over¦124508 from¦124509÷abundance¦124509_of¦124509÷her¦124509.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1269,7 +1240,7 @@
       "one¦124520_of¦124520÷who¦124520"
      ]
     },
-    "_paid¦124520_regard¦124520_to¦124520_you¦124520 blessed¦124521 and¦124522÷she¦124522_told¦124522 to¦124523÷her¦124523_of¦124523÷mother-in-law¦124523 untr DOM¦124524untr* whom¦124525 she¦124527_had¦124527_worked¦124527 with¦124528=him/it¦124528 and¦124529=she/it¦124529_said¦124529 the¦124530_name¦124530_of¦124530 the¦124531=man¦124531 whom¦124532 I¦124533_worked¦124533 with¦124534=him/it¦124534 the¦124535=day¦124535 ",
+    "_paid¦124520_regard¦124520_to¦124520_you¦124520 blessed¦124521 and¦124522÷she¦124522_told¦124522 to¦124523÷mother-in-law¦124523_of¦124523÷her¦124523 untr DOM¦124524untr* whom¦124525 she¦124527_had¦124527_worked¦124527 with¦124528=him/it¦124528 and¦124529=she/it¦124529_said¦124529 the¦124530_name¦124530_of¦124530 the¦124531=man¦124531 whom¦124532 I¦124533_worked¦124533 with¦124534=him/it¦124534 the¦124535=day¦124535 ",
     {
      "type": "char",
      "marker": "add",
@@ -1284,7 +1255,7 @@
      "number": "20",
      "sid": "Rut 2:20"
     },
-    "And¦124538= Nāˊₒmī¦124539 =she/it¦124538_said¦124538 to¦124540÷her¦124540_of¦124540÷daughter-in-law¦124540 ",
+    "And¦124538= Noˊₒmī¦124539 =she/it¦124538_said¦124538 to¦124540÷daughter-in-law¦124540_of¦124540÷her¦124540 he¦124542 ",
     {
      "type": "char",
      "marker": "add",
@@ -1292,7 +1263,7 @@
       "+be¦124541"
      ]
     },
-    "_blessed¦124541 he¦124542 to/for¦124543=",
+    "_blessed¦124541 to/for¦124543=",
     {
      "type": "char",
      "marker": "nd",
@@ -1300,7 +1271,7 @@
       "YHWH¦124543"
      ]
     },
-    " who¦124544 not¦124545 loyalty¦124548_of¦124548÷his¦124548_covenant¦124548 he¦124547_has¦124547_abandoned¦124547 with¦124549 the¦124551÷living¦124551 and¦124552=untr DOM¦124552untr* the¦124554÷dead¦124554 and¦124555=she/it¦124555_said¦124555 to/for¦124556=her/it¦124556 Nāˊₒmī¦124557 ",
+    " who¦124544 not¦124545 he¦124547_has¦124547_abandoned¦124547 loyalty¦124548_of¦124548÷his¦124548_covenant¦124548 with¦124549 the¦124551÷living¦124551 and¦124552=untr DOM¦124552untr* the¦124554÷dead¦124554 and¦124555=she/it¦124555_said¦124555 to/for¦124556=her/it¦124556 Noˊₒmī¦124557 ",
     {
      "type": "char",
      "marker": "add",
@@ -1323,7 +1294,7 @@
      "number": "21",
      "sid": "Rut 2:21"
     },
-    "And¦124564= Rūt¦124565 =she/it¦124564_said¦124564 the¦124566_Mōʼāⱱite¦124566÷",
+    "And¦124564= Rūt¦124565 the¦124566_Mōʼāⱱite¦124566÷",
     {
      "type": "char",
      "marker": "add",
@@ -1331,14 +1302,14 @@
       ">woman¦124566"
      ]
     },
-    " also¦124567 if/because¦124569_that¦124569 he¦124571_said¦124571 to¦124572=me¦124572 with¦124573 the¦124575÷servants¦124575 who¦124576 to¦124578=me¦124578 you¦124579÷will¦124579_stay¦124579 until¦124580 (if)¦124581 they¦124583_have¦124583_completed¦124583 untr DOM¦124584untr* all¦124585_of¦124585 the¦124587÷harvest¦124587 which¦124588 to¦124590=me¦124590.\n",
+    " =she/it¦124564_said¦124564 also¦124567 if/because¦124569_that¦124569 he¦124571_said¦124571 to¦124572=me¦124572 with¦124573 the¦124575÷servants¦124575 who¦124576 to¦124578=me¦124578 you¦124579÷will¦124579_stay¦124579 until¦124580 (if)¦124581 they¦124583_have¦124583_completed¦124583 untr DOM¦124584untr* all¦124585_of¦124585 the¦124587÷harvest¦124587 which¦124588 to¦124590=me¦124590.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "22",
      "sid": "Rut 2:22"
     },
-    "And¦124592= Nāˊₒmī¦124593 =she/it¦124592_said¦124592 to¦124594 Rūt¦124596 daughter-in-law¦124597_of¦124597÷her¦124597 ",
+    "And¦124592= Noˊₒmī¦124593 =she/it¦124592_said¦124592 to¦124594 Rūt¦124596 daughter-in-law¦124597_of¦124597÷her¦124597 ",
     {
      "type": "char",
      "marker": "add",
@@ -1346,14 +1317,14 @@
       "+is¦124598"
      ]
     },
-    "_good¦124598 my¦124599_daughter¦124599_of¦124599÷Oh¦124599 (cmp)¦124600 you¦124601_will¦124601_go¦124601_out¦124601 with¦124602 servants¦124604_of¦124604÷his¦124604_female¦124604 and¦124605=not¦124605 people¦124606_will¦124606_molest¦124606 (in)¦124608÷you¦124608 in¦124609÷a¦124609_field¦124609 another¦124610.\n",
+    "_good¦124598 my¦124599_daughter¦124599_of¦124599÷my¦124599 that/for/because/then/when¦124600 you¦124601_will¦124601_go¦124601_out¦124601 with¦124602 servants¦124604_of¦124604÷his¦124604_female¦124604 and¦124605=not¦124605 people¦124606_will¦124606_molest¦124606 (in)¦124608÷you¦124608 in¦124609÷a¦124609_field¦124609 another¦124610.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "23",
      "sid": "Rut 2:23"
     },
-    "And¦124612÷she¦124612_stayed¦124612 with¦124613÷the¦124613_female¦124613_servants¦124613_of¦124613 Boˊaz¦124614 to¦124615÷glean¦124615 until¦124616 was¦124618_complete¦124618 the¦124619_harvest¦124619_of¦124619 the¦124621_barley(s)¦124621 and¦124622÷the¦124622_harvest¦124622_of¦124622 the¦124623_wheat(s)¦124623 and¦124624÷she¦124624_dwelt¦124624 with¦124625 mother-in-law¦124627_of¦124627÷her¦124627.\n"
+    "And¦124612÷she¦124612_stayed¦124612 with¦124613÷the¦124613_female¦124613_servants¦124613_of¦124613 Boˊaz¦124614 to¦124615÷glean¦124615 until¦124616 the¦124619_harvest¦124619_of¦124619 the¦124621_barley(s)¦124621 and¦124622÷the¦124622_harvest¦124622_of¦124622 the¦124623_wheat(s)¦124623 was¦124618_complete¦124618 and¦124624÷she¦124624_dwelt¦124624 with¦124625 mother-in-law¦124627_of¦124627÷her¦124627.\n"
    ]
   },
   {
@@ -1372,7 +1343,7 @@
      "number": "1",
      "sid": "Rut 3:1"
     },
-    "And¦124629=she/it¦124629_said¦124629 to/for¦124630=her/it¦124630 Nāˊₒmī¦124631 mother-in-law¦124632_of¦124632÷her¦124632 my¦124633_daughter¦124633_of¦124633÷Oh¦124633 not¦124634 will¦124635_I¦124635_seek¦124635 to/for¦124637=you(fs)¦124637 a¦124638_resting¦124638_place¦124638 that¦124639 it¦124640_will¦124640_go¦124640_well¦124640 to/for¦124642=you(fs)¦124642.\n",
+    "And¦124629=she/it¦124629_said¦124629 to/for¦124630=her/it¦124630 Noˊₒmī¦124631 mother-in-law¦124632_of¦124632÷her¦124632 my¦124633_daughter¦124633_of¦124633÷my¦124633 not¦124634 will¦124635_I¦124635_seek¦124635 to/for¦124637=you(fs)¦124637 a¦124638_resting¦124638_place¦124638 that¦124639 it¦124640_will¦124640_go¦124640_well¦124640 to/for¦124642=you(fs)¦124642.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1387,7 +1358,7 @@
       "+is¦124646"
      ]
     },
-    "_Boˊaz¦124646 relative¦124647_of¦124647÷our¦124647 whom¦124648 you¦124649_were¦124649 with¦124650 servants¦124652_of¦124652÷his¦124652_female¦124652 there¦124653 he¦124655 ",
+    "_Boˊaz¦124646 relative¦124647_of¦124647÷our¦124647 whom¦124648 you¦124649_were¦124649 with¦124650 servants¦124652_of¦124652÷his¦124652_female¦124652 THERE¦124653 he¦124655 ",
     {
      "type": "char",
      "marker": "add",
@@ -1402,7 +1373,7 @@
      "number": "3",
      "sid": "Rut 3:3"
     },
-    "And¦124663÷you¦124663_will¦124663_wash¦124663 and¦124665÷you¦124665_will¦124665_anoint¦124665_yourself¦124665 and¦124666÷you¦124666_will¦124666_put¦124666 garments¦124667_of¦124667÷your¦124667",
+    "And¦124663÷you¦124663_will¦124663_wash¦124663 and¦124665÷you¦124665_will¦124665_anoint¦124665_yourself¦124665 and¦124666÷you¦124666_will¦124666_put¦124666 mmm¦124667",
     {
      "type": "note",
      "marker": "f",
@@ -1425,7 +1396,7 @@
      ],
      "caller": "+"
     },
-    " on¦124669÷yourself¦124669 and¦124670÷you¦124670_will¦124670_go¦124670_down¦124670",
+    " on¦124669 and¦124670",
     {
      "type": "note",
      "marker": "f",
@@ -1448,7 +1419,7 @@
      ],
      "caller": "+"
     },
-    " the¦124672_threshing¦124672÷floor¦124672 do¦124673_not¦124673 make¦124675_yourself¦124675_known¦124675 to¦124676÷man¦124676 until¦124677 he¦124678÷finishes¦124678 to¦124679÷eat¦124679 and¦124680÷to¦124680÷drink¦124680.\n",
+    " the¦124672_threshing¦124672÷floor¦124672 do¦124673_not¦124673 make¦124675_yourself¦124675_known¦124675 to¦124676÷man¦124676 until¦124677 finishes¦124678÷he¦124678 to¦124679÷eat¦124679 and¦124680÷to¦124680÷drink¦124680.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1516,7 +1487,7 @@
      "number": "5",
      "sid": "Rut 3:5"
     },
-    "and¦124705=she/it¦124705_said¦124705 to¦124706=her/it¦124706 all¦124707 that¦124708 you¦124710_are¦124710_saying¦124710",
+    "And¦124705=she/it¦124705_said¦124705 to¦124706=her/it¦124706 all¦124707 that¦124708 you¦124710_are¦124710_saying¦124710",
     {
      "type": "note",
      "marker": "f",
@@ -1553,14 +1524,14 @@
      "number": "7",
      "sid": "Rut 3:7"
     },
-    "And¦124723= Boˊaz¦124724 =he¦124723_ate¦124723 and¦124725÷he¦124725_drank¦124725 his/its¦124727=heart¦124727 and¦124726÷it¦124726_was¦124726_good¦124726 and¦124728÷he¦124728_went¦124728 to¦124729÷lie¦124729_down¦124729 at¦124730÷the¦124730_end¦124730_of¦124730 the¦124731_heap¦124731 and¦124732÷she¦124732_came¦124732 in¦124733÷secrecy¦124733 and¦124734÷she¦124734_uncovered¦124734 feet¦124735_of¦124735÷his¦124735 and¦124736÷she¦124736_lay¦124736_down¦124736.\n",
+    "And¦124723= Boˊaz¦124724 =he¦124723_ate¦124723 and¦124725÷he¦124725_drank¦124725 and¦124726= his/its¦124727=heart¦124727 =it¦124726_was¦124726_good¦124726 and¦124728÷he¦124728_went¦124728 to¦124729÷lie¦124729_down¦124729 at¦124730÷the¦124730_end¦124730_of¦124730 the¦124731_heap¦124731 and¦124732÷she¦124732_came¦124732 in¦124733÷secrecy¦124733 and¦124734÷she¦124734_uncovered¦124734 feet¦124735_of¦124735÷his¦124735 and¦124736÷she¦124736_lay¦124736_down¦124736.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "Rut 3:8"
     },
-    "And¦124738=he/it¦124738_was¦124738 in¦124739÷the¦124739_middle¦124739_of¦124739 the¦124740=night¦124740 and¦124741÷he¦124741_trembled¦124741 the¦124742=man¦124742 and¦124743÷he¦124743_twisted¦124743 and¦124744=see/lo/see¦124744 a¦124745_woman¦124745 ",
+    "And¦124738=he/it¦124738_was¦124738 in¦124739÷the¦124739_middle¦124739_of¦124739 the¦124740=night¦124740 and¦124741= the¦124742=man¦124742 =he¦124741_trembled¦124741 and¦124743÷he¦124743_twisted¦124743 and¦124744=BEHOLD/LO/SEE¦124744 a¦124745_woman¦124745 ",
     {
      "type": "char",
      "marker": "add",
@@ -1629,7 +1600,7 @@
      "number": "10",
      "sid": "Rut 3:10"
     },
-    "And¦124767=he/it¦124767_said¦124767 ",
+    "And¦124767=he/it¦124767_said¦124767 you¦124769 ",
     {
      "type": "char",
      "marker": "add",
@@ -1637,7 +1608,7 @@
       "+be¦124768"
      ]
     },
-    "_blessed¦124768 you¦124769 to/for¦124770=",
+    "_blessed¦124768 to/for¦124770=",
     {
      "type": "char",
      "marker": "nd",
@@ -1645,14 +1616,14 @@
       "YHWH¦124770"
      ]
     },
-    " my¦124771_daughter¦124771_of¦124771÷Oh¦124771 you¦124772_have¦124772_made¦124772_good¦124772 loyalty¦124773_of¦124773÷your¦124773 (the)¦124774÷latter¦124774 more¦124775_than¦124775 (the)¦124777÷former¦124777 to¦124778=not¦124778 to¦124780_go¦124780 after¦124781 the¦124782_young¦124782÷men¦124782 whether¦124783 poor¦124785 and¦124786=if¦124786 rich¦124788.\n",
+    " my¦124771_daughter¦124771_of¦124771÷my¦124771 you¦124772_have¦124772_made¦124772_good¦124772 loyalty¦124773_of¦124773÷your¦124773 (the)¦124774÷latter¦124774 more¦124775_than¦124775 (the)¦124777÷former¦124777 to¦124778=not¦124778 to¦124780_go¦124780 after¦124781 the¦124782_young¦124782÷men¦124782 whether¦124783 poor¦124785 and¦124786=if¦124786 rich¦124788.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "Rut 3:11"
     },
-    "And¦124790=now¦124790 my¦124791_daughter¦124791_of¦124791÷Oh¦124791 do¦124792_not¦124792 fear¦124794 all¦124795 that¦124796 you¦124798_are¦124798_saying¦124798 I¦124799_will¦124799_do¦124799 for¦124801÷you¦124801 if/because¦124802 all¦124804_of¦124804 ",
+    "And¦124790=now¦124790 my¦124791_daughter¦124791_of¦124791÷my¦124791 do¦124792_not¦124792 fear¦124794 all¦124795 that¦124796 you¦124798_are¦124798_saying¦124798 I¦124799_will¦124799_do¦124799 for¦124801÷you¦124801 if/because¦124802 all¦124804_of¦124804 the¦124806_gate¦124806_of¦124806 my¦124807_people¦124807_of¦124807÷my¦124807 ",
     {
      "type": "char",
      "marker": "add",
@@ -1660,7 +1631,7 @@
       "+is¦124803"
      ]
     },
-    "_knowing¦124803 the¦124806_gate¦124806_of¦124806 my¦124807_people¦124807_of¦124807÷of¦124807 if/because¦124808_that¦124808 ",
+    "_knowing¦124803 if/because¦124808_that¦124808 ",
     {
      "type": "char",
      "marker": "add",
@@ -1744,7 +1715,7 @@
      "number": "14",
      "sid": "Rut 3:14"
     },
-    "And¦124852÷she¦124852_lay¦124852_down¦124852 feet¦124853_of¦124853÷his¦124853",
+    "And¦124852÷she¦124852_lay¦124852_down¦124852 mmm¦124853",
     {
      "type": "note",
      "marker": "f",
@@ -1855,7 +1826,7 @@
      ],
      "caller": "+"
     },
-    " until¦124859 the¦124861÷morning¦124861 and¦124862=she/it¦124862_arose¦124862 before¦124863",
+    " until¦124859 the¦124861÷morning¦124861 and¦124862=she/it¦124862_arose¦124862 in/on/at/with¦124863",
     {
      "type": "note",
      "marker": "f",
@@ -1878,7 +1849,7 @@
      ],
      "caller": "+"
     },
-    " he¦124865_recognized¦124865 anyone¦124866 untr DOM¦124867untr* his/its¦124869=neighbour¦124869 and¦124870=he/it¦124870_said¦124870 not¦124871 let¦124873_it¦124873_be¦124873_known¦124873 if/because¦124874_that¦124874 she¦124876_came¦124876 the¦124877=woman¦124877 the¦124878_threshing¦124878÷floor¦124878.\n",
+    " anyone¦124866 he¦124865_recognized¦124865 untr DOM¦124867untr* his/its¦124869=neighbour¦124869 and¦124870=he/it¦124870_said¦124870 not¦124871 let¦124873_it¦124873_be¦124873_known¦124873 if/because¦124874_that¦124874 the¦124877=woman¦124877 she¦124876_came¦124876 the¦124878_threshing¦124878÷floor¦124878.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1916,7 +1887,7 @@
       "+are¦124907"
      ]
     },
-    "_you¦124907 my¦124908_daughter¦124908_of¦124908÷Oh¦124908 and¦124909÷she¦124909_told¦124909 to/for¦124911=her/it¦124911 untr DOM¦124912untr* all¦124913 that¦124915 he¦124916_had¦124916_done¦124916 to/for¦124918=her/it¦124918 the¦124919=man¦124919.\n",
+    "_you¦124907 my¦124908_daughter¦124908_of¦124908÷my¦124908 and¦124909÷she¦124909_told¦124909 to/for¦124911=her/it¦124911 untr DOM¦124912untr* all¦124913 that¦124915 he¦124916_had¦124916_done¦124916 to/for¦124918=her/it¦124918 the¦124919=man¦124919.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1953,7 +1924,7 @@
      "number": "18",
      "sid": "Rut 3:18"
     },
-    "And¦124939=she/it¦124939_said¦124939 sit¦124940_down¦124940 my¦124941_daughter¦124941_of¦124941÷Oh¦124941 until¦124942 that¦124943 you¦124944÷will¦124944_know¦124944 how¦124945 will¦124946_it¦124946_fall¦124946_out¦124946 a¦124947_matter¦124947 if/because¦124948 not¦124949 he¦124950_will¦124950_be¦124950_at¦124950_peace¦124950 the¦124951=man¦124951 if/because¦124952 (if)¦124954 he¦124956_has¦124956_finished¦124956 the¦124957÷matter¦124957 the¦124958=day¦124958.\n"
+    "And¦124939=she/it¦124939_said¦124939 sit¦124940_down¦124940 my¦124941_daughter¦124941_of¦124941÷my¦124941 until¦124942 that¦124943 you¦124944÷will¦124944_know¦124944 how¦124945 a¦124947_matter¦124947 will¦124946_it¦124946_fall¦124946_out¦124946 if/because¦124948 not¦124949 the¦124951=man¦124951 he¦124950_will¦124950_be¦124950_at¦124950_peace¦124950 if/because¦124952 (if)¦124954 he¦124956_has¦124956_finished¦124956 the¦124957÷matter¦124957 the¦124958=day¦124958.\n"
    ]
   },
   {
@@ -1972,7 +1943,7 @@
      "number": "1",
      "sid": "Rut 4:1"
     },
-    "And¦124960÷Boˊaz¦124960 he¦124961_went¦124961_up¦124961 the¦124962÷gate¦124962 and¦124963=he/it¦124963_sat¦124963_down//remained//lived¦124963 there¦124964 and¦124965=see/lo/see¦124965 the¦124966÷kinsman-redeemer¦124966 ",
+    "And¦124960÷Boˊaz¦124960 he¦124961_went¦124961_up¦124961 the¦124962÷gate¦124962 and¦124963=he/it¦124963_sat¦124963_down//remained//lived¦124963 there¦124964 and¦124965=BEHOLD/LO/SEE¦124965 the¦124966÷kinsman-redeemer¦124966 ",
     {
      "type": "char",
      "marker": "add",
@@ -1980,7 +1951,7 @@
       "+was¦124967"
      ]
     },
-    "_passing¦124967_by¦124967 whom¦124968 he¦124969_had¦124969_spoken¦124969 Boˊaz¦124971 and¦124972=he/it¦124972_said¦124972 turn¦124973÷aside¦124973 sit¦124974 here¦124976 a¦124977_certain¦124977_one¦124977 a¦124978_certain¦124978_one¦124978 and¦124979÷he¦124979_turned¦124979_aside¦124979 and¦124980÷he¦124980_sat¦124980_down¦124980.\n",
+    "_passing¦124967_by¦124967 whom¦124968 Boˊaz¦124971 he¦124969_had¦124969_spoken¦124969 and¦124972=he/it¦124972_said¦124972 turn¦124973÷aside¦124973 sit¦124974 here¦124976 a¦124977_certain¦124977_one¦124977 a¦124978_certain¦124978_one¦124978 and¦124979÷he¦124979_turned¦124979_aside¦124979 and¦124980÷he¦124980_sat¦124980_down¦124980.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2002,7 +1973,7 @@
       "belonged¦124998"
      ]
     },
-    "_to¦124998÷our¦124998_of¦124998÷brother¦124998 to¦124999÷ʼElīmelek¦124999 Nāˊₒmī¦125001 she¦125000_has¦125000_sold¦125000 who¦125002÷she¦125002_returned¦125002 from¦125003÷the¦125003_region¦125003_of¦125003 Mōʼāⱱ¦125004.\n",
+    "_to¦124998÷brother¦124998_of¦124998÷our¦124998 to¦124999÷ʼElīmelek¦124999 Noˊₒmī¦125001 who¦125002÷she¦125002_returned¦125002 from¦125003÷the¦125003_region¦125003_of¦125003 Mōʼāⱱ¦125004 she¦125000_has¦125000_sold¦125000.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2025,7 +1996,7 @@
       "+those¦125013"
      ]
     },
-    "÷sitting¦125013 and¦125014÷before¦125014 the¦125015_elders¦125015_of¦125015 my¦125016_people¦125016_of¦125016÷of¦125016 if¦125017 you¦125019_will¦125019_redeem¦125019 redeem¦125020 and¦125021=if¦125021 not¦125023 he¦125024_will¦125024_redeem¦125024 tell¦125025 to/for¦125026=me¦125026 so¦125027÷that¦125027_I¦125027_may¦125027_know¦125027",
+    "÷sitting¦125013 and¦125014÷before¦125014 the¦125015_elders¦125015_of¦125015 my¦125016_people¦125016_of¦125016÷my¦125016 if¦125017 you¦125019_will¦125019_redeem¦125019 redeem¦125020 and¦125021=if¦125021 not¦125023 he¦125024_will¦125024_redeem¦125024 tell¦125025 to/for¦125026=me¦125026 and¦125027",
     {
      "type": "note",
      "marker": "f",
@@ -2071,7 +2042,7 @@
      "number": "5",
      "sid": "Rut 4:5"
     },
-    "And¦125039= Boˊaz¦125040 =he/it¦125039_said¦125039 in/on¦125041=day¦125041 you¦125043÷acquire¦125043 the¦125044=field¦125044 from¦125045÷the¦125045_hand¦125045_of¦125045 Nāˊₒmī¦125046 and¦125047÷from¦125047÷with¦125047 Rūt¦125048 the¦125049_Mōʼāⱱite¦125049÷",
+    "And¦125039= Boˊaz¦125040 =he/it¦125039_said¦125039 in/on¦125041=day¦125041 acquire¦125043÷you¦125043 the¦125044=field¦125044 from¦125045÷the¦125045_hand¦125045_of¦125045 Noˊₒmī¦125046 and¦125047÷from¦125047÷with¦125047 Rūt¦125048 the¦125049_Mōʼāⱱite¦125049÷",
     {
      "type": "char",
      "marker": "add",
@@ -2125,7 +2096,7 @@
      "number": "6",
      "sid": "Rut 4:6"
     },
-    "And¦125063=he/it¦125063_said¦125063 the¦125064÷kinsman-redeemer¦125064 not¦125065 I¦125066_am¦125066_able¦125066 mmm¦125067",
+    "And¦125063= the¦125064÷kinsman-redeemer¦125064 =he/it¦125063_said¦125063 not¦125065 I¦125066_am¦125066_able¦125066 mmm¦125067",
     {
      "type": "note",
      "marker": "f",
@@ -2163,7 +2134,7 @@
      "number": "7",
      "sid": "Rut 4:7"
     },
-    "And¦125090÷this¦125090 formerly¦125091 ",
+    "And¦125090÷this¦125090 formerly¦125091÷former¦125091_times¦125091 ",
     {
      "type": "char",
      "marker": "add",
@@ -2179,7 +2150,7 @@
       "ʼēl"
      ]
     },
-    "/(Israel)¦125092 on¦125093 the¦125095÷redemption¦125095 and¦125096÷on¦125096 the¦125098÷exchanging¦125098 to¦125099÷confirm¦125099 every¦125100_of¦125100 matter¦125102 anyone¦125104 he¦125103_drew¦125103_off¦125103 sandal¦125105_of¦125105÷his¦125105 and¦125106=he/it¦125106_gave¦125106 to¦125107÷his¦125107_of¦125107÷neighbour¦125107 and¦125108÷this¦125108 ",
+    "/(Israel)¦125092 on¦125093 the¦125095÷redemption¦125095 and¦125096÷on¦125096 the¦125098÷exchanging¦125098 to¦125099÷confirm¦125099 every¦125100_of¦125100 matter¦125102 anyone¦125104 he¦125103_drew¦125103_off¦125103 sandal¦125105_of¦125105÷his¦125105 and¦125106=he/it¦125106_gave¦125106 to¦125107÷neighbour¦125107_of¦125107÷his¦125107 and¦125108÷this¦125108 ",
     {
      "type": "char",
      "marker": "add",
@@ -2202,7 +2173,7 @@
      "number": "8",
      "sid": "Rut 4:8"
     },
-    "And¦125112=he/it¦125112_said¦125112 the¦125113÷kinsman-redeemer¦125113 to¦125114÷Boˊaz¦125114 acquire¦125115_",
+    "And¦125112= the¦125113÷kinsman-redeemer¦125113 =he/it¦125112_said¦125112 to¦125114÷Boˊaz¦125114 acquire¦125115_",
     {
      "type": "char",
      "marker": "add",
@@ -2241,7 +2212,7 @@
       "belonged¦125142"
      ]
     },
-    "_to¦125142÷Kilion¦125142 and¦125143÷Maḩlōn¦125143 from¦125144÷the¦125144_hand¦125144_of¦125144 Nāˊₒmī¦125145.\n",
+    "_to¦125142÷Kilion¦125142 and¦125143÷Maḩlōn¦125143 from¦125144÷the¦125144_hand¦125144_of¦125144 Noˊₒmī¦125145.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2264,7 +2235,7 @@
       "man¦125160"
      ]
     },
-    " over¦125161 inheritance¦125163_of¦125163÷his¦125163 and¦125164=not¦125164 the¦125167_name¦125167_of¦125167 it¦125166_will¦125166_be¦125166_cut¦125166_off¦125166 of¦125169÷the¦125169_dead¦125169_",
+    " over¦125161 inheritance¦125163_of¦125163÷his¦125163 and¦125164=not¦125164 the¦125167_name¦125167_of¦125167 the¦125169_dead¦125169_",
     {
      "type": "char",
      "marker": "add",
@@ -2272,7 +2243,7 @@
       "man¦125169"
      ]
     },
-    " from¦125170÷with¦125170 brothers¦125171_of¦125171÷his¦125171 and¦125172÷from¦125172÷the¦125172_gate¦125172_of¦125172 his¦125173_place¦125173_of¦125173÷of¦125173 ",
+    " it¦125166_will¦125166_be¦125166_cut¦125166_off¦125166 from¦125170÷with¦125170 brothers¦125171_of¦125171÷his¦125171 and¦125172÷from¦125172÷the¦125172_gate¦125172_of¦125172 his¦125173_place¦125173_of¦125173÷his¦125173 ",
     {
      "type": "char",
      "marker": "add",
@@ -2287,7 +2258,7 @@
      "number": "11",
      "sid": "Rut 4:11"
     },
-    "And¦125178= all¦125179_of¦125179 =they¦125178_said¦125178 the¦125181÷people¦125181 which¦125182 ",
+    "And¦125178= all¦125179_of¦125179 the¦125181÷people¦125181 which¦125182 ",
     {
      "type": "char",
      "marker": "add",
@@ -2295,7 +2266,7 @@
       "+was¦125184"
      ]
     },
-    "_at¦125184÷gate¦125184 and¦125185÷the¦125185÷elders¦125185 ",
+    "_at¦125184÷gate¦125184 and¦125185÷the¦125185÷elders¦125185 =they¦125178_said¦125178 ",
     {
      "type": "char",
      "marker": "add",
@@ -2319,7 +2290,7 @@
       "who¦125192÷is¦125192"
      ]
     },
-    "_about¦125192_to¦125192_come¦125192 into¦125193 house¦125195_of¦125195÷your¦125195 like¦125196÷Rāḩēl¦125196 and¦125198÷like¦125198÷Lēʼāh¦125198 who¦125199 they¦125200_built¦125200 the¦125201_two¦125201_of¦125201÷of¦125201_them¦125201 untr DOM¦125202untr* the¦125204_house¦125204_of¦125204 Yisrā",
+    "_about¦125192_to¦125192_come¦125192 into¦125193 house¦125195_of¦125195÷your¦125195 like¦125196÷Rāḩēl¦125196 and¦125198÷like¦125198÷Lēʼāh¦125198 who¦125199 the¦125201_two¦125201_of¦125201÷of¦125201_them¦125201 they¦125200_built¦125200 untr DOM¦125202untr* the¦125204_house¦125204_of¦125204 Yisrā",
     {
      "type": "char",
      "marker": "sup",
@@ -2364,7 +2335,7 @@
      "number": "14",
      "sid": "Rut 4:14"
     },
-    "And¦125255÷they¦125255_said¦125255 the¦125256÷women¦125256 to¦125257 Nāˊₒmī¦125259 ",
+    "And¦125255= the¦125256÷women¦125256 =they¦125255_said¦125255 to¦125257 Noˊₒmī¦125259 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2372,7 +2343,7 @@
       "YHWH¦125261"
      ]
     },
-    " ",
+    " who¦125262 not¦125263 he¦125264_has¦125264_caused¦125264_to¦125264_cease¦125264 to/for¦125265=you(fs)¦125265 a¦125266_kinsman-redeemer¦125266 the¦125267=day¦125267 ",
     {
      "type": "char",
      "marker": "add",
@@ -2380,7 +2351,7 @@
       "+be¦125260"
      ]
     },
-    "_blessed¦125260 who¦125262 not¦125263 he¦125264_has¦125264_caused¦125264_to¦125264_cease¦125264 to/for¦125265=you(fs)¦125265 a¦125266_kinsman-redeemer¦125266 the¦125267=day¦125267 his/its¦125269=name¦125269 and¦125268÷may¦125268_it¦125268_be¦125268_proclaimed¦125268 in¦125270÷Yisrā",
+    "_blessed¦125260 and¦125268= his/its¦125269=name¦125269 =may¦125268_it¦125268_be¦125268_proclaimed¦125268 in¦125270÷Yisrā",
     {
      "type": "char",
      "marker": "sup",
@@ -2418,7 +2389,7 @@
      "number": "16",
      "sid": "Rut 4:16"
     },
-    "And¦125294= Nāˊₒmī¦125295 =she/it¦125294_took¦125294 untr DOM¦125296untr* the¦125298÷child¦125298 and¦125299÷she¦125299÷placed¦125299_him¦125299 on¦125300÷her¦125300_of¦125300÷bosom¦125300 and¦125301=it¦125301_became¦125301 to¦125303=him/it¦125303 (into)¦125304_a¦125304÷nurse¦125304.\n",
+    "And¦125294= Noˊₒmī¦125295 =she/it¦125294_took¦125294 untr DOM¦125296untr* the¦125298÷child¦125298 and¦125299÷she¦125299÷placed¦125299_him¦125299 on¦125300÷bosom¦125300_of¦125300÷her¦125300 and¦125301=it¦125301_became¦125301 to¦125303=him/it¦125303 (into)¦125304_a¦125304÷nurse¦125304.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2433,7 +2404,7 @@
       "female¦125308"
      ]
     },
-    "÷neighbours¦125308 a¦125309_name¦125309 to¦125310=say¦125310 he¦125311_has¦125311_been¦125311_born¦125311 a¦125313_son¦125313 to¦125314÷Nāˊₒmī¦125314 and¦125315÷they¦125315_called¦125315 his/its¦125316=name¦125316 ˊŌⱱēd¦125317 he¦125318 ",
+    "÷neighbours¦125308 a¦125309_name¦125309 to¦125310=say¦125310 a¦125313_son¦125313 he¦125311_has¦125311_been¦125311_born¦125311 to¦125314÷Noˊₒmī¦125314 and¦125315÷they¦125315_called¦125315 his/its¦125316=name¦125316 ˊŌⱱēd¦125317 he¦125318 ",
     {
      "type": "char",
      "marker": "add",
@@ -2448,7 +2419,7 @@
      "number": "18",
      "sid": "Rut 4:18"
     },
-    "and¦125326=these¦125326 ",
+    "And¦125326=these¦125326 ",
     {
      "type": "char",
      "marker": "add",

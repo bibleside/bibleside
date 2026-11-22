@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:13 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "Yakōbos\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -1136,7 +1131,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦147405"
+      "&his¦147405"
      ]
     },
     "_message¦147405 not¦147406 is¦147407_stumbling¦147407, this¦147408 ",
@@ -1636,7 +1631,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^your¦147873"
+      "&your¦147873"
      ]
     },
     "_hands¦147873, sinners¦147874, and¦147875 purify¦147876 ",
@@ -1644,7 +1639,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^your¦147877"
+      "&your¦147877"
      ]
     },
     "_hearts¦147877, double-minded¦147878.\n",
@@ -1677,7 +1672,7 @@
       "master¦147900"
      ]
     },
-    ", and¦147901 he¦147902_will¦147902_be¦147902_exalting¦147902 you¦147903_all¦147903.\n",
+    ", and¦147901 he¦147902_will¦147902_be¦147902_elevating¦147902 you¦147903_all¦147903.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -1697,7 +1692,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦147912"
+      "&his¦147912"
      ]
     },
     "_brother¦147912 or¦147913 judging¦147915 the¦147916 brother¦147917 of¦147918_him¦147918, is¦147919_slandering¦147919 against¦147920_",

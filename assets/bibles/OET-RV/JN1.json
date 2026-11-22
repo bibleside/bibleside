@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "1JN",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.08"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.3"
    ]
   },
   {
@@ -63,14 +63,14 @@
    "type": "para",
    "marker": "mt2",
    "content": [
-    "The first letter\n"
+    "The first letter that we have,\n"
    ]
   },
   {
    "type": "para",
    "marker": "mt2",
    "content": [
-    "that we have written by\n"
+    "written by\n"
    ]
   },
   {
@@ -211,7 +211,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -236,14 +236,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 The Word of Life\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Introduction\n"
+    "/s1 Introduction; The Word of Life\n"
    ]
   },
   {
@@ -256,7 +249,7 @@
      "number": "1-3",
      "sid": "1JN 1:1-3"
     },
-    "We are reporting to you and testifying about what existed from the beginning¦151768:",
+    "We are reporting to you and testifying about what¦151765 existed from¦151767 the¦151768 beginning¦151768:",
     {
      "type": "note",
      "marker": "x",
@@ -283,10 +276,57 @@
      "type": "char",
      "marker": "bdit",
      "content": [
-      "Yeshua the messiah and son of God"
+      {
+       "type": "char",
+       "marker": "nd",
+       "content": [
+        "Yeshua¦151845"
+       ]
+      },
+      " ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦151845; Grk¦151845. Yesus¦151845)"
+       ]
+      },
+      " ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "the"
+       ]
+      },
+      " ",
+      {
+       "type": "char",
+       "marker": "nd",
+       "content": [
+        "messiah¦151846"
+       ]
+      },
+      " and son of God"
      ]
     },
-    ". We heard him, we saw him with our own eyes¦151774, and we touched¦151782 him with our own hands¦151780. Concerning the message¦151785 of life, we can also report and testify to you that that life was revealed",
+    ". We¦151770 heard¦151770 him, we¦151772 saw¦151772 him with¦151773 our ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "own"
+     ]
+    },
+    " eyes¦151774, and we touched¦151782 him with our ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "own"
+     ]
+    },
+    " hands¦151780. Concerning¦151783 the¦151784 message¦151785 of¦151787 life, we¦151794 can also report and¦151795 testify¦151796 to¦151799 you¦151799 that that life¦151801 was revealed",
     {
      "type": "note",
      "marker": "x",
@@ -316,14 +356,14 @@
       "he is"
      ]
     },
-    " the eternal life that was with the father and was revealed to us. We report what we’ve seen and what we’ve heard so that you all also can have fellowship with us, and our fellowship is with the father and with his son.\n",
+    " the¦151802 eternal¦151803 life that¦151804 was¦151805 with¦151806 the¦151807 father¦151808 and¦151809 was¦151810 revealed¦151810 to¦151811 us¦151811. We report what¦151812 we’ve¦151814 seen¦151814 and¦151815 what we’ve¦151816 heard¦151816 so that you all also can have¦151827 fellowship¦151826 with¦151828 us¦151829, and¦151833 our¦151835 fellowship¦151832 is¦151835 with¦151837 the¦151838 father¦151839 and¦151840 with¦151841 his¦151844 son¦151843.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "1JN 1:4"
     },
-    "We’re writing¦151849 all this so that our¦151855 joy¦151854 may be extended to you also.\n"
+    "We’re¦151850 writing¦151849 all this so that¦151852 our¦151855 joy¦151854 may¦151857 be¦151857 extended to you also¦151847.\n"
    ]
   },
   {
@@ -337,28 +377,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Living in the Light\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Fellowship, obedience, and forgiveness\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 God Is Light\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Walking in the light\n"
+    "/s1 God Is Light; Living in the Light; Fellowship, obedience, and forgiveness; Walking in the light\n"
    ]
   },
   {
@@ -371,7 +390,7 @@
      "number": "5",
      "sid": "1JN 1:5"
     },
-    "This is the message¦151869 that¦151870 we heard¦151871 from him and which¦151870 we are declaring¦151875 to you all: ",
+    "This¦151862 is¦151861 the¦151863 message¦151869 that¦151870 we¦151871 heard¦151871 from¦151872 him¦151873 and¦151874 which¦151870 we¦151875 are¦151875 declaring¦151875 to¦151877 you¦151877 all¦151877: ",
     {
      "type": "char",
      "marker": "nd",
@@ -379,21 +398,21 @@
       "God¦151880"
      ]
     },
-    " is light¦151881 and there is no darkness¦151884 in him—none at all.\n",
+    " is¦151882 light¦151881 and¦151883 there is no darkness¦151884 in¦151885 him¦151886—none at all.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "1JN 1:6"
     },
-    "If we say¦151894 that we and him¦151899 are relating well together and yet we’re walking¦151904 in the darkness¦151903, then we’re lying¦151905 and not living the truth¦151911.\n",
+    "If¦151892 we¦151894 say¦151894 that¦151895 we¦151897 and him¦151899 are relating well together and¦151900 yet¦151900 we’re¦151904 walking¦151904 in¦151901 the¦151902 darkness¦151903, then we’re¦151905 lying¦151905 and¦151906 not¦151907 living the¦151910 truth¦151911.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "1JN 1:7"
     },
-    "But¦151928 if we’re walking¦151917 in the light, just like he walks in the light, then we’ll get along well with each other, and his¦151935 son ",
+    "But¦151913 if¦151912 we’re¦151917 walking¦151917 in¦151914 the¦151915 light¦151916, just like¦151918 he¦151919 walks in¦151921 the¦151922 light¦151923, then we’ll¦151925 get along well with¦151926 each other, and¦151928 his son¦151934 ",
     {
      "type": "char",
      "marker": "nd",
@@ -401,7 +420,31 @@
       "Yeshua’s¦151931"
      ]
     },
-    " blood¦151930 is removing the consequences of all our sins.\n"
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus’¦151931; Grk¦151931. Yesus’¦151931)"
+     ]
+    },
+    " blood¦151930 is removing the¦151933 consequences of¦151935 all¦151939 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&our"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#sins¦151940"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -414,7 +457,7 @@
      "number": "8",
      "sid": "1JN 1:8"
     },
-    "If we say¦151942 that we don’t¦151945 have any sin¦151944, then we’re ",
+    "If¦151941 we¦151942 say¦151942 that¦151943 we¦151946 don’t¦151945 have¦151946 any sin¦151944, then we’re¦151949 ",
     {
      "type": "char",
      "marker": "add",
@@ -422,7 +465,7 @@
       "just"
      ]
     },
-    " fooling ourselves¦151947 and haven’t embraced the truth¦151952.\n",
+    " fooling ourselves¦151947 and¦151950 haven’t embraced the¦151951 truth¦151952.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -433,17 +476,33 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "But¦151966"
+      "But"
      ]
     },
-    " if we admit our sins, Yeshua is trustworthy and totally sinless, and he will forgive¦151969 us for our sins and remove all of our guilt and consequences.\n",
+    " if¦151959 we¦151960 admit our sins¦151962, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦151965"
+     ]
+    },
+    " is¦151965 trustworthy¦151964 and totally sinless, and he¦151969 will forgive¦151969 us for our¦151971 sins¦151972 and¦151974 remove all¦151979 of our guilt and consequences.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "1JN 1:10"
     },
-    "If we say¦151982 that we haven’t sinned¦151985, then we’re making¦151987 a liar out of Yeshua and we haven’t internalised his¦151992 message¦151991.\n"
+    "If¦151981 we¦151982 say¦151982 that¦151983 we¦151985 haven’t sinned¦151985, then we’re¦151987 making¦151987 a¦151986 liar¦151986 out of ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua"
+     ]
+    },
+    " and¦151989 we haven’t internalised his¦151992 message¦151991.\n"
    ]
   },
   {
@@ -463,14 +522,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Christ Our Advocate\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Christ Our Helper\n"
+    "/s1 Christ Our Advocate; Christ Our Helper\n"
    ]
   },
   {
@@ -483,7 +535,7 @@
      "number": "1",
      "sid": "1JN 2:1"
     },
-    "I am writing¦152000 to you all, my¦151998 treasured new believers, so that you might avoid sinning. If anyone¦152007 should sin, we have an advocate¦152009 ",
+    "I¦152000 am¦152000 writing¦152000 to¦152001 you¦152001 all¦152001, my¦151998 treasured new believers, so¦152005 that¦152002 you¦152004 might¦152004 avoid sinning¦152004. If¦152006 anyone¦152007 should¦152008 sin¦152008, we¦152010 have¦152010 an¦152009 advocate¦152009 ",
     {
      "type": "char",
      "marker": "add",
@@ -491,12 +543,20 @@
       "to help us relate to"
      ]
     },
-    " the father¦152013: ",
+    " the¦152012 father¦152013: ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "Yeshua¦152014"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦152014; Grk¦152014. Yesus¦152014)"
      ]
     },
     " the sinless ",
@@ -514,7 +574,15 @@
      "number": "2",
      "sid": "1JN 2:2"
     },
-    "and it’s him who is the atonement¦152019 for our sins—not just our sins, but¦152017 also the sins of the entire¦152036 world¦152038.\n"
+    "and¦152017 it’s him who is¦152020 the¦152019 atonement¦152019 for¦152022 our¦152025 sins¦152024—not¦152026 just our¦152029 sins¦152029, but¦152033 also¦152034 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≡the sins"
+     ]
+    },
+    " of the¦152037 entire¦152036 world¦152038.\n"
    ]
   },
   {
@@ -527,7 +595,7 @@
      "number": "3",
      "sid": "1JN 2:3"
     },
-    "We will know if we ",
+    "We¦152042 will¦152042 know¦152042 if we¦152045 ",
     {
      "type": "char",
      "marker": "add",
@@ -535,21 +603,53 @@
       "really"
      ]
     },
-    " know Yeshua if we obey his¦152050 teachings.\n",
+    " know¦152045 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦152046"
+     ]
+    },
+    " if¦152047 we¦152052 obey his¦152050 teachings.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "1JN 2:4"
     },
-    "If someone says that they know Yeshua but¦152058 don’t¦152062 do what he taught, that person is a liar and hasn’t internalised the truth¦152070.\n",
+    "If someone says¦152054 that¦152055 they know¦152056 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦152057"
+     ]
+    },
+    " but¦152058 don’t¦152062 do what he taught, that person is¦152065 a¦152064 liar¦152064 and¦152066 hasn’t internalised the¦152069 truth¦152070.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "1JN 2:5"
     },
-    "However the person who obeys Yeshua’s teaching demonstrates that God’s love¦152086 has truly¦152082 been planted in them. We know that we are ",
+    "However the¦152080 person who obeys ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua’s¦152079"
+     ]
+    },
+    " teaching demonstrates that ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦152088"
+     ]
+    },
+    " love¦152086 has¦152089 truly¦152082 been¦152089 planted in¦152083 them. We¦152092 know¦152092 that¦152093 we¦152096 are¦152096 ",
     {
      "type": "char",
      "marker": "add",
@@ -557,14 +657,37 @@
       "alive"
      ]
     },
-    " in Yeshua if\n",
+    " in¦152094 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦152095"
+     ]
+    },
+    " if\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "1JN 2:6"
     },
-    "we claim to live in him¦152100 and then live our lives like he lived.\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%we"
+     ]
+    },
+    " claim to¦152101 live in¦152099 him¦152100 and¦152106 then live ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%our¦152107"
+     ]
+    },
+    " lives like¦152103 he lived.\n"
    ]
   },
   {
@@ -578,14 +701,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 A New Commandment\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 The New Command\n"
+    "/s1 A New Commandment; The New Command\n"
    ]
   },
   {
@@ -598,6 +714,15 @@
      "number": "7",
      "sid": "1JN 2:7"
     },
+    "Dear¦152110 friends¦152110, I’m¦152115 not¦152112 writing¦152115 a¦152113 new¦152114 rule for you¦152116 all¦152116, but¦152117 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "reminding you"
+     ]
+    },
+    " of an¦152118 old¦152119 rule that¦152120 you¦152121 had¦152121 from¦152122 the¦152123 beginning¦152123. This old¦152127 rule is¦152128 the¦152129 message¦152130 that¦152131 you¦152132 all¦152132 heard¦152132.",
     {
      "type": "note",
      "marker": "x",
@@ -619,30 +744,38 @@
      ],
      "caller": "+"
     },
-    "Dear friends, I’m not writing¦152115 a new rule for you all, but ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "reminding you"
-     ]
-    },
-    " of an old rule that you had from the beginning¦152123. This old rule is the message¦152130 that you all heard¦152132.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "1JN 2:8"
     },
-    "Then again I ",
+    "Then again I¦152138 ",
     {
      "type": "char",
      "marker": "em",
      "content": [
-      "am"
+      "am¦152138"
      ]
     },
-    " writing¦152138 a new rule to you—a rule which¦152140 is true in Yeshua and in you all, because¦152151 the darkness¦152154 is already disappearing and the true light¦152158 is already shining¦152163.\n"
+    " writing¦152138 a¦152136 new¦152137 rule to¦152139 you¦152139—a rule which¦152140 is¦152141 true¦152142 in¦152144 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦152145"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦152145; Grk. Yesus)"
+     ]
+    },
+    " and¦152147 in¦152148 you¦152149 all¦152149, because¦152151 the¦152152 darkness¦152154 is¦152155 already disappearing and¦152156 the¦152159 true¦152161 light¦152158 is¦152163 already¦152162 shining¦152163.\n"
    ]
   },
   {
@@ -655,7 +788,7 @@
      "number": "9",
      "sid": "1JN 2:9"
     },
-    "Anyone who says they’re in the light¦152168 but¦152170 hates a fellow believer,",
+    "Anyone who says¦152165 they’re in¦152166 the¦152167 light¦152168 but¦152170 hates¦152174 a fellow believer,",
     {
      "type": "note",
      "marker": "f",
@@ -672,27 +805,27 @@
        "type": "char",
        "marker": "ft",
        "content": [
-        "Literally ‘our brothers’. In this letter that term could refer to ‘siblings’, ‘fellow believers’, or ‘fellow citizens’ (or Yohan could be alternating between two or three of them in his mind as he wrote). After considering all the uses of the term in chapters 2–5, we have taken ‘fellow believers’ as being more likely, i.e., the context would often seem to be focussing on believers (even though most of us would want to apply 3:16–17 to also include ‘fellow citizens’)."
+        "Literally ‘our brothers’. In this letter that term could refer to ‘siblings’, ‘fellow believers’, or ‘fellow citizens’ (or Yohan could be alternating between two or three of them in his mind as he wrote). After considering all the uses of the term in chapters 2–5, we have taken ‘fellow believers’ as being more likely, i.e., the context would often seem to be focusing on believers (even though most of us would want to apply 3:16–17 to also include ‘fellow citizens’)."
        ]
       }
      ],
      "caller": "+"
     },
-    " is still in the darkness¦152180.\n",
+    " is¦152181 still in¦152178 the¦152179 darkness¦152180.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "1JN 2:10"
     },
-    "It’s the person that loves their fellow believers who is living in the light¦152191 and¦152193 doesn’t offend¦152194 anyone.\n",
+    "It’s the¦152184 person that loves¦152185 their fellow believers who is¦152192 living in¦152189 the¦152190 light¦152191 and¦152193 doesn’t offend¦152194 anyone.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "1JN 2:11"
     },
-    "But¦152211 the person who hates a fellow believer is living and walking¦152215 in the darkness and doesn’t know where¦152219 they’re going¦152220 because¦152221 they’re blinded¦152224.\n"
+    "But¦152202 the¦152201 person who hates¦152203 a fellow believer is¦152210 living and¦152211 walking¦152215 in¦152212 the¦152213 darkness¦152214 and¦152216 doesn’t know¦152218 where¦152219 they’re going¦152220 because¦152221 they’re blinded¦152224.\n"
    ]
   },
   {
@@ -712,14 +845,38 @@
      "number": "12",
      "sid": "1JN 2:12"
     },
-    "I’m writing¦152229 to you new believers because your sins¦152237 have been forgiven¦152233 because of Yeshua authority.\n",
+    "I’m¦152229 writing¦152229 to¦152230 you¦152230 new believers because¦152232 your¦152236 sins¦152237 have¦152233 been¦152233 forgiven¦152233 because¦152238 of¦152238 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦152241"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦152241; Grk. Yesus)"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈authority"
+     ]
+    },
+    ".\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "1JN 2:13"
     },
-    "I’m writing to you fathers¦152244 because you have known¦152246 the messiah from the beginning¦152249.",
+    "I’m¦152242 writing¦152242 to¦152243 you¦152243 fathers¦152244 because¦152245 you¦152246 have¦152246 known¦152246 the¦152247 messiah from¦152248 the¦152249 beginning¦152249.",
     {
      "type": "note",
      "marker": "x",
@@ -748,7 +905,7 @@
      "number": "14",
      "sid": "1JN 2:14"
     },
-    "I wrote to you new believers because you have know the father¦152266. I wrote to you fathers¦152269 because you have known the messiah from the beginning¦152275.",
+    "I¦152260 wrote¦152260 to¦152261 you¦152261 new believers because¦152263 you¦152264 have¦152264 know¦152264 the¦152265 father¦152266. I¦152267 wrote¦152267 to¦152268 you¦152268 fathers¦152269 because¦152270 you¦152271 have¦152271 known¦152271 the¦152272 messiah from¦152274 the¦152275 beginning¦152275.",
     {
      "type": "note",
      "marker": "x",
@@ -757,7 +914,7 @@
        "type": "char",
        "marker": "xo",
        "content": [
-        "2:13: "
+        "2:14: "
        ]
       },
       {
@@ -770,7 +927,23 @@
      ],
      "caller": "+"
     },
-    " I wrote to you young¦152278 men¦152278 because you are strong¦152280 and God’s message¦152284 lives in you and you have overcome¦152291 the evil one.\n",
+    " I¦152276 wrote¦152276 to¦152277 you¦152277 young¦152278 men¦152278 because¦152279 you¦152281 are¦152281 strong¦152280 and¦152282 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦152286"
+     ]
+    },
+    " message¦152284 lives in¦152287 you¦152288 and¦152290 you¦152291 have¦152291 overcome¦152291 the¦152292 evil¦152293 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">one"
+     ]
+    },
+    ".\n",
     {
      "type": "para",
      "marker": "rem",
@@ -790,21 +963,45 @@
      "number": "15",
      "sid": "1JN 2:15"
     },
-    "Don’t be loving the world nor the things in the world. The father’s¦152314 love does not live in anyone¦152304 who loves the world\n",
+    "Don’t be¦152295 loving¦152295 the¦152296 world¦152297 nor¦152298 the¦152299 things in¦152300 the¦152301 world¦152302. The¦152312 father’s¦152314 love¦152311 does not¦152308 live in¦152315 anyone¦152304 who loves¦152305 the¦152306 world¦152307\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "1JN 2:16"
     },
-    "because everything that’s in the world, bodily desires and lusts and arrogant¦152334 living¦152336, is not from the father¦152341 but¦152327 from the world.\n",
+    "because¦152317 everything that’s¦152319 in¦152320 the¦152321 world¦152322, bodily desires¦152324 and¦152327 lusts and¦152332 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈arrogant¦152334"
+     ]
+    },
+    " living¦152336, is¦152338 not¦152337 from¦152339 the¦152340 father¦152341 but¦152342 from¦152343 the¦152344 world¦152345.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "1JN 2:17"
     },
-    "And the world¦152349 will come to an end along with the desire for it¦152354, but¦152356 the person obeying God’s desires will continue to live.\n"
+    "And¦152347 the¦152348 world¦152349 will ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈come to an end"
+     ]
+    },
+    " along with the¦152352 desire¦152353 for it¦152354, but¦152356 the person obeying ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦152361"
+     ]
+    },
+    " desires will continue¦152362 to live.\n"
    ]
   },
   {
@@ -818,28 +1015,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 The danger of false teaching\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Warning against Antichrists\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 The Enemy of Christ\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Warning Against Antichrists\n"
+    "/s1 The danger of false teaching; Warning against Antichrists; The Enemy of Christ\n"
    ]
   },
   {
@@ -852,14 +1028,14 @@
      "number": "18",
      "sid": "1JN 2:18"
     },
-    "New believers, it’s now the last times and what you¦152375 heard¦152375 about the false messiah coming¦152379 is now happening. Many false messiahs have already been around and that confirms that it’s now the last times.\n",
+    "New believers, it’s¦152372 now the¦152367 last¦152367 times and¦152373 what you¦152375 heard¦152375 about the¦152378 false messiah coming¦152379 is now¦152381 happening. Many¦152383 false¦152382 messiahs¦152382 have¦152384 already been¦152386 around and that confirms that it’s¦152391 now the¦152389 last¦152389 times.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "19",
      "sid": "1JN 2:19"
     },
-    "They came¦152394 from our¦152398 group, but they were never truly part of us because¦152401 if they were, they would have stayed with us. But they left¦152394 us so it would be revealed¦152412 that they’re not part of us.\n"
+    "They¦152394 came¦152394 from¦152392 our group, but¦152395 they¦152397 were¦152397 never truly part of¦152398 us¦152399 because¦152401 if¦152400 they¦152405 were¦152405, they¦152406 would¦152407 have¦152406 stayed¦152406 with¦152408 us¦152409. But¦152410 they¦152412 left us so it would be¦152412 revealed¦152412 that¦152413 they’re¦152415 not¦152414 part of¦152417 us¦152418.\n"
    ]
   },
   {
@@ -872,7 +1048,7 @@
      "number": "20",
      "sid": "1JN 2:20"
     },
-    "But you all have received the spirit",
+    "But¦152419 you¦152420 all¦152420 have¦152422 received the¦152421 spirit",
     {
      "type": "note",
      "marker": "f",
@@ -895,7 +1071,7 @@
      ],
      "caller": "+"
     },
-    " from the chosen messiah",
+    " from¦152423 the¦152424 chosen messiah",
     {
      "type": "note",
      "marker": "f",
@@ -918,7 +1094,7 @@
      ],
      "caller": "+"
     },
-    " and¦152419 you all know all about it.",
+    " and¦152426 you¦152427 all¦152427 know¦152427 all¦152429 about it.",
     {
      "type": "note",
      "marker": "f",
@@ -948,7 +1124,7 @@
      "number": "21",
      "sid": "1JN 2:21"
     },
-    "I didn’t¦152430 write to you all because you don’t¦152430 know the truth, but¦152442 because you have known the truth and any falsehood¦152445 is not part of it.\n"
+    "I¦152431 didn’t¦152430 write¦152431 to¦152432 you¦152432 all¦152432 because¦152433 you¦152435 don’t¦152434 know¦152435 the¦152436 truth¦152437, but¦152438 because¦152439 you¦152440 have¦152440 known¦152440 the truth and¦152442 any¦152444 falsehood¦152445 is¦152450 not¦152449 part of¦152446 it.\n"
    ]
   },
   {
@@ -965,18 +1141,34 @@
      "type": "char",
      "marker": "nd",
      "content": [
-      "Anyone¦152465"
+      "Anyone"
      ]
     },
-    " who teaches that ",
+    " who¦152451 teaches that¦152459 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "Yeshua¦152460"
      ]
     },
-    " is not the messiah is a liar. And ",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦152460; Grk¦152460. Yesus¦152460)"
+     ]
+    },
+    " is¦152462 not¦152461 the¦152464 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "messiah¦152465"
+     ]
+    },
+    " is¦152467 a liar¦152454. And ",
     {
      "type": "char",
      "marker": "nd",
@@ -984,14 +1176,22 @@
       "anyone¦152465"
      ]
     },
-    " who disowns the father¦152474 and¦152475 the son is a false messiah.\n",
+    " who disowns¦152471 the¦152473 father¦152474 and¦152475 the¦152476 son¦152477 is a false messiah.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "23",
      "sid": "1JN 2:23"
     },
-    "Anyone who disowns¦152480 the son, doesn’t know the father either—only those who confess¦152488 the son know the father\n"
+    "Anyone who disowns¦152480 the¦152481 son¦152482, doesn’t know the¦152484 father¦152485 either—only ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#those"
+     ]
+    },
+    " who confess¦152488 the¦152489 son¦152490 know the¦152492 father¦152493\n"
    ]
   },
   {
@@ -1004,14 +1204,22 @@
      "number": "24",
      "sid": "1JN 2:24"
     },
-    "What you all heard from the beginning, that’s what you should¦152504 hold to. If the message that you heard from the beginning remains in you, then you also will remain in the son and in the father¦152524,\n",
+    "What¦152497 you¦152498 all¦152498 heard¦152498 from¦152500 the¦152501 beginning¦152501, that’s what you¦152503 should hold to. If¦152505 the message that you heard¦152513 from¦152511 the¦152512 beginning¦152512 remains in you, then you also¦152514 will¦152525 remain¦152525 in¦152516 the¦152517 son¦152519 and¦152520 in¦152521 the¦152522 father¦152524,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "25",
      "sid": "1JN 2:25"
     },
-    "and¦152526 in that¦152531 case, what he promised¦152533 us is to live forever.\n"
+    "and¦152526 in that¦152531 case, what he¦152532 promised¦152533 us¦152535 is to¦152535 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈live¦152537"
+     ]
+    },
+    " forever¦152539.\n"
    ]
   },
   {
@@ -1024,14 +1232,38 @@
      "number": "26",
      "sid": "1JN 2:26"
     },
-    "I wrote¦152542 these¦152540 things to you all concerning¦152544 those who would mislead¦152546 you.\n",
+    "I¦152542 wrote¦152542 these¦152540 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">things"
+     ]
+    },
+    " to¦152543 you¦152543 all¦152543 concerning¦152544 those who would mislead¦152546 you¦152547.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "27",
      "sid": "1JN 2:27"
     },
-    "But¦152548 for you, the spirit that you received¦152554 from Yeshua remains in you all and so you don’t¦152563 need anyone¦152567 else to teach you because his¦152575 spirit teaches you about everything. The spirit teaches truth and not lies, and since you were taught¦152593 by the spirit then¦152548 you are remaining in Yeshua.\n",
+    "But¦152548 for you¦152549, the¦152550 spirit that¦152553 you¦152554 received¦152554 from¦152555 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦152556"
+     ]
+    },
+    " remains¦152557 in¦152558 you¦152560 all¦152560 and¦152562 so you¦152565 don’t¦152563 need¦152564 anyone¦152567 else to teach¦152568 you¦152570 because his¦152575 spirit teaches¦152578 you¦152579 about¦152580 everything. The spirit teaches truth¦152583 and¦152586 not¦152587 lies¦152589, and¦152591 since you were taught¦152593 by the spirit then you are¦152595 remaining¦152595 in¦152597 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦152598"
+     ]
+    },
+    ".\n",
     {
      "type": "para",
      "marker": "rem",
@@ -1051,7 +1283,14 @@
      "number": "28",
      "sid": "1JN 2:28"
     },
-    "So¦152599 now you new believers, remain¦152602 in him so that when he is revealed¦152608, we can have boldness¦152611 and¦152599 not be ashamed¦152614 of him when he comes ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦152599"
+     ]
+    },
+    " now¦152600 you new believers, remain¦152602 in¦152603 him¦152604 so that¦152605 when he¦152608 is¦152608 revealed¦152608, we¦152609 can have¦152609 boldness¦152611 and¦152612 not¦152613 be¦152614 ashamed¦152614 of¦152615 him¦152616 when he comes¦152619 ",
     {
      "type": "char",
      "marker": "add",
@@ -1073,7 +1312,7 @@
      "number": "29",
      "sid": "1JN 2:29"
     },
-    "Because you know that he is sinless, you also know that anyone faithfully obeying his¦152637 teaching has been ",
+    "Because you¦152625 know¦152625 that¦152626 he¦152628 is¦152628 sinless, you¦152629 also¦152631 know¦152629 that¦152630 anyone faithfully obeying¦152636 his teaching has¦152639 been¦152639 ",
     {
      "type": "char",
      "marker": "add",
@@ -1081,7 +1320,7 @@
       "re"
      ]
     },
-    "born in him.\n"
+    "born¦152639 in him¦152638.\n"
    ]
   },
   {
@@ -1101,21 +1340,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Children of God\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 How Christians live together\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Living as Children of God\n"
+    "/s1 How Christians live together; Living as Children of God\n"
    ]
   },
   {
@@ -1128,6 +1353,15 @@
      "number": "1",
      "sid": "1JN 3:1"
     },
+    "Consider¦152641 the amazing love¦152643 that the¦152648 father¦152649 has¦152644 given¦152644 to¦152647 us¦152647 in¦152650 order¦152650 that¦152650 we¦152653 can be¦152653 called¦152653 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦152652"
+     ]
+    },
+    " children¦152651,",
     {
      "type": "note",
      "marker": "x",
@@ -1149,21 +1383,84 @@
      ],
      "caller": "+"
     },
-    "Consider the amazing live that the father¦152649 has given¦152644 to us in order¦152650 that we can be called¦152653 God’s children¦152651, and indeed we are.\n",
+    " and¦152654 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "indeed"
+     ]
+    },
+    " we¦152655 are¦152655.",
+    {
+     "type": "note",
+     "marker": "f",
+     "content": [
+      " ",
+      {
+       "type": "char",
+       "marker": "fr",
+       "content": [
+        "3:1 "
+       ]
+      },
+      {
+       "type": "char",
+       "marker": "ft",
+       "content": [
+        "‘and ",
+        {
+         "type": "char",
+         "marker": "add",
+         "content": [
+          "indeed"
+         ]
+        },
+        " we are’ is missing from later manuscripts (and hence is omitted in some translations—there are more later copies than early ones and some scholars give more importance to that fact)."
+       ]
+      }
+     ],
+     "caller": "+"
+    },
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "1JN 3:2"
     },
-    "Dear friends we are God’s children¦152670 now, but¦152673 it’s not yet revealed what we will become. We know that when Yeshua is revealed, we will be similar¦152683 to him because¦152686 then we’ll be seeing¦152687 him exactly as he is.\n",
+    "Dear¦152668 friends¦152668 we¦152672 are¦152672 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦152671"
+     ]
+    },
+    " children¦152670 now¦152669, but¦152673 it’s not¦152674 yet¦152674 revealed¦152675 what¦152676 we¦152677 will¦152677 become. We¦152678 know¦152678 that¦152680 when ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦152682"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦152682; Grk. Yesus)"
+     ]
+    },
+    " is¦152682 revealed¦152682, we¦152685 will¦152685 be¦152685 similar¦152683 to¦152684 him¦152684 because¦152686 then we’ll¦152687 be¦152687 seeing¦152687 him¦152688 exactly as¦152689 he¦152690 is¦152690.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "1JN 3:3"
     },
-    "Everyone who trusts their future to him¦152699 needs to purify¦152700 themself just like he is pure.\n"
+    "Everyone¦152692 who trusts¦152696 their future to him¦152699 needs to purify¦152700 themself just¦152697 like¦152702 he is¦152705 pure¦152704.\n"
    ]
   },
   {
@@ -1176,13 +1473,22 @@
      "number": "4",
      "sid": "1JN 3:4"
     },
-    "Everyone¦152706 who regularly sins is demonstrating lawlessness, and sin is lawlessness.\n",
+    "Everyone¦152706 who regularly sins¦152710 is¦152714 demonstrating lawlessness¦152713, and¦152715 sin¦152717 is¦152718 lawlessness¦152721.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "1JN 3:5"
     },
+    "You¦152723 all¦152723 know¦152723 that ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua"
+     ]
+    },
+    " was¦152727 revealed¦152727 in¦152728 order¦152728 to take¦152732 away¦152732 sins¦152730,",
     {
      "type": "note",
      "marker": "x",
@@ -1204,14 +1510,30 @@
      ],
      "caller": "+"
     },
-    "You all know that Yeshua was revealed¦152727 in order¦152728 to take¦152732 away sins¦152730, and¦152733 there’s no sin¦152734 in him¦152736.\n",
+    " and¦152733 there’s no sin¦152734 in¦152735 him¦152736.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "1JN 3:6"
     },
-    "Everyone¦152741 who remains¦152745 in him doesn’t sin—everyone¦152748 who keeps sinning has neither¦152751 really seen¦152752 Yeshua nor known¦152755 him.\n"
+    "Everyone¦152741 who remains¦152745 in¦152743 him¦152744 doesn’t sin¦152747—everyone¦152748 who keeps sinning¦152750 has¦152752 neither¦152751 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "really"
+     ]
+    },
+    " seen¦152752 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦152753"
+     ]
+    },
+    " nor¦152754 known¦152755 him¦152756.\n"
    ]
   },
   {
@@ -1224,14 +1546,14 @@
      "number": "7",
      "sid": "1JN 3:7"
     },
-    "So new believers, don’t let anyone¦152759 deceive¦152762 you: the person faithfully obeying Yeshua’s teaching will be declared not guilty just as he is not guilty.\n",
+    "So new believers, don’t let¦152762 anyone¦152759 deceive¦152762 you¦152763: the person faithfully obeying¦152767 Yeshua’s teaching will be¦152769 declared not guilty just as¦152770 he is¦152773 not guilty.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "1JN 3:8"
     },
-    "Anyone who regularly sins belongs to the devil, because¦152783 the devil has been sinning¦152788 from the beginning¦152785.\n"
+    "Anyone who regularly sins¦152778 belongs to the¦152780 devil¦152781, because¦152783 the¦152786 devil¦152787 has been¦152788 sinning¦152788 from¦152784 the¦152785 beginning¦152785.\n"
    ]
   },
   {
@@ -1244,7 +1566,7 @@
      "number": "9",
      "sid": "1JN 3:9"
     },
-    "Everyone¦152802 who’s been ",
+    "Everyone¦152802 who’s been¦152804 ",
     {
      "type": "char",
      "marker": "add",
@@ -1252,7 +1574,29 @@
       "re"
      ]
     },
-    "born in God, doesn’t regularly sin because God’s seed ",
+    "born¦152804 in ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦152807"
+     ]
+    },
+    ", doesn’t regularly sin¦152808 because¦152811 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "@God’s"
+       ]
+      }
+     ]
+    },
+    " seed¦152812 ",
     {
      "type": "char",
      "marker": "add",
@@ -1260,7 +1604,7 @@
       "of life"
      ]
     },
-    " remains¦152816 in them and that¦152803 person isn’t¦152809 able to sin because they have been ",
+    " remains¦152816 in¦152814 them and¦152817 that¦152803 person isn’t¦152818 able¦152819 to¦152820 sin¦152820 because¦152821 they have¦152825 been¦152825 ",
     {
      "type": "char",
      "marker": "add",
@@ -1268,14 +1612,38 @@
       "re"
      ]
     },
-    "born in God.\n",
+    "born¦152825 in ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦152824"
+     ]
+    },
+    ".\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "1JN 3:10"
     },
-    "You can distinguish God’s children and the devil’s¦152838 children like this: everyone¦152840 who doesn’t faithfully obey Yeshua’s teaching or doesn’t love their fellow believers, that¦152841 person doesn’t belong to God.\n"
+    "You can distinguish ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s"
+     ]
+    },
+    " children and the¦152837 devil’s¦152838 children like this¦152827: everyone¦152840 who doesn’t faithfully obey Yeshua’s teaching or doesn’t love¦152854 their fellow believers, that¦152841 person doesn’t belong to ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦152850"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -1283,13 +1651,6 @@
    "marker": "s1",
    "content": [
     "Demonstrate your love for each other\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Love one another\n"
    ]
   },
   {
@@ -1309,6 +1670,7 @@
      "number": "11",
      "sid": "1JN 3:11"
     },
+    "Yes, this¦152859 is¦152860 the¦152861 message¦152863 that¦152864 you¦152865 all¦152865 heard¦152865 from¦152866 the¦152867 beginning¦152867: to be¦152869 loving¦152869 each other",
     {
      "type": "note",
      "marker": "x",
@@ -1330,14 +1692,30 @@
      ],
      "caller": "+"
     },
-    "Yes, this is the message¦152863 that you¦152865 all heard¦152865 from the beginning¦152867: to be loving¦152869 each other—\n",
+    "—\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "1JN 3:12"
     },
-    "not living like Cain¦152873 who belonged to the evil one and¦152883 went on to murder his brother.",
+    "not¦152871 living like¦152872 Kayin¦152873 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Cain¦152873)"
+     ]
+    },
+    " who belonged to the¦152875 evil¦152876 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">one"
+     ]
+    },
+    " and¦152878 went on to murder his brother¦152881.",
     {
      "type": "note",
      "marker": "x",
@@ -1359,12 +1737,20 @@
      ],
      "caller": "+"
     },
-    " And why did he kill him? Because¦152888 his own actions were evil, but¦152883 his brother ",
+    " And¦152883 why did he¦152886 kill him¦152887? Because¦152888 his¦152891 own actions¦152890 were¦152893 evil¦152892, but¦152895 his brother¦152897 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "Hevel/Abel"
+      "Hevel"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Abel)"
      ]
     },
     " followed God’s instructions.\n"
@@ -1380,13 +1766,22 @@
      "number": "13",
      "sid": "1JN 3:13"
     },
-    "And friends, don’t be surprised if the world¦152909 hates you¦152907.\n",
+    "And friends, don’t¦152901 be¦152902 surprised if¦152905 the¦152908 world¦152909 hates¦152906 you¦152907.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "1JN 3:14"
     },
+    "We¦152910 know¦152911 that¦152912 we¦152913 have¦152913 transferred from¦152915 death¦152917 to¦152918 life¦152920 because¦152921 we¦152922 are¦152922 loving¦152922 our¦152923 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈fellow¦152924 believers¦152924"
+     ]
+    },
+    ". Anyone who doesn’t love¦152928 others is¦152931 stuck in¦152932 death¦152934.",
     {
      "type": "note",
      "marker": "x",
@@ -1408,21 +1803,21 @@
      ],
      "caller": "+"
     },
-    "We know that we have transferred from death to life because¦152921 we are loving our fellow¦152924 believers¦152924. Anyone who doesn’t love others is stuck in death.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "1JN 3:15"
     },
-    "Everyone¦152935 who hates another person is a murderer, and¦152944 you¦152945 all know that¦152936 murderers don’t¦152949 have eternal¦152952 life¦152951 in them.\n",
+    "Everyone¦152935 who hates¦152937 another person is¦152943 a¦152942 murderer¦152942, and¦152944 you¦152945 all¦152945 know¦152945 that¦152946 murderers¦152948 don’t¦152949 have¦152950 eternal¦152952 life¦152951 in¦152953 them.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "1JN 3:16"
     },
-    "We know about ",
+    "We¦152959 know¦152959 about ",
     {
      "type": "char",
      "marker": "add",
@@ -1430,21 +1825,61 @@
       "real"
      ]
     },
-    " love¦152961 because¦152962 we saw that Yeshua gave up his¦152968 life¦152967 for us, and we should give up our lives¦152977 for our fellow¦152975 believers¦152975.\n",
+    " love¦152961 because¦152962 we saw that¦152963 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus; Grk. Yesus)"
+     ]
+    },
+    " gave up his life¦152967 for¦152964 us¦152965, and¦152970 we¦152971 should¦152972 give up our¦152976 lives¦152977 for¦152973 our¦152974 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈fellow¦152975 believers¦152975"
+     ]
+    },
+    ".\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "1JN 3:17"
     },
-    "But¦152988 anyone who’s enjoying being alive and notices that a fellow believer is in need yet shuts that other believer’s needs out of their conscience, how can God’s love¦153004 be living¦152985 in that person?\n",
+    "But¦152981 anyone¦152980 who’s enjoying being¦152983 alive¦152985 and¦152988 notices that a fellow believer is¦152989 in need¦152993 yet shuts¦152996 that other believer’s needs out of¦152999 their conscience, how¦153002 can ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦153006"
+     ]
+    },
+    " love¦153004 be living¦152985 in¦153008 that person?\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "18",
      "sid": "1JN 3:18"
     },
-    "So you new believers, don’t¦153012 just proclaim that you’re loving¦153013 people, but¦153019 actually demonstrate it in actions and¦153022 in fact.\n",
+    "So you new believers, don’t¦153012 just declare that ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you’re¦153013"
+     ]
+    },
+    " loving¦153013 people, but¦153019 actually demonstrate it in¦153020 actions¦153021 and¦153022 in¦153023 fact.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -1458,7 +1893,15 @@
      "number": "19",
      "sid": "1JN 3:19"
     },
-    "That’s how we’ll know that the truth¦153032 really is in us.\n"
+    "That’s how we’ll¦153028 know¦153028 that¦153029 the¦153031 truth¦153032 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "really"
+     ]
+    },
+    " is¦153038 in us¦153043.\n"
    ]
   },
   {
@@ -1472,7 +1915,7 @@
      "number": "20",
      "sid": "1JN 3:20"
     },
-    "that if we are feeling condemned¦153047, ",
+    "that¦153044 if¦153046 we are¦153047 feeling condemned¦153047, ",
     {
      "type": "char",
      "marker": "nd",
@@ -1480,14 +1923,14 @@
       "God¦153056"
      ]
     },
-    " is greater¦153052 than our¦153048 feelings and he knows everything.\n",
+    " is¦153053 greater¦153052 than¦153052 our¦153059 feelings and¦153060 he¦153061 knows¦153061 everything.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "21",
      "sid": "1JN 3:21"
     },
-    "Then dear friends, if we’re not feeling condemned¦153073, we have confidence¦153077 in ",
+    "Then dear¦153065 friends¦153065, if¦153068 we’re not¦153072 feeling condemned¦153073, we¦153078 have¦153078 confidence¦153077 in ",
     {
      "type": "char",
      "marker": "nd",
@@ -1502,13 +1945,46 @@
      "number": "22",
      "sid": "1JN 3:22"
     },
-    "and confidence that whatever¦153084 we are requesting¦153087 from him, we will receive¦153089 it because¦153094 we are following his¦153097 instructions and doing the things that please¦153102 him.\n",
+    "and¦153083 confidence that whatever¦153084 we¦153087 are¦153087 requesting¦153087 from him, we¦153089 will¦153089 receive¦153089 it because¦153094 we¦153098 are¦153098 following his¦153097 instructions¦153096 and¦153100 doing¦153105 the¦153101 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">things that"
+     ]
+    },
+    " please¦153102 him¦153104.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "23",
      "sid": "1JN 3:23"
     },
+    "And¦153106 this¦153107 is¦153108 his command¦153110: We¦153114 need to believe¦153114 in¦153115 the¦153115 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈authority"
+     ]
+    },
+    " of¦153117 his son¦153118, ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "Yeshua¦153120 the¦153121 messiah¦153121"
+     ]
+    },
+    ", and¦153123 we¦153124 should¦153124 love¦153124 each other as¦153126 per the command that¦153112 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua"
+     ]
+    },
+    " gave¦153127 to¦153129 us¦153129.",
     {
      "type": "note",
      "marker": "x",
@@ -1530,22 +2006,14 @@
      ],
      "caller": "+"
     },
-    "And this is his command: We need to believe¦153114 in the authority of his son, Yeshua the ",
-    {
-     "type": "char",
-     "marker": "nd",
-     "content": [
-      "messiah¦153121"
-     ]
-    },
-    ", and¦153106 we should love each other as per the command that Yeshua gave to us.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "24",
      "sid": "1JN 3:24"
     },
-    "Anyone who follows his¦153135 commands¦153134 is living in him, and he is living in them and we have confirmation that he is living in us, because we have the ",
+    "Anyone who follows his¦153135 commands¦153134 is¦153138 living in¦153136 him¦153137, and¦153139 he¦153140 is living in¦153141 them and¦153143 we¦153146 have confirmation that¦153147 he¦153148 is¦153148 living in¦153149 us¦153150, because we have the¦153152 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1553,7 +2021,7 @@
       "spirit¦153153"
      ]
     },
-    " that he gave¦153156 to us.\n"
+    " that he¦153156 gave¦153156 to¦153155 us¦153155.\n"
    ]
   },
   {
@@ -1573,35 +2041,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Testing the Spirits\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Test the Spirits\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Discerning False Prophets\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 The True Spirit and the False Spirit\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Spirits of truth and error\n"
+    "/s1 Test the Spirits; Testing the Spirits; Discerning False Prophets; The True Spirit and the False Spirit; Spirits of truth and error\n"
    ]
   },
   {
@@ -1614,7 +2054,7 @@
      "number": "1",
      "sid": "1JN 4:1"
     },
-    "Dear friends, don’t¦153161 trust every¦153162 spirit¦153163, but¦153166 test them to determine whether¦153170 or not it’s from ",
+    "Dear¦153160 friends¦153160, don’t¦153161 trust¦153164 every¦153162 spirit¦153163, but¦153166 test them to determine whether¦153170 or not it’s¦153174 from ",
     {
      "type": "char",
      "marker": "nd",
@@ -1622,45 +2062,69 @@
       "God¦153173"
      ]
     },
-    ", because¦153175 many false¦153177 prophets¦153177 go around the world¦153181.\n",
+    ", because¦153175 many¦153176 false¦153177 prophets¦153177 go around the¦153180 world¦153181.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "1JN 4:2"
     },
-    "You all can find out whether or not a spirit is from God: If the spirit confesses¦153199 that ",
+    "You¦153184 all¦153184 can ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈find out"
+     ]
+    },
+    " whether or not a ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "spirit¦153189"
      ]
     },
-    " the ",
+    " is from God: If the spirit¦153197 confesses¦153199 that¦153198 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "messiah¦153202"
+      "Yeshua¦153201 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦153201; Grk¦153201. Yesus¦153201)"
+       ]
+      },
+      " the¦153202 messiah¦153202"
      ]
     },
-    " has come as a person, then it’s from God\n",
+    " has¦153205 come¦153205 as a person, then it’s from ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153209"
+     ]
+    },
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "1JN 4:3"
     },
-    "but if the spirit won’t¦153215 confess¦153216 ",
+    "but¦153211 if the spirit¦153213 won’t¦153215 confess¦153216 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "Yeshua¦153218"
      ]
     },
-    ", then¦153229 it’s not from ",
+    ", then it’s not¦153227 from ",
     {
      "type": "char",
      "marker": "nd",
@@ -1668,7 +2132,7 @@
       "God¦153226"
      ]
     },
-    " but rather it’s the spirit of the false messiah, whom you’ve heard¦153237 is coming¦153240, and¦153229 is now already¦153247 in the world¦153245.\n"
+    " but¦153229 rather it’s the¦153232 spirit¦153232 of¦153233 the¦153233 false messiah, whom you’ve¦153237 heard¦153237 is¦153240 coming¦153240, and¦153241 is now¦153242 already¦153247 in¦153243 the¦153244 world¦153245.\n"
    ]
   },
   {
@@ -1681,7 +2145,7 @@
      "number": "4",
      "sid": "1JN 4:4"
     },
-    "You new believers are in ",
+    "You¦153248 new believers are¦153252 in ",
     {
      "type": "char",
      "marker": "nd",
@@ -1689,7 +2153,7 @@
       "God¦153251"
      ]
     },
-    " and you have defeated the ",
+    " and¦153254 you¦153255 have¦153255 defeated¦153255 the ",
     {
      "type": "char",
      "marker": "add",
@@ -1697,21 +2161,53 @@
       "false prophets"
      ]
     },
-    ", because¦153257 the one in you is more powerful than the one in the world¦153267.\n",
+    ", because¦153257 the¦153260 one in¦153261 you¦153262 is¦153259 more powerful than¦153263 the¦153264 one in¦153265 the¦153266 world¦153267.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "1JN 4:5"
     },
-    "They belong to the world hence they¦153278 are speaking¦153278 from the world, and¦153279 the world is listening to them.\n",
+    "They¦153268 belong to the¦153270 world¦153271 hence they¦153278 are¦153278 speaking¦153278 from¦153275 the¦153276 world¦153277, and¦153279 the¦153280 world¦153281 is¦153283 listening¦153283 to them¦153282.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "1JN 4:6"
     },
-    "However we belong to God, and anyone who knows God listens to us, but¦153313 anyone who doesn’t belong to God can’t¦153296 accept what we’re saying. That’s how we can distinguish the spirit of truth¦153312 from deceptive¦153317 spirits.\n"
+    "However we¦153284 belong to ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153287"
+     ]
+    },
+    ", and anyone who knows¦153290 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153292"
+     ]
+    },
+    " listens¦153293 to us¦153294, but anyone¦153295 who doesn’t belong to ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153300"
+     ]
+    },
+    " can’t¦153301 accept what we’re saying. That’s how we¦153308 can distinguish the¦153309 spirit¦153310 of¦153312 truth¦153312 from ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈deceptive¦153317"
+     ]
+    },
+    " spirits¦153315.\n"
    ]
   },
   {
@@ -1725,28 +2221,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Love one another\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 God’s Love and Ours\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 God Is Love\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Loving One Another\n"
+    "/s1 Love one another; God’s Love and Ours; God Is Love; Loving One Another\n"
    ]
   },
   {
@@ -1759,7 +2234,15 @@
      "number": "7",
      "sid": "1JN 4:7"
     },
-    "Dear friends, we need to be loving each other, because¦153321 love is from God and everyone¦153329 who ",
+    "Dear¦153318 friends¦153318, we¦153319 need to be¦153319 loving¦153319 each other, because¦153321 love¦153323 is¦153327 from¦153324 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153326"
+     ]
+    },
+    " and¦153328 everyone¦153329 who ",
     {
      "type": "char",
      "marker": "add",
@@ -1767,7 +2250,7 @@
       "truly"
      ]
     },
-    " loves has been ",
+    " loves¦153331 has¦153337 been¦153337 ",
     {
      "type": "char",
      "marker": "add",
@@ -1775,28 +2258,82 @@
       "re"
      ]
     },
-    "born into God and knows God.\n",
+    "born¦153337 into ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153336"
+     ]
+    },
+    " and¦153338 knows¦153339 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153341"
+     ]
+    },
+    ".\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "1JN 4:8"
     },
-    "Those who don’t love, don’t love God because¦153350 God is love.\n",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#Those"
+     ]
+    },
+    " who don’t¦153343 love¦153344, don’t¦153345 love ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153349"
+     ]
+    },
+    " because¦153350 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153352"
+     ]
+    },
+    " is¦153354 love¦153353.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "1JN 4:9"
     },
-    "God’s love¦153359 was revealed¦153357 to us when he sent¦153370 his¦153367 only son to be born into the world¦153375 so that we can live¦153377 through¦153379 him.\n",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s"
+     ]
+    },
+    " love¦153359 was¦153357 revealed¦153357 to us¦153363 when ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*he"
+     ]
+    },
+    " sent¦153370 his¦153367 only¦153369 son¦153366 to be born into¦153373 the¦153374 world¦153375 so that¦153376 we¦153377 can live¦153377 through¦153379 him¦153380.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "1JN 4:10"
     },
-    "So this is ",
+    "So this¦153382 is¦153383 ",
     {
      "type": "char",
      "marker": "add",
@@ -1804,7 +2341,23 @@
       "real"
      ]
     },
-    " love¦153385, not us loving God, but¦153396 God loving us and¦153402 sending his¦153407 son to be the sacrifice to clear us of the sentence from our¦153412 sins¦153411.\n"
+    " love¦153385, not¦153388 us loving¦153391 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153395"
+     ]
+    },
+    ", but¦153396 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@God¦153399"
+     ]
+    },
+    " loving¦153400 us¦153401 and¦153402 sending¦153403 his son¦153406 to be the sacrifice to clear us of¦153407 the¦153410 sentence from our¦153412 sins¦153411.\n"
    ]
   },
   {
@@ -1817,7 +2370,7 @@
      "number": "11",
      "sid": "1JN 4:11"
     },
-    "Dear friends, if ",
+    "Dear¦153413 friends¦153413, if¦153414 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1825,13 +2378,22 @@
       "God¦153417"
      ]
     },
-    " loves us like that, we¦153421 ought¦153422 to be loving¦153424 each other.\n",
+    " loves¦153418 us¦153419 like that, we¦153421 ought¦153422 to¦153424 be¦153424 loving¦153424 each other.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "1JN 4:12"
     },
+    "No¦153426 one¦153426 has¦153428 ever¦153427 seen¦153428 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153425"
+     ]
+    },
+    ",",
     {
      "type": "note",
      "marker": "x",
@@ -1853,7 +2415,15 @@
      ],
      "caller": "+"
     },
-    "No one has ever seen¦153428 God, but¦153439 when we¦153432 are loving¦153432 each other then God is living in us, and¦153439 his¦153442 love¦153441 is being perfected¦153443 in us.\n"
+    " but when we¦153432 are¦153432 loving¦153432 each other then ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153435"
+     ]
+    },
+    " is¦153438 living in¦153436 us¦153437, and¦153439 his¦153442 love¦153441 is¦153448 being¦153443 perfected¦153443 in¦153445 us¦153446.\n"
    ]
   },
   {
@@ -1866,7 +2436,7 @@
      "number": "13",
      "sid": "1JN 4:13"
     },
-    "We can know that we are living in him and him in us because¦153460 he has given¦153465 to us from his¦153464 ",
+    "We¦153451 can know¦153451 that¦153452 we¦153455 are¦153455 living in¦153453 him¦153454 and¦153456 him in¦153458 us¦153459 because¦153460 he¦153465 has¦153465 given¦153465 to¦153467 us¦153467 from¦153461 his¦153464 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1881,43 +2451,106 @@
      "number": "14",
      "sid": "1JN 4:14"
     },
-    "And we¦153469 have seen¦153470 and¦153472 are testifying¦153473 that the father¦153476 sent¦153477 the son—the saviour¦153480 of the world¦153482.\n",
+    "And¦153468 we¦153469 have¦153470 seen¦153470 and¦153472 are¦153473 testifying¦153473 that¦153474 the¦153475 father¦153476 sent¦153477 the¦153478 son¦153479—the saviour¦153480 of¦153481 the¦153481 world¦153482.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "1JN 4:15"
     },
-    "Anyone who confesses¦153486 that ",
+    "Anyone¦153483 who confesses¦153486 that¦153488 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "Yeshua¦153489"
      ]
     },
-    " is God’s son, God lives in that person and¦153501 they live in God.\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦153489; Grk¦153489. Yesus¦153489)"
+     ]
+    },
+    " is¦153491 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s"
+     ]
+    },
+    " son¦153493, ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God"
+     ]
+    },
+    " lives in¦153498 that person and¦153501 they live in¦153503 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153506"
+     ]
+    },
+    ".\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "1JN 4:16"
     },
-    "We have known¦153510 and experienced the love that God has in us.\n"
+    "We¦153509 have¦153510 known¦153510 and¦153511 experienced the¦153514 love¦153515 that¦153516 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153520"
+     ]
+    },
+    " has¦153517 in¦153521 us¦153522.\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "God is love, and anyone who lives in love, lives in God, and God lives in them.\n",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153524"
+     ]
+    },
+    " is¦153526 love¦153525, and¦153527 anyone who lives in¦153530 love¦153532, lives in¦153533 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153535"
+     ]
+    },
+    ", and¦153537 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153539"
+     ]
+    },
+    " lives in¦153540 them.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "1JN 4:17"
     },
-    "This is how love¦153547 will be perfected¦153545 in us so that we can live with confidence¦153553 about the ",
+    "This¦153544 is how love¦153547 will be¦153545 perfected¦153545 in us¦153549 so that¦153552 we¦153554 can live with confidence¦153553 about¦153561 the¦153560 ",
     {
      "type": "char",
      "marker": "add",
@@ -1925,14 +2558,30 @@
       "coming"
      ]
     },
-    " judgement¦153561 day¦153558: we live like Yeshua in this world¦153572.\n",
+    " judgement¦153561 day¦153558: we¦153567 live like ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua"
+     ]
+    },
+    " in¦153570 this¦153573 world¦153572.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "18",
      "sid": "1JN 4:18"
     },
-    "There’s no fear in love, but rather perfect love drives away fear, because¦153588 our fear is that of being punished¦153591 but the one fearing¦153595 has not been perfected in love.\n"
+    "There’s no fear¦153574 in¦153577 love¦153579, but¦153580 rather perfect¦153582 love¦153583 drives away fear¦153587, because¦153588 our fear¦153590 is¦153592 that of ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈being punished¦153591"
+     ]
+    },
+    " but¦153594 the¦153593 one fearing¦153595 has¦153597 not¦153596 been perfected¦153597 in¦153598 love¦153600.\n"
    ]
   },
   {
@@ -1945,21 +2594,60 @@
      "number": "19",
      "sid": "1JN 4:19"
     },
-    "We love others because¦153607 he¦153610 loved¦153612 us first¦153611.\n",
+    "We¦153601 love¦153603 others because¦153607 he¦153610 loved¦153612 us¦153613 first¦153611.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "20",
      "sid": "1JN 4:20"
     },
-    "Anyone who says that they are loving God but¦153621 hates a fellow believer, that person is liar because¦153629 if someone can’t love a fellow believer that they’ve seen, they can’t love God who they’ve never seen.\n",
+    "Anyone¦153615 who says¦153616 that¦153617 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%they¦153618"
+     ]
+    },
+    " are¦153618 loving¦153618 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153620"
+     ]
+    },
+    " but¦153621 hates¦153625 a fellow believer, that person is liar¦153626 because¦153629 if¦153614 someone can’t¦153630 love¦153631 a fellow believer that they’ve seen¦153636, they can’t¦153642 love¦153645 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153638"
+     ]
+    },
+    " who¦153639 they’ve never seen¦153641.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "21",
      "sid": "1JN 4:21"
     },
-    "So¦153646 we¦153650 have this command¦153649 from Yeshua that anyone who loves ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦153646"
+     ]
+    },
+    " we¦153650 have¦153650 this¦153647 command¦153649 from¦153651 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yeshua¦153652"
+     ]
+    },
+    " that¦153655 anyone who loves¦153657 ",
     {
      "type": "char",
      "marker": "nd",
@@ -1967,7 +2655,7 @@
       "God¦153659"
      ]
     },
-    " must also love their fellow believers.\n"
+    " must also¦153661 love¦153660 their fellow believers.\n"
    ]
   },
   {
@@ -1987,28 +2675,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Faith Conquers the World\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Our Victory over the World\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Faith in the Son of God\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Obedience to the truth\n"
+    "/s1 Faith Conquers the World; Our Victory over the World; Faith in the Son of God; Obedience to the truth\n"
    ]
   },
   {
@@ -2021,7 +2688,7 @@
      "number": "1",
      "sid": "1JN 5:1"
     },
-    "Everyone¦153665 who believes¦153667 that ",
+    "Everyone¦153665 who believes¦153667 that¦153668 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2029,7 +2696,15 @@
       "Yeshua¦153669"
      ]
     },
-    " is the ",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jesus¦153669; Grk¦153669. Yesus¦153669)"
+     ]
+    },
+    " is¦153670 the¦153671 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2037,7 +2712,7 @@
       "messiah¦153672"
      ]
     },
-    " has been ",
+    " has¦153676 been¦153676 ",
     {
      "type": "char",
      "marker": "add",
@@ -2045,7 +2720,7 @@
       "re"
      ]
     },
-    "born in ",
+    "born¦153676 in ",
     {
      "type": "char",
      "marker": "nd",
@@ -2053,21 +2728,53 @@
       "God¦153675"
      ]
     },
-    ", and everyone¦153678 who loves the father who gave birth to us, also loves the son that he gave birth to.\n",
+    ", and¦153677 everyone¦153678 who loves¦153680 the¦153681 father who gave birth¦153682 to ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%us"
+     ]
+    },
+    ", also¦153684 loves the¦153685 son that he gave birth¦153687 to.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "1JN 5:2"
     },
-    "We can know when we love God’s children¦153696: whenever¦153699 we love God and obey his¦153706 commands¦153705,\n",
+    "We¦153692 can know¦153692 when we¦153694 love¦153694 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s"
+     ]
+    },
+    " children¦153696: whenever¦153699 we¦153702 love¦153702 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153701"
+     ]
+    },
+    " and¦153703 obey his¦153706 commands¦153705,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "1JN 5:3"
     },
-    "because¦153710 the definition of loving ",
+    "because¦153710 the¦153712 definition ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "of¦153715"
+     ]
+    },
+    " loving¦153713 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2075,6 +2782,7 @@
       "God¦153715"
      ]
     },
+    " is¦153720 obeying his commands¦153718",
     {
      "type": "note",
      "marker": "x",
@@ -2096,14 +2804,14 @@
      ],
      "caller": "+"
     },
-    " is obeying his commands and his commands are not a big strain on us\n",
+    " and¦153721 his commands¦153723 are¦153727 not¦153726 a big¦153725 strain¦153725 on us\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "1JN 5:4"
     },
-    "because¦153728 everyone¦153729 who’s been ",
+    "because¦153728 everyone who’s been¦153731 ",
     {
      "type": "char",
      "marker": "add",
@@ -2111,7 +2819,7 @@
       "re"
      ]
     },
-    "born in ",
+    "born¦153731 in ",
     {
      "type": "char",
      "marker": "nd",
@@ -2119,22 +2827,37 @@
       "God¦153734"
      ]
     },
-    " is overcoming¦153735 the world.\n",
+    " is¦153735 overcoming¦153735 the¦153736 world.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "1JN 5:5"
     },
-    "So¦153753 who can overcome¦153756 the world¦153758? Only the person who believes¦153762 that ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦153753"
+     ]
+    },
+    " who¦153751 can overcome¦153756 the¦153757 world¦153758? Only¦153759 the¦153761 person who believes¦153762 that¦153763 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "Yeshua¦153764"
      ]
     },
-    " is God’s son.\n"
+    " is¦153765 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦153769"
+     ]
+    },
+    " son¦153767.\n"
    ]
   },
   {
@@ -2148,14 +2871,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 The Witness about Jesus Christ\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Testimony concerning the Son of God\n"
+    "/s1 The Witness about Jesus Christ; Testimony concerning the Son of God\n"
    ]
   },
   {
@@ -2172,18 +2888,26 @@
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "Yeshua¦153780 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦153780; Grk¦153780. Yesus¦153780)"
+       ]
+      },
+      " the¦153782 messiah¦153782"
      ]
     },
-    " the ",
+    " is¦153771 the¦153772 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "messiah¦153782"
+      "one"
      ]
     },
-    " is the one who was born by water and blood and spirit—not by water only,",
+    " who was born by¦153774 water¦153775 and¦153776 blood¦153777 and spirit—not¦153783 by¦153784 water¦153786 only¦153788, but¦153789 by¦153790 water¦153792 and¦153793 by¦153794 blood¦153796",
     {
      "type": "note",
      "marker": "x",
@@ -2205,21 +2929,21 @@
      ],
      "caller": "+"
     },
-    " but¦153798 by water and by blood\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "1JN 5:7"
     },
-    "because there are three¦153812 that testify¦153815:\n",
+    "because¦153810 there are¦153813 three¦153812 that testify¦153815:\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "1JN 5:8"
     },
-    "the ",
+    "the¦153841 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2227,21 +2951,29 @@
       "spirit¦153842"
      ]
     },
-    ", the water¦153845, and the blood¦153848, and these three¦153851 come together into one.\n",
+    ", the¦153844 water¦153845, and¦153846 the¦153847 blood¦153848, and¦153849 these three¦153851 come together into¦153852 one¦153854.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "1JN 5:9"
     },
-    "If we accept testimonies from people, then God’s testimony is better, because¦153870 God’s testimony is about his¦153883 son.\n",
+    "If¦153856 we¦153863 accept¦153863 testimonies¦153858 from people¦153861, then God’s testimony is¦153869 better, because¦153870 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦153876"
+     ]
+    },
+    " testimony¦153879 is about¦153880 his¦153883 son¦153882.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "1JN 5:10"
     },
-    "Any person that believes that ",
+    "Any person that believes¦153885 that ",
     {
      "type": "char",
      "marker": "add",
@@ -2249,14 +2981,38 @@
       "Yeshua is"
      ]
     },
-    " God’s son has internalised God’s testimony, but anyone who doesn’t believe in God calls him a liar because¦153908 they have not believed the testimony of God himself¦153897 about his¦153922 son.\n",
+    " God’s son¦153888 has internalised ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦153890"
+     ]
+    },
+    " testimony¦153893, but anyone who doesn’t believe¦153901 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "in¦153904 God¦153904"
+     ]
+    },
+    " calls him¦153907 a¦153905 liar¦153905 because¦153908 they have¦153910 not¦153909 believed¦153910 the¦153913 testimony¦153914 of ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦153918"
+     ]
+    },
+    " himself about¦153919 his¦153922 son¦153921.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "1JN 5:11"
     },
-    "And this is the testimony¦153927: that ",
+    "And¦153923 this¦153924 is¦153925 the¦153926 testimony¦153927: that¦153928 ",
     {
      "type": "char",
      "marker": "nd",
@@ -2264,7 +3020,7 @@
       "God¦153934"
      ]
     },
-    " gave eternal¦153930 life to us",
+    " gave¦153931 eternal¦153930 life¦153929 to¦153932 us¦153932 and¦153936 this¦153937 life¦153940 is¦153945 in¦153941 his¦153944 son¦153943.",
     {
      "type": "note",
      "marker": "x",
@@ -2286,14 +3042,22 @@
      ],
      "caller": "+"
     },
-    " and¦153923 this life is in his¦153944 son.\n",
+    "\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "1JN 5:12"
     },
-    "Anyone who has the son has life, but anyone who doesn’t have the god’s son, doesn’t have ",
+    "Anyone who has¦153947 the¦153948 son¦153949 has¦153950 life¦153952, but anyone who doesn’t have¦153955 the¦153958 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "god’s¦153959"
+     ]
+    },
+    " son, doesn’t have¦153963 ",
     {
      "type": "char",
      "marker": "add",
@@ -2301,7 +3065,7 @@
       "eternal"
      ]
     },
-    " life.\n"
+    " life¦153961.\n"
    ]
   },
   {
@@ -2315,35 +3079,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "/s1 Epilogue\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Concluding Remarks\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Conclusion\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Final instructions and encouragement\n"
-   ]
-  },
-  {
-   "type": "para",
-   "marker": "rem",
-   "content": [
-    "/s1 Eternal Life\n"
+    "/s1 Epilogue; Concluding Remarks; Conclusion; Final instructions and encouragement; Eternal Life\n"
    ]
   },
   {
@@ -2356,21 +3092,53 @@
      "number": "13",
      "sid": "1JN 5:13"
     },
-    "I wrote¦153965 these¦153964 things to you so that you all could know that you have eternal¦153972 life¦153970, that is the ones believed¦153976 in the name¦153980 and authority of God’s son.\n",
+    "I¦153965 wrote¦153965 these¦153964 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">things"
+     ]
+    },
+    " to¦153966 you¦153966 so that¦153967 you¦153968 all¦153968 could¦153968 know¦153968 that¦153969 you¦153971 have¦153971 eternal¦153972 life¦153970, that is the¦153974 ones believed¦153976 in¦153978 the¦153979 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈name¦153980 and authority"
+     ]
+    },
+    " of ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s¦153984"
+     ]
+    },
+    " son¦153982.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "1JN 5:14"
     },
-    "And so we have confidence¦154006 in God that if we request¦154016 anything¦154015 according¦154017 to his¦154021 will, he hears us\n",
+    "And¦154002 so we¦154008 have¦154008 confidence¦154006 in ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@God¦154011"
+     ]
+    },
+    " that¦154012 if¦154014 we¦154016 request¦154016 anything¦154015 according¦154017 to¦154017 his¦154021 will¦154020, he¦154022 hears¦154022 us¦154024\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "1JN 5:15"
     },
-    "whatever¦154032 we’re requesting¦154035, and¦154025 we know that we’ll receive what we requested¦154044.\n"
+    "whatever¦154032 we’re¦154035 requesting¦154035, and we¦154036 know¦154036 that¦154037 we’ll¦154039 receive what we¦154044 requested¦154044.\n"
    ]
   },
   {
@@ -2383,7 +3151,23 @@
      "number": "16",
      "sid": "1JN 5:16"
     },
-    "If anyone¦154049 sees a fellow believer committing a forgivable sin, then that person should ask God on their behalf and God will give life to that fellow believer. (But¦154061 there is a sin that ",
+    "If¦154048 anyone¦154049 sees¦154050 a fellow believer committing a forgivable sin¦154055, then that person should ask¦154059 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "God"
+     ]
+    },
+    " on their behalf and¦154061 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@God¦154062"
+     ]
+    },
+    " will¦154062 give¦154062 life¦154065 to¦154064 that fellow believer. (But there¦154073 is¦154073 a¦154074 sin¦154074 that ",
     {
      "type": "char",
      "marker": "add",
@@ -2391,14 +3175,22 @@
       "always"
      ]
     },
-    " results in death and I’m not suggesting that we should ask in that case.)\n",
+    " results in death¦154076 and I’m¦154080 not¦154077 suggesting that¦154081 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%we¦154082"
+     ]
+    },
+    " should¦154082 ask¦154082 in that¦154079 case.)\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "1JN 5:17"
     },
-    "All disobedience is sin, but¦154087 there¦154088 are sins that don’t¦154090 ",
+    "All¦154083 disobedience is¦154086 sin¦154085, but¦154087 there¦154088 are¦154088 sins¦154089 that don’t¦154090 ",
     {
      "type": "char",
      "marker": "add",
@@ -2406,7 +3198,7 @@
       "necessarily"
      ]
     },
-    " lead to death¦154092.\n"
+    " lead to¦154091 death¦154092.\n"
    ]
   },
   {
@@ -2419,7 +3211,7 @@
      "number": "18",
      "sid": "1JN 5:18"
     },
-    "We know that¦154096 everyone¦154095 who’s been ",
+    "We¦154093 know¦154093 that¦154094 everyone¦154095 who’s been¦154097 ",
     {
      "type": "char",
      "marker": "add",
@@ -2427,7 +3219,15 @@
       "re"
      ]
     },
-    "born into God doesn’t keep sinning¦154102, but¦154103 the ",
+    "born¦154097 into ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦154100"
+     ]
+    },
+    " doesn’t keep¦154109 sinning¦154102, but¦154103 the¦154104 ",
     {
      "type": "char",
      "marker": "add",
@@ -2435,7 +3235,23 @@
       "messiah"
      ]
     },
-    " who was born from God watches over them and¦154112 so the evil¦154114 one can’t¦154101 touch¦154116 them.\n"
+    " who was¦154105 born¦154105 from ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God¦154108"
+     ]
+    },
+    " watches over them and¦154112 so the¦154113 evil¦154114 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">one"
+     ]
+    },
+    " can’t¦154115 touch¦154116 them.\n"
    ]
   },
   {
@@ -2448,7 +3264,7 @@
      "number": "19",
      "sid": "1JN 5:19"
     },
-    "We know that we¦154123 belong to ",
+    "We¦154118 know¦154118 that¦154119 we¦154123 belong to ",
     {
      "type": "char",
      "marker": "nd",
@@ -2456,7 +3272,23 @@
       "God¦154122"
      ]
     },
-    " and¦154124 that the whole¦154127 word is under the control of the evil¦154130 one.\n"
+    " and¦154124 that the¦154125 whole¦154127 word is¦154131 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈under the control"
+     ]
+    },
+    " of the¦154129 evil¦154130 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">one"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -2469,7 +3301,39 @@
      "number": "20",
      "sid": "1JN 5:20"
     },
-    "We know that God’s son has come and helped our minds so that we could know the true one, and we are in the true one and ",
+    "We¦154133 know¦154133 that¦154135 ",
+    {
+     "type": "char",
+     "marker": "nd",
+     "content": [
+      "God’s"
+     ]
+    },
+    " son has come¦154140 and¦154141 helped our ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#minds¦154145"
+     ]
+    },
+    " so that¦154146 we¦154148 could know¦154148 the¦154149 true¦154151 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">one"
+     ]
+    },
+    ", and¦154154 we¦154155 are¦154155 in¦154156 the¦154157 true¦154158 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">one"
+     ]
+    },
+    " and ",
     {
      "type": "char",
      "marker": "add",
@@ -2477,23 +3341,31 @@
       "also"
      ]
     },
-    " in his¦154162 son, ",
+    " in¦154159 his¦154162 son¦154161, ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "Yeshua"
+      "Yeshua¦154163 ",
+      {
+       "type": "char",
+       "marker": "add",
+       "content": [
+        "!(Jesus¦154163; Grk¦154163. Yesus¦154163)"
+       ]
+      },
+      " the¦154165 messiah¦154165"
      ]
     },
-    " the ",
+    "—the¦154169 true¦154170 ",
     {
      "type": "char",
      "marker": "nd",
      "content": [
-      "messiah¦154165"
+      "God¦154171"
      ]
     },
-    "—the true God and eternal¦154175 life¦154174 ",
+    " and¦154172 eternal¦154175 life¦154174 ",
     {
      "type": "char",
      "marker": "add",

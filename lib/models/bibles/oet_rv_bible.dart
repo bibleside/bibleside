@@ -16,6 +16,10 @@ class OETReadersBibleImpl extends JsonToBible {
       for (dynamic child in node['content'] ?? []) {
         text += _textOf(child);
       }
+      // Remove the OET-RV edit marks at the start of an added phrase, e.g. '!(Jesus)', '$metres'.
+      if (node['marker'] == 'add') {
+        text = text.replaceFirst(RegExp(r'^[?!#$%&*^≈≡@]+'), '');
+      }
       return text;
     }
     return '';
@@ -77,6 +81,7 @@ class OETReadersBibleImpl extends JsonToBible {
               .replaceAll("≈", "")
               .replaceAll("≡", "")
               .replaceAll("@", "")
+              .replaceAll("^", "")
               .replaceAll("→", "");
 
           if (pendingSection) {
@@ -119,6 +124,7 @@ class OETReadersBibleImpl extends JsonToBible {
 
     for (Map item in json['content']) {
       if (item['type'] == 'chapter') {
+        flushVerse(isEndOfPara: false);
         chapterNumber = item['number'];
         String chapterId = '${readerArea.name}-$bookCode-$chapterNumber';
         chapterNumberHtml =
@@ -150,9 +156,8 @@ class OETReadersBibleImpl extends JsonToBible {
                 currentVerseText += _textOf(contentItem).replaceAll('≈', '');
               }
             } else if (contentItem is String) {
-              if (hasPendingVerse) {
-                currentVerseText += contentItem;
-              }
+              // Text before verse 1 (e.g. a Psalm title) is shown with verse 1.
+              currentVerseText += contentItem;
             }
           }
 

@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:12 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "1 Timotheos\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -1136,7 +1131,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^their¦137495"
+      "&their¦137495"
      ]
     },
     "_children¦137495 well¦137496 and¦137498 of¦137499_their¦137499 own¦137500 households¦137501.\n",
@@ -2456,7 +2451,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦138422"
+      "&his¦138422"
      ]
     },
     "_own¦138422 _seasons¦138421 the¦138424 blessed¦138425 and¦138426 only¦138427 Sovereign¦138428 will¦138423_be¦138423_showing¦138423, the¦138429 king¦138430 of¦138431_the¦138431 ",

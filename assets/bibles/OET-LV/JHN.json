@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 13:25 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "Yōannaʸs\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -1883,7 +1878,7 @@
      "number": "14",
      "sid": "JHN 3:14"
     },
-    "And¦64121 as¦64122 Mōsaʸs/(Mosheh)¦64123 exalted¦64124 the¦64125 serpent¦64126 in¦64127 the¦64128 wilderness¦64129, thus¦64130 it¦64134_is¦64134_fitting¦64134 the¦64136 son¦64137 of¦64139_ untr the¦64138untr* _man¦64139 to¦64133_be¦64133_exalted¦64133,\n",
+    "And¦64121 as¦64122 Mōsaʸs/(Mosheh)¦64123 elevated¦64124 the¦64125 serpent¦64126 in¦64127 the¦64128 wilderness¦64129, thus¦64130 it¦64134_is¦64134_fitting¦64134 the¦64136 son¦64137 of¦64139_ untr the¦64138untr* _man¦64139 to¦64133_be¦64133_elevated¦64133,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2671,7 +2666,7 @@
       "+an¦65059"
      ]
     },
-    "_hour¦65059 is¦65058_coming¦65058 and¦65060 now¦65061 is¦65062, when¦65063 the¦65064 true¦65065 worshipers¦65066 will¦65067_be¦65067_worshipping¦65067 before¦65068_the¦65068 father¦65069 in¦65070 spirit¦65071 and¦65072 truth¦65073, because/for¦65075 the¦65076 father¦65077 also¦65074 is¦65079_seeking¦65079 such¦65078, the¦65080 ",
+    "_hour¦65059 is¦65058_coming¦65058 and¦65060 now¦65061 is¦65062, when¦65063 the¦65064 true¦65065 worshippers¦65066 will¦65067_be¦65067_worshipping¦65067 before¦65068_the¦65068 father¦65069 in¦65070 spirit¦65071 and¦65072 truth¦65073, because/for¦65075 the¦65076 father¦65077 also¦65074 is¦65079_seeking¦65079 such¦65078, the¦65080 ",
     {
      "type": "char",
      "marker": "add",
@@ -3345,7 +3340,7 @@
       ">ones¦65778"
      ]
     },
-    " ailing¦65779, blind¦65780, lame¦65781, paralyzed¦65782. was¦65774_lying¦65774,\n",
+    " ailing¦65779, blind¦65780, lame¦65781, paralysed¦65782. was¦65774_lying¦65774,\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3638,7 +3633,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦66127"
+      "&his¦66127"
      ]
     },
     "_own¦66127 father¦66126 untr the¦66129untr*, making¦66134 himself¦66133 equal¦66132 to¦66136_ untr the¦66135untr* _",
@@ -6449,7 +6444,7 @@
       "Yaʸsous¦70120"
      ]
     },
-    " said¦70115 to¦70117_them¦70117: Whenever¦70123 you¦70125_all¦70125_may¦70125_exalt¦70125 the¦70126 son¦70127 of¦70129_ untr the¦70128untr* _Man¦70129, then¦70130 you¦70131_all¦70131_will¦70131_be¦70131_knowing¦70131 that¦70132 I¦70133 am¦70134 ",
+    " said¦70115 to¦70117_them¦70117: Whenever¦70123 you¦70125_all¦70125_may¦70125_elevate¦70125 the¦70126 son¦70127 of¦70129_ untr the¦70128untr* _Man¦70129, then¦70130 you¦70131_all¦70131_will¦70131_be¦70131_knowing¦70131 that¦70132 I¦70133 am¦70134 ",
     {
      "type": "char",
      "marker": "add",
@@ -10053,7 +10048,7 @@
      "number": "32",
      "sid": "JHN 12:32"
     },
-    "And¦74422_I¦74422 if¦74425 may¦74427_be¦74427_exalted¦74427 from¦74428 the¦74430 earth¦74431, I¦74434_will¦74434_be¦74434_drawing¦74434 all¦74432 to¦74436 myself¦74437.\n",
+    "And¦74422_I¦74422 if¦74425 may¦74427_be¦74427_elevated¦74427 from¦74428 the¦74430 earth¦74431, I¦74434_will¦74434_be¦74434_drawing¦74434 all¦74432 to¦74436 myself¦74437.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -10075,7 +10070,7 @@
       "chosen¦74459_one¦74459/messiah¦74459"
      ]
     },
-    " is¦74460_remaining¦74460 to¦74461 the¦74462 age¦74463, and¦74464 how¦74465 are¦74467_saying¦74467 you¦74468 that¦74469 it¦74470_is¦74470_fitting¦74470 the¦74472 son¦74473 of¦74475_ untr the¦74474untr* _man¦74475 to¦74471_be¦74471_exalted¦74471? Who¦74476 is¦74477 this¦74479 untr the¦74480untr* son¦74481 of¦74483_ untr the¦74482untr* _Man¦74483?\n",
+    " is¦74460_remaining¦74460 to¦74461 the¦74462 age¦74463, and¦74464 how¦74465 are¦74467_saying¦74467 you¦74468 that¦74469 it¦74470_is¦74470_fitting¦74470 the¦74472 son¦74473 of¦74475_ untr the¦74474untr* _man¦74475 to¦74471_be¦74471_elevated¦74471? Who¦74476 is¦74477 this¦74479 untr the¦74480untr* son¦74481 of¦74483_ untr the¦74482untr* _Man¦74483?\n",
     {
      "type": "verse",
      "marker": "v",
@@ -11696,7 +11691,7 @@
      "number": "6",
      "sid": "JHN 15:6"
     },
-    "If¦76497 anyone¦76500 may¦76501_ not¦76498 _be¦76501_remaining¦76501 in¦76503 me¦76504, he¦76505_was¦76505_thrown¦76505 out¦76507 as¦76508 the¦76509 branch¦76510 and¦76511 was¦76512_withered¦76512, and¦76513 they¦76514_are¦76514_gathering¦76514_ them¦76515 _together¦76514 and¦76517 they¦76521_are¦76521_throwing¦76521 into¦76518 the¦76519 fire¦76520, and¦76523 it¦76524_is¦76524_being¦76524_burned¦76524.\n",
+    "If¦76497 anyone¦76500 may¦76501_ not¦76498 _be¦76501_remaining¦76501 in¦76503 me¦76504, he¦76505_was¦76505_thrown¦76505 out¦76507 as¦76508 the¦76509 branch¦76510 and¦76511 was¦76512_withered¦76512, and¦76513 they¦76514_are¦76514_gathering¦76514_ them¦76515 _together¦76514 and¦76517 they¦76521_are¦76521_casting¦76521 into¦76518 the¦76519 fire¦76520, and¦76523 it¦76524_is¦76524_being¦76524_burned¦76524.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -12473,7 +12468,7 @@
      "number": "28",
      "sid": "JHN 16:28"
     },
-    "I¦77551_came¦77551_out¦77551 from¦77552 the¦77554 father¦77555, and¦77556 I¦77557_have¦77557_come¦77557 into¦77559 the¦77560 world¦77561, contrastly¦77562 I¦77563_am¦77563_leaving¦77563 the¦77564 world¦77565, and¦77566 I¦77567_am¦77567_going¦77567 to¦77568 the¦77569 father¦77570.\n",
+    "I¦77551_came¦77551_out¦77551 from¦77552 the¦77554 father¦77555, and¦77556 I¦77557_have¦77557_come¦77557 into¦77559 the¦77560 world¦77561, in_contrast¦77562 I¦77563_am¦77563_leaving¦77563 the¦77564 world¦77565, and¦77566 I¦77567_am¦77567_going¦77567 to¦77568 the¦77569 father¦77570.\n",
     {
      "type": "verse",
      "marker": "v",

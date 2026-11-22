@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:12 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "2 Timotheos\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -205,7 +200,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^my¦138581"
+      "&my¦138581"
      ]
     },
     "_parents¦138581 with¦138582 ",
@@ -335,7 +330,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦138707"
+      "&his¦138707"
      ]
     },
     "_own¦138707 purpose¦138708 and¦138709 grace¦138710, untr which¦138711untr* having¦138712_been¦138712_given¦138712 to¦138713_us¦138713 in¦138714 ",
@@ -1170,7 +1165,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^their¦139284"
+      "&their¦139284"
      ]
     },
     "_parents¦139284, ungrateful¦139287, unholy¦139288,\n",
@@ -1613,7 +1608,7 @@
      "number": "13",
      "sid": "2TI 4:13"
     },
-    "The¦139719 cloak¦139720 that¦139721 I¦139722_left¦139722_behind¦139722 in¦139724 Trōias¦139725 with¦139726 Karpos¦139727, be¦139729_bringing¦139729 on¦139728_coming¦139728, and¦139730 the¦139731 scrolls¦139732, most¦139733_of¦139733_all¦139733 the¦139734 parchments¦139735.\n",
+    "The¦139719 cloak¦139720 that¦139721 I¦139722_left¦139722_behind¦139722 in¦139724 Trōᵢas¦139725 with¦139726 Karpos¦139727, be¦139729_bringing¦139729 on¦139728_coming¦139728, and¦139730 the¦139731 scrolls¦139732, most¦139733_of¦139733_all¦139733 the¦139734 parchments¦139735.\n",
     {
      "type": "verse",
      "marker": "v",

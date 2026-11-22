@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:13 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "2 Yōannaʸs\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -326,7 +321,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^your¦154413"
+      "&your¦154413"
      ]
     },
     "_house¦154413, and¦154414 not¦154417 be¦154418_saying¦154418 to¦154415_be¦154415_rejoicing¦154415 to¦154416_him¦154416,\n",
@@ -359,7 +354,7 @@
       ">things¦154431"
      ]
     },
-    " to¦154435_be¦154435_writing¦154435 to¦154434_you¦154434_all¦154434, I¦154438_was¦154438_ not¦154437 _counseled¦154438 through¦154439 paper¦154440 and¦154441 ink¦154442, but¦154443 I¦154444_am¦154444_hoping¦154444 to¦154446_become¦154446 to¦154448 you¦154449_all¦154449, and¦154450 to¦154456_speak¦154456 mouth¦154451 to¦154454 mouth¦154455, in¦154457_order¦154457_that¦154457 the¦154458 joy¦154459 of¦154460_you¦154460_all¦154460 may¦154464_be¦154464 having¦154463_been¦154463_fulfilled¦154463.\n",
+    " to¦154435_be¦154435_writing¦154435 to¦154434_you¦154434_all¦154434, I¦154438_was¦154438_ not¦154437 _counselled¦154438 through¦154439 paper¦154440 and¦154441 ink¦154442, but¦154443 I¦154444_am¦154444_hoping¦154444 to¦154446_become¦154446 to¦154448 you¦154449_all¦154449, and¦154450 to¦154456_speak¦154456 mouth¦154451 to¦154454 mouth¦154455, in¦154457_order¦154457_that¦154457 the¦154458 joy¦154459 of¦154460_you¦154460_all¦154460 may¦154464_be¦154464 having¦154463_been¦154463_fulfilled¦154463.\n",
     {
      "type": "verse",
      "marker": "v",

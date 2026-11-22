@@ -165,6 +165,8 @@ flutter:
     - assets/bibles/WEB/JOB.json
     - assets/bibles/BSB/JOB.json
 
+    - assets/bibles/OET-RV/PSA.json
+    - assets/bibles/OET-LV/PSA.json
     - assets/bibles/KJV/PSA.json
     - assets/bibles/WEB/PSA.json
     - assets/bibles/BSB/PSA.json
@@ -199,6 +201,8 @@ flutter:
     - assets/bibles/WEB/JER.json
     - assets/bibles/BSB/JER.json
 
+    - assets/bibles/OET-RV/LAM.json
+    - assets/bibles/OET-LV/LAM.json
     - assets/bibles/KJV/LAM.json
     - assets/bibles/WEB/LAM.json
     - assets/bibles/BSB/LAM.json

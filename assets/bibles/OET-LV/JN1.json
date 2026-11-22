@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:13 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "1 Yōannaʸs\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -421,7 +416,7 @@
      "number": "8",
      "sid": "1JN 2:8"
     },
-    "Contrastly¦152135 I¦152138_am¦152138_writing¦152138 ",
+    "In_contrast¦152135 I¦152138_am¦152138_writing¦152138 ",
     {
      "type": "char",
      "marker": "add",
@@ -1718,7 +1713,7 @@
      "number": "18",
      "sid": "1JN 4:18"
     },
-    "Fear¦153574 is¦153576 not¦153575 in¦153577 untr the¦153578untr* love¦153579, but¦153580 the¦153581 perfect¦153582 love¦153583 is¦153585_throwing¦153585 out¦153584 untr the¦153586untr* fear¦153587, because¦153588 the¦153589 fear¦153590 is¦153592_having¦153592 punishment¦153591, and¦153594 the¦153593 ",
+    "Fear¦153574 is¦153576 not¦153575 in¦153577 untr the¦153578untr* love¦153579, but¦153580 the¦153581 perfect¦153582 love¦153583 is¦153585_casting¦153585 out¦153584 untr the¦153586untr* fear¦153587, because¦153588 the¦153589 fear¦153590 is¦153592_having¦153592 punishment¦153591, and¦153594 the¦153593 ",
     {
      "type": "char",
      "marker": "add",

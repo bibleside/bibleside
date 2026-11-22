@@ -7,7 +7,7 @@
    "marker": "id",
    "code": "EST",
    "content": [
-    "- Open English Translation—Readers’ Version (OET-RV) v0.1.04"
+    "- Open English Translation—Readers’ Version (OET-RV) v0.2.8"
    ]
   },
   {
@@ -35,21 +35,21 @@
    "type": "para",
    "marker": "h",
    "content": [
-    "Esther\n"
+    "Ester\n"
    ]
   },
   {
    "type": "para",
    "marker": "toc1",
    "content": [
-    "Esther\n"
+    "Ester\n"
    ]
   },
   {
    "type": "para",
    "marker": "toc2",
    "content": [
-    "Esther\n"
+    "Ester\n"
    ]
   },
   {
@@ -63,7 +63,7 @@
    "type": "para",
    "marker": "mt1",
    "content": [
-    "Esther\n"
+    "Ester\n"
    ]
   },
   {
@@ -77,7 +77,7 @@
    "type": "para",
    "marker": "ip",
    "content": [
-    "This account tells about the life of a young Jewish woman named Esther. These events happened back when King Ahasuerus (more widely known as King Xerxes) ruled over the kingdom of Persia. After Queen Vashti was banished for refusing to dance in front the king’s guests at a drinking party, Esther was chosen as the new queen without revealing her Jewish background. But there was a high official called Haman who was offended by Esther’s Jewish guardian and in his anger, determined to annihilate all of the Jews from the kingdom. This account reveals how Ether’s courage and her love for her Jewish people leads her to help them and eventually helps to save their lives.\n"
+    "This account tells about the life of a young Jewish woman named Ester. These events happened back when King Ahashverosh (more widely known as King Xerxes) ruled over the Paras kingdom. After Queen Vashti was banished for refusing to dance in front the king’s guests at a drinking party, Ester was chosen as the new queen without revealing her Jewish background. But there was a high official called Haman who was offended by Ester’s Jewish guardian and in his anger, determined to annihilate all of the Yehudim from the kingdom. This account reveals how Eter’s courage and her love for her Jewish people leads her to help them and eventually helps to save their lives.\n"
    ]
   },
   {
@@ -98,7 +98,7 @@
    "type": "para",
    "marker": "io1",
    "content": [
-    "Esther becomes Queen of Persia ",
+    "Ester becomes Queen of Paras ",
     {
      "type": "char",
      "marker": "ior",
@@ -112,7 +112,7 @@
    "type": "para",
    "marker": "io1",
    "content": [
-    "Haman’s threat to the Jews ",
+    "Haman’s threat to the Yehudim ",
     {
      "type": "char",
      "marker": "ior",
@@ -154,7 +154,7 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "This is still a very early look into the unfinished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
+    "This is still an early look into the unpolished text of the Open English Translation of the Bible. Please double-check the text in advance before using in public.\n"
    ]
   },
   {
@@ -172,7 +172,7 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "Queen Vashti refuses King Ahasuerus\n"
+    "Empress Vashti refuses Emperor Ahashverosh\n"
    ]
   },
   {
@@ -192,15 +192,23 @@
      "number": "1",
      "sid": "EST 1:1"
     },
-    "The following events happened during the reign¦228506 of ",
+    "The following events happened during¦228502 the¦228502 reign¦228506 of¦228502 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "King"
+      "Emperor"
      ]
     },
-    " Ahasuerus¦228503.",
+    " Ahashverosh¦228503 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus¦228503/Xerxes¦228503)"
+     ]
+    },
+    ".",
     {
      "type": "note",
      "marker": "x",
@@ -227,33 +235,73 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Also known as King Xerxes,"
+      "Also known as King Ahashverosh,"
      ]
     },
-    " he ruled ",
+    " ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "the empire of Persia"
+      "*he¦228505"
      ]
     },
-    " with¦228502 127 provinces¦228514 from India¦228507 all the way across to Ethiopia¦228510.)\n",
+    " ruled¦228506 the 127 provinces¦228514 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "of Paras"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Persia)"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "extending"
+     ]
+    },
+    " from¦228507 Hodu¦228507 to¦228508 Kush¦228510 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ethiopia¦228510)"
+     ]
+    },
+    ".)\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "EST 1:2"
     },
-    "In those¦228517 days¦228516, he ruled his empire from ",
+    "In¦228516 those¦228517 days¦228516, ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "a city called"
+      "*he¦228521"
      ]
     },
-    " Shushan¦228526,",
+    " ruled his¦228524 empire from Shushan¦228526 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Susa¦228526)"
+     ]
+    },
+    ",",
     {
      "type": "note",
      "marker": "f",
@@ -276,15 +324,7 @@
      ],
      "caller": "+"
     },
-    " ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "Persia’s"
-     ]
-    },
-    " capital.\n"
+    " city.\n"
    ]
   },
   {
@@ -297,7 +337,7 @@
      "number": "3",
      "sid": "EST 1:3"
     },
-    "In the third year of his reign¦228531, he hosted a celebration for all of his officials and for every important person who worked for him, as well as the officers who served in the army of the ",
+    "In¦228529 the third year¦228529 of¦228531 his¦228531 reign¦228531, he¦228532 hosted a¦228533 celebration for all¦228534 of¦228536 his¦228536 officials and¦228537 for every important person who worked for him, the wealthy landowners, the officials of¦228537 the¦228544 provinces¦228544, as well as the officers who served in the¦228538 army¦228538 of¦228538 the ",
     {
      "type": "char",
      "marker": "add",
@@ -305,22 +345,29 @@
       "combined empire"
      ]
     },
-    " of Persia¦228540 and Media¦228541, the wealthy landowners, and the officials of the provinces¦228544. The king was present¦228545 in person ",
+    " of Paras¦228540 and¦228541 Maday¦228541 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "to host the celebration"
+      "!(Media¦228541)"
      ]
     },
-    "\n",
+    ". He was¦228545 present in person\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "EST 1:4"
     },
-    "which, over a period of six months, would display¦228547 the incredible wealth and prestige of his empire and his personal wealth and power.\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "to host"
+     ]
+    },
+    " the six-month celebration which, displayed¦228547 the¦228550 incredible wealth¦228550 and prestige of his¦228552 empire and¦228553 his¦228557 personal wealth and¦228561 power.\n"
    ]
   },
   {
@@ -333,7 +380,7 @@
      "number": "5",
      "sid": "EST 1:5"
     },
-    "Then¦228564 at¦228564 the end of that time, the king¦228569 hosted ",
+    "At the¦228566 end¦228564 of that time¦228566, the emperor¦228569 hosted ",
     {
      "type": "char",
      "marker": "add",
@@ -341,28 +388,52 @@
       "another"
      ]
     },
-    " celebration, but¦228564 this time for all the people¦228572 in the royal fort in Shushan¦228574, from the nobles to the least prestigious. He held this celebration over an entire week in the enclosed garden¦228584 of the royal palace¦228585.\n",
+    " celebration, but this time for all¦228570 the¦228572 people¦228572 in the royal fort in¦228574 Shushan¦228574, from the¦228575 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈leading citizens"
+     ]
+    },
+    " to¦228576 the least¦228579 prestigious. He held that celebration over an entire week in¦228583 the enclosed garden¦228584 of¦228584 the¦228585 royal palace¦228585.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "EST 1:6"
     },
-    "There were white and blue curtains hanging from white and purple¦228596 cords¦228593 attached to silver rings on marble pillars¦228601. The guests reclined on gold¦228605 and silver couches¦228603 set on a mosaic floor that was made of red and white marble, and mother-of-pearl¦228612 and other expensive stones¦228613.\n",
+    "There were white¦228588 and¦228591 blue curtains hanging from white and¦228596 purple¦228596 cords¦228593 attached to silver rings on marble pillars¦228601. The guests reclined on gold¦228605 and¦228606 silver¦228606 couches¦228603 set on¦228607 a¦228608 mosaic floor made of¦228608 red and¦228611 white marble¦228611, mother-of-pearl¦228612 and¦228613 other expensive ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#stones¦228613"
+     ]
+    },
+    ".\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "EST 1:7"
     },
-    "Drinks were served¦228615 in¦228616 golden¦228617 goblets, and¦228621 each one was a unique design. The king’s¦228625 wine seemed limitless as he displayed his generosity,\n",
+    "Drinks¦228615 were served in¦228616 golden¦228617 goblets, and¦228618 each one was¦228623 a unique design. The¦228625 king’s¦228625 wine¦228621 seemed limitless as he displayed his ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈generosity"
+     ]
+    },
+    ",\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "EST 1:8"
     },
-    "and¦228646 it was served according¦228628 to his rule: There¦228631 is no compulsion to drink¦228627, but¦228627 all of his servants were to give each guest however much they wanted.\n"
+    "and it was¦228628 served according¦228628 to his rule: there¦228629 was¦228629 no compulsion to drink¦228627, but his¦228641 servants were to¦228643 give each guest however much they wanted.\n"
    ]
   },
   {
@@ -375,7 +446,7 @@
      "number": "9",
      "sid": "EST 1:9"
     },
-    "Meanwhile, Queen Vashti¦228649 was hosting a celebration for the women¦228653 ",
+    "Meanwhile, Queen¦228650 Vashti¦228649 was hosting a¦228652 celebration for the women¦228653 ",
     {
      "type": "char",
      "marker": "add",
@@ -383,7 +454,7 @@
       "in a different part"
      ]
     },
-    " of the king’s royal¦228655 palace.\n",
+    " of¦228654 the¦228655 royal¦228655 palace¦228654.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -403,21 +474,45 @@
      "number": "10",
      "sid": "EST 1:10"
     },
-    "On the seventh day¦228661 of the celebrations, when the king was feeling cheery from his wine-drinking, he ordered seven of his chief servants (Mehuman¦228669, Biztha¦228670, Harbona¦228671, Bigtha¦228672, Abagtha¦228673, Zethar¦228674, and Karkas)\n",
+    "On the¦228661 last day¦228661 of the celebrations, when the emperor¦228666 was¦228663 pleasantly tipsy, he¦228668 ordered¦228668 seven¦228676 of¦228676 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*his"
+     ]
+    },
+    " chief servants (Mehuman¦228669, Bizta¦228670, Harvona¦228671, Bigta¦228672, Avagta¦228673, Zetar¦228674, and¦228675 Karkas)\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "EST 1:11"
     },
-    "to bring¦228685 Queen Vashti¦228688, wearing her royal¦228693 crown¦228692, to him in¦228692 order¦228694 to show her beauty¦228699 to the people¦228695 and the officials¦228696, because she¦228704 was very attractive.\n",
+    "to¦228685 bring¦228685 Queen¦228689 Vashti¦228688 to¦228690 him, wearing her¦228699 royal¦228693 crown¦228692, in order to¦228694 show¦228694 the¦228696 officials¦228696 and other people¦228695 how good-looking she was, because¦228700 she was ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "very"
+     ]
+    },
+    " beautiful¦228699.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "EST 1:12"
     },
-    "But¦228706 when the servants came and told her the king’s command¦228710, Queen Vashti¦228708 refused¦228706 to come. When¦228706 the king found this out, he got very angry¦228715 and ",
+    "The¦228707 servants told her Ahashverosh’s ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus’/Xerxes’)"
+     ]
+    },
+    " command, but Queen¦228707 Vashti¦228708 refused¦228706 to¦228709 come¦228709. When¦228715 they reported back to Ahashverosh, he¦228715 was¦228715 furious¦228715 and¦228718 ",
     {
      "type": "char",
      "marker": "add",
@@ -425,68 +520,114 @@
       "sat there"
      ]
     },
-    " raging.\n",
+    " raging¦228718 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "for a while"
+     ]
+    },
+    ".\n"
+   ]
+  },
+  {
+   "type": "para",
+   "marker": "p",
+   "content": [
     {
      "type": "verse",
      "marker": "v",
-     "number": "13",
-     "sid": "EST 1:13"
+     "number": "13-14",
+     "sid": "EST 1:13-14"
     },
-    "So¦228724 he ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "called over"
+      "Eventually"
      ]
     },
-    " his advisors who knew the law and could make good decisions, and discussed with them what he should do.\n",
-    {
-     "type": "verse",
-     "marker": "v",
-     "number": "14",
-     "sid": "EST 1:14"
-    },
-    "(His closest¦228739 advisors were Karshena, Shethar¦228743, Admatha¦228744, Tarshish¦228745, Meres¦228746, Marsena¦228747, and Memukan. These seven¦228749 officials were from ",
+    " ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "various places in the empire"
+      "*he"
      ]
     },
-    " of Persia¦228752 and Media¦228753 and they advised the king¦228756 personally, ",
+    " discussed it¦228722 with his close¦228739 advisors who¦228725 knew¦228725 the law¦228736 and¦228737 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "thus making them"
+      "≈could make good decisions¦228737"
      ]
     },
-    " the most powerful officials in the empire.)\n",
+    ". (These seven¦228749 officials; Karshena, Shetar¦228743, Admata¦228744, Tarshish¦228745, Meres¦228746, Marsena¦228747 and¦228753 Memukan; were from ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈various places."
+     ]
+    },
+    " They ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈advised the¦228755 emperor personally"
+     ]
+    },
+    ", ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "so were"
+     ]
+    },
+    " the¦228756 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈most powerful officials"
+     ]
+    },
+    " in¦228759 the empire.)\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "EST 1:15"
     },
-    "“According¦228761 to ",
+    "‘According¦228761 to¦228761 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "our"
+      "&our¦228761"
      ]
     },
-    " law,” ",
+    " law¦228761,’ ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "the king¦228776 asked,"
+      "he asked,"
      ]
     },
-    " “what should be done with¦228765 Queen¦228773 Vashti¦228766, since she¦228772 refused to obey my command¦228775 when the servants passed it on¦228765 to her?”\n"
+    " ‘what¦228762 should be¦228764 done¦228764 with¦228765 Empress¦228765 Vashti¦228766, since she¦228772 refused to obey ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*my"
+     ]
+    },
+    " command¦228775 when the servants passed it on to her?’\n"
    ]
   },
   {
@@ -499,23 +640,23 @@
      "number": "16",
      "sid": "EST 1:16"
     },
-    "Then Memukan answered the king, ",
+    "Memukan replied¦228782, ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "speaking loudly enough that"
+      "addressing"
      ]
     },
-    " both the king and his officials could hear. “Queen Vashti¦228794 has done wrong,” he said, “and not only against the king. She has also done wrong against all the officials and people¦228806 groups in all the provinces¦228810 that King¦228786 Ahasuerus¦228812 ",
+    " the whole group, ‘Empress¦228795 Vashti¦228794 has done¦228793 wrong¦228793, and not only against the emperor. ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "rules"
+      "≡She has also done wrong"
      ]
     },
-    "!\n",
+    " against all¦228799 the¦228801 officials¦228801 and¦228802 people¦228806 groups of¦228810 the¦228811 empire.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -529,37 +670,21 @@
       "Soon"
      ]
     },
-    " women all over the empire will hear about what the queen¦228819 did and they’ll say, ‘King¦228829 Ahasuerus¦228830 commanded his¦228837 servants to bring¦228832 Queen Vashti¦228835 to him, but¦228838 she didn’t¦228838 go! Then women will stop respecting their¦228826 husbands¦228826.\n",
+    " women all¦228822 over the¦228817 empire will hear about¦228819 what the¦228819 empress¦228819 did and they’ll¦228828 say¦228828, “Emperor¦228829 Ahashverosh¦228830 commanded his servants to¦228832 bring¦228832 Empress Vashti¦228835 to him¦228837, but¦228838 she¦228840 didn’t¦228838 go¦228816!” Then women¦228824 will stop respecting their¦228826 husbands¦228826.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "18",
      "sid": "EST 1:18"
     },
-    "Even today, the leading women of Persia¦228847 and Media¦228849 will hear what the queen¦228855 did and start doing the same to ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "their husbands who are"
-     ]
-    },
-    " officials¦228857, and this will cause ",
-    {
-     "type": "char",
-     "marker": "add",
-     "content": [
-      "a wave of"
-     ]
-    },
-    " contempt¦228860 and anger¦228861.\n",
+    "Even today, the¦228842 important wives in the¦228843 empire will¦228844 hear¦228851 what the¦228846 empress¦228855 did and¦228849 start doing the¦228854 same to¦228856 their husbands; it will¦228859 result in contempt¦228860 on her part and¦228861 anger¦228861 on his.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "19",
      "sid": "EST 1:19"
     },
-    "If it pleases you ",
+    "If¦228863 it pleases¦228868 you ",
     {
      "type": "char",
      "marker": "add",
@@ -575,14 +700,38 @@
       "your majesty"
      ]
     },
-    ", you should personally issue a royal decree and have it added to the laws of Persia¦228876 and Media¦228878 which cannot be repealed. This decree should say that Vashti¦228885 can never again come¦228884 into your presence, and then you should choose a different woman¦228892 for the royal position¦228889—someone who’s better¦228893 than her¦228889.\n",
+    ", you should¦228869 personally issue¦228869 a¦228870 royal¦228872 decree and¦228874 have it¦228874 added to the¦228875 laws¦228875 of¦228875 Paras¦228876 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Persia¦228876)"
+     ]
+    },
+    " and¦228878 Maday¦228878 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Media¦228878)"
+     ]
+    },
+    " which¦228881 cannot be repealed. This decree should say that Vashti¦228885 can never again come¦228884 into¦228886 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*your¦228888"
+     ]
+    },
+    " presence¦228886. Then¦228889 you should¦228890 choose a different woman¦228892 for the¦228893 royal position – someone who’s better¦228893 than¦228894 her¦228889.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "20",
      "sid": "EST 1:20"
     },
-    "Your¦228905 decree¦228897 will be proclaimed¦228896 right through your empire, even though it’s so huge¦228906, and¦228896 then¦228896 all women¦228910, irrespective of their status or position, will honour¦228912 their husbands¦228913.\n"
+    "Have your decree¦228897 declared throughout your empire, even though it’s¦228896 so huge¦228906, and¦228908 then all¦228908 women¦228910, whatever their status or position, will¦228911 respect¦228912 their¦228913 husbands¦228913.’\n"
    ]
   },
   {
@@ -595,19 +744,43 @@
      "number": "21",
      "sid": "EST 1:21"
     },
-    "This seemed like a good idea to the king and¦228919 his officials¦228923, so King¦228922 Ahasuerus followed the advice¦228920 of Memukan\n",
+    "Memukan’s advice seemed like a good¦228919 idea to the¦228922 emperor¦228922 and¦228923 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&his¦228923"
+     ]
+    },
+    " officials¦228923, so¦228924 that’s what they did¦228924.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "22",
      "sid": "EST 1:22"
     },
-    "and sent letters to every province in his empire. He wrote to every province using its own alphabet and to each people¦228944 group in its own language. The letters said that men should be the masters over their wives and children, and that a husband should be able to give orders to his wife in his own native language ",
+    "They wrote¦228941 letters to¦228931 every¦228933 province using its¦228941 own alphabet and¦228942 to¦228942 each¦228933 people group in its¦228946 own language¦228946. The letters said¦228953 that ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "that she should understand and obey"
+      "#men¦228950"
+     ]
+    },
+    " should be¦228947 the masters over¦228952 their wives and children, and that a husband should be able to ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈give orders"
+     ]
+    },
+    " to his¦228955 wife in his¦228955 own language ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "and that she should understand and obey him"
      ]
     },
     ".\n"
@@ -623,7 +796,7 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "Beautiful Esther enters the king’s harem\n"
+    "Beautiful Ester enters the king’s harem\n"
    ]
   },
   {
@@ -643,7 +816,23 @@
      "number": "1",
      "sid": "EST 2:1"
     },
-    "Some time later when King¦228963 Ahasuerus¦228964 no longer felt so angry, he ",
+    "Some time later¦228958 when King¦228963 Ahashverosh¦228964 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus¦228964/Xerxes¦228964)"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈no longer felt so angry¦228962"
+     ]
+    },
+    ", he¦228965 ",
     {
      "type": "char",
      "marker": "add",
@@ -651,12 +840,12 @@
       "started to miss"
      ]
     },
-    " Vashti¦228968. But¦228969 when she’d disobeyed his command, he had made a decree ",
+    " Vashti¦228968. But when she’d disobeyed his command, he had made a decree ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "that¦228970 she could never come into his presence again¦228977"
+      "that she could never come into his presence again"
      ]
     },
     ".\n",
@@ -666,36 +855,75 @@
      "number": "2",
      "sid": "EST 2:2"
     },
-    "So¦228979 some of the young men who served the king suggested to him, “",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "Your majesty, you should¦228984 get a new wife for yourself."
+      "≈So¦228979"
      ]
     },
-    " You could tell your servants to look for young virgins¦228987 who are very beautiful.\n",
+    " some of the¦228980 young¦228980 men¦228980 who¦228983 served¦228983 the¦228982 king¦228982 suggested to him¦228983, “",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "Your majesty, you should get a new wife for yourself."
+     ]
+    },
+    " You could tell¦228979 your servants to look¦228984 for¦228985 young¦228986 virgins¦228987 who are ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "very"
+     ]
+    },
+    " beautiful.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "EST 2:3"
     },
-    "You could assign officers in each province¦228996 of your empire to bring every¦229001 virgin who is very beautiful here to your capital city of Shushan¦229010. They could stay in the harem for virgins under the custody of Hegai¦229019, the castrated royal guardian who takes care of the young women who live there and¦228991 he could arrange for them to receive beauty treatments¦229025.\n",
+    "You could assign¦228991 officers in¦228994 each¦228994 province¦228996 of¦228996 your empire to bring every¦229001 virgin¦229005 who is ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "very"
+     ]
+    },
+    " beautiful here to your capital city of Shushan¦229010 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Susa¦229010)"
+     ]
+    },
+    ". They could stay in the harem for virgins under the custody of¦229018 Hegay¦229019, the¦229020 castrated¦229020 royal guardian who¦229022 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈takes care of¦229022"
+     ]
+    },
+    " the¦229023 young women¦229023 who live there and¦229024 he could arrange for them to receive beauty treatments.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "EST 2:4"
     },
-    "Then¦229027 you could decide which young¦229027 woman¦229027 you like best and¦229027 then¦229027 make her queen instead of Vashti¦229034.”\n"
+    "Then¦229027 you could decide which young¦229027 woman¦229027 you like best and¦229035 then¦229039 make¦229039 her queen instead of¦229033 Vashti¦229034.”\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "The king liked what they suggested¦229036, so he did it.\n"
+    "The¦229038 king¦229038 liked what they suggested, so¦229039 he¦229039 did¦229039 it.\n"
    ]
   },
   {
@@ -708,14 +936,46 @@
      "number": "5",
      "sid": "EST 2:5"
     },
-    "At that time, there was a Jewish man named Mordekai living in¦229046 the capital city of Shushan¦229046. (He was from the tribe of Benjamin: his father was Jair, his grandfather was Shimei¦229054, and his great-grandfather was Kish¦229057\n",
+    "At that time, there was a¦229043 Jewish man¦229043 named¦229048 Mordekai¦229049 living in¦229046 the capital city of Shushan¦229046. (He was from the Benyamin tribe¦229050: his father was Yair¦229051, his grandfather was Shimei¦229054, and his great-grandfather was Kish¦229057\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "EST 2:6"
     },
-    "who’d been taken away from Jerusalem and led to Babylon when King¦229071 Nebuchadnezzer¦229076 of Babylon had exiled¦229066 Jeconiah¦229070, the king of Judah, along with many of his people.)",
+    "who’d¦229061 been¦229062 taken¦229062 away from¦229063 Yerushalem¦229063 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jerusalem¦229063)"
+     ]
+    },
+    " and led¦229068 to¦229068 Bavel¦229078 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Babylon¦229078)"
+     ]
+    },
+    " when King Nevukadnetsar ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Nebuchadnezzar)"
+     ]
+    },
+    " of Bavel had exiled¦229068 Yekaneyah¦229070, the¦229071 king¦229071 of¦229071 Yehudah¦229073 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Judah¦229073)"
+     ]
+    },
+    ", along with many of¦229077 his people.)",
     {
      "type": "note",
      "marker": "x",
@@ -744,7 +1004,31 @@
      "number": "7",
      "sid": "EST 2:7"
     },
-    "Now Mordekai was taking care of his cousin, who was an orphan. When¦229080 her father¦229093 and mother had died, Mordekai had adopted¦229104 her as his own daughter¦229087. Her¦229102 ",
+    "Now ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Mordekai"
+     ]
+    },
+    " was ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈taking¦229104 care of"
+     ]
+    },
+    " his cousin, who was an orphan. When her father and mother ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈had died¦229101"
+     ]
+    },
+    ", Mordekai¦229105 had adopted her as his own daughter. Her ",
     {
      "type": "char",
      "marker": "add",
@@ -752,7 +1036,7 @@
       "Hebrew"
      ]
     },
-    " name was Hadassah¦229084, and her ",
+    " name was Hadasah¦229084, and her ",
     {
      "type": "char",
      "marker": "add",
@@ -760,7 +1044,15 @@
       "Persian"
      ]
     },
-    " name was Esther. Esther was now a young¦229095 woman¦229095 and she was exceptionally attractive.\n"
+    " name was¦229086 Ester. Ester was¦229091 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "now"
+     ]
+    },
+    " a young¦229095 woman¦229095 and she was exceptionally attractive.\n"
    ]
   },
   {
@@ -773,21 +1065,51 @@
      "number": "8",
      "sid": "EST 2:8"
     },
-    "So¦229109 when the king’s command and decree became known, many young¦229116 women were being brought into the capital city of Shushan¦229120 and placed under Hegai’s charge, and this is what happened to Esther¦229127. (Hegai was the overseer of the women.)\n",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦229109"
+     ]
+    },
+    " when¦229110 the¦229113 king’s¦229113 command and¦229114 decree became known, many¦229117 young¦229116 women¦229116 were¦229115 being brought into¦229122 the¦229124 capital city of¦229124 Shushan¦229120 and placed under Hegay’s¦229125 charge, and¦229126 this is¦229126 what happened to¦229128 Ester¦229127. (Hegay¦229135 was the¦229136 overseer of¦229136 the¦229137 women¦229137.)\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "EST 2:9"
     },
-    "Hegai was very impressed with¦229141 Esther, and he treated her favourably¦229143. He quickly¦229145 arranged for Esther to receive her beauty¦229148 treatments and her allotment of food, as well as choosing seven¦229155 female servants from the king’s palace¦229161 and assigning¦229158 them to be her personal attendants. He also moved¦229163 Esther and her attendants to the best rooms in¦229141 the harem for virgins.\n",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Hegay¦229139"
+     ]
+    },
+    " was¦229139 very impressed with Ester, and¦229142 he treated her favourably¦229143. He¦229145 quickly¦229145 arranged for ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Ester"
+     ]
+    },
+    " to receive her¦229153 beauty treatments and¦229154 her allotment of food, as well as choosing¦229157 seven¦229155 female servants¦229156 from¦229161 the¦229162 king’s¦229162 palace and¦229163 assigning them to be her personal attendants. He¦229163 also moved¦229163 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Ester¦229163"
+     ]
+    },
+    " and¦229164 her¦229166 attendants to¦229167 the best rooms in the harem for virgins.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "EST 2:10"
     },
-    "(Esther¦229174 hadn’t revealed her family ties or her Jewishness to anyone, because Mordekai had instructed¦229183 her not to.)\n"
+    "(Ester¦229174 hadn’t revealed her¦229177 family ties or her¦229180 Jewishness to anyone, because¦229181 Mordekai¦229182 had¦229183 instructed¦229183 her not¦229186 to.)\n"
    ]
   },
   {
@@ -800,7 +1122,15 @@
      "number": "11",
      "sid": "EST 2:11"
     },
-    "Every day Mordekai would walk¦229195 around in¦229209 front¦229196 of the courtyard¦229197 of the women’s¦229200 harem to find out ",
+    "Every¦229190 day Mordekai¦229194 would walk¦229195 around¦229195 in¦229196 front¦229196 of¦229196 the¦229197 courtyard¦229197 of¦229197 the¦229200 women’s¦229200 harem to¦229201 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈find out"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -808,7 +1138,7 @@
       "from others"
      ]
     },
-    " how Esther¦229205 was doing and¦229190 how she was being treated.\n"
+    " how Ester¦229205 was doing¦229208 and¦229206 how she was¦229208 being treated.\n"
    ]
   },
   {
@@ -821,7 +1151,7 @@
      "number": "12",
      "sid": "EST 2:12"
     },
-    "Each young¦229213 woman¦229213 would get twelve months of beauty¦229233 treatment¦229233 according¦229224 to the ",
+    "Each young woman would get¦229211 twelve months of¦229222 beauty treatment according¦229224 to¦229224 the ",
     {
      "type": "char",
      "marker": "add",
@@ -829,7 +1159,7 @@
       "Persian"
      ]
     },
-    " law for women—there would be six months of applying oil¦229236 of myrrh¦229237, then¦229211 six months of perfumes¦229240 and¦229211 other lotions ",
+    " law for women¦229225—there would be¦229231 six¦229234 months¦229235 of applying oil¦229236 of¦229236 myrrh¦229237, then six months of perfumes and other lotions ",
     {
      "type": "char",
      "marker": "add",
@@ -837,28 +1167,36 @@
       "designed for"
      ]
     },
-    " women. Then¦229211 their¦229233 turn would come, one at¦229211 a time¦229232, to be taken to King¦229219 Ahasuerus¦229220.\n",
+    " women. Then their turn¦229212 would come¦229215, one at a time¦229232, to be taken to King¦229219 Ahashverosh¦229220 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus¦229220/Xerxes¦229220)"
+     ]
+    },
+    ".\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "EST 2:13"
     },
-    "The¦229250 young¦229245 woman¦229245 was allowed to take¦229257 whatever she wanted from the harem¦229259 when she went to the king’s¦229264 house¦229263.\n",
+    "The¦229245 young¦229245 woman¦229245 was¦229246 allowed to¦229247 take whatever she¦229254 wanted from¦229259 the harem when¦229244 she went to¦229261 the king’s house.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "EST 2:14"
     },
-    "She’d be taken across in the evening¦229266, and in the morning¦229270 she’d be led out to the other harem which was for the concubines¦229285. (That harem was overseen by Shaashgaz¦229281, another castrated royal guardian.) The women¦229276 taken there wouldn’t go again¦229289 to the king’s house¦229275 unless he had especially liked them and summoned¦229299 her back by name¦229300.\n"
+    "She’d be taken across in¦229266 the evening¦229266, and¦229270 in¦229270 the morning¦229270 she’d¦229271 be¦229272 led out to¦229273 the other harem which was for the¦229285 concubines¦229285. (That harem was overseen by Sha’ashgaz¦229281, another castrated¦229282 royal guardian.) The¦229276 women¦229276 taken there wouldn’t go¦229288 again¦229289 to¦229290 the¦229292 king’s¦229292 house¦229275 unless he¦229296 had especially liked them and¦229299 summoned¦229299 her back by¦229300 name¦229300.\n"
    ]
   },
   {
    "type": "para",
    "marker": "s1",
    "content": [
-    "Esther becomes queen\n"
+    "Ester becomes queen\n"
    ]
   },
   {
@@ -871,21 +1209,44 @@
      "number": "15",
      "sid": "EST 2:15"
     },
-    "Now Esther was the daughter of Mordekai’s uncle¦229309, Abihail¦229308, from whom Mordekai had adopted her as his own daughter. When¦229302 it was her turn to go to the king, she didn’t¦229320 ask for anything¦229322 other than what Hegai¦229329, the king’s trusted official in¦229302 charge of the harem, had advised, and¦229302 everyone¦229333 who saw Esther liked her.\n",
+    "Now Ester¦229305 was the¦229306 daughter¦229306 of¦229306 Mordekai’s uncle¦229309, Avihayil¦229308, from whom¦229311 Mordekai¦229310 had¦229312 adopted her as his own daughter. When¦229302 it was her turn¦229303 to¦229316 go¦229316 to¦229317 the¦229319 king¦229319, she¦229321 didn’t¦229320 ask¦229328 for anything¦229322 other than what Hegay¦229329, the¦229332 king’s¦229332 trusted official ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈in¦229339 charge of¦229333"
+     ]
+    },
+    " the¦229334 harem, had advised, and¦229335 everyone¦229340 who¦229342 saw¦229342 Ester liked her¦229342.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "EST 2:16"
     },
-    "So¦229344 Esther¦229345 was taken¦229344 to King¦229348 Ahasuerus¦229349 at¦229354 his royal palace in January¦229359, in the seventh¦229362 year¦229360 of his reign¦229363,\n",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦229344"
+     ]
+    },
+    " Ester¦229345 was¦229344 taken¦229344 to¦229346 King¦229348 Ahashverosh¦229349 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus¦229349/Xerxes¦229349)"
+     ]
+    },
+    " at his¦229353 royal palace¦229352 in January, in the seventh year¦229360 of¦229363 his¦229363 reign¦229363,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "EST 2:17"
     },
-    "and the king¦229366 loved¦229365 Esther¦229369 more than any of the other women. He treated her more kindly and more favourably¦229375 than any of the other young women ",
+    "and¦229365 the¦229366 king¦229366 loved¦229365 Ester¦229369 more than¦229370 any of the¦229372 other women¦229372. He treated her more kindly and more favourably than¦229378 any of the¦229380 other young women ",
     {
      "type": "char",
      "marker": "add",
@@ -893,7 +1254,7 @@
       "who had become his concubines"
      ]
     },
-    ". He put a royal¦229384 crown¦229382 on¦229385 her head¦229385 and made her the ",
+    ". He¦229381 put¦229381 a¦229382 royal¦229384 crown¦229382 on¦229385 her¦229385 head¦229385 and¦229386 made¦229386 her¦229386 the ",
     {
      "type": "char",
      "marker": "add",
@@ -908,7 +1269,7 @@
      "number": "18",
      "sid": "EST 2:18"
     },
-    "Then¦229390 the king¦229391 hosted a large celebration and invited all his officials¦229396 and servants¦229397 to a feast to celebrate Esther¦229400 ",
+    "Then¦229390 the¦229391 king¦229391 hosted a¦229392 large¦229393 celebration and invited all¦229394 his¦229396 officials¦229396 and¦229397 servants¦229397 to a feast¦229399 to celebrate Ester¦229400 ",
     {
      "type": "char",
      "marker": "add",
@@ -916,7 +1277,7 @@
       "becoming queen"
      ]
     },
-    ". He proclaimed that this would be a time to celebrate for people in all of the provinces¦229402 of his empire when they wouldn’t have to pay taxes, and he gave¦229404 ",
+    ". He declared that this would be a¦229401 time to celebrate for¦229402 people in all of the provinces¦229402 of his empire when they wouldn’t have to pay taxes, and¦229404 he¦229404 gave¦229404 ",
     {
      "type": "char",
      "marker": "add",
@@ -924,14 +1285,22 @@
       "many"
      ]
     },
-    " generous gifts.\n"
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈generous"
+     ]
+    },
+    " gifts.\n"
    ]
   },
   {
    "type": "para",
    "marker": "s1",
    "content": [
-    "Mordekai and Esther earn the king’s favour\n"
+    "Mordekai and Ester earn the king’s favour\n"
    ]
   },
   {
@@ -955,10 +1324,18 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "Later on¦229409,"
+      "Later on,"
      ]
     },
-    " King¦229416 Ahasuerus had ",
+    " King Ahashverosh ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus/Xerxes)"
+     ]
+    },
+    " had ",
     {
      "type": "char",
      "marker": "add",
@@ -974,7 +1351,15 @@
       "to Shushan"
      ]
     },
-    ". During this time, Mordekai ",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Susa)"
+     ]
+    },
+    ". During this time, Mordekai¦229412 ",
     {
      "type": "char",
      "marker": "add",
@@ -982,7 +1367,7 @@
       "had been given a position by the king so"
      ]
     },
-    " he sat ",
+    " he sat¦229413 ",
     {
      "type": "char",
      "marker": "add",
@@ -990,14 +1375,14 @@
       "there"
      ]
     },
-    " at¦229409 the king’s¦229416 gate¦229414.\n",
+    " at¦229414 the¦229414 king’s gate¦229414.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "20",
      "sid": "EST 2:20"
     },
-    "Esther¦229419 had still not told¦229426 anyone that ",
+    "Ester¦229419 had still not told¦229420 anyone that ",
     {
      "type": "char",
      "marker": "add",
@@ -1005,7 +1390,7 @@
       "she was Jewish"
      ]
     },
-    " because Mordekai had warned her¦229421 not to tell anyone. ",
+    " because Mordekai had warned her not to tell anyone. ",
     {
      "type": "char",
      "marker": "add",
@@ -1013,7 +1398,15 @@
       "What’s more,"
      ]
     },
-    " she continued to follow all of Mordekai’s instructions¦229426, just as she had done when she was still under his guardianship¦229437.\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*she¦229428"
+     ]
+    },
+    " continued to follow all of¦229431 Mordekai’s¦229432 instructions, just¦229435 as¦229435 she¦229436 had¦229436 done¦229434 when she was¦229436 still under his guardianship¦229437.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -1033,15 +1426,23 @@
      "number": "21",
      "sid": "EST 2:21"
     },
-    "One day when Mordekai was ",
+    "One ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "on¦229445 duty"
+      "#day¦229441"
      ]
     },
-    " at¦229445 the king’s gate¦229445, two of the king’s guards¦229455 who protected the doorway ",
+    " when¦229443 Mordekai¦229443 was¦229444 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "on duty"
+     ]
+    },
+    " at¦229445 the¦229445 king’s gate¦229445, two¦229451 of¦229451 the¦229454 king’s¦229454 guards¦229455 who protected the¦229456 doorway¦229456 ",
     {
      "type": "char",
      "marker": "add",
@@ -1049,21 +1450,29 @@
       "to the king’s private rooms"
      ]
     },
-    " became angry¦229448 with¦229445 the king and so they planned to assassinate King¦229447 Ahasuerus¦229461. (Their names were Bigthan¦229449 and Teresh¦229450.)\n",
+    " became angry¦229448 with the¦229453 king and¦229457 so they¦229457 planned to¦229458 assassinate King¦229460 Ahashverosh¦229461. (Their names were Bigtan¦229449 and¦229450 Teresh¦229450.)\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "22",
      "sid": "EST 2:22"
     },
-    "But¦229463 when Mordekai heard what they were planning, he told Queen Esther¦229467 about it and¦229469 she told the king¦229471, explaining that Mordekai had given her the information.\n",
+    "But when Mordekai¦229465 heard what they were planning, he¦229466 told¦229466 Queen¦229468 Ester¦229470 about¦229472 it and ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*she"
+     ]
+    },
+    " told¦229469 the¦229471 king¦229471, explaining that Mordekai¦229473 had given her the information.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "23",
      "sid": "EST 2:23"
     },
-    "When¦229475 the matter¦229485 was investigated¦229475 and ",
+    "When¦229475 the¦229476 matter¦229476 was¦229477 investigated¦229475 and¦229478 ",
     {
      "type": "char",
      "marker": "add",
@@ -1071,7 +1480,7 @@
       "the facts"
      ]
     },
-    " discovered, both conspirators were impaled on¦229484 ",
+    " discovered¦229477, both¦229479 conspirators were impaled on¦229480 ",
     {
      "type": "char",
      "marker": "add",
@@ -1079,7 +1488,7 @@
       "sharpened wooden"
      ]
     },
-    " poles, and in the presence of the king¦229488, the incident was recorded in the royal record of events.\n"
+    " poles, and in the presence¦229487 of¦229487 the¦229488 king¦229488, the incident was recorded¦229483 in¦229484 the¦229484 royal record¦229484 of events.\n"
    ]
   },
   {
@@ -1092,7 +1501,7 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "Haman plans to annihilate the Jews\n"
+    "Haman plans to annihilate the Yehudim\n"
    ]
   },
   {
@@ -1112,7 +1521,15 @@
      "number": "1",
      "sid": "EST 3:1"
     },
-    "Some time later, King¦229496 Ahasuerus¦229497 promoted Haman, one of his officials (and the son of Hammedatha¦229503 ",
+    "Some time later¦229491, King¦229496 Ahashverosh¦229497 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus¦229497/Xerxes¦229497)"
+     ]
+    },
+    " promoted¦229505 Haman¦229500, one of his officials (and the¦229501 son¦229501 of¦229501 Hamedata¦229503 ",
     {
      "type": "char",
      "marker": "add",
@@ -1120,36 +1537,67 @@
       "who was a descendant"
      ]
     },
-    " of Agag). The king¦229496 gave Haman a very important position¦229509—more important than any of his other officials.\n",
+    " of Agag). The¦229504 king gave Haman a very important position—more important than any of¦229509 his¦229509 other officials¦229513.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "EST 3:2"
     },
-    "Then¦229517 the king commanded¦229531 that all his other officials had to bow down in¦229523 front of Haman to honour him, and¦229517 they were doing this at¦229523 the king’s gate¦229523, except for Mordekai who refused to bow down to reverence Haman.\n",
+    "Then¦229517 the¦229520 king¦229520 commanded¦229531 that¦229521 all¦229517 his other officials had to bow¦229526 down¦229526 in front of Haman¦229527 to¦229533 honour him¦229533, and they were doing that at the¦229534 king’s¦229534 gate¦229523, except for¦229528 Mordekai¦229535 who¦229521 refused to bow¦229539 down¦229539 to reverence Haman.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "EST 3:3"
     },
-    "“Why¦229552 are you¦229550 disobeying the king’s command¦229553?” asked the other royal servants¦229542 at¦229546 the king’s gate¦229546.\n",
+    "“Why¦229549 are¦229550 you¦229550 disobeying the¦229553 king’s command¦229553?” asked¦229541 the other royal servants¦229542 at¦229546 the¦229554 king’s¦229554 gate¦229546.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "EST 3:4"
     },
-    "Mordekai told them that it was because he was a Jew ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "(and¦229556 Jews only worship Yahweh)"
+      "@Mordekai"
      ]
     },
-    ". He didn’t¦229562 listen¦229563 to their ",
+    " told¦229573 them that¦229575 it¦229556 was¦229556 because¦229571 he¦229577 was¦229578 a¦229578 Yehudi¦229578 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jew¦229578)"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "(and Yehudim"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jews)"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "only worship Yahweh)"
+     ]
+    },
+    ". He didn’t¦229562 listen¦229563 to¦229564 their ",
     {
      "type": "char",
      "marker": "add",
@@ -1157,21 +1605,37 @@
       "warnings"
      ]
     },
-    " so they told Haman¦229566 about it to see¦229567 if he would tolerate¦229568 Mordekai in¦229557 keeping refusing to bow down.\n",
+    " so¦229565 they¦229565 told¦229565 Haman¦229566 about¦229569 it to¦229567 see¦229567 if he would¦229568 tolerate¦229568 Mordekai¦229570 in keeping refusing to¦229574 bow down.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "EST 3:5"
     },
-    "When¦229580 Haman saw¦229580 that Mordekai would not bow down to him or show him reverence, he¦229589 was furious.\n",
+    "When¦229580 Haman¦229581 saw¦229580 that¦229582 Mordekai¦229585 would not bow¦229587 down¦229587 to¦229588 him or show him reverence, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*he¦229590"
+     ]
+    },
+    " was¦229589 furious.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "EST 3:6"
     },
-    "But¦229593 Haman despised¦229593 the idea of just punishing Mordekai because he’d been told that Mordekai ",
+    "But¦229593 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Haman¦229593"
+     ]
+    },
+    " despised¦229593 the idea of¦229594 just punishing Mordekai¦229598 because¦229599 he’d been¦229599 told¦229602 that Mordekai ",
     {
      "type": "char",
      "marker": "add",
@@ -1179,7 +1643,7 @@
       "didn’t bow to him because"
      ]
     },
-    " Mordekai was a Jew. So¦229593 Haman¦229609 decided to annihilate¦229610 all of Mordekai’s people, i.e., all the Jews throughout the kingdom¦229619 of Ahasuerus¦229620.\n"
+    " Mordekai was a Yehudi. So¦229608 Haman¦229609 decided to¦229610 annihilate¦229610 all¦229613 of¦229613 Mordekai’s people, i.e., all the¦229615 Yehudim¦229615 throughout Ahashverosh’s¦229620 kingdom¦229619.\n"
    ]
   },
   {
@@ -1192,15 +1656,15 @@
      "number": "7",
      "sid": "EST 3:7"
     },
-    "In early April of the twelfth year of King¦229633 Ahasuerus’ reign, Haman¦229640 got his servants to throw¦229635 dice ",
+    "In¦229624 early April of the twelfth year¦229630 of King¦229633 Ahashverosh’¦229634 reign, Haman¦229640 got his servants to¦229643 throw¦229635 dice ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "to select the best month and the best day to kill the Jews"
+      "to select the best month and the best day to kill the Yehudim"
      ]
     },
-    ", and the 13th of March was chosen.\n"
+    ", and¦229644 the¦229651 13th of¦229651 March was chosen.\n"
    ]
   },
   {
@@ -1213,7 +1677,7 @@
      "number": "8",
      "sid": "EST 3:8"
     },
-    "Then Haman¦229656 ",
+    "Then¦229655 Haman¦229656 ",
     {
      "type": "char",
      "marker": "add",
@@ -1221,7 +1685,7 @@
       "went to"
      ]
     },
-    " King¦229657 Ahasuerus¦229658 and said, “",
+    " King¦229657 Ahashverosh¦229658 and said¦229655, “",
     {
      "type": "char",
      "marker": "add",
@@ -1229,22 +1693,30 @@
       "Your Majesty,"
      ]
     },
-    " there¦229659 is a certain group of people who live among¦229665 the other peoples in every province¦229668 of your empire. They have their¦229670 own set of laws, so they don’t¦229682 obey your laws. It’s not good for you to allow them to continue to live in your empire.\n",
+    " there¦229659 is¦229659 a¦229660 certain group of people¦229660 who live among¦229665 the¦229666 other peoples¦229666 in¦229667 every¦229667 province¦229668 of¦229668 your¦229669 empire. They have their own set of¦229669 laws¦229670, so¦229675 they don’t obey your laws¦229677. It’s not¦229679 good for¦229681 you to¦229685 allow them¦229685 to continue to live in your empire.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "EST 3:9"
     },
-    "Your majesty, if you approve of this plan, then write a decree saying that all of the Jews must¦229700 be destroyed¦229694. ",
+    "Your majesty, if¦229687 you approve of this plan, then¦229695 write¦229693 a decree saying that all of the¦229691 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "When they’re dead, we can take all of their¦229694 possessions, and¦229695 from that"
+      "@Yehudim¦229693"
      ]
     },
-    " I will give 300 tons of silver¦229699 to your administrators for them to put into your royal treasuries¦229709.”\n"
+    " must be¦229693 destroyed¦229694. ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "When they’re dead, we can take all of their possessions, and from that"
+     ]
+    },
+    " I¦229700 will¦229700 give 300 tons of¦229697 silver¦229699 to your administrators for them to put into¦229707 your royal treasuries¦229709.”\n"
    ]
   },
   {
@@ -1261,10 +1733,10 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "This seemed sensible to"
+      "That seemed sensible to"
      ]
     },
-    " the king so he removed¦229712 his signet ring from his finger and¦229712 he gave¦229719 it",
+    " the¦229713 king¦229713 so¦229712 he¦229712 removed¦229712 his¦229716 signet¦229716 ring from¦229717 his¦229718 finger and¦229719 he¦229719 gave¦229719 it¦229719",
     {
      "type": "note",
      "marker": "f",
@@ -1287,14 +1759,14 @@
      ],
      "caller": "+"
     },
-    " to Haman (the son of Hammedatha¦229723, the Agagite¦229724, the adversary of the Jews).\n",
+    " to¦229720 Haman¦229720 (the¦229721 son¦229721 of¦229721 Hamedata¦229723, the¦229724 Agagi¦229724, the¦229725 adversary of¦229725 the¦229726 Yehudim¦229726).\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "EST 3:11"
     },
-    "The king¦229729 told Haman¦229730, “You can keep the money¦229731 for yourself, and¦229728 you can do whatever you want to do with¦229738 those people¦229734.”\n"
+    "The¦229729 king¦229729 told¦229728 Haman¦229730, “You can keep the¦229731 money¦229731 for¦229733 yourself, and you can do whatever you want to do with those people¦229734.”\n"
    ]
   },
   {
@@ -1307,7 +1779,7 @@
      "number": "12",
      "sid": "EST 3:12"
     },
-    "On the thirteenth day¦229747 of that same month¦229743, Haman called in the royal scribes, and he dictated a letter to them. He told¦229754 them to send copies to the royal officials¦229771, the governors¦229762 of each province, and the leaders of each people group ",
+    "On the¦229741 thirteenth day¦229747 of¦229741 that same month¦229743, Haman called¦229740 in the¦229744 royal scribes, and¦229749 he dictated a letter to¦229750 them. He¦229754 told¦229754 them to send copies to the royal officials¦229771, the¦229762 governors¦229762 of each province, and the¦229771 leaders¦229771 of¦229771 each people group ",
     {
      "type": "char",
      "marker": "add",
@@ -1315,21 +1787,53 @@
       "within the empire"
      ]
     },
-    ". The scribes translated the letter so it could be sent to each province using its own alphabet and to each people group in its own language¦229779. To show that he was sending the letter under the king’s own authority, Haman sealed¦229784 each copy of the letter with¦229743 the ring that had the king’s official seal on¦229743 it.\n",
+    ". The scribes translated the letter so it could be sent to each province using its own alphabet and to each people group in its¦229779 own language¦229779. To show that he was sending the letter under the¦229781 king’s¦229781 own ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈authority"
+     ]
+    },
+    ", Haman sealed¦229784 each copy of the letter with¦229785 the¦229785 ring that had the¦229786 king’s¦229786 official seal on it.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "EST 3:13"
     },
-    "Couriers delivered the letters to the officials in every province¦229796 in the empire. The letters said to completely destroy¦229798 all the Jews, including¦229800 the children and¦229788 women¦229811, on¦229790 a single day. That was to be the thirteenth day of March early in the following year. The letters also stated that those who killed the Jews could take everything that belonged to them.\n",
+    "Couriers¦229791 delivered the letters to¦229792 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "the officials in"
+     ]
+    },
+    " every¦229794 province¦229796 in the¦229796 empire. The¦229797 letters said to completely destroy¦229800 all¦229803 the¦229805 Yehudim¦229805, including¦229807 the children and¦229811 women¦229811, on¦229812 a single¦229813 day¦229814. That¦229820 was to be the¦229822 thirteenth day of¦229822 March early in the following year. The letters also¦229824 stated that those who killed¦229799 the Yehudim could take¦229825 everything that belonged to them.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "EST 3:14"
     },
-    "The letter told the officials to display¦229835 copies where everyone could see them—that way all the people¦229838 in every single province¦229833 would know that the king had commanded this, and¦229834 they could get ready¦229840 for when the day¦229841 came.\n"
+    "The¦229827 letter told ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "the officials"
+     ]
+    },
+    " to¦229829 display¦229835 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#copies¦229827"
+     ]
+    },
+    " where everyone could see them—that way all the¦229828 people¦229838 in¦229831 every¦229831 single province would know that the¦229842 king had commanded this¦229842, and they could get ready¦229840 for¦229841 when the day¦229841 came.\n"
    ]
   },
   {
@@ -1342,7 +1846,15 @@
      "number": "15",
      "sid": "EST 3:15"
     },
-    "So couriers¦229844 hurried¦229846 off with¦229847 the letters as the king had commanded¦229847. A herald in the capital city¦229857 of Shushan also proclaimed what the letters said. Then the king and Haman¦229854 relaxed and drank together, but¦229849 there was ",
+    "So couriers¦229844 hurried¦229846 off with the¦229847 letters as the¦229848 king¦229848 had commanded. A herald in the capital city¦229857 of¦229858 Shushan¦229851 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Susa¦229851)"
+     ]
+    },
+    " also declared what the¦229852 letters said. Then¦229853 the¦229853 king¦229853 and¦229854 Haman¦229854 relaxed and drank¦229856 together, but there was¦229859 ",
     {
      "type": "char",
      "marker": "add",
@@ -1355,7 +1867,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "about how all of this would work out"
+      "about how all of that would work out"
      ]
     },
     ".\n"
@@ -1391,7 +1903,31 @@
      "number": "1",
      "sid": "EST 4:1"
     },
-    "When Mordekai found out about what had been done, he tore his clothes¦229874 and dressed in sackcloth¦229876 and ",
+    "When¦229862 Mordekai¦229862 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈found¦229863 out"
+     ]
+    },
+    " about¦229874 what had¦229869 been¦229869 done¦229869, ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*he¦229871"
+     ]
+    },
+    " tore¦229870 his¦229874 clothes¦229874 and¦229875 dressed in ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "coarse, abrasive"
+     ]
+    },
+    " sackcloth¦229876 and¦229877 ",
     {
      "type": "char",
      "marker": "add",
@@ -1407,21 +1943,37 @@
       "over himself (as a sign of mourning or distress)"
      ]
     },
-    " and went¦229878 out into the city¦229880 centre, wailing loudly¦229883 and bitterly¦229884.\n",
+    " and¦229878 went¦229878 out¦229878 into¦229879 the¦229880 city¦229880 centre¦229879, wailing loudly¦229883 and¦229884 bitterly¦229884.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "EST 4:2"
     },
-    "But¦229886 no one was wearing mourning garb was allowed inside the king’s gate, so when Mordekai reached the gate, he had to stay just outside it.\n",
+    "But no one was wearing mourning garb was allowed inside the king’s gate, so when ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Mordekai"
+     ]
+    },
+    " reached the gate, he¦229886 had to stay just outside it.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "EST 4:3"
     },
-    "In every province¦229904 of the empire, the letter that said to destroy the Jews was publicly displayed and when the Jews heard about it¦229921, they were incredibly upset. They skipped meals and wailed loudly, and many of them also wore sackcloth¦229919 and threw ashes¦229920 on themselves and lay on the ground.\n"
+    "In every¦229902 province of the¦229908 empire, the¦229910 letter that said to¦229915 destroy the Yehudim¦229915 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jews¦229915)"
+     ]
+    },
+    " was publicly displayed and¦229916 when¦229917 the Yehudim heard about it, they were incredibly upset. They skipped meals and¦229918 wailed¦229918 loudly, and many¦229902 of them also wore sackcloth¦229919 and¦229920 threw ashes¦229920 on themselves and lay on the¦229922 ground.\n"
    ]
   },
   {
@@ -1442,7 +1994,7 @@
       "Queen"
      ]
     },
-    " Esther’s¦229929 young female attendants came¦229924 with her guardians and¦229924 told her ",
+    " Ester’s¦229929 young female attendants came¦229924 with her¦229930 guardians and¦229931 told¦229931 her¦229932 ",
     {
      "type": "char",
      "marker": "add",
@@ -1450,21 +2002,44 @@
       "what was going on outside"
      ]
     },
-    ", even the queen¦229934 became very scared. She sent¦229936 Mordekai some good clothes¦229938 to wear instead of the sackcloth¦229943, but¦229924 he wouldn’t accept¦229946 them.\n",
+    ", even the¦229934 queen¦229934 became very¦229935 scared. She¦229936 sent¦229936 Mordekai¦229941 some good clothes¦229938 to¦229942 wear instead of the sackcloth¦229943, but¦229945 he¦229946 wouldn’t accept¦229946 them¦229946.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "EST 4:5"
     },
-    "The king¦229952 had assigned some of the royal guardians to Esther personally, so Esther called¦229948 for one of them—a man named Hathak¦229950. She told¦229956 him to go out and speak with Mordekai and find out what he was so distressed about.\n",
+    "The¦229952 king¦229952 had assigned some of the royal guardians to ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Ester"
+     ]
+    },
+    " personally, so¦229948 Ester¦229949 called¦229948 for one¦229951 of¦229951 them—a man named Hatak. She¦229956 told¦229956 him¦229956 to go out and speak with Mordekai¦229959 and ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈find out"
+     ]
+    },
+    " what¦229961 he was¦229963 so¦229964 distressed about¦229964.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "EST 4:6"
     },
-    "So¦229970 Hathak¦229971 went¦229970 out to ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦229970"
+     ]
+    },
+    " Hatak went¦229970 out¦229970 to¦229972 ",
     {
      "type": "char",
      "marker": "add",
@@ -1472,14 +2047,14 @@
       "talk to"
      ]
     },
-    " Mordekai¦229974 who was out in the plaza in front¦229980 of the king’s¦229983 gate¦229981.\n",
+    " Mordekai¦229974 who was out in the¦229977 plaza¦229977 in¦229980 front¦229980 of¦229980 the¦229983 king’s¦229983 gate¦229981.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "EST 4:7"
     },
-    "Mordekai told him everything that¦229998 Haman was planning to do and¦229985 even told him how much money¦229997 Haman had said the king would get for his treasuries¦230004 if ",
+    "Mordekai¦229988 told¦229985 him¦229987 everything that¦229992 Haman was planning to¦229993 do and even told him how much money¦229997 Haman¦230000 had¦229999 said¦229999 the¦230005 king¦230005 would get for¦230006 his treasuries¦230004 if ",
     {
      "type": "char",
      "marker": "add",
@@ -1487,19 +2062,50 @@
       "the king commanded people"
      ]
     },
-    " to kill¦230009 all the Jews.\n",
+    " to¦230009 kill¦230009 all¦229990 the¦229996 Yehudim.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "EST 4:8"
     },
-    "Mordekai also gave¦230022 Hathak a copy of the letter that the announcers had read out loud in¦230020 Shushan¦230020, that said that people must kill all the Jews. He told Hathak to show the letter to Esther¦230027 so that she would know exactly what it said and also told him to urge her to go to the king¦230035 personally and to beg him desperately to save her people ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "from destruction¦230021"
+      "@Mordekai"
+     ]
+    },
+    " also¦230011 gave¦230022 Hatak a copy¦230013 of¦230013 the¦230014 letter that the¦230016 announcers had¦230019 read out loud in¦230020 Shushan¦230020 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Susa¦230020)"
+     ]
+    },
+    ", that said that people must kill all the ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yehudim¦230021"
+     ]
+    },
+    ". He told Hatak to¦230024 show¦230024 the letter to Ester¦230027 so that she would know ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "exactly"
+     ]
+    },
+    " what it said and¦230028 also¦230028 told¦230028 him to¦230029 urge her¦230029 to¦230032 go¦230032 to¦230033 the¦230035 king¦230035 personally and to beg him desperately to save her¦230043 people ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "from destruction"
      ]
     },
     ".\n",
@@ -1509,26 +2115,65 @@
      "number": "9",
      "sid": "EST 4:9"
     },
-    "So¦230045 Hathak¦230046 returned to the queen and¦230047 told her what Mordekai had said,\n",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦230045"
+     ]
+    },
+    " Hatak returned¦230045 to the queen and¦230047 told¦230047 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*her¦230048"
+     ]
+    },
+    " what Mordekai¦230051 had said,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "EST 4:10"
     },
-    "and¦230056 Esther¦230054 told¦230056 him¦230056 to go back to Mordekai with this message:\n",
+    "and¦230053 Ester¦230054 told¦230053 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*him"
+     ]
+    },
+    " to go back to Mordekai¦230059 with this message:\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "EST 4:11"
     },
-    "“There’s a law about going to the king that applies to everyone¦230071 in the kingdom, both men and women. If anyone¦230089 goes into the inner¦230084 courtyard¦230083 of the palace, where the king can see them, and the king has not summoned them, that person will be executed. Only if the king holds¦230094 out his golden¦230101 scepter¦230100 to them, then they will live. (Everyone¦230089 in the whole empire knows this law.) The king hasn’t called for me in over a month",
+    "“There’s a law about going to the¦230064 king¦230064 that¦230070 applies to everyone¦230071 in the kingdom, both ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      ", and if I go in without being summoned, I could be put to death¦230091"
+      "#men¦230073"
+     ]
+    },
+    " and¦230074 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#women¦230074"
+     ]
+    },
+    ". If anyone goes¦230076 into¦230081 the¦230084 inner¦230084 courtyard¦230083 of the¦230067 palace, where the¦230068 king¦230068 can see¦230069 them, and the¦230080 king¦230080 has not¦230086 summoned¦230088 them, that person¦230065 will be¦230089 executed¦230091. Only¦230092 if the king holds¦230094 out¦230094 his golden¦230101 scepter¦230100 to them, then¦230102 they will¦230102 live¦230102. (Everyone in the¦230112 whole empire knows¦230069 this¦230113 law.) The king hasn’t called for me in over a month",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ", and if I go in without being summoned, I could be put to death"
      ]
     },
     ".”\n"
@@ -1548,32 +2193,48 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "So¦230117 Hathak"
+      "≈So¦230117"
      ]
     },
-    " went back to Mordekai and¦230117 told him what the queen had said.\n",
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "Hatak"
+     ]
+    },
+    " went back to¦230118 Mordekai¦230118 and told¦230117 him what the¦230120 queen had said.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "EST 4:13"
     },
-    "Mordekai told ",
+    "Mordekai¦230125 told¦230124 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "Hathak"
+      "Hatak"
      ]
     },
-    " to tell this to Esther¦230129: “Don’t imagine¦230132 that just because you live there in¦230133 the king’s palace that you’ll be safe when they kill all the other Jews.\n",
+    " to¦230126 tell this to¦230127 Ester¦230129: “Don’t¦230130 imagine¦230132 that just because you live there in¦230133 the¦230137 king’s¦230137 palace¦230135 that you’ll be safe when¦230124 they kill all¦230138 the¦230140 other Yehudim¦230140.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "EST 4:14"
     },
-    "If you say nothing at¦230147 all now, someone from some other place¦230153 will rescue the Jews, but¦230150 you and your relatives will not survive. Who knows, perhaps it was for a time just like this that ",
+    "If you¦230146 say nothing at¦230147 all now, someone from¦230153 some other place¦230153 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈will rescue¦230150"
+     ]
+    },
+    " the Yehudim¦230152, but¦230155 you¦230155 and¦230156 your¦230158 relatives will¦230159 not survive. Who¦230160 knows¦230161, perhaps it was for¦230164 a¦230164 time¦230164 just like¦230165 this¦230165 that ",
     {
      "type": "char",
      "marker": "add",
@@ -1581,7 +2242,7 @@
       "God allowed"
      ]
     },
-    " you to become queen¦230167?”\n"
+    " you¦230166 to¦230167 become queen¦230167?”\n"
    ]
   },
   {
@@ -1594,14 +2255,38 @@
      "number": "15",
      "sid": "EST 4:15"
     },
-    "Then¦230169 Esther¦230170 sent this reply¦230171 to Mordekai¦230174:\n",
+    "Then¦230169 Ester¦230170 sent this reply to Mordekai¦230174:\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "16",
      "sid": "EST 4:16"
     },
-    "“Go and assemble all the Jews who live here in Shushan¦230184, and tell them to fast and pray for my sake—tell them to not eat or drink¦230192 anything for three days and three nights¦230195. My female attendants and I will also fast in the same way. At the end of the three days, I will go in to talk to the king even though it’s against the law. I will do that¦230208 even if it costs me my life.”\n"
+    "“Go¦230176 and assemble¦230177 all¦230180 the¦230182 Yehudim¦230182 who¦230183 live here in¦230184 Shushan¦230184 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Susa¦230184)"
+     ]
+    },
+    ", and¦230185 tell them to fast¦230185 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "and pray"
+     ]
+    },
+    " for my sake—tell them to not¦230187 eat¦230189 or drink¦230192 anything for three¦230193 days¦230194 and three nights¦230195. My female attendants and I¦230201 will¦230201 also¦230197 fast¦230201 in¦230203 the same way. At the end of the three days, I¦230204 will¦230204 go¦230204 in ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "to talk"
+     ]
+    },
+    " to¦230205 the¦230207 king¦230207 even though it’s against the¦230211 law¦230211. I will do that even if it costs me my life.”\n"
    ]
   },
   {
@@ -1614,7 +2299,14 @@
      "number": "17",
      "sid": "EST 4:17"
     },
-    "So¦230216 Mordekai¦230217 went¦230216 and¦230218 did everything¦230219 that Esther¦230224 had told¦230222 him to do.\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦230216"
+     ]
+    },
+    " Mordekai¦230217 went¦230216 and¦230218 did¦230218 everything that¦230220 Ester¦230224 had¦230222 told¦230222 him¦230223 to do.\n"
    ]
   },
   {
@@ -1627,7 +2319,7 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "Esther goes to the king without an invitation\n"
+    "Ester goes to the king without an invitation\n"
    ]
   },
   {
@@ -1647,7 +2339,7 @@
      "number": "1",
      "sid": "EST 5:1"
     },
-    "Three days later, the ",
+    "Three days¦230229 later, ",
     {
      "type": "char",
      "marker": "add",
@@ -1655,7 +2347,7 @@
       "Queen"
      ]
     },
-    " Esther¦230232 put on her royal robes¦230231 and ",
+    " Ester¦230232 put¦230231 on¦230231 her royal¦230233 robes and¦230234 ",
     {
      "type": "char",
      "marker": "add",
@@ -1663,14 +2355,30 @@
       "went and"
      ]
     },
-    " stood¦230234 in the inner¦230239 courtyard¦230235 of the palace, across from the king’s house. He was in the royal palace, sitting¦230244 on the royal throne¦230247 and facing the room’s entrance¦230252.\n",
+    " stood¦230234 in¦230235 the¦230235 inner¦230239 courtyard¦230235 of¦230235 the¦230236 palace¦230236, across from the¦230238 king’s¦230238 house. He was in¦230240 the¦230241 royal palace¦230241, sitting¦230244 on¦230245 the¦230247 royal throne¦230247 and facing¦230251 the¦230252 room’s entrance¦230252.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "EST 5:2"
     },
-    "As soon as the king noticed¦230256 Esther standing¦230262 there in¦230263 the courtyard¦230263, he was very pleased to see her. So¦230255 he held out his golden¦230273 scepter to her and Esther came up ",
+    "As soon as the¦230257 king¦230257 noticed Ester¦230260 standing¦230262 there in¦230263 the courtyard¦230263, he ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈was very pleased"
+     ]
+    },
+    " to see¦230256 her. So¦230267 he¦230267 held¦230267 out¦230267 his golden¦230273 scepter to¦230269 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*her¦230269"
+     ]
+    },
+    " and¦230276 Ester¦230277 came¦230276 up ",
     {
      "type": "char",
      "marker": "add",
@@ -1678,14 +2386,14 @@
       "to the throne"
      ]
     },
-    " and touched¦230278 the top of the scepter.\n",
+    " and¦230278 touched¦230278 the¦230279 top¦230279 of¦230279 the¦230280 scepter¦230280.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "EST 5:3"
     },
-    "“Why have you come here, Queen Esther¦230289?” the king¦230285 asked. “What do you want? Tell me, and I’ll give you anything you ask for—even half of the empire.”\n"
+    "“Why have you come here, Queen¦230290 Ester¦230289?” the¦230285 king¦230285 asked. “What¦230286 do you¦230288 want? Tell me, and¦230291 I’ll give¦230298 you anything you ask¦230293 for—even half¦230296 of¦230296 the¦230297 empire.”\n"
    ]
   },
   {
@@ -1698,7 +2406,23 @@
      "number": "4",
      "sid": "EST 5:4"
     },
-    "“If it pleases your majesty,” Esther¦230302 replied, “please come¦230309 with Haman¦230311 today to the banquet¦230315 that¦230316 I’ve¦230318 prepared for you.”\n"
+    "“If¦230303 it pleases¦230308 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%your"
+     ]
+    },
+    " majesty,” Ester¦230302 replied¦230301, “please come¦230309 with Haman¦230311 today to¦230313 the¦230315 banquet¦230315 that¦230316 I’ve¦230318 prepared¦230318 for ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you¦230319"
+     ]
+    },
+    ".”\n"
    ]
   },
   {
@@ -1711,7 +2435,7 @@
      "number": "5",
      "sid": "EST 5:5"
     },
-    "The king said to his servants, “",
+    "The king said¦230321 to his servants, “",
     {
      "type": "char",
      "marker": "add",
@@ -1719,14 +2443,22 @@
       "Go and"
      ]
     },
-    " get Haman” the king told his servants, “and bring¦230323 him quickly¦230323 so that we can do what the queen has asked us.” So¦230321 the king and Haman went¦230332 to the banquet¦230337 that Esther¦230331 had had prepared for them.\n",
+    " get Haman” the¦230322 king¦230322 told his servants, “and bring¦230323 him quickly¦230323 so that we can do¦230327 what the¦230330 queen has asked us.” So¦230332 the¦230333 king¦230333 and¦230334 Haman¦230334 went¦230332 to¦230335 the¦230337 banquet¦230337 that¦230338 Ester¦230341 had had prepared¦230340 for them.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "EST 5:6"
     },
-    "While they were drinking¦230346 wine, the king¦230344 said¦230343 to Esther¦230345, “Now please tell me what you ",
+    "While they were drinking¦230346 wine¦230347, the¦230344 king¦230344 said¦230343 to¦230345 Ester¦230345, “",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "Now"
+     ]
+    },
+    " please tell me what¦230348 you ",
     {
      "type": "char",
      "marker": "add",
@@ -1734,7 +2466,7 @@
       "really"
      ]
     },
-    " want. I’ll give you anything you ask for, no matter how much it is. I truly mean what I am saying.”\n"
+    " want. I’ll give¦230351 you anything you ask¦230355 for, no matter how much it is. I truly mean what I am saying.”\n"
    ]
   },
   {
@@ -1755,14 +2487,38 @@
       "really"
      ]
     },
-    " want.” Esther¦230363 replied.\n",
+    " want.” Ester¦230363 replied.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "EST 5:8"
     },
-    "“Your majesty, if you’re pleased with me and if you’re happy to give me what I want, please come¦230388 with Haman¦230390 to ",
+    "“Your majesty, if¦230368 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you’re¦230370"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈pleased¦230379 with me"
+     ]
+    },
+    " and¦230374 if¦230374 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you’re¦230383"
+     ]
+    },
+    " happy to¦230384 give¦230380 me what I want, please come¦230388 with Haman¦230390 to¦230391 ",
     {
      "type": "char",
      "marker": "add",
@@ -1770,7 +2526,23 @@
       "another"
      ]
     },
-    " banquet¦230393 that¦230394 I’ll prepare for you tomorrow¦230397 and I’ll answer your question then.”\n"
+    " banquet¦230393 that¦230394 I’ll¦230395 prepare¦230395 for¦230396 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you¦230396"
+     ]
+    },
+    " tomorrow¦230397 and I’ll¦230398 answer ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%your¦230398"
+     ]
+    },
+    " question then.”\n"
    ]
   },
   {
@@ -1797,7 +2569,7 @@
      "number": "9",
      "sid": "EST 5:9"
     },
-    "Haman was feeling very happy as he left ",
+    "Haman¦230403 was feeling very happy as he¦230402 left¦230402 ",
     {
      "type": "char",
      "marker": "add",
@@ -1805,21 +2577,37 @@
       "the banquet"
      ]
     },
-    " that day¦230404. But¦230402 then¦230402 he saw¦230409 Mordekai sitting at¦230414 the king’s gate¦230414 and¦230402 noticed¦230409 that Mordekai didn’t¦230416 stand up or show fearful reverence to him. This made Haman furious with¦230414 Mordekai\n",
+    " that day¦230404. But¦230407 then¦230409 he saw¦230409 Mordekai¦230413 sitting at¦230414 the¦230415 king’s¦230415 gate¦230414 and¦230416 noticed that ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Mordekai¦230418"
+     ]
+    },
+    " didn’t stand¦230418 up¦230418 or show fearful reverence to him¦230422. That made Haman¦230424 furious with Mordekai¦230427\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "EST 5:10"
     },
-    "but¦230430 he restrained¦230430 himself¦230430 and went¦230432 home¦230435. Then¦230430 he sent¦230436 for his friends¦230440 and brought¦230437 in his wife, Zeresh¦230443,\n",
+    "but¦230430 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*he¦230431"
+     ]
+    },
+    " restrained¦230430 himself¦230430 and¦230432 went¦230432 home¦230435. Then¦230436 he¦230436 sent¦230436 for his friends¦230440 and¦230437 brought¦230437 in his¦230440 wife¦230444, Zeresh¦230443,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "11",
      "sid": "EST 5:11"
     },
-    "boasting to them about how rich he was and about how many sons he had, and how the king had promoted¦230463 him ",
+    "boasting to¦230447 them¦230447 about how rich he was and¦230453 about¦230453 how many sons¦230454 he had, and how the king had¦230463 promoted¦230463 him ",
     {
      "type": "char",
      "marker": "add",
@@ -1827,21 +2615,37 @@
       "many times"
      ]
     },
-    " and given him a position above¦230464 all of the other officials¦230466 and administrators.\n",
+    " and given him a position above¦230464 all¦230456 of¦230456 the¦230466 other officials¦230466 and¦230467 administrators.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "EST 5:12"
     },
-    "“And that is not all,” Haman¦230471 added. “I was the only one that Queen Esther¦230476 invited to go with the king to a banquet¦230483 that she prepared¦230486 for us today. And she’s also invited only me to go with the king again tomorrow¦230493.\n",
+    "“And¦230470 that is not all,” Haman¦230471 added. “I was the¦230477 only one that Queen¦230477 Ester¦230476 invited to go with¦230478 the¦230480 king¦230480 to¦230481 a banquet¦230483 that¦230484 she¦230486 prepared¦230486 for¦230487 us today. And¦230491 she’s also¦230491 invited¦230495 only me to¦230497 go with¦230498 the¦230500 king¦230500 again tomorrow¦230493.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "13",
      "sid": "EST 5:13"
     },
-    "However, I still can’t¦230505 be happy as long as I keep seeing¦230513 that Jew, Mordekai, sitting¦230518 there at¦230519 the king’s¦230520 gate¦230519.”\n"
+    "However, I ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "still"
+     ]
+    },
+    " can’t¦230505 be¦230506 happy as long as I¦230512 keep seeing¦230513 that¦230504 Yehudi¦230517 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jew¦230517)"
+     ]
+    },
+    ", Mordekai¦230516, sitting¦230518 there at¦230519 the¦230520 king’s¦230520 gate¦230519.”\n"
    ]
   },
   {
@@ -1854,14 +2658,14 @@
      "number": "14",
      "sid": "EST 5:14"
     },
-    "Then Zeresh¦230524 his wife and all his friends¦230528 said to him, “Get them to install 25-metre high pole, and in¦230535 the morning¦230535 get permission from the king, and get them to impale Mordekai on¦230535 it. Then you can go with¦230535 the king to the banquet¦230553 and enjoy yourself.”\n"
+    "Then¦230522 Zeresh¦230524 his¦230525 wife¦230525 and¦230526 all¦230526 his¦230528 friends¦230528 said¦230522 to¦230523 him¦230523, “Get them to install 25-metre high¦230532 pole, and¦230535 in¦230535 the morning¦230535 get permission from the¦230538 king¦230538, and¦230539 get them to impale Mordekai¦230542 on¦230543 it¦230543. Then¦230544 you can go¦230544 with¦230546 the¦230548 king¦230548 to¦230549 the¦230553 banquet¦230553 and¦230555 enjoy yourself.”\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "That idea sounded good to Haman¦230558, so he got the pole erected.\n"
+    "That idea sounded good¦230555 to¦230557 Haman¦230558, so¦230559 he¦230559 got the¦230560 pole erected.\n"
    ]
   },
   {
@@ -1894,28 +2698,28 @@
      "number": "1",
      "sid": "EST 6:1"
     },
-    "That¦230570 night¦230563 the king was unable to sleep¦230566 so he ordered the royal records¦230573 to be fetched and to be read to him.\n",
+    "That¦230564 night¦230563 the¦230566 king was unable to sleep¦230566 so¦230568 he¦230568 ordered¦230568 the royal records to be fetched and¦230576 to be read¦230577 to¦230578 him.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "EST 6:2"
     },
-    "The records¦230582 mentioned that Bigthan¦230588 and¦230581 Teresh¦230589, two of the royal guardians¦230593 who protected the doorway to the king’s private quarters, had planned to assassinate the king, but¦230581 that Mordekai had reported it.\n",
+    "The records¦230582 mentioned that¦230583 Bigtan and¦230589 Teresh¦230589, two¦230590 of¦230590 the royal guardians¦230593 who¦230595 protected the¦230594 doorway¦230594 to the king’s private quarters, had¦230596 planned to¦230597 assassinate the king¦230599, but that Mordekai¦230585 had¦230584 reported¦230584 it.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "EST 6:3"
     },
-    "“What honour¦230607 or recognition did I give Mordekai for saving my life?” the king asked.\n"
+    "“What¦230604 honour¦230607 or recognition did I give Mordekai¦230609 for saving my life?” the king asked.\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "“Nothing was done for him,” replied the young¦230614 men who were attending¦230616 him.\n"
+    "“Nothing was¦230606 done¦230606 for¦230609 him,” replied the¦230614 young¦230614 men¦230614 who¦230616 were¦230619 attending him¦230620.\n"
    ]
   },
   {
@@ -1928,14 +2732,14 @@
      "number": "4",
      "sid": "EST 6:4"
     },
-    "At that moment, Haman¦230627 had entered the outer¦230633 courtyard of the king’s house¦230630. He had come to tell the king that he wanted to execute Mordekai on¦230626 the pole that he’d had set up for him.\n"
+    "At that¦230625 moment, Haman¦230627 had¦230628 entered¦230628 the¦230629 outer¦230633 courtyard¦230629 of¦230629 the¦230630 king’s house¦230630. He had come¦230628 to¦230634 tell¦230634 the¦230635 king¦230635 that he wanted to¦230636 execute Mordekai¦230639 on¦230640 the¦230642 pole that¦230643 he’d¦230645 had¦230645 set¦230645 up for him¦230646.\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "“Who’s out in¦230626 the courtyard?” the king asked.\n"
+    "“Who’s¦230625 out in¦230626 the courtyard?” the¦230632 king¦230632 asked¦230634.\n"
    ]
   },
   {
@@ -1948,14 +2752,14 @@
      "number": "5",
      "sid": "EST 6:5"
     },
-    "“Haman’s¦230653 out there¦230652 standing¦230654 in the courtyard¦230655,” replied the young men.\n"
+    "“Haman’s¦230653 out there¦230652 standing¦230654 in¦230655 the¦230649 courtyard¦230655,” replied¦230648 the¦230650 young men.\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "“Bring him in then¦230648,” the king instructed.\n"
+    "“Bring him¦230651 in then¦230656,” the¦230657 king¦230657 instructed.\n"
    ]
   },
   {
@@ -1968,43 +2772,114 @@
      "number": "6",
      "sid": "EST 6:6"
     },
-    "When¦230660 Haman came in¦230668, the king asked him, “What should I do for a man that I would really like to honour?”\n"
+    "When¦230660 Haman¦230661 came¦230660 in, the¦230664 king¦230664 asked him, “What¦230665 should I do¦230667 for¦230668 a man¦230668 that I would really like to honour¦230672?”\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "Haman thought to himself, “Surely it must¦230677 be me that the king would like to honour more than anyone else?”\n",
+    "Haman¦230674 thought to himself, “Surely it must¦230677 be me that the¦230678 king¦230678 would like to honour¦230680 more¦230682 than¦230682 anyone else?”\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "EST 6:7"
     },
-    "so he replied to the king, “If¦230685 you really want to honour¦230693 someone,\n",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈so¦230684"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*he¦230685"
+     ]
+    },
+    " replied¦230684 to¦230686 the king, “If ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you¦230692"
+     ]
+    },
+    " really want to honour¦230693 someone,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "EST 6:8"
     },
-    "tell your servants to bring one of your own royal robes that you have already worn yourself and also bring a horse¦230703 that you have already ridden¦230705 yourself and put a royal crown on¦230712 its head¦230712.\n",
+    "tell your servants to bring¦230695 one of¦230696 your own royal¦230697 robes that¦230698 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you¦230699"
+     ]
+    },
+    " have¦230699 already worn¦230699 yourself and¦230703 also¦230703 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≡bring¦230695"
+     ]
+    },
+    " a¦230703 horse¦230703 that¦230704 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you¦230705"
+     ]
+    },
+    " have¦230705 already ridden¦230705 yourself and¦230708 put¦230709 a¦230710 royal¦230711 crown on¦230712 its¦230712 head¦230712.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "EST 6:9"
     },
-    "Then¦230714 have one of your most noble¦230724 officials¦230722 present the man with¦230732 the robe and the horse. Have your servants put the robe on the man whom you really want to honour and have them seat that man on the horse and then¦230714 lead the horse through the public square¦230737 of the city¦230738 while they shout out ",
+    "Then have one¦230722 of¦230722 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "to everyone¦230722"
+      "%your"
      ]
     },
-    " in¦230732 front of them, ‘The king is doing this because he really wants to honour this man!’ ”\n"
+    " most noble¦230724 officials¦230722 present the man with the robe and the horse. Have your servants put¦230714 the¦230715 robe on¦230717 the man whom¦230729 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "%you¦230731"
+     ]
+    },
+    " really want to honour¦230732 and¦230733 have them seat that man on¦230734 the horse and then lead the horse through the public square of¦230737 the¦230738 city¦230738 while they¦230739 shout out ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "to everyone"
+     ]
+    },
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈in¦230740 front¦230740 of¦230740"
+     ]
+    },
+    " them, ‘The king is¦230742 doing¦230742 this because¦230743 he¦230746 really wants to honour¦230747 this man!’ ”\n"
    ]
   },
   {
@@ -2017,7 +2892,7 @@
      "number": "10",
      "sid": "EST 6:10"
     },
-    "The king ",
+    "The¦230750 king¦230750 ",
     {
      "type": "char",
      "marker": "add",
@@ -2025,7 +2900,15 @@
       "agreed so"
      ]
     },
-    " he replied to Haman¦230751, “Go quickly and take the robe and the horse¦230759 and do what you’ve just described for Mordekai the Jew who sits by the gate¦230768 to the palace. Make sure that you do absolutely everything that you’ve said.”\n"
+    " he¦230749 replied¦230749 to¦230751 Haman¦230751, “Go quickly¦230752 and take¦230753 the¦230756 robe and¦230757 the¦230759 horse¦230759 and¦230762 do¦230762 what you’ve just¦230760 described for¦230765 Mordekai¦230765 the¦230766 Yehudi¦230766 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jew¦230766)"
+     ]
+    },
+    " who¦230767 sits¦230767 by the¦230768 gate¦230768 to the¦230769 palace. Make¦230772 sure that¦230775 you¦230776 do absolutely everything that you’ve said¦230776.”\n"
    ]
   },
   {
@@ -2038,7 +2921,22 @@
      "number": "11",
      "sid": "EST 6:11"
     },
-    "So¦230778 Haman¦230779 got the robe and the horse and put the robe on Mordekai, seated him on the horse, and then¦230778 led the horse through the public square¦230791 of the city¦230792. As he did, he shouted out to everyone in¦230791 front of him, “The king is doing this because he really wants to honour¦230801 this man!”\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦230778"
+     ]
+    },
+    " Haman¦230779 got¦230778 the¦230782 robe and¦230783 the¦230785 horse¦230785 and¦230786 put the robe on Mordekai¦230789, seated him on the horse, and then led the horse through the public square of¦230791 the¦230792 city¦230792. As he did, he shouted¦230793 out to everyone ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈in¦230794 front¦230794 of¦230794"
+     ]
+    },
+    " him¦230794, “The¦230799 king¦230799 is¦230796 doing¦230796 this because¦230797 he¦230800 really wants to honour¦230801 this man¦230797!”\n"
    ]
   },
   {
@@ -2051,7 +2949,15 @@
      "number": "12",
      "sid": "EST 6:12"
     },
-    "Afterwards, Mordekai returned¦230803 to the king’s gate¦230807 but¦230803 Haman¦230809 hurried¦230810 to his house¦230813, covering¦230815 his head¦230816 like a mourner¦230814.\n",
+    "Afterwards, Mordekai¦230804 returned¦230803 to¦230805 the¦230808 king’s¦230808 gate¦230807 but¦230809 Haman¦230809 hurried¦230810 to¦230811 his¦230813 house¦230813, covering¦230815 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&his"
+     ]
+    },
+    " head¦230816 like a mourner¦230814.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2065,7 +2971,15 @@
       "At home"
      ]
     },
-    " he explained to Zeresh his wife and to all his friends¦230824 everything that had happened¦230829 to him. Then¦230818 his advisors¦230833 and his wife said¦230830 to him, “Mordekai has begun¦230841 to defeat you and since he is one of the Jewish¦230838 people¦230837, you won’t¦230844 win against him—instead, he’ll certainly¦230850 defeat you.”\n"
+    " ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*he¦230819"
+     ]
+    },
+    " explained to¦230820 Zeresh¦230820 his¦230821 wife¦230821 and¦230822 to¦230822 all¦230822 his¦230824 friends¦230824 everything that¦230828 had¦230829 happened¦230829 to¦230829 him¦230829. Then his advisors and¦230830 his wife said¦230830 to¦230832 him¦230832, “Mordekai¦230839 has¦230841 begun¦230841 to¦230842 defeat you and¦230834 since he is¦230837 one¦230837 of¦230837 the Jewish¦230838 people, you won’t¦230844 win against him¦230847—instead, he’ll certainly¦230850 defeat you¦230851.”\n"
    ]
   },
   {
@@ -2092,7 +3006,7 @@
      "number": "14",
      "sid": "EST 6:14"
     },
-    "While they were still talking¦230855 together, ",
+    "While they¦230854 were¦230855 still¦230854 talking¦230855 together, ",
     {
      "type": "char",
      "marker": "add",
@@ -2100,7 +3014,7 @@
       "some of"
      ]
     },
-    " the royal guardians arrived¦230859 to bring¦230861 Haman¦230864 quickly to the banquet¦230867 that¦230868 Esther¦230871 had had prepared¦230870.\n"
+    " the royal guardians arrived¦230859 to¦230861 bring¦230861 Haman¦230864 quickly¦230860 to¦230865 the¦230867 banquet¦230867 that¦230868 Ester¦230871 had had prepared¦230870.\n"
    ]
   },
   {
@@ -2126,7 +3040,14 @@
      "number": "1",
      "sid": "EST 7:1"
     },
-    "So¦230873 the king¦230874 and¦230875 Haman¦230875 went¦230873 to Queen Esther’s¦230879 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦230873"
+     ]
+    },
+    " the¦230874 king¦230874 and¦230875 Haman¦230875 went¦230873 to¦230876 Queen¦230880 Ester’s¦230879 ",
     {
      "type": "char",
      "marker": "add",
@@ -2141,7 +3062,23 @@
      "number": "2",
      "sid": "EST 7:2"
     },
-    "While they were drinking¦230888 wine at¦230888 that second¦230887 banquet, the king¦230883 asked Esther again, “Now please tell me what you really want, Queen Esther. Tell me, and¦230882 I’ll do it for you—I’ll give you anything you ask for, no matter what it is.”\n"
+    "While they were drinking¦230888 wine¦230889 at that second¦230887 banquet, the¦230883 king¦230883 asked¦230882 Ester¦230884 again, “",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "Now"
+     ]
+    },
+    " please tell me what¦230890 you ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "really"
+     ]
+    },
+    " want, Queen¦230894 Ester. Tell me, and¦230895 I’ll do it¦230895 for¦230896 you—I’ll give¦230895 you anything you ask for, no matter what¦230897 it¦230904 is¦230904.”\n"
    ]
   },
   {
@@ -2154,14 +3091,30 @@
      "number": "3",
      "sid": "EST 7:3"
     },
-    "“Your majesty,” Queen Esther¦230907 replied, “if you are pleased with¦230914 me, I hope you’ll be willing to do what I ask. Please allow me to live, and¦230906 please save my people¦230927. That is what I am asking for\n",
+    "“Your¦230915 majesty¦230915,” Queen¦230908 Ester¦230907 replied, “if¦230916 you ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈are¦230918 pleased¦230921 with me"
+     ]
+    },
+    ", I hope you’ll be¦230922 willing to¦230924 do what I ask. Please allow¦230922 me¦230924 to ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈live¦230925"
+     ]
+    },
+    ", and¦230927 please save my¦230927 people¦230927. That is what I am asking for¦230928\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "EST 7:4"
     },
-    "because someone has turned me and my people¦230933 over ",
+    "because¦230930 someone has¦230931 turned me and¦230933 my¦230933 people¦230933 over ",
     {
      "type": "char",
      "marker": "add",
@@ -2169,7 +3122,7 @@
       "to our enemies"
      ]
     },
-    " and they’re going to completely destroy¦230934 us. If someone had ",
+    " and¦230936 they’re going to¦230936 completely destroy¦230936 us. If¦230937 someone had ",
     {
      "type": "char",
      "marker": "add",
@@ -2177,7 +3130,7 @@
       "just"
      ]
     },
-    " sold the men and even the women to be slaves, I wouldn’t have said anything, because that wouldn’t have been important enough to bother your majesty with¦230946.”\n"
+    " sold the men and¦230939 even the women to¦230939 be slaves¦230939, I¦230941 wouldn’t have said anything, because¦230942 that wouldn’t have been¦230945 important enough to bother your¦230947 majesty¦230947 with.”\n"
    ]
   },
   {
@@ -2190,7 +3143,23 @@
      "number": "5",
      "sid": "EST 7:5"
     },
-    "“Who has done this?” King¦230951 Ahasuerus¦230952 asked her. “Where is the man who has dared to do such a thing?”\n"
+    "“Who has done this?” King¦230951 Ahashverosh¦230952 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus¦230952/Xerxes¦230952)"
+     ]
+    },
+    " asked¦230953 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*her¦230954"
+     ]
+    },
+    ". “Where¦230959 is¦230962 the man who¦230963 has¦230965 dared to do¦230967 such a thing?”\n"
    ]
   },
   {
@@ -2203,7 +3172,23 @@
      "number": "6",
      "sid": "EST 7:6"
     },
-    "“The man who is our bitter enemy¦230975 is this evil man Haman!” answered Esther¦230972.\n"
+    "“The man¦230973 who is ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&our"
+     ]
+    },
+    " bitter enemy¦230975 is this¦230978 evil¦230977 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      ">man"
+     ]
+    },
+    " Haman¦230976!” answered¦230970 Ester¦230972.\n"
    ]
   },
   {
@@ -2217,14 +3202,22 @@
       "By this time,"
      ]
     },
-    " Haman was terrified¦230980 standing there in front of the king¦230982 and¦230970 the queen¦230983.\n",
+    " Haman¦230979 was¦230980 terrified¦230980 standing there in front¦230981 of the¦230982 king¦230982 and¦230983 the¦230983 queen¦230983.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "EST 7:7"
     },
-    "Now the king became so angry that he got up and abandoned his wine-drinking at¦230987 the banquet and went outside into the palace¦230993 garden¦230992. But¦230985 Haman¦230994 stayed inside to beg his life from Queen Esther¦231000 because he recognized that the king wanted to ",
+    "Now the¦230985 king¦230985 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈became so angry¦230987"
+     ]
+    },
+    " that he¦230986 got up¦230986 and abandoned his¦230987 wine-drinking at the¦230988 banquet¦230988 and went outside into¦230990 the¦230993 palace¦230993 garden¦230992. But¦230994 Haman¦230994 stayed¦230995 inside to¦230996 beg his¦230999 life¦230999 from¦231000 Queen¦231001 Ester¦231000 because¦231002 he¦231003 recognized that¦231004 the king wanted to¦231007 ",
     {
      "type": "char",
      "marker": "add",
@@ -2232,7 +3225,7 @@
       "execute"
      ]
     },
-    " him.\n",
+    " him¦231007.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2246,7 +3239,7 @@
       "As he was pleading for his life,"
      ]
     },
-    " Haman ",
+    " Haman¦231022 ",
     {
      "type": "char",
      "marker": "add",
@@ -2254,7 +3247,7 @@
       "knelt down"
      ]
     },
-    " very close to Esther¦231028 as she was ",
+    " very close to Ester¦231028 as she was ",
     {
      "type": "char",
      "marker": "add",
@@ -2262,12 +3255,12 @@
       "reclining"
      ]
     },
-    " on¦231038 a couch¦231026. When¦231012 the king returned¦231013 from the palace¦231015 garden¦231014 to the room where they had been drinking wine, he ",
+    " on a couch¦231026. When¦231012 the¦231012 king¦231012 returned¦231013 from¦231014 the¦231015 palace¦231015 garden¦231014 to¦231016 the room where they had been drinking¦231020 wine¦231021, he ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "saw this and"
+      "saw that and"
      ]
     },
     " exclaimed, “",
@@ -2278,19 +3271,19 @@
       "Now"
      ]
     },
-    " he’s even trying to rape the queen¦231036 in my presence and in my own house¦231018!”\n"
+    " he’s¦231030 even trying to¦231033 rape¦231033 the¦231036 queen¦231036 in my presence and in my own house¦231038!”\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "As soon as the king said this, some of his servants covered¦231045 Haman’s face¦231043 ",
+    "As soon as the¦231042 king¦231042 said¦231030 that¦231027, some of¦231043 his servants covered¦231045 Haman’s¦231044 face¦231043 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "(as a sign that¦231027 he would be executed)"
+      "(as a sign that he would be executed)"
      ]
     },
     ".\n",
@@ -2300,14 +3293,22 @@
      "number": "9",
      "sid": "EST 7:9"
     },
-    "Then Harbona¦231049, who was one of the guardians who served the king personally, said, “Your majesty, Haman has also set up a pole twenty-five metres high at his house¦231073 because he wants to hang Mordekai on it. But¦231048 Mordekai saved your life.”\n"
+    "Then¦231048 Harvona¦231049, who was one¦231050 of¦231051 the guardians who served the¦231055 king¦231055 personally, said¦231066, “Your¦231071 majesty¦231071, Haman¦231074 has also¦231056 set up a pole twenty-five metres high¦231075 at his house¦231073 because he¦231078 wants to hang¦231080 Mordekai¦231064 on¦231069 it. But ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Mordekai"
+     ]
+    },
+    " saved your life.”\n"
    ]
   },
   {
    "type": "para",
    "marker": "p",
    "content": [
-    "“Execute Haman on it!” the king commanded.\n"
+    "“Execute Haman on¦231081 it¦231081!” the king commanded.\n"
    ]
   },
   {
@@ -2320,7 +3321,14 @@
      "number": "10",
      "sid": "EST 7:10"
     },
-    "So¦231083 they impaled Haman¦231086 on the pole that¦231090 he had set up for Mordekai¦231093, and¦231083 then¦231083 the king’s anger¦231094 dissipated.\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦231083"
+     ]
+    },
+    " they¦231083 impaled Haman¦231086 on¦231087 the¦231089 pole that¦231090 he¦231092 had¦231092 set¦231092 up for¦231093 Mordekai¦231093, and¦231094 then the¦231095 king’s¦231095 anger¦231094 dissipated.\n"
    ]
   },
   {
@@ -2333,7 +3341,7 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "The Jews are enabled to defend themselves\n"
+    "The Yehudim are enabled to defend themselves\n"
    ]
   },
   {
@@ -2353,7 +3361,31 @@
      "number": "1",
      "sid": "EST 8:1"
     },
-    "That same day¦231099, King¦231102 Ahasuerus¦231103 gave Queen Esther all the property that had belonged to Haman¦231109, the enemy of the Jews. Esther told the king that Mordekai was ",
+    "That same day¦231099, King¦231102 Ahashverosh¦231103 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus¦231103/Xerxes¦231103)"
+     ]
+    },
+    " gave¦231101 Queen¦231105 Ester¦231104 all the¦231108 property that had belonged to Haman¦231109, the¦231110 enemy of¦231110 the¦231111 Yehudim¦231111 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jews¦231111)"
+     ]
+    },
+    ". Ester¦231120 told¦231119 the¦231116 king¦231116 that ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Mordekai¦231119"
+     ]
+    },
+    " was¦231122 ",
     {
      "type": "char",
      "marker": "add",
@@ -2361,7 +3393,7 @@
       "her cousin and that he had been like a father"
      ]
     },
-    " to her, and ",
+    " to¦231124 her¦231124, and ",
     {
      "type": "char",
      "marker": "add",
@@ -2369,14 +3401,22 @@
       "so the king summoned"
      ]
     },
-    " Mordekai to come to him.\n",
+    " Mordekai¦231113 to come¦231114 to¦231115 him.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "EST 8:2"
     },
-    "Then¦231126 the king¦231127 removed¦231126 his signet¦231130 ring which¦231131 he had retrieved from Haman, and¦231126 gave¦231134 it to Mordekai. The queen also put Mordekai in charge of all the property that¦231131 had belonged to Haman.\n",
+    "Then¦231126 the¦231127 king¦231127 removed¦231126 his¦231130 signet¦231130 ring which¦231131 he¦231132 had¦231132 retrieved from¦231133 Haman¦231133, and¦231134 gave¦231134 it¦231134 to¦231135 Mordekai¦231135. The queen also¦231136 put Mordekai¦231140 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈in charge¦231136 of"
+     ]
+    },
+    " all the property that had belonged to Haman¦231144.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -2396,21 +3436,37 @@
      "number": "3",
      "sid": "EST 8:3"
     },
-    "Then Esther¦231148 came to speak to the king again¦231147, and she knelt down and put her face right on top of his feet. She cried as she begged him to stop Haman’s¦231163 terrible plan to destroy the Jews.\n",
+    "Then¦231147 Ester¦231148 came to speak¦231149 to¦231150 the¦231151 king¦231151 again, and¦231152 she¦231152 knelt¦231152 down and put her face¦231153 right on top of¦231153 his¦231154 feet¦231154. She¦231155 cried¦231155 as she¦231156 begged him¦231158 to¦231159 stop Haman’s¦231163 terrible plan¦231166 to destroy the¦231171 Yehudim¦231171.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "EST 8:4"
     },
-    "The¦231180 king held out his golden¦231178 scepter¦231177 toward Esther¦231175, so she stood¦231181 up and¦231173 waited facing the king.\n",
+    "The¦231174 king¦231174 held¦231173 out¦231173 his golden¦231178 scepter¦231177 toward Ester¦231180, so¦231181 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*she"
+     ]
+    },
+    " stood¦231181 up and waited facing¦231182 the¦231183 king¦231183.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "EST 8:5"
     },
-    "“Your majesty,” she said¦231185, “if you think that it’s the right¦231197 thing to do, and¦231192 if you’re pleased with¦231203 me, please write a new letter revoking¦231205 the letters¦231208 that Haman¦231210 (the son of Hammedatha¦231213, the Agagite¦231214) sent out ",
+    "“Your majesty,” she¦231185 said¦231185, “if you think that it’s¦231197 the¦231198 right¦231197 thing to¦231199 do, and¦231201 if you’re ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈pleased¦231201 with me"
+     ]
+    },
+    ", please write¦231204 a new letter revoking¦231205 the¦231208 letters¦231208 that Haman¦231210 (the¦231211 son¦231211 of¦231211 Hamedata¦231213, the¦231214 Agagi¦231214) sent out ",
     {
      "type": "char",
      "marker": "add",
@@ -2418,14 +3474,14 @@
       "instructing the people"
      ]
     },
-    " to destroy¦231217 all the Jews throughout your empire.\n",
+    " to¦231217 destroy¦231217 all¦231222 the¦231220 Yehudim¦231220 throughout your empire.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "6",
      "sid": "EST 8:6"
     },
-    "I couldn’t bear to see the terrible thing that¦231232 is about to happen to my people¦231237. I ",
+    "I couldn’t bear to see¦231230 the terrible thing that¦231232 is about¦231237 to happen to my¦231237 people¦231237. I ",
     {
      "type": "char",
      "marker": "add",
@@ -2433,7 +3489,7 @@
       "certainly"
      ]
     },
-    " couldn’t bear to see ",
+    " couldn’t bear to see¦231240 ",
     {
      "type": "char",
      "marker": "add",
@@ -2441,7 +3497,15 @@
       "all"
      ]
     },
-    " my relatives destroyed¦231241!”\n"
+    " my¦231242 relatives¦231242 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈destroyed¦231241"
+     ]
+    },
+    "!”\n"
    ]
   },
   {
@@ -2454,14 +3518,22 @@
      "number": "7",
      "sid": "EST 8:7"
     },
-    "Then king¦231246 Ahasuerus¦231247 said¦231245 to Queen Esther and to Mordekai the Jew, “Listen, I’ve¦231256 given¦231256 the house¦231253 of Haman¦231255 to Esther, and they’ve executed him on¦231268 the pole because he attempted to destroy the Jews.\n",
+    "Then¦231245 king¦231246 Ahashverosh¦231247 said¦231245 to¦231248 Queen¦231249 Ester¦231248 and¦231250 to¦231250 Mordekai¦231250 the¦231251 Yehudi¦231251 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jew¦231251)"
+     ]
+    },
+    ", “Listen, I’ve¦231256 given¦231256 the¦231253 house¦231253 of¦231253 Haman¦231255 to¦231257 Ester¦231257, and¦231258 they’ve¦231259 executed him¦231258 on¦231260 the¦231262 pole because he¦231266 attempted to destroy the Yehudim.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "EST 8:8"
     },
-    "But¦231271 as you ",
+    "But¦231271 as you¦231271 ",
     {
      "type": "char",
      "marker": "add",
@@ -2469,7 +3541,7 @@
       "both"
      ]
     },
-    " know, no one can revoke¦231296 a letter that¦231286 has my name and my official seal on it. So¦231271 this is what you should do: write¦231272 ",
+    " know, no one can revoke¦231296 a letter that¦231286 has my name¦231278 and¦231280 my official seal¦231280 on it. So this is¦231288 what you should do: write¦231288 ",
     {
      "type": "char",
      "marker": "add",
@@ -2477,7 +3549,7 @@
       "a new letter"
      ]
     },
-    " to help the Jews¦231275, as you think best and put my name on it and seal the letter with¦231277 my signet ring.”\n"
+    " to help the¦231291 Yehudim¦231275, as you think best and¦231292 put my name on it¦231292 and seal¦231292 the letter with my signet¦231293 ring.”\n"
    ]
   },
   {
@@ -2490,7 +3562,7 @@
      "number": "9",
      "sid": "EST 8:9"
     },
-    "It was now June, and the king¦231301 sent for his scribes and they wrote a letter to the Jews containing everything that¦231330 Mordekai dictated. It was also addressed to royal officials¦231328, and to the governors¦231327 and leaders in each province. The empire had 127 provinces, extending all the way from India¦231332 ",
+    "It was now June, and¦231298 the¦231301 king¦231301 sent for his scribes¦231299 and they¦231298 wrote¦231314 a letter to the Yehudim containing everything that¦231317 Mordekai¦231320 dictated. It was also addressed to¦231321 royal officials¦231328, and¦231324 to¦231324 the¦231327 governors¦231327 and¦231328 leaders¦231328 in each province. The¦231329 empire had 127 provinces¦231329, extending all¦231315 the way from¦231332 Hodu¦231332 ",
     {
      "type": "char",
      "marker": "add",
@@ -2498,7 +3570,15 @@
       "in the east"
      ]
     },
-    " to Ethiopia¦231335 ",
+    " to¦231333 Kush¦231335 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ethiopia¦231335)"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",
@@ -2506,14 +3586,22 @@
       "in the west"
      ]
     },
-    ". The scribes wrote to every province using its own alphabet and to each people group in its own language, and to the Jews in their language and using their alphabet.\n",
+    ". ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≡The scribes wrote"
+     ]
+    },
+    " to every province using its own alphabet and to each people group in its¦231345 own language¦231345, and¦231346 to¦231346 the¦231348 Yehudim¦231348 in their¦231349 language and¦231350 using their¦231350 alphabet.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "EST 8:10"
     },
-    "The letters were written in¦231357 King¦231354 Ahasuerus’ name, and¦231352 ",
+    "The letters were written¦231352 in¦231353 King¦231354 Ahashverosh’¦231355 name¦231353, and¦231356 ",
     {
      "type": "char",
      "marker": "add",
@@ -2521,7 +3609,7 @@
       "each one"
      ]
     },
-    " was sealed¦231356 with¦231357 the king’s signet¦231357 ring. Then¦231352 the letters were distributed by mounted¦231363 couriers¦231362 riding on¦231357 swift horses¦231365 bred from the royal¦231366 mares¦231368.\n"
+    " was sealed¦231356 with¦231357 the¦231357 king’s signet¦231357 ring. Then the¦231358 letters¦231360 were distributed by¦231361 mounted couriers¦231362 riding¦231364 on¦231363 swift horses¦231363 bred from the¦231366 royal¦231366 mares¦231368.\n"
    ]
   },
   {
@@ -2534,7 +3622,7 @@
      "number": "11",
      "sid": "EST 8:11"
     },
-    "The letters stated that¦231396 the king permitted¦231371 the Jews in each and every¦231391 city to get together and defend¦231382 themselves, and what’s more to destroy¦231386, kill¦231386, and annihilate¦231388 all the forces of any people¦231394 or province¦231395 hostile to them, including¦231380 women¦231399 and children, and ",
+    "The letters stated that¦231396 the¦231372 king¦231372 permitted¦231371 the Yehudim¦231373 in¦231376 each¦231376 and¦231380 every¦231391 city¦231380 to¦231381 get¦231401 together and¦231382 defend themselves, and¦231388 what’s more to¦231388 destroy¦231388, kill¦231387, and annihilate¦231386 all¦231391 the forces¦231393 of¦231393 any people¦231394 or province¦231395 hostile to them¦231397, including¦231399 women¦231399 and children, and ",
     {
      "type": "char",
      "marker": "add",
@@ -2542,7 +3630,7 @@
       "then"
      ]
     },
-    " to plunder¦231401 their possessions.\n",
+    " to¦231401 plunder¦231401 their possessions.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -2556,7 +3644,7 @@
       "This was to take place"
      ]
     },
-    " on a certain day in¦231410 every province¦231407 throughout the empire: the 13th of March",
+    " on¦231403 a certain day¦231403 in¦231405 every¦231405 province¦231407 throughout the¦231408 empire: the¦231418 13th of¦231418 March",
     {
      "type": "note",
      "marker": "x",
@@ -2593,14 +3681,22 @@
      "number": "13",
      "sid": "EST 8:13"
     },
-    "A copy of the decree was to be included as law in every province¦231427 and to be displayed¦231429 to all the people¦231432 so that the Jews could be prepared to fight back against their¦231441 enemies¦231441 on that day¦231438.\n",
+    "A copy¦231421 of¦231421 the¦231422 decree was¦231423 to¦231423 be¦231423 included as law¦231424 in¦231425 every¦231425 province¦231427 and¦231428 to be displayed¦231429 to¦231430 all¦231430 the¦231432 people¦231432 so¦231433 that the Yehudim could be prepared¦231436 to¦231440 fight back against their¦231441 enemies¦231441 on that day¦231438.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "EST 8:14"
     },
-    "So the couriers¦231443 on¦231450 the royal¦231446 horses¦231445 rode out quickly under the king’s orders to deliver the letters. The new law was also proclaimed throughout the capital city of Shushan¦231454.\n"
+    "So the¦231443 couriers¦231443 on the¦231446 royal¦231446 horses¦231445 rode¦231444 out¦231447 quickly under the¦231451 king’s¦231451 orders to deliver the letters. The new law¦231452 was¦231453 also declared throughout the capital city of Shushan¦231454 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Susa¦231454)"
+     ]
+    },
+    ".\n"
    ]
   },
   {
@@ -2613,7 +3709,7 @@
      "number": "15",
      "sid": "EST 8:15"
     },
-    "The king¦231462 ",
+    "The¦231462 king¦231462 ",
     {
      "type": "char",
      "marker": "add",
@@ -2621,7 +3717,7 @@
       "gave"
      ]
     },
-    " Mordekai royal¦231464 clothing¦231463 that was blue and white¦231466, with¦231463 a large gold¦231468 crown¦231467, and a purple¦231472 robe¦231470 made from fine linen¦231471. The people of Shushan¦231474 cheered happily when Mordekai exited ",
+    " Mordekai royal¦231464 clothing¦231463 that was blue and¦231466 white¦231466, with a¦231467 large¦231469 gold¦231468 crown¦231467, and¦231470 a¦231470 purple¦231472 robe¦231470 made from fine¦231471 linen¦231471. The¦231473 people of Shushan¦231474 cheered happily when¦231476 Mordekai exited¦231459 ",
     {
      "type": "char",
      "marker": "add",
@@ -2636,7 +3732,7 @@
      "number": "16",
      "sid": "EST 8:16"
     },
-    "For the Jews, it¦231479 was ",
+    "For the Yehudim¦231478, it¦231479 was ",
     {
      "type": "char",
      "marker": "add",
@@ -2644,7 +3740,7 @@
       "a time"
      ]
     },
-    " of light¦231480 and happiness, and they were honoured ",
+    " of light¦231480 and¦231481 happiness¦231481, and they were honoured¦231483 ",
     {
      "type": "char",
      "marker": "add",
@@ -2659,12 +3755,12 @@
      "number": "17",
      "sid": "EST 8:17"
     },
-    "In every single province¦231487 and in every single city, wherever¦231494 the letter announcing the king’s decree was brought, the Jews were very cheerful¦231501 and had big celebrations. Many people¦231507 from other groups in the empire became afraid of the Jews, so they ",
+    "In every¦231485 single province and in every¦231489 single city, wherever¦231494 the¦231495 letter announcing the¦231497 king’s¦231497 decree was¦231499 brought, the Yehudim were very cheerful¦231501 and had big celebrations. Many¦231506 people¦231507 from other groups in the¦231508 empire became¦231509 afraid of¦231513 the¦231515 Yehudim¦231515, so they ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "converted to Judaism"
+      "converted to Youdaismos"
      ]
     },
     " themselves.\n"
@@ -2680,7 +3776,7 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "The Jews destroy their enemies\n"
+    "The Yehudim destroy their enemies\n"
    ]
   },
   {
@@ -2707,14 +3803,30 @@
       "Finally"
      ]
     },
-    " when the 13th of March arrived, it was time for everyone to do what the letters from the king said that he had decreed for them to do. The enemies of the Jews had expected to destroy the Jews on¦231518 that day but¦231518 just the opposite happened—instead, it was the Jews who destroyed their¦231549 enemies.\n",
+    " when¦231518 the¦231523 13th of¦231523 March arrived, it¦231528 was time for everyone to do what the¦231531 letters from the¦231533 king¦231533 said that he had decreed for them to¦231535 do¦231535. The¦231539 enemies¦231539 of¦231539 the¦231540 Yehudim¦231540 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jews¦231540)"
+     ]
+    },
+    " had¦231538 expected to¦231541 destroy the ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yehudim¦231542"
+     ]
+    },
+    " on that day but¦231543 just the opposite¦231543 happened—instead, it¦231543 was¦231543 the¦231547 Yehudim¦231547 who¦231549 destroyed their enemies.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "EST 9:2"
     },
-    "Throughout the empire, the Jews joined together in their¦231571 cities¦231553 to defend themselves against those¦231561 who wanted to harm them. No one was able to fight back against them because everyone¦231563 ",
+    "Throughout the empire, the Yehudim¦231552 joined together in¦231553 their¦231571 cities¦231553 to¦231559 defend themselves against those¦231561 who¦231561 wanted¦231561 to harm¦231562 them. No one was able to fight back against them¦231567 because¦231568 everyone ",
     {
      "type": "char",
      "marker": "add",
@@ -2722,21 +3834,29 @@
       "else"
      ]
     },
-    " in the empire had become afraid of them.\n",
+    " in the empire had¦231570 become afraid of¦231574 them.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "EST 9:3"
     },
-    "All the leaders in each province¦231581, the royal officials¦231580, the governors¦231583, and¦231578 everyone who worked for the king¦231587 helped the Jews because they had become afraid of Mordekai\n",
+    "All¦231578 the¦231580 leaders¦231580 in each province¦231581, the¦231582 royal officials¦231580, the¦231583 governors¦231583, and¦231584 everyone who worked¦231585 for¦231587 the¦231587 king¦231587 helped the¦231591 Yehudim¦231591 because¦231592 they had¦231594 become afraid of¦231597 Mordekai¦231597\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "4",
      "sid": "EST 9:4"
     },
-    "because he was ",
+    "because¦231600 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*he"
+     ]
+    },
+    " was ",
     {
      "type": "char",
      "marker": "add",
@@ -2744,14 +3864,37 @@
       "now"
      ]
     },
-    " a very important royal official, and his¦231606 fame spread throughout the provinces¦231610 as he became more and more powerful¦231616.\n",
+    " a very important royal official, and¦231606 his¦231606 fame spread throughout the¦231610 provinces¦231610 as ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "*he¦231614"
+     ]
+    },
+    " became¦231616 more and¦231616 more powerful¦231616.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "5",
      "sid": "EST 9:5"
     },
-    "So the Jews took their weapons and fought against all of their enemies and completely destroyed¦231628 them. They were able to do everything that they¦231631 wanted to do against their enemies.\n"
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦231619"
+     ]
+    },
+    " the¦231620 Yehudim¦231620 took their weapons and fought against all¦231621 of¦231623 their¦231623 enemies and completely ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈destroyed¦231628"
+     ]
+    },
+    " them. They¦231629 were able to do¦231629 everything that¦231630 they wanted to¦231631 do against their¦231631 enemies.\n"
    ]
   },
   {
@@ -2764,14 +3907,22 @@
      "number": "6",
      "sid": "EST 9:6"
     },
-    "In the capital city of Shushan, the Jews killed¦231635 500 men\n",
+    "In¦231633 the capital city of Shushan¦231633 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Susa¦231633)"
+     ]
+    },
+    ", the¦231634 Yehudim¦231636 killed¦231635 500 men¦231640\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "7",
      "sid": "EST 9:7"
     },
-    "including¦231645 ",
+    "including¦231642 ",
     {
      "type": "char",
      "marker": "add",
@@ -2779,28 +3930,36 @@
       "Haman’s ten sons"
      ]
     },
-    " Parshandatha¦231644, Dalphon¦231647, Aspatha¦231650,\n",
+    " Parshandata¦231644, Dalfon¦231647, Aspata¦231650,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "8",
      "sid": "EST 9:8"
     },
-    "Poratha¦231654, Adalia¦231657, Aridatha¦231660,\n",
+    "Porata¦231654, Adalya¦231657, Aridata¦231660,\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "9",
      "sid": "EST 9:9"
     },
-    "Parmashta¦231664, Arisai¦231667, Aridai¦231670, and¦231662 Vaizatha¦231673.\n",
+    "Parmashta¦231664, Arisay¦231667, Ariday¦231670, and¦231671 Vayzata¦231673.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "10",
      "sid": "EST 9:10"
     },
-    "Those were the ten¦231675 sons¦231676 of Haman¦231677 (son of Hammedatha¦231680), the enemy of the Jews, but¦231684 the Jews didn’t¦231685 take their¦231689 possessions.\n"
+    "Those were the¦231675 ten¦231675 sons¦231676 of¦231676 Haman¦231677 (son¦231678 of¦231678 Hamedata¦231680), the¦231681 enemy of¦231681 the¦231682 Yehudim¦231682, but¦231684 the ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yehudim"
+     ]
+    },
+    " didn’t¦231685 take their¦231689 possessions.\n"
    ]
   },
   {
@@ -2813,14 +3972,14 @@
      "number": "11",
      "sid": "EST 9:11"
     },
-    "At the end of the day¦231691, the king¦231699 received a report about how many people the Jews had killed¦231695 in¦231696 the capital city of Shushan¦231696\n",
+    "At the end of the¦231691 day¦231691, the¦231692 king¦231699 received a report about how many people the¦231694 Yehudim had killed¦231695 in¦231696 the capital city of¦231698 Shushan¦231696\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "12",
      "sid": "EST 9:12"
     },
-    "and he told Queen Esther¦231704, “Here in¦231706 the capital city of Shushan¦231706 the Jews have killed 500 men, including¦231702 Haman’s¦231718 ten sons¦231716. In the rest of my empire, they must¦231727 have killed many more than that! So tell me what else you want and I’ll do it for you. I’ll do whatever you ask, so do tell me.”\n"
+    "and¦231702 he¦231702 told¦231702 Queen¦231705 Ester¦231704, “Here in¦231706 the capital city of Shushan¦231706 the¦231707 Yehudim¦231709 have¦231708 killed¦231708 500 men¦231713, including¦231714 Haman’s¦231718 ten¦231715 sons¦231716. In¦231719 the¦231719 rest¦231719 of¦231719 my empire, they must have killed many more¦231732 than that! So¦231724 tell me what¦231724 else you want and¦231727 I’ll do it¦231727 for¦231728 you¦231728. I’ll do whatever¦231729 you ask¦231731, so¦231733 do¦231733 tell me.”\n"
    ]
   },
   {
@@ -2833,14 +3992,14 @@
      "number": "13",
      "sid": "EST 9:13"
     },
-    "“If it seems like a good¦231742 plan to you, your majesty,” Esther¦231736 replied, “then¦231735 please allow the Jews who live here in¦231749 Shushan¦231749 to do again tomorrow¦231746 what you allowed them to do today. Also, command that the bodies of Haman’s¦231757 ten¦231754 sons¦231755 be impaled on¦231749 the wooden pole.”\n",
+    "“If¦231737 it seems like a good¦231742 plan to you, your¦231741 majesty¦231741,” Ester¦231736 replied¦231735, “then please allow¦231743 the Yehudim¦231747 who¦231748 live here in¦231749 Shushan¦231749 to do¦231750 again tomorrow¦231746 what you allowed them to¦231751 do today. Also¦231744, command that the¦231751 bodies of¦231751 Haman’s¦231757 ten¦231754 sons¦231755 be impaled on¦231759 the¦231761 wooden pole.”\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "14",
      "sid": "EST 9:14"
     },
-    "Then¦231763 the king¦231764 ordered for this to be done and a decree was made throughout in¦231769 Shushan¦231769, and they ",
+    "Then¦231763 the¦231764 king¦231764 ordered¦231763 for that to¦231765 be¦231765 done¦231765 and¦231767 a decree was¦231767 made throughout in¦231769 Shushan¦231769, and¦231770 they ",
     {
      "type": "char",
      "marker": "add",
@@ -2853,17 +4012,24 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "the bodies of "
+      "the bodies of"
      ]
     },
-    " Haman’s¦231774 ten¦231771 sons¦231772.\n",
+    "Haman’s¦231774 ten¦231771 sons¦231772.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "15",
      "sid": "EST 9:15"
     },
-    "So¦231777 the next day¦231784 on¦231782 the 14th, the Jews in Shushan gathered¦231777 together again and¦231777 killed¦231789 300 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦231777"
+     ]
+    },
+    " the¦231778 next day¦231784 on the 14th, the Yehudim in¦231782 Shushan¦231782 gathered¦231777 together again and¦231789 killed¦231789 300 ",
     {
      "type": "char",
      "marker": "add",
@@ -2871,7 +4037,7 @@
       "more"
      ]
     },
-    " men in Shushan. But¦231777 ",
+    " men in¦231790 Shushan¦231790. But¦231794 ",
     {
      "type": "char",
      "marker": "add",
@@ -2879,7 +4045,7 @@
       "once again"
      ]
     },
-    " they¦231796 did not take the things that belonged to those men.\n"
+    " they did not¦231795 take the things that belonged to those men.\n"
    ]
   },
   {
@@ -2892,7 +4058,15 @@
      "number": "16",
      "sid": "EST 9:16"
     },
-    "The Jews in¦231804 the other parts of the empire, who had gathered together to fight for their lives¦231811 had defeated their enemies and¦231801 killed¦231814 75,000 of them. But¦231801 they ",
+    "The Yehudim¦231802 in¦231804 the¦231804 other parts of¦231804 the¦231805 empire, who had gathered¦231806 together to fight for their¦231811 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "#lives¦231811"
+     ]
+    },
+    " had¦231812 defeated their enemies and¦231814 killed¦231814 75,000 of¦231815 them¦231815. But they ",
     {
      "type": "char",
      "marker": "add",
@@ -2900,14 +4074,14 @@
       "too"
      ]
     },
-    " did not take the things that had belonged to their enemies.\n",
+    " did not¦231820 take the things that had belonged to their¦231824 enemies.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "17",
      "sid": "EST 9:17"
     },
-    "That¦231831 all happened on the 13th ",
+    "That all happened on¦231826 the¦231830 13th ",
     {
      "type": "char",
      "marker": "add",
@@ -2915,7 +4089,7 @@
       "(as the law had said)"
      ]
     },
-    ", and then they stopped on the 14th and made it a day of feasting¦231839 and celebration.\n",
+    ", and¦231832 then they¦231832 stopped on the 14th and¦231836 made¦231836 it¦231837 a¦231838 day¦231838 of¦231838 feasting¦231839 and¦231840 celebration.\n",
     {
      "type": "para",
      "marker": "rem",
@@ -2929,7 +4103,7 @@
      "number": "18",
      "sid": "EST 9:18"
     },
-    "But¦231842 the Jews in¦231846 Shushan¦231846 had gathered together ",
+    "But¦231842 the¦231842 Yehudim in¦231846 Shushan¦231846 had gathered¦231847 together ",
     {
      "type": "char",
      "marker": "add",
@@ -2937,14 +4111,22 @@
       "and fought their enemies"
      ]
     },
-    " on both the 13th and the 14th, so they stopped on the 15th and made it a day¦231860 of feasting¦231861 and celebration.\n",
+    " on both the 13th and¦231851 the 14th, so¦231854 they¦231854 stopped on the 15th and¦231858 made¦231858 it¦231859 a¦231860 day¦231860 of¦231860 feasting¦231861 and¦231862 celebration.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "19",
      "sid": "EST 9:19"
     },
-    "So¦231864 that’s why the Jews who live¦231870 in¦231871 the rural¦231872 villages observe¦231873 this holiday on¦231871 the 14th rather than the 15th. They celebrate with¦231871 feasting¦231881 and by giving gifts to each other.\n"
+    "So¦231866 that’s why the¦231867 Yehudim¦231867 who¦231870 live¦231870 in¦231871 the rural¦231872 villages observe¦231873 this holiday on the¦231878 14th ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "rather than the 15th"
+     ]
+    },
+    ". They celebrate with feasting¦231881 and by giving gifts to each¦231886 other.\n"
    ]
   },
   {
@@ -2971,14 +4153,22 @@
      "number": "20",
      "sid": "EST 9:20"
     },
-    "Now Mordekai recorded¦231890 everything that had happened and sent¦231896 letters¦231897 to all the Jews throughout the empire, in both the near provinces¦231906 and the far away ones.\n",
+    "Now Mordekai¦231891 recorded¦231890 everything that had happened and¦231896 sent¦231896 letters¦231897 to¦231898 all¦231900 the¦231902 Yehudim¦231902 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jews¦231902)"
+     ]
+    },
+    " throughout the empire, in¦231904 both the¦231909 near¦231909 provinces¦231906 and¦231910 the¦231910 far¦231910 away ones.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "21",
      "sid": "EST 9:21"
     },
-    "That decree established an annual holiday on the 14th and 15th of March every year,",
+    "That decree established an annual holiday on¦231913 the¦231920 14th and¦231922 15th of¦231923 March every¦231928 year,",
     {
      "type": "note",
      "marker": "f",
@@ -3008,7 +4198,7 @@
      "number": "22",
      "sid": "EST 9:22"
     },
-    "because those were the days when the Jews no longer ",
+    "because those were the days¦231933 when¦231934 the¦231938 Yehudim¦231938 no longer ",
     {
      "type": "char",
      "marker": "add",
@@ -3016,14 +4206,30 @@
       "had to oppose"
      ]
     },
-    " their enemies¦231939 and that was the month¦231940 when their sorrow¦231944 and mourning¦231946 had changed¦231942 into a good day. Now they were instructed to make them days of feasting¦231952 and happiness, and sending¦231954 of gifts¦231958—to each other but¦231940 also to the needy.\n",
+    " their¦231939 enemies¦231939 and¦231940 that was the¦231940 month¦231940 when¦231941 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "&their"
+     ]
+    },
+    " sorrow¦231944 and¦231946 mourning¦231946 had changed¦231942 into¦231947 a¦231947 good¦231948 day¦231947. ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "Now"
+     ]
+    },
+    " they were instructed to make¦231949 them¦231950 days¦231951 of¦231951 feasting¦231952 and¦231953 happiness, and¦231954 sending¦231954 of¦231954 gifts¦231958—to each¦231956 other but also¦231958 to¦231959 the needy.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "23",
      "sid": "EST 9:23"
     },
-    "The Jews had already celebrated those days that¦231964 way, so they¦231966 ",
+    "The¦231962 Yehudim¦231962 had already celebrated those days that¦231964 way, so they¦231966 ",
     {
      "type": "char",
      "marker": "add",
@@ -3031,7 +4237,7 @@
       "readily"
      ]
     },
-    " agreed to do what Mordekai had written¦231971.\n"
+    " agreed to do¦231967 what Mordekai¦231972 had¦231971 written¦231971.\n"
    ]
   },
   {
@@ -3044,7 +4250,7 @@
      "number": "24",
      "sid": "EST 9:24"
     },
-    "Yes, Haman¦231976 (the son of Hammedatha¦231979, the Agagite¦231980), the enemy of all the Jews, had plotted to annihilate them, and he had thrown¦231990 a ‘Pur’ (which is ‘lot’ or perhaps ‘dice’) ",
+    "Yes, Haman¦231976 (the¦231977 son¦231977 of¦231977 Hamedata¦231979, the¦231980 Agagi¦231980), the¦231981 enemy of¦231981 all¦231982 the¦231984 Yehudim¦231984, had¦231985 plotted¦231985 to¦231989 annihilate them¦231989, and¦231990 he¦231990 had¦231990 thrown¦231990 a ‘Pur¦231991’ (which¦231992 is¦231993 ‘lot¦231993’ or perhaps ‘dice’) ",
     {
      "type": "char",
      "marker": "add",
@@ -3052,7 +4258,7 @@
       "choose the date"
      ]
     },
-    " to crush¦231994 them and to destroy them.\n",
+    " to¦231994 crush them¦231994 and¦231995 to¦231995 destroy¦231995 them¦231995.\n",
     {
      "type": "verse",
      "marker": "v",
@@ -3064,17 +4270,17 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "instead they would remember how Queen Esther stood"
+      "instead they would remember how Queen Ester stood"
      ]
     },
-    " in front¦231998 of the king¦231999, and how he had said¦232000 in the letter¦232003, “Let his evil¦232006 plot that¦232007 he plotted concerning the Jews return¦232004 on his head¦232015, and let them execute him and his sons¦232020 on the pole.”\n",
+    " in¦231998 front¦231998 of¦231998 the¦231999 king¦231999, and how he¦232000 had said¦232000 in the¦232003 letter¦232003, “Let¦232004 his¦232005 evil¦232006 plot that¦232007 he¦232009 plotted¦232009 concerning the¦232012 Yehudim¦232012 return¦232004 on¦232013 his¦232015 head¦232015, and¦232016 let them execute him¦232017 and¦232018 his¦232020 sons¦232020 on¦232021 the¦232023 pole.”\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "26",
      "sid": "EST 9:26"
     },
-    "Therefore¦232025 they called¦232028 this celebration ‘Purim¦232031’",
+    "Therefore¦232025 they called¦232028 this¦232045 celebration ‘Purim¦232031’",
     {
      "type": "note",
      "marker": "f",
@@ -3097,12 +4303,12 @@
      ],
      "caller": "+"
     },
-    " because of what they had experienced and because of the contents of ",
+    " because of¦232034 what¦232046 they¦232048 had¦232048 experienced¦232048 and because of¦232041 the¦232043 contents¦232043 of¦232043 ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "Mordekai’s¦232035"
+      "&Mordekai’s¦232044"
      ]
     },
     " letter¦232044.\n",
@@ -3112,14 +4318,29 @@
      "number": "27",
      "sid": "EST 9:27"
     },
-    "The Jews agreed to establish those two days as holidays and to observe¦232075 them on those specific days as they’d been instructed. They agreed that they and their¦232066 descendants¦232066 and everyone who became part of the Jewish people would celebrate it every year.\n",
+    "The¦232060 Yehudim¦232060 agreed to¦232071 establish those¦232071 two¦232077 days as holidays and¦232072 to¦232074 observe¦232075 them on those specific days¦232078 as they’d been instructed. They agreed that they and their¦232080 descendants¦232066 and¦232081 everyone who¦232070 became part of¦232081 the ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Jewish¦232081 people¦232081"
+     ]
+    },
+    " would¦232073 celebrate it¦232073 every¦232082 year.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "28",
      "sid": "EST 9:28"
     },
-    "So¦232087 that’s why every Jewish family¦232096 in every generation¦232093 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So"
+     ]
+    },
+    " that’s why every Jewish family in¦232091 every¦232091 generation ",
     {
      "type": "char",
      "marker": "add",
@@ -3127,7 +4348,15 @@
       "since"
      ]
     },
-    " has celebrated these days as holidays, wherever they live. The Jewish community and¦232087 its descendants¦232112 will always faithfully observe¦232090 this festival of ‘Purim¦232102’.\n"
+    " has celebrated these days as holidays, wherever they¦232105 live. The¦232107 Jewish¦232107 community and¦232108 its descendants will¦232111 always ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "faithfully"
+     ]
+    },
+    " observe¦232090 this festival of¦232112 ‘Purim¦232102’.\n"
    ]
   },
   {
@@ -3140,7 +4369,7 @@
      "number": "29",
      "sid": "EST 9:29"
     },
-    "Then Queen Esther¦232116 (the daughter¦232118 of Abihail¦232120), with ",
+    "Then¦232115 Queen¦232117 Ester¦232116 (the¦232118 daughter¦232118 of¦232118 Avihayil¦232120), with ",
     {
      "type": "char",
      "marker": "add",
@@ -3148,44 +4377,75 @@
       "help from"
      ]
     },
-    " Mordekai the Jew, wrote¦232115 a second¦232133 letter¦232130 about ‘Purim¦232131’.\n",
+    " Mordekai¦232121 the¦232122 Yehudi¦232122 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jew¦232122)"
+     ]
+    },
+    ", wrote¦232115 a second letter¦232130 about¦232130 ‘Purim¦232131’.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "30",
      "sid": "EST 9:30"
     },
-    "He sent¦232135 this ",
+    "He¦232135 sent¦232135 this ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "second "
+      "second"
      ]
     },
-    " letter¦232136 to all the Jews throughout the empire of King Ahasuerus¦232149, with words¦232150 of peace¦232151 and¦232145 truth¦232152\n",
+    " letter¦232136 to¦232137 all¦232139 the¦232141 Yehudim¦232141 throughout the¦232148 empire of¦232148 King¦232148 Ahashverosh¦232149 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus¦232149/Xerxes¦232149)"
+     ]
+    },
+    ", with words¦232150 of¦232150 peace¦232151 and¦232152 truth¦232152\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "31",
      "sid": "EST 9:31"
     },
-    "to set up the ‘Purim¦232158’ celebration on¦232160 the given dates according to what Mordekai the Jew and Queen Esther¦232166 had determined for them. ",
+    "to¦232154 set up the ‘Purim¦232158’ celebration on the given dates according to what Mordekai¦232164 the¦232165 Yehudi¦232165 and¦232166 Queen¦232167 Ester¦232166 had¦232169 determined for them. ",
     {
      "type": "char",
      "marker": "add",
      "content": [
-      "They also confirmed¦232154"
+      "They also confirmed"
      ]
     },
-    " that the Jews should continue the times¦232160 of fasting¦232177 and mourning that they¦232169 had established¦232154 for themselves and their¦232172 future descendants¦232175.\n",
+    " that the ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "@Yehudim"
+     ]
+    },
+    " should continue the¦232176 times¦232160 of¦232176 fasting¦232177 and mourning that they had established¦232160 for themselves and their¦232178 future descendants¦232175.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "32",
      "sid": "EST 9:32"
     },
-    "So¦232180 Esther’s¦232181 decree confirmed¦232182 these¦232185 regulations about ‘Purim¦232184’ and¦232180 they were written¦232186 into the ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈So¦232180"
+     ]
+    },
+    " Ester’s¦232181 decree confirmed¦232182 those¦232185 regulations about¦232183 ‘Purim¦232184’ and¦232186 they were¦232186 written¦232186 into¦232187 the ",
     {
      "type": "char",
      "marker": "add",
@@ -3193,7 +4453,7 @@
       "official"
      ]
     },
-    " record.\n"
+    " record¦232187.\n"
    ]
   },
   {
@@ -3206,7 +4466,7 @@
    "type": "para",
    "marker": "s1",
    "content": [
-    "The grandeur of King Ahasuerus and Mordekai\n"
+    "The grandeur of King Ahashverosh and Mordekai\n"
    ]
   },
   {
@@ -3226,7 +4486,15 @@
      "number": "1",
      "sid": "EST 10:1"
     },
-    "Then King¦232191 Ahasuerus¦232192 imposed a tax¦232195 ",
+    "Then¦232190 King¦232191 Ahashverosh¦232192 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Ahasuerus¦232192/Xerxes¦232192)"
+     ]
+    },
+    " imposed a¦232195 tax¦232195 ",
     {
      "type": "char",
      "marker": "add",
@@ -3234,7 +4502,7 @@
       "on everyone"
      ]
     },
-    " throughout his empire, including¦232190 ",
+    " throughout his empire, including ",
     {
      "type": "char",
      "marker": "add",
@@ -3242,7 +4510,7 @@
       "those"
      ]
     },
-    " on the islands¦232199 of the ",
+    " on¦232196 the¦232199 islands¦232199 of¦232199 the¦232200 ",
     {
      "type": "char",
      "marker": "add",
@@ -3250,14 +4518,14 @@
       "Mediterranean"
      ]
     },
-    " Sea.\n",
+    " sea¦232200.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "2",
      "sid": "EST 10:2"
     },
-    "Everything he accomplished through his power¦232205 and strength is written¦232216 down in the ",
+    "Everything he accomplished through his¦232205 power¦232205 and¦232206 strength is written¦232216 down in the ",
     {
      "type": "char",
      "marker": "add",
@@ -3265,14 +4533,54 @@
       "royal"
      ]
     },
-    " records of the kings¦232222 of Media¦232223 and Persia¦232224, as well as the complete account¦232207 of the high position to which the king¦232212 promoted Mordekai.\n",
+    " records of the¦232222 kings¦232222 of¦232222 Maday¦232223 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Media¦232223)"
+     ]
+    },
+    " and¦232224 Paras¦232224 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Persia¦232224)"
+     ]
+    },
+    ", as well as the complete account¦232207 of¦232207 the¦232208 high position to which the¦232212 king¦232212 promoted Mordekai¦232209.\n",
     {
      "type": "verse",
      "marker": "v",
      "number": "3",
      "sid": "EST 10:3"
     },
-    "Mordekai the Jew was second-in-command¦232230 to the king Ahasuerus¦232232, and a leader among¦232234 the Jews. He was popular¦232235 with most of his own people¦232240, seeking¦232238 good for them and teaching all his descendants ",
+    "Mordekai¦232228 the¦232229 Yehudi¦232229 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jew¦232229)"
+     ]
+    },
+    " was¦232230 second-in-command to¦232231 the¦232231 king¦232231 Ahashverosh¦232232, and¦232233 a leader among the Yehudim¦232234 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "!(Jews¦232234)"
+     ]
+    },
+    ". He¦232235 was¦232235 popular¦232235 with most of his¦232237 own people¦232240, seeking¦232238 good¦232239 for¦232240 them and¦232241 teaching all¦232243 his¦232245 ",
+    {
+     "type": "char",
+     "marker": "add",
+     "content": [
+      "≈descendants"
+     ]
+    },
+    " ",
     {
      "type": "char",
      "marker": "add",

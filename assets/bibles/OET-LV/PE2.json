@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:13 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.2 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "2 Petros\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -237,7 +232,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦150532"
+      "&his¦150532"
      ]
     },
     "_own¦150532 glory¦150534 and¦150536 virtue¦150537,\n",
@@ -839,7 +834,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦151068"
+      "&his¦151068"
      ]
     },
     "_ righteous¦151069 _soul¦151068 with¦151070_",
@@ -847,7 +842,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^their¦151070"
+      "&their¦151070"
      ]
     },
     "_lawless¦151070 works¦151071),\n",
@@ -1078,7 +1073,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦151221"
+      "&his¦151221"
      ]
     },
     "_own¦151221 lawlessness¦151222, ",

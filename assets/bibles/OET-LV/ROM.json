@@ -40,14 +40,14 @@
    "type": "para",
    "marker": "rem",
    "content": [
-    "ESFM file originally created 2026-04-01 09:26 by Extract_VLT_NT_to_ESFM v1.0\n"
+    "ESFM file originally created 2026-10-11 21:12 by Extract_VLT_NT_to_ESFM v1.0.1\n"
    ]
   },
   {
    "type": "para",
    "marker": "rem",
    "content": [
-    "USFM file edited by ScriptedBibleEditor v0.35\n"
+    "ESFM file edited by ScriptedBibleEditor v0.8.3 using ScriptedVLTUpdates\n"
    ]
   },
   {
@@ -84,11 +84,6 @@
    "content": [
     "Ɽōmaios\n"
    ]
-  },
-  {
-   "type": "para",
-   "marker": "ie",
-   "content": []
   },
   {
    "type": "chapter",
@@ -4996,7 +4991,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦108897"
+      "&his¦108897"
      ]
     },
     "_purpose¦108897 called¦108898 being¦108899.\n",
@@ -5944,7 +5939,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦109587"
+      "&his¦109587"
      ]
     },
     "_message¦109587 completing¦109589 and¦109590 cutting¦109591_short¦109591 will¦109597_be¦109597_executing¦109597 ",
@@ -7616,7 +7611,7 @@
       ">thing¦110947"
      ]
     },
-    " toward¦110948 one¦110949_another¦110949 thinking¦110950, not¦110951 the¦110952 exalted¦110953 ",
+    " toward¦110948 one¦110949_another¦110949 thinking¦110950, not¦110951 the¦110952 elevated¦110953 ",
     {
      "type": "char",
      "marker": "add",
@@ -8105,7 +8100,7 @@
      "type": "char",
      "marker": "add",
      "content": [
-      "^his¦111365"
+      "&his¦111365"
      ]
     },
     "_speculations¦111365.\n",
@@ -9802,7 +9797,7 @@
      "number": "11",
      "sid": "ROM 16:11"
     },
-    "Greet¦112686 Haʸrōidiōn¦112687, the¦112688 fellow-citizen¦112689 of¦112690_me¦112690. Greet¦112691 the¦112692 ",
+    "Greet¦112686 Haʸrōᵢdiōn¦112687, the¦112688 fellow-citizen¦112689 of¦112690_me¦112690. Greet¦112691 the¦112692 ",
     {
      "type": "char",
      "marker": "add",
